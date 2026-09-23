@@ -1,5 +1,7 @@
 # Medicaid Estate Recovery and Home-Transfer Deeds, 50 States and DC (2026)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22922299.svg)](https://doi.org/10.5281/zenodo.22922299)
+
 A state-by-state answer to the question families ask after a parent goes into a nursing home, which is whether the state will take the house after the parent dies. For each of the 50 states and the District of Columbia, the dataset records how far Medicaid estate recovery reaches, and whether recovery can reach a house that passes at death by each of five common methods. The five methods are a traditional life estate, a lady bird deed (an enhanced life estate deed), a transfer on death deed, joint tenancy with right of survivorship, and a revocable living trust.
 
 It also records which states have a transfer on death deed statute, with the effective date, and which states recognize the lady bird deed and on what authority. Every classification cites the statute, regulation, Medicaid manual or State Plan text it rests on, and a saved text copy of that source is in `data/sources/`.
