@@ -75,13 +75,15 @@ Maryland takes effect 2026-10-01, so 33 states plus DC are in force as of today.
 - **Still pending:** NJ S3679 (cleared Senate committee), PA H.B. 2124 and SC S. 49.
 - **Stalled or died:** KY SB 34, ID S1399, IA HF 2422 and TN HB 1793.
 
-### Lady bird deed recognition: 8 yes, 43 unclear
+### Lady bird deed recognition: 7 yes, 44 unclear
 | Authority | Jurisdictions |
 |---|---|
-| Statute | RI (R.I. Gen. Laws 34-4-2.1, P.L. 2014, ch. 145), VT (Enhanced Life Estate Deed Act, 27 V.S.A. 651 to 660, eff. 2020-07-13), VA (Va. Code 55.1-106, a general statute preserving the remainder after a life tenant's power to dispose; it does not use the term) |
+| Statute | RI (R.I. Gen. Laws 34-4-2.1, P.L. 2014, ch. 145), VT (Enhanced Life Estate Deed Act, 27 V.S.A. 651 to 660, eff. 2020-07-13) |
 | Case law | FL (Oglesby v. Lee, 73 So. 840 (Fla. 1917)), MD (Berrett v. Standard Fire Ins. Co., 166 Md. App. 321 (2005)), MI (In re Rasmer Estate, 501 Mich 18 (2017), in dicta) |
 | Agency rule only | TX (HHSC MEPD Handbook I-3100), NC (NC Medicaid ABD Manual MA-2240 X.C.6) |
-| No primary authority found | All other 43 jurisdictions, including WV |
+| No primary authority found | All other 44 jurisdictions, including VA and WV |
+
+Virginia and West Virginia are not counted. Va. Code 55.1-106 and W. Va. Code 36-1-16 are near-identical general statutes that protect a remainder after a life estate given to another person with a power to dispose absolutely. Neither addresses a grantor who keeps the power, which is what a lady bird deed does. An earlier version of this dataset (2026.09.23) counted Virginia on its statute; version 2026.09.23b treats both states the same.
 
 ## 2. Low confidence rows
 
@@ -137,7 +139,7 @@ Source: ElderLawAnswers (Jul 2023) and Nolo, saved as `US-popular-ela-ladybird.t
   - Rhode Island (statute, 2014)
   - Maryland (case law)
   - North Carolina (Medicaid manual)
-  - Virginia (general power-of-disposal statute)
+- **Virginia** is sometimes cited on Va. Code 55.1-106. Like West Virginia's 36-1-16, it addresses a power given to a life tenant, not one the grantor keeps, so it is not counted here.
 
 ## 4. Ten findings most likely to surprise a reader
 
