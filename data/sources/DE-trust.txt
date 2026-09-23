@@ -1,0 +1,766 @@
+Source URL: https://delcode.delaware.gov/title12/c035/sc03/index.html
+Retrieved: 2026-09-23
+
+Delaware Code Online 
+
+ The Delaware Code Online 
+
+ Toggle search Toggle navigation 
+
+ Laws of Delaware 
+
+ Laws of 
+Delaware 
+
+ Regulations 
+
+ Regulations 
+
+ Administrative Code 
+
+ Administrative 
+Code 
+
+ Municipal Charters 
+
+ Municipal 
+Charters 
+
+ FAQ 
+
+ Title 12 
+ > 
+
+ Chapter 35 
+ Authenticated PDF 
+
+ § 3531 
+
+ § 3532 
+
+ § 3533 
+
+ § 3534 
+
+ § 3535 
+
+ § 3536 
+
+ § 3536A 
+
+ § 3537 
+
+ § 3538 
+
+ § 3539 
+
+ § 3540 
+
+ § 3541 
+
+ § 3542 
+
+ § 3543 
+
+ § 3544 
+
+ § 3545 
+
+ § 3546 
+
+ § 3547 
+
+ § 3548 
+
+ § 3549 
+
+ § 3550 
+
+ TITLE 12
+
+ Decedents’ Estates and Fiduciary Relations
+
+ Fiduciary Relations
+
+ CHAPTER 35. Trusts
+
+ Subchapter III. General Provisions
+
+ § 
+ 3531. Renunciation by trustee named in trust instrument; filing and recording.
+
+ Whenever, by any will, deed or other instrument, a trustee is named and before the acceptance of the trust the person named as such trustee renounces and declines to perform the duties imposed thereby, the trustee may make and file in the office of the Register in Chancery of the county where such will, deed or instrument may be probated or recorded a written renunciation setting forth in general terms the instrument of appointment and that trustee has not accepted the trust or exercised any powers or performed any duties thereunder and trustee declines to act under such appointment. The Register in Chancery shall record and index such renunciation in the Chancery docket.
+Code 1915, 
+ § 
+  3871;  
+ 33 Del. Laws, c. 230, 
+ § 
+  1 ;  
+ Code 1935, 
+ § 
+  4397;  
+ 12 Del. C. 1953, 
+ § 
+  3531;  
+ 70 Del Laws, c. 186,, 
+ § 
+  1;  
+ 77 Del. Laws, c. 98, 
+ § 
+  14 ;  
+
+ § 
+ 3532. Transfer of stocks, bonds or other corporate securities by trustee; certificate of Register in Chancery.
+
+ Upon the transfer by trustees of the stocks, bonds or other securities of any corporation, the certificate of the Register of the Court of Chancery in which such trustee was appointed or other proper public official, according to the form and provisions of § 1572 of this title, shall be sufficient authority to the officers of such corporation to transfer or reissue such stocks, bonds or other securities to such person as such trustee in writing directs.
+ 20 Del. Laws, c. 115, 
+ § 
+  5 ;  
+ Code 1915, 
+ § 
+  3878;  
+ Code 1935, 
+ § 
+  4402;  
+ 12 Del. C. 1953, 
+ § 
+  3532;  
+
+ § 
+ 3533. Sale of trust property free from trust; procedure.
+
+ Upon petition of any trustee having the legal title to any property, real, personal or mixed, setting forth that the sale and conversion thereof would be for the best interests of the trust estate and the persons beneficially interested in the trust, the Court of Chancery may, by order made thereon in its discretion, except where such sale or conversion has been prohibited by the instrument creating the trust, authorize and direct such trustee to sell the whole or so much as may be proper of such trust property and to transfer and convey the same to the purchaser thereof, absolutely and in fee simple, freed from any trust and without liability on the part of such purchaser as to the application of the purchase money. In cases where the sale or conversion of trust property has not been expressly prohibited by the instrument creating the trust, but the instrument provides that the trustee shall sell or convert only with the consent of 1 or more persons or makes the trustee’s power of sale contingent on 1 or more persons joining in its exercise, the Court of Chancery may confer upon the trustee power to make the sale or conversion without such consent or without any 1 or more of such persons joining in the exercise of such power of sale if any 1 or more of the persons required to consent or to join in such exercise of the trustee’s power of sale shall be a minor, non compos mentis, have died, unreasonably withhold consent or be absent and unheard of and in the opinion of the Court the sale or conversion is for the best interests of the trust estate and the persons beneficially interested therein. The proceeds of all sales made under the authority of this section shall be held under and subject to the same trusts as those to which the property sold was subject and, in cases where real property is to be sold, the trustee thereof shall first give sufficient bond, with surety to be approved by the Court, for the preservation and protection of the proceeds of such sales for the purposes of the trust and subject to the orders and decrees of the Court in the premises.
+ 20 Del. Laws, c. 115, 
+ § 
+  4 ;  
+ Code 1915, 
+ § 
+  3879;  
+ Code 1935, 
+ § 
+  4403;  
+ 47 Del. Laws, c. 382, 
+ § 
+  1 ;  
+ 12 Del. C. 1953, 
+ § 
+  3533;  
+
+ § 
+ 3534. Notice procedure.
+
+ Except as may be expressly provided in the trust instrument to the contrary, the following shall apply to any trust the administration of which is governed by this title:
+
+ (1) Except for service or notice pursuant to a judicial proceeding whereby such matters are covered by an applicable court rule, any notice of, or communication pertaining to, a trust by a fiduciary of such trust to a beneficiary, other fiduciary or other person having an interest in the trust pursuant to the express terms of the trust instrument or by any such person to a fiduciary, including without limitation notice required under § 3312 of this title, may be given to such person, such person’s designated representative under § 3339 of this title, or such person’s representative under § 3547 of this title:
+
+ a. By regular U.S. mail or commercial carrier to the mailing address reasonably determined to be such person’s address;
+
+ b. By facsimile telecommunication to a number at which such person last consented to receive notice;
+
+ c. By electronic mail to an electronic mail address at which such person last consented to receive notice;
+
+ d. By a posting on an electronic network, provided notice of such posting is delivered to such person;
+
+ e. By any other form of electronic transmission as to which such person last consented to receive notice;
+
+ f. By regular U.S. mail or commercial carrier to the address at which such person last consented to receive notice; or
+
+ g. By such other manner reasonably suitable under the circumstances and likely to result in receipt.
+
+ (2) Notwithstanding any other provision of this Code or other law, a trustee shall have no duty to confirm the reliability of an approved address, and, without creating such a duty, a trustee may withhold notice, including to an approved address, while it exercises reasonable diligence to obtain confirmation that it has a reliable address for such person.
+
+ (3) Any person may waive in writing the right to receive notice of a trust or other communications pertaining to a trust, and may thereafter rescind such waiver in writing delivered to the trustee. A trustee without actual notice to the contrary may rely on the representation of a predecessor trustee or a co-trustee pertaining to a waiver or rescission.
+
+ (4) For purposes of this section:
+
+ a. A “commercial carrier” shall mean a carrier authorized by the United States Department of the Treasury to deliver notices or returns for purposes of satisfying delivery under the Internal Revenue Code.
+
+ b. The term “electronic transmission” shall mean any form of communication, not directly involving the physical transmission of paper, that creates a record that may be retained, retrieved and reviewed by a recipient thereof, and that may be directly reproduced in paper form by such a recipient through an automated process.
+ 78 Del. Laws, c. 117, 
+ § 
+  8 ;  
+ 83 Del. Laws, c. 343, 
+ § 
+ 1 ;  
+
+ § 
+ 3535. Powers of appointment, rule against perpetuities and restraints on alienation.
+
+ The validity of an estate or interest in property created through the exercise of a power of appointment shall, for the purposes of any rule or law against perpetuities, remoteness of vesting, restraint upon the power of alienation or accumulations, be governed by Chapter 5 of Title 25.
+12 Del. C. 1953, 
+ § 
+  3535;  
+ 77 Del. Laws, c. 330, 
+ § 
+  11 ;  
+
+ § 
+ 3536. Rights of creditors and assignees of beneficiary of trust [For application of this section, see 79 Del. Laws, c. 172, § 6].
+
+ (a) Except as expressly provided in subsections (c) and (d) of this section, a creditor of a beneficiary of a trust shall have only such rights against or with respect to such beneficiary’s interest in the trust or the property of the trust as shall be expressly granted to such creditor by the terms of the instrument that creates or defines the trust or by the laws of this State. The provisions of this subsection shall be effective regardless of the nature or extent of the beneficiary’s interest, whether or not such interest is subject to an exercise of discretion by the trustee or other fiduciary, and shall be effective regardless of any action taken or that might be taken by the beneficiary. Every interest in a trust or in trust property or the income therefrom that shall not be subject to the rights of creditors of such beneficiary as expressly provided in this section shall be exempt from execution, attachment, distress for rent, foreclosure, garnishment and from all other legal or equitable process or remedies instituted by or on behalf of any creditor, including, without limitation, actions at law or in equity against a trustee or beneficiary that seeks a remedy that directly or indirectly affects a beneficiary’s interest such as, by way of illustration and not of limitation, an order, whether such order be at the request of a creditor or on the court’s own motion or other action, that would:
+
+ (1) Compel the trustee or any other fiduciary or any beneficiary to notify the creditor of a distribution made or to be made from the trust;
+
+ (2) Compel the trustee or beneficiary to make a distribution from the trust whether or not distributions from the trust are subject to the exercise of discretion by a trustee or other fiduciary;
+
+ (3) Prohibit a trustee from making a distribution from the trust to or for the benefit of the beneficiary whether or not distributions from the trust are subject to the exercise of discretion by a trustee or other fiduciary; or
+
+ (4) Compel the beneficiary to exercise a power of appointment or power of revocation over the trust.
+
+ Every direct or indirect assignment, or act having the effect of an assignment, whether voluntary or involuntary, by a beneficiary of a trust of the beneficiary’s interest in the trust or the trust property or the income or other distribution therefrom that is unassignable by the terms of the instrument that creates or defines the trust is void. No beneficiary may waive the application of this subsection. For purposes of this subsection, the creditors of a beneficiary shall include, but not be limited to, (i) any person that has a claim against the beneficiary, the beneficiary’s estate, or the beneficiary’s property by reason of any forced heirship, legitime, marital elective share, or similar rights, and (ii) a former spouse who has a claim against the beneficiary, the beneficiary’s estate, or the beneficiary’s property. The provisions of this subsection shall apply to the interest of a trust beneficiary until the actual distribution of trust property to the beneficiary. Regardless of whether a beneficiary has any outstanding creditor, a trustee may make direct payment of any expense on behalf of such beneficiary to the extent permitted by the instrument that creates or defines the trust and may exhaust the income and principal of the trust for the benefit of such beneficiary. A trustee shall not be liable to any creditor of a beneficiary for paying the expenses of a beneficiary.
+
+ (b) Notwithstanding subsection (a) of this section, a beneficiary entitled to receive all or a part of the income of a trust shall have the right to assign gratuitously in writing, at any time or from time to time, a stated fraction or percentage of the beneficiary’s entire remaining income interest in such trust to the State or to any corporation, church, community chest, fund, or foundation authorized as a deduction pursuant to §§ 1107, 1108, and 1109 of Title 30 and such assignment shall be valid and binding on all parties irrespective of any restrictions on assignment contained in the instrument creating or defining the trust; provided, however, that this subsection shall not authorize a beneficiary of such a trust to reduce any part of the beneficiary’s income interest which is subject to such restrictions on assignment below 50% of what such interest would be if no assignments were made under this subsection. Any interest assigned under this subsection, together with a corresponding portion of the corpus of the trust, shall be treated as a separate share and thereafter no provision of the trust permitting invasion of corpus for the benefit of the assignor shall be exercisable with respect to such share.
+
+ (c) Except as provided in subchapter VI of this Chapter 35, if the trustor is also a beneficiary of a trust, a provision that restrains the voluntary or involuntary transfer of the trustor’s beneficial interest shall not prevent such trustor’s creditors from satisfying their respective claims from the trustor’s interest in the trust to the extent that such interest is attributable to the trustor’s contributions to the trust. The trustor shall not be considered a beneficiary for purposes of this section, and a trustor’s creditors may not satisfy their respective claims from the trust, merely because:
+
+ (1) The trustor may be named as an additional trust beneficiary;
+
+ (2) The trustee, under the governing instrument or § 3344 of this title, may, in its discretion (or at the direction of or with the consent of an adviser other than the trustor), reimburse the trustor for any income tax liability attributable to the trust;
+
+ (3) The trustor is a proper object of the exercise of a power of appointment over trust property held by someone other than the trustor; or
+
+ (4) The trustor has retained a beneficial interest that is contingent upon surviving the trustor’s spouse (or surviving until the release of an interest by such a spouse under subsection (e) of this section) such as, but not limited to, an interest in an inter vivos marital deduction trust in which the interest of the trustor’s spouse is treated as qualified terminable interest property under § 2523(f) of the Internal Revenue Code of 1986 (26 U.S.C. § 2523(f)), as amended, an interest in an inter vivos marital deduction trust that is treated as a general power of appointment trust for which a marital deduction would be allowed under § 2523(a) and (e) of the Internal Revenue Code of 1986 (26 U.S.C. § 2523(a) and (e)), as amended, and an interest in an inter vivos trust commonly known as a credit shelter trust’' that used all or a portion of the trustor’s unified credit under § 2505 of the Internal Revenue Code (26 U.S.C. § 2505), as amended.
+
+ Further, a beneficiary of a trust shall not be considered a trustor of the trust merely because of a lapse, waiver, or release of the beneficiary’s right to withdraw all or a part of the trust property. For purposes of paragraph (c)(3) of this section, if a person who otherwise would be considered a trustor of a trust becomes a beneficiary of a trust created by exercise of a testamentary power of appointment by another person, such person shall be treated as a beneficiary of such trust and shall not be treated as a trustor of the trust so created and such beneficiary’s creditors may not satisfy their respective claims from such beneficiary’s interest in the trust even if such beneficiary granted the power of appointment to the other person.
+
+ (d) For purposes of subsection (a) of this section, a creditor shall have no right against the interest of a beneficiary of a trust or against the beneficiary or trustee of the trust with respect to such interest unless:
+
+ (1) The beneficiary has a power to appoint all or part of the trust property to the beneficiary, the beneficiary’s estate, the beneficiary’s creditors, or the creditors of the beneficiary’s estate by will or other instrument such that the appointment would take effect only upon the beneficiary’s death and the beneficiary actually exercises such power in favor of the beneficiary, the beneficiary’s creditors, the beneficiary’s estate, or the creditors of the beneficiary’s estate but then only to the extent of such exercise.
+
+ (2) The beneficiary has a power to appoint all or part of the trust property to the beneficiary, the beneficiary’s creditors, the beneficiary’s estate, or the creditors of the beneficiary’s estate during the beneficiary’s lifetime and the beneficiary actually exercises such power in favor of the beneficiary, the beneficiary’s creditors, the beneficiary’s estate, or the creditors of the beneficiary’s estate but then only to the extent of such exercise.
+
+ (3) The beneficiary has the power to revoke the trust in whole or in part during the beneficiary’s lifetime and, upon such revocation, the trust or the part thereof so revoked would be possessed by the beneficiary. This paragraph shall have no application to any part of the trust that may not be so revoked by the beneficiary.
+
+ (e) Notwithstanding subsection (a) of this section, unless the trust’s governing instrument expressly provides otherwise, a beneficiary of a charitable remainder unitrust or charitable-remainder annuity trust as such terms are defined in § 664 of the Internal Revenue Code of 1986 (26 U.S.C. § 664) and any successor provision thereto, shall have the right, at any time and from time to time, by written instrument delivered to the trustee, to release such beneficiary’s retained interest in such a trust, in whole or in part, in favor of-- or to assign such interest, in whole or in part, to--a charitable organization that has or charitable organizations that have a succeeding beneficial interest in such trust. Notwithstanding subsection (a) of this section, unless the trust’s governing instrument expressly provides otherwise, a beneficiary may also disclaim an interest in a trust pursuant to Chapter 6 of this title. In addition, notwithstanding subsection (a) of this section, a trustor’s spouse holding an interest in a trust described in subsection (c) of this section shall have the right, at any time and from time to time, by written instrument delivered to the trustee, to release, assign, or otherwise dispose of within the meaning of § 2519 of the Internal Revenue Code of 1986 (26 U.S.C. § 2519), such spouse’s interest in such trust, in whole or in part, in favor of the beneficiary or beneficiaries having the next succeeding beneficial interest in such trust.
+Code 1915, 
+ § 
+  3907(b);  
+ 38 Del. Laws, c. 186, 
+ § 
+  1 ;  
+ Code 1935, 
+ § 
+  4415;  
+ 12 Del. C. 1953, 
+ § 
+  3536;  
+ 52 Del. Laws, c. 199, 
+ § 
+  1 ;  
+ 70 Del Laws, c. 186,, 
+ § 
+  1;  
+ 73 Del. Laws, c. 71, 
+ § 
+  1 ;  
+ 74 Del. Laws, c. 81, 
+ § 
+  4 ;  
+ 75 Del. Laws, c. 97, 
+ § 
+  6 ;  
+ 75 Del. Laws, c. 301, 
+ § 
+  7 ;  
+ 76 Del. Laws, c. 90, 
+ §§ 
+  4, 5 ;  
+ 76 Del. Laws, c. 254, 
+ § 
+  9 ;  
+ 77 Del. Laws, c. 98, 
+ §§ 
+  15, 16 ;  
+ 77 Del. Laws, c. 330, 
+ § 
+  12 ;  
+ 79 Del. Laws, c. 172, 
+ § 
+  3 ;  
+ 79 Del. Laws, c. 352, 
+ § 
+  4 ;  
+ 81 Del. Laws, c. 320, 
+ § 
+  5 ;  
+ 82 Del. Laws, c. 52, 
+ § 
+ 2 ;  
+ 83 Del. Laws, c. 69, 
+ § 
+ 3 ;  
+ 83 Del. Laws, c. 343, 
+ § 
+ 2 ;  
+ 84 Del. Laws, c. 182, 
+ § 
+ 7 ;  
+
+ § 
+ 3536A. Release of beneficial interests by beneficiaries.
+
+ (a) Subject to the limitations and conditions of subsections (b) through (f) of this section, a beneficiary of a trust may, in whole or in part, release such beneficiary’s beneficial interest in the trust, including any discretionary power of withdrawal or consumption, with or without consideration, with respect to the whole or any part of the property subject to such interest. 
+
+ (b) A beneficiary may not release any condition in the governing instrument with which a beneficiary must comply to be eligible to receive a distribution from the trust.
+
+ (c) This section does not apply to or supersede the following subjects under the following provisions of this Code:
+
+ (1) An interest that may be disclaimed, or a power that may be disclaimed or released, under Chapter 6 of this title;
+
+ (2) A beneficiary’s right to release, assign, or dispose of an interest in a trust under § 3536(b) or (e) of this title; or 
+
+ (3) The release of a power of appointment under § 502 of Title 25.
+
+ (d) A beneficiary of a trust may not release such beneficiary’s interest if the terms of the governing instrument expressly prohibit such release; provided, however, that for purposes of subsection (e) of this section, a prohibition in the nature of a spendthrift provision or similar provision of the governing instrument does not constitute such an express prohibition of such a release.
+
+ (e) A beneficiary of a trust having spendthrift provisions or similar protective provisions applicable to the beneficiary may not release the beneficiary’s interest in the trust’s income or principal of the trust, unless-as a result of the beneficiary’s being treated under subsection (h) of this section as having died or having ceased to exist because of the beneficiary’s release, as applied to the terms of the trust’s governing instrument-such released income or principal will be distributed to or held in further trust for 1 or more of the trustor’s descendants (other than the releasing beneficiary) or the releasing beneficiary’s descendants.
+
+ (f) No release of an interest in a trust shall be deemed to make imperative-that is, convert a beneficial interest into a power that a beneficiary has a fiduciary duty to exercise-an interest that was not imperative before such release unless the governing instrument expressly so provides.
+
+ (g) To be effective, the release of an interest under subsection (a) of this section must:
+
+ (1) Be in a writing, which writing must declare that the releasing party is releasing the interest absolutely and unconditionally;
+
+ (2) Declare the scope of the release, i.e., specify whether the release is with respect to the whole or any part of the property subject to such interest;
+
+ (3) Describe the interest released;
+
+ (4) Be signed by:
+
+ a. The releasing party; 
+
+ b. A designated representative on behalf of the releasing party under § 3339 of this title, but only to the extent such designated representative is a fiduciary with respect to the releasing party or is otherwise expressly so authorized under the terms of the trust’s governing instrument to release such interest; 
+
+ c. An agent under a power of attorney, but only to the extent expressly authorized by the power of attorney or the terms of the trust’s governing instrument; or 
+
+ d. The guardian of the releasing party’s property (or similar court-appointed representative) with the approval of the court supervising the guardian (or similar court-appointed representative); and
+
+ (5) Be delivered to all then-serving fiduciaries of the trust and to any person designated in the trust’s governing instrument to receive a release.
+
+ (h) Unless otherwise specified in the trust’s governing instrument, a full or partial release under this section of any interest in a trust results in the releasing party being treated for purposes of the trust as having died or ceased to exist as of the time the release becomes effective, but only with respect to the interest so released.
+ 83 Del. Laws, c. 343, 
+ § 
+ 3 ;  
+
+ § 
+ 3537. Conveyance of realty by infant trustee.
+
+ Any person under the age of 18 years, having real estate in trust for others, may, by direction of the Court of Chancery given upon hearing all parties concerned on the petition of those for whom such infant is trustee or of the guardian of such infant, convey and assure such real estate, in such manner as the Court directs, to any other person. Such conveyance shall be as good and effectual in law as if the infant was of full age. Such infant may be compelled to execute such order, in like manner as trustees of full age are compellable to convey or assure trust estates.
+Code 1852, 
+ § 
+  1947;  
+ Code 1915, 
+ § 
+  3862;  
+ Code 1935, 
+ § 
+  4386;  
+ 12 Del. C. 1953, 
+ § 
+  3537;  
+ 58 Del. Laws, c. 511, 
+ § 
+  16 ;  
+
+ § 
+ 3538. Testamentary trusts; certification of by Register of Wills to Register in Chancery; record.
+
+ (a) When a will that has been probated before the Register of Wills for any of the counties of the State contains a bequest or devise in trust to pay the income arising from any part of the estate of the testator to or for the benefit of a person other than the person named as trustee and the will requires the filing of accounts with 1 of the Registers in Chancery, the Register of Wills before whom the probate is made shall, within 10 days after the closing of the estate, deliver to the Register in Chancery for that county a certificate setting forth the name and last address of the testator, the date of the probate of the testator’s will, the name and address of the trustee appointed thereby and the provisions of the will relating to said trust or trusts. This section shall apply only in those instances:
+
+ (1) Where the documents closing the estate show a balance in the hands of the personal representative that can be distributed to the trust in order to fund it; and
+
+ (2) That terms exist, as stated in the will, for the creation of the trust.
+
+ In those instances where it is clear that no notice of the trust need be given to the Register in Chancery, the Register of Wills shall note on its files that no notice of the trust was given to it and state why.
+
+ (b) The Register in Chancery for the several counties shall keep a record in which shall be entered the names of the testators, the names and post-office addresses of the trustees, the dates of their appointment or the dates upon which their trusts become operative and the dates on which their accounts are passed and shall file the certificates delivered to them by the Register of Wills among the records of their offices.
+ 25 Del. Laws, c. 226, 
+ § 
+  1 ;  
+ Code 1915, 
+ § 
+  3873;  
+ Code 1935, 
+ § 
+  4399;  
+ 12 Del. C. 1953, 
+ § 
+  3538;  
+ 70 Del Laws, c. 186,, 
+ § 
+  1;  
+ 75 Del. Laws, c. 189, 
+ § 
+  3 ;  
+ 77 Del. Laws, c. 98, 
+ § 
+  17 ;  
+
+ § 
+ 3539. Charitable trust; sale of timber on lands; application of proceeds.
+
+ The Court of Chancery may, when in its judgment the exercise thereof will promote the interests of the charity, direct wood or timber growing on land conveyed or devised for charitable uses to be cut and sold and the proceeds applied to repairs or the purchase of lime or other manures and making other improvements of such real estate. This section shall apply only to cases where the whole interest in the land is the subject of charitable uses.
+Code 1852, 
+ § 
+  1948;  
+ Code 1915, 
+ § 
+  3881;  
+ Code 1935, 
+ § 
+  4405;  
+ 12 Del. C. 1953, 
+ § 
+  3539;  
+
+ § 
+ 3540. Powers and duties of certain trustees.
+
+ All trustees of any trust governed by the laws of this State whose governing instrument or instruments do not expressly provide that this section shall not apply to such trust are required to act or to refrain from acting so as not to subject the trust to the taxes imposed by §§ 4941 (relating to taxes on self-dealing), 4942 (relating to taxes on failure to distribute income), 4943 (relating to taxes on excess business holdings), 4944 (relating to taxes on investments which jeopardize charitable purpose) or 4945 (relating to taxable expenditures) of the Internal Revenue Code of 1954 [26 U.S.C. §§ 4941-4945], or corresponding provisions of any subsequent United States internal revenue law.
+12 Del. C. 1953, 
+ § 
+  3540;  
+ 58 Del. Laws, c. 88. ;  
+
+ § 
+ 3541. Administration of charitable trusts or noncharitable purpose trusts; cy pres rule.
+
+ (a) Notwithstanding any other provision of this Code or other law, a trust having any religious, charitable, scientific, literary or educational purpose (collectively, hereinafter referred to as a “charitable purpose”) or a noncharitable purpose shall not be modified to alter or eliminate such purpose except pursuant to § 3342 of this title or pursuant to this section. Subject to subsection (b) of this section, if a particular charitable purpose or noncharitable purpose becomes unlawful under the Constitution of this State or the United States or the trust would otherwise no longer serve any charitable or noncharitable purpose:
+
+ (1) The trust does not fail in whole or in part;
+
+ (2) The trust property does not revert to the trustor or the trustor’s successors in interest; and
+
+ (3) The Court of Chancery shall modify or terminate the trust and direct that the trust property be applied or distributed, in whole or in part, in a manner consistent with the trustor’s charitable or noncharitable purposes, whether or not such purposes be specific or general.
+
+ (b) The power of the Court of Chancery to modify or terminate a charitable or noncharitable purpose trust, as provided in subsection (a) of this section, is in all cases subject to a contrary provision in the terms of the trust instrument, whether such contrary provision directs that the trust property be distributed to a charitable or noncharitable beneficiary.
+
+ (c) For purposes of this section, a “noncharitable purpose” is a purpose within the meaning of § 3555 or § 3556 of this title.
+ 62 Del. Laws, c. 131, 
+ § 
+  1 ;  
+ 70 Del Laws, c. 186,, 
+ § 
+  1;  
+ 72 Del. Laws, c. 388, 
+ § 
+  8 ;  
+ 76 Del. Laws, c. 90, 
+ § 
+  6 ;  
+ 76 Del. Laws, c. 254, 
+ § 
+  10 ;  
+ 81 Del. Laws, c. 149, 
+ § 
+ 2 ;  
+
+ § 
+ 3542. Termination of small trusts [For application of this section, see 80 Del. Laws, c. 153, § 5].
+
+ (a) Unless otherwise provided by the terms of the trust instrument, and subject to the other subsections of this section, a trustee of a trust (other than a trustee who is a settlor or beneficiary of the trust or who may be removed as trustee, by action of 1 or more settlors or beneficiaries and replaced as trustee, by action of the person or persons exercising the removal power, with a successor trustee who is either among the persons exercising the removal and replacement power or who is related or subordinate, within the meaning of § 672(c) of the Internal Revenue Code of 1986 (26 U.S.C. 672(c)), as amended, to any such person exercising the removal and replacement power), who finds that the costs of administration thereof are such that the continuance of the trust would defeat or substantially impair the purpose of the trust, may, after written notice to all interested persons, or their legal or natural guardians, terminate the trust and distribute the trust property to 1 or more of the beneficiaries in the trustee’s discretion. No court proceedings or approval is required to effect such a termination.
+
+ (b) Any interested person shall have 30 days after receiving written notice in accordance with this section to object to the termination or plan of distribution in writing to such trustee. If the trustee has received no written objection to the proposed termination or plan of distribution within such 30-day period, it may proceed to terminate the trust.
+
+ (c) A trustee which receives a written objection to the proposed plan of distribution of a trust within 30 days of the last day on which any interested person received written notice may reformulate the proposed plan of distribution and renotify all interested persons of its intentions. Such renotification shall begin again the 30-day period referred to in subsection (b) of this section.
+
+ (d) A trustee which receives a written objection to the termination or plan of distribution of a trust within 30 days of the last day on which any interested person received written notice may proceed to terminate the trust in accordance with the plan of distribution, without court proceeding or approval, notwithstanding the objection, provided that all interested persons have been further notified in writing of such objection, of the trustee’s intention to proceed to terminate such trust notwithstanding such objection, and of their right to petition the Court to prevent the termination or modify the plan of distribution within 6 months from the mailing of such further notice, and provided that at least 6 months have elapsed since such further notice was sent by the trustee, or the trustee has received a written waiver of the right to petition the Court from all interested persons.
+
+ (e) Any interested person, within 6 months of the mailing of such further notice of the trustee’s intention to proceed with termination, notwithstanding an objection, may petition the Court to prevent such termination or modify the plan of distribution, or may send to the trustee a written waiver of such right to petition.
+
+ (f) The written notice required by this section shall state:
+
+ (1) That the trustee intends to terminate the trust in accordance with this section;
+
+ (2) The plan of distribution;
+
+ (3) That any interested person may object to such termination or plan of distribution in a writing received by the trustee within 30 days of receipt of such notice by such interested person; and
+
+ (4) That the trustee may proceed to terminate the trust, notwithstanding any objection to such termination or plan of distribution, 6 months after the trustee further notifies all interested persons of such objection and its intention to proceed with the termination notwithstanding such objection;
+
+ provided, that such notice shall inform interested persons that application may be made to the Court of Chancery to prevent the proposed termination.
+
+ (g) For purposes of this section, the term “interested person” means any living person or existing organization who is a current income beneficiary, or who would be a vested remainderman of the trust if the trust were to terminate at the time of the notification, and the Delaware Attorney General in the case of a charitable trust.
+
+ (h) The existence of spendthrift or similar protective provisions in a trust shall not make this section inapplicable.
+ 65 Del. Laws, c. 422, 
+ § 
+  7 ;  
+ 70 Del. Laws, c. 186, 
+ § 
+  1 ;  
+ 80 Del. Laws, c. 153, 
+ § 
+  4 ;  
+
+ § 
+ 3543. Distribution of estate or trust assets without creation of trust.
+
+ If the terms of a will or a writing creating a trust, including, but not limited to an inter vivos trust agreement, provide for the establishment of a trust all the assets of which, due to the circumstances existing at the time the trust is to be established, are required to be distributed to the trust’s beneficiary or beneficiaries immediately, the executor, trustee, or other party having possession of the property with which such trust will be established, is authorized to make direct distribution to the beneficiary or beneficiaries of the trust, rather than to the trustee, without the necessity of a Court petition. The receipts of such beneficiaries shall protect the executor, trustee, or other party having possession of the property with which such trust would be established, to the same extent as the receipt of the trustee.
+ 65 Del. Laws, c. 422, 
+ § 
+  7 ;  
+ 76 Del. Laws, c. 90, 
+ § 
+  7 ;  
+
+ § 
+ 3544. Successor trustee.
+
+ Unless provided otherwise by the terms of the governing instrument or by order of court, in the absence of actual knowledge of a breach of trust, or information concerning a possible breach of trust that would cause a reasonable person to inquire, a successor trustee appointed in accordance with the terms of the governing instrument, by the court, or by nonjudicial settlement agreement, is under no duty to examine the accounts and records of a predecessor trustee, is under no duty to inquire into or confirm the validity of a governing instrument or actions by a predecessor trustee altering or modifying a governing instrument or to inquire into the acts or omissions of its predecessor, is not liable for any failure to seek redress for any act or omission of any predecessor trustee, shall have responsibility only for property which is actually delivered to it by its predecessor, and shall have all of the powers and discretions conferred in the governing instrument upon the original trustee.
+ 65 Del. Laws, c. 422, 
+ § 
+  7 ;  
+ 66 Del. Laws, c. 376, 
+ § 
+  1 ;  
+ 79 Del. Laws, c. 352, 
+ § 
+  4 ;  
+ 82 Del. Laws, c. 52, 
+ § 
+ 2 ;  
+
+ § 
+ 3545. Limitations on oral trusts; execution requirements for written trusts [For application of this section, see 81 Del. Laws, c. 320, §  8].
+
+ (a) Except as otherwise required by this Code, the creation, modification or revocation of a trust whereby a person other than the trustor acquires or is divested of an interest in the trust the possession or enjoyment of which is contingent upon surviving the trustor shall be void unless such creation, modification or revocation be:
+
+ (1) In a writing executed by the trustor (or by some person subscribing the trustor’s name in the trustor’s presence and by the trustor’s express direction) and witnessed in writing in the trustor’s presence by at least 1 disinterested person or 2 credible persons; or
+
+ (2) In a writing executed by a trustee who is a disinterested person without regard to whether any other person, including the trustor, has executed the writing.
+
+ For purposes of this section, a disinterested person is one who has no beneficial interest in the trust that would be materially increased or decreased as a result of the creation, modification or revocation of the trust and a notary public or similar official may serve as a witness in cases where such official is a disinterested or credible person without regard to whether such notary public or similar official signs the writing as a witness or solely in a notarial capacity. Unless otherwise expressly prohibited by the terms of a writing described in this subsection, then-subject to the foregoing requirements regarding witnesses-such writing may be executed in counterparts.
+
+ (b) A trust created by a writing shall not be void merely because of the application of subsection (a) of this section if such writing was validly executed in compliance with the law, at the time of execution, of the place which serves as the initial place of administration of the trust, or, if the trust is not yet actively administered, the initial situs of the trust.
+
+ (c) If the creation, modification, or revocation of a trust that is not described in subsection (a) of this section is made by a writing, such writing shall be validly executed if it is executed as described in subsection (a) of this section. The provisions of this subsection shall not be construed to limit the creation, modification, or revocation of a trust by any other means otherwise permitted by law. The provisions of this section shall not apply to any trust created under the Delaware Statutory Trust Act, § 3801 et seq. of this title, as amended and in effect from time to time, or a trust formed for the purpose of consummating a commercial transaction.
+
+ (d) Notwithstanding the provisions of subsections (a) and (b) of this section, a trust instrument that by its express terms is revocable by the trustor during the trustor’s lifetime may refer to a written statement or list to dispose of items of tangible personal property not otherwise specifically disposed of by the trust instrument, other than money, evidences of indebtedness, documents of title, and securities, and property used in trade or business. To be enforceable under this section, as though part of the trust, the writing:
+
+ (1) Must either be in the handwriting of the trustor or be signed by the trustor and must identify the items and the legatees with reasonable certainty;
+
+ (2) Must not be inconsistent with the terms of the trust instrument; and
+
+ (3) Must not be inconsistent with any other writing permitted by this subsection unless the writing is dated in which case the writing with the latest date will control.
+
+ Notwithstanding the foregoing, in the case of a writing that includes both provisions for dispositions that are consistent with the terms of the trust or any other writing permitted by this section and provisions for dispositions that are inconsistent with the terms of the trust or any other writing permitted by this section, such writing shall be admissible under this section as evidence of the intended disposition of those items of tangible personal property that would be disposed of by the provisions of the writing that are not inconsistent with the terms of the trust or any other writing permitted by this section. The writing may be referred to as one in existence at the time of the trustor’s death; it may be prepared before or after the execution of the trust instrument; it may be altered by the trustor after its preparation; and it may be a writing which has no significance apart from its effect upon the dispositions made by the trust instrument. This subsection shall apply only with respect to dispositions intended to take effect upon the death of the trustor, although such a writing may direct that an item or items of tangible personal property shall be administered as part of a trust or trusts created under the trust pursuant to terms of the trust instrument that were executed pursuant to the provisions of subsections (a) and (b) of this section.
+ 72 Del. Laws, c. 388, 
+ § 
+  1 ;  
+ 74 Del. Laws, c. 271, 
+ § 
+  3 ;  
+ 77 Del. Laws, c. 98, 
+ § 
+  18 ;  
+ 81 Del. Laws, c. 149, 
+ § 
+ 2 ;  
+ 81 Del. Laws, c. 320, 
+ § 
+ 5 ;  
+ 82 Del. Laws, c. 52, 
+ § 
+ 2 ;  
+ 83 Del. Laws, c. 69, 
+ § 
+ 3 ;  
+
+ § 
+ 3546. Limitation on action contesting validity of trusts [For application of this section, see 80 Del. Laws, c. 153, § 5].
+
+ (a) A judicial proceeding to contest whether a revocable trust or any amendment thereto, or an irrevocable trust was validly created may not be initiated later than the first to occur of:
+
+ (1) One hundred twenty days after the date that the trustee notified in writing the person who is contesting the trust of the trust’s existence, of the trustee’s name and address, of whether such person is a beneficiary, and of the time allowed under this section for initiating a judicial proceeding to contest the trust provided, however, that no trustee shall have any liability under the governing instrument or to any third party or otherwise for failure to provide any such written notice. For purposes of this paragraph (a)(1), notice shall have been given when sent to the person to whom the notice was given. Absent evidence to the contrary, it shall be presumed that notice was received by the person 7 days after it was sent to such person in accordance with § 3534 of this title;
+
+ (2) Two years after the trustor’s death;
+
+ (3) If the trust was revocable at the trustor’s death and the trust was specifically referred to in the trustor’s last will, the time in which a petition for review of a will could be filed under this title; or
+
+ (4) The date the person’s right to contest was precluded by adjudication, consent or other limitation.
+
+ (b) Upon the death of the trustor of a trust that was revocable at the time of the trustor’s death, the trustee may proceed to distribute the trust property in accordance with the terms of the trust. This distribution may be made without liability unless the trustee has actual knowledge of a pending judicial proceeding to contest the validity of the trust, or is notified by a potential contestant of a possible contest, followed by its initiation within 30 days of such notice.
+
+ (c) Until a contest is barred under subsection (a) of this section, a beneficiary of what later turns out to have been an invalid trust is liable to return any distribution received.
+
+ (d) For purposes of paragraph (a)(1) of this section, a person is deemed to have been given any notice that has been given to any other person who under § 3547 of this title may represent and bind such person.
+ 72 Del. Laws, c. 388, 
+ § 
+  2 ;  
+ 74 Del. Laws, c. 81, 
+ § 
+  5 ;  
+ 75 Del. Laws, c. 97, 
+ § 
+  7 ;  
+ 78 Del. Laws, c. 117, 
+ § 
+  9 ;  
+ 79 Del. Laws, c. 197, 
+ § 
+  2 ;  
+ 80 Del. Laws, c. 153, 
+ § 
+  4 ;  
+ 81 Del. Laws, c. 149, 
+ § 
+ 2 ;  
+ 83 Del. Laws, c. 343, 
+ § 
+ 4 ;  
+
+ § 
+ 3547. Representation by person with a substantially identical interest [For application of this section, see 79 Del. Laws, c. 172, § 6].
+
+ (a) (1) Unless otherwise represented, a minor, person who is incapacitated, or unborn person, or a person whose identity or location is unknown and not reasonably ascertainable (hereinafter referred to as an “unascertainable person”), may for all purposes be represented by and bound by another, or by the designated representative of another, who has a substantially identical interest with respect to the particular question or dispute but only to the extent that there is no material conflict of interest between the representative and the person represented with respect to the particular question or dispute.
+
+ (2) Notwithstanding paragraph (a)(1) of this section, a designated representative of another may not represent or bind a minor, person who is incapacitated, unborn person, or unascertainable person if there is a material conflict of interest with respect to the particular question or dispute between the designated representative and the minor, person who is incapacitated, unborn person, or unascertainable person.
+
+ (b) (1) A presumptive remainder beneficiary, the designated representative of a presumptive remainder beneficiary, or the person or persons authorized to represent a presumptive remainder beneficiary under any other subsection of this section may represent and bind contingent successor remainder beneficiaries for the same purposes, in the same circumstances, and to the same extent as an ascertainable competent beneficiary may represent and bind a minor or person who is incapacitated, unborn or unascertainable. In addition, a contingent successor remainder beneficiary, the designated representative of a contingent successor remainder beneficiary, or the person or persons authorized to represent a contingent successor remainder beneficiary under any other subsection of this section may represent and bind more remote contingent successor remainder beneficiaries for the same purposes, in the same circumstances, and to the same extent as an ascertainable competent beneficiary may represent and bind a minor or person who is incapacitated, unborn or unascertainable.
+
+ (2) Notwithstanding paragraph (b)(1) of this section, a designated representative of a presumptive remainder beneficiary or a contingent successor remainder beneficiary may not represent or bind a contingent successor remainder beneficiary or a more remote contingent successor remainder beneficiary, as applicable, with respect to a particular question or dispute if there is a material conflict of interest with respect to the particular question or dispute between the designated representative and the contingent successor remainder beneficiary or the more remote contingent successor remainder beneficiary, as applicable.
+
+ (3) As used in this subsection:
+
+ a. A “presumptive remainder beneficiary” means as of any date, a beneficiary who, as of any date and but for the exercise of any power of appointment, would receive income or principal of the trust if the trust were to terminate as of that date (without regard to the exercise of any power of appointment) or, if the trust does not provide for its termination, a beneficiary who would receive or be eligible to receive distributions of income or principal of the trust if all of the beneficiaries currently receiving or eligible to receive distributions of income or principal were deceased;
+
+ b. A “contingent successor remainder beneficiary” means a beneficiary who would succeed to the interest of a presumptive remainder beneficiary in the circumstances described in paragraph (b)(3)a. of this section above if the presumptive remainder beneficiary and all of the trust’s other beneficiaries, if any, failed to take such interest; and
+
+ c. A contingent successor remainder beneficiary shall be considered “more remote” than any other beneficiary whose interest must fail in order for such contingent successor remainder beneficiary to take the interest.
+
+ (c) (1) The holder of a general testamentary or inter vivos power of appointment-or a nongeneral testamentary or inter vivos power of appointment that is expressly exercisable in favor of any person or persons, excepting such holder, the holder’s estate, the holder’s creditors, or the creditors of the holder’s estate-or the designated representative of any such holder, may, with the consent of any person whose consent would be required for the valid exercise of the power, represent and bind persons whose interests, as takers in default, are subject to the power, but, in the case of any such nongeneral power of appointment, only to the extent that there is no material conflict of interest between the holder and the persons represented with respect to the particular question or dispute.
+
+ (2) Notwithstanding paragraph (c)(1) of this section, a designated representative of a holder of a nongeneral testamentary or inter vivos power of appointment that is expressly exercisable in favor of any person or persons, excepting such holder, the holder’s estate, the holder’s creditors, or the creditors of the holder’s estate, may not represent or bind, with respect to the particular question or dispute, persons whose interests, as takers in default, are subject to the power, if there is a material conflict of interest with respect to the particular question or dispute between the designated representative and the persons whose interests, as takers in default, are subject to the power.
+
+ (d) In the case of a trust having a beneficiary who is a minor or incapacitated who may not be represented by another pursuant to subsection (a) or subsection (b) of this section, the surviving and competent parent or parents or custodial parent (in cases where 1 parent has sole custody of the beneficiary), or guardian of the property of the beneficiary may represent and bind the beneficiary for purposes of any judicial proceeding or nonjudicial matter pertaining to the trust; provided that, in the case of a beneficiary represented by 1 or both parents, there is no material conflict of interest between the beneficiary who is a minor or incapacitated and either of such beneficiary's parents with respect to the particular question or dispute. In the case of a trust having a potential beneficiary who is unborn who may not be represented by another pursuant to subsection (a) of this section or subsection (b) of this section, the parent of such unborn beneficiary may represent and bind such unborn beneficiary for purposes of any judicial proceeding or nonjudicial matter pertaining to the trust; provided that there is no material conflict of interest between such unborn beneficiary and such unborn beneficiary's parent with respect to the particular question or dispute. Furthermore, a representative under either of the preceding sentences may, for all purposes, represent and bind another minor, incapacitated, unborn, or unascertainable person who has an interest, with respect to the particular question or dispute, that is substantially identical to the interest of the beneficiary who is a minor or incapacitated or unborn represented by the representative, but only to the extent that there is no material conflict of interest between the beneficiary who is a minor or incapacitated or unborn represented by the representative and the minor, incapacitated, unborn, or unascertainable person with respect to the particular question or dispute.
+
+ (e) Unless otherwise provided in the governing instrument, the provisions of this section shall apply for purposes of any judicial proceeding and for purposes of any nonjudicial matter. For purposes of this section, judicial proceedings shall include any proceeding before a court or administrative tribunal of this State, including a proceeding that involves a trust whether or not the administration of the trust is governed by the laws of this State, and nonjudicial matters include, but are not limited to, the grant of consents, releases or ratifications pursuant to § 3588 of this title and the measurement of the limitation period described in § 3585 of this title.
+
+ (f) For purposes of this section, there is a presumption that a material conflict of interest exists between the representative and each trust beneficiary in any judicial proceeding or nonjudicial matter:
+
+ (1) In which the representative would, as a result of the judicial proceeding or nonjudicial matter, be appointed to a fiduciary or nonfiduciary office or role relating to the trust unless the representative presently serves in a fiduciary or nonfiduciary office or role relating to the trust and will not receive greater authority, broader discretion, or increased protection by reason of the new appointment;
+
+ (2) In which the representative currently holds a fiduciary or nonfiduciary office or role relating to the trust and, as a result of the judicial proceeding or nonjudicial matter, will receive greater authority, broader discretion, or increased protection, including but not limited to any limitation on exculpation from, or indemnification for any existing or potential future liability; or
+
+ (3) In which the representative has any other actual or potential conflict of interest with the represented beneficiaries with respect to the particular question or dispute, including but not limited to a conflict resulting from a differing investment horizon or an interest in present income over capital growth.
+
+ (g) For purposes of this section, when a trust (the “beneficiary trust” ) is a beneficiary of another trust, the beneficiary trust shall be represented and bound by its trustee or, if the beneficiary trust is not in existence, the beneficiary trust shall be represented and bound by those persons who would be beneficiaries of the beneficiary trust if the beneficiary trust were then in existence, the designated representatives of the persons who would be beneficiaries of the beneficiary trust if the beneficiary trust were then in existence, or the person authorized to represent the persons who would be beneficiaries of the beneficiary trust if the beneficiary trust were then in existence under any other subsection of this section.
+
+ (h) For purposes of this section, “designated representative” means a designated representative appointed under § 3339 of this title.
+ 70 Del. Laws, c. 186, 
+ § 
+  3 ;  
+ 72 Del. Laws, c. 388, 
+ § 
+  3 ;  
+ 76 Del. Laws, c. 90, 
+ § 
+  8 ;  
+ 77 Del. Laws, c. 98, 
+ § 
+  19 ;  
+ 78 Del. Laws, c. 117, 
+ § 
+  10 ;  
+ 78 Del. Laws, c. 179, 
+ §§ 
+  80-82 ;  
+ 79 Del. Laws, c. 172, 
+ § 
+  3 ;  
+ 81 Del. Laws, c. 320, 
+ § 
+ 5 ;  
+ 82 Del. Laws, c. 52, 
+ § 
+ 2 ;  
+ 84 Del. Laws, c. 391, 
+ § 
+ 8 ;  
+
+ § 
+ 3548. Limited purpose trust companies and family trust companies; general powers of appointment [For application of this section, see 85 Del. Laws, c. 346, § 9].
+
+ (a) Any power conferred upon a limited purpose trust company or a family trust company formed under Chapter 7 of Title 5 in its capacity as a fiduciary which would, except for this section, constitute in whole or in part a general power of appointment if such power were held by any officer, director or shareholder of the limited purpose trust company or family trust company may only be exercised in the manner provided in subsection (b) of this section.
+
+ (b) A power described in subsection (a) of this section may, to the extent permissible under such power, be exercised as follows:
+
+ (1) The limited purpose trust company or family trust company may exercise the power in favor of a person other than any officer, director or shareholder of the limited purpose trust company or family trust company.
+
+ (2) The limited purpose trust company or family trust company may only exercise the power in favor of, or for the benefit of (including in discharge of a support obligation), an officer, director or shareholder of the limited purpose trust company or family trust company to provide for that person’s health, education, support or maintenance as described under Internal Revenue Code §§ 2041 and 2514 [26 U.S.C. § 2041 or § 2514].
+
+ (3) If the power described in subsection (a) of this section is conferred upon 2 or more fiduciaries, it may be exercised by the fiduciary or fiduciaries who are not disqualified from exercising the power as if such fiduciary or fiduciaries were the only fiduciary or fiduciaries.
+
+ (4) If all of the serving fiduciaries are disqualified from exercising a power, the court that would have jurisdiction to appoint a fiduciary under the instrument if there were no fiduciary currently serving may appoint a special fiduciary whose only power is to exercise the power that cannot be exercised by the other fiduciaries by reason of subsection (a) of this section.
+
+ (5) Subsection (a) of this section shall not apply to any power to the extent that it is exercisable in favor of:
+
+ a. The settlor of a trust that is revocable or amendable by the settlor;
+
+ b. A decedent’s or settlor’s spouse who is a beneficiary of a trust for which a marital deduction has been allowed; or
+
+ c. The settlor of a trust holding property that is the subject of a qualified disposition within the meaning of § 3570(7) of this title, unless the settlor has retained a special power of appointment described in § 3570(11)b.2. of this title.
+
+ (c) Any power conferred upon a limited purpose trust company or family trust company in its capacity as a fiduciary to allocate receipts and expenses as between income and principal in favor of an officer, director or shareholder of the limited purpose trust company or family trust company must be exercised in accordance with Chapter 61 of this title.
+
+ (d) “General power of appointment” means any power that would cause income to be taxed to a taxpayer in that taxpayer’s individual capacity under § 678 [26 U.S.C. § 678] of the Internal Revenue Code, and any power that would be a general power of appointment, in whole or in part, under § 2041(b)(1) or § 2514(c) of the Internal Revenue Code [26 U.S.C. § 2041(b)(1) or § 2514(c)].
+
+ (e) “Internal Revenue Code” means the Internal Revenue Code of 1986 [26 U.S.C. § 1, et seq.], as amended.
+
+ (f) “Fiduciary” has the meaning set forth in § 3301 of Title 12.
+
+ (g) This section applies to all fiduciary relationships in existence on May 14, 2001 and to all other fiduciary relationships that come into existence after that date. The provisions of this section are declaratory of existing law, and neither modify nor amend existing fiduciary relationships.
+ 73 Del. Laws, c. 37, 
+ § 
+  1 ;  
+ 70 Del. Laws, c. 186, 
+ § 
+  1 ;  
+ 85 Del. Laws, c. 346, 
+ § 
+ 6 ;  
+
+ § 
+ 3549. Marital deduction gift; compliance with Internal Revenue Code; fiduciary powers.
+
+ (a) If a governing instrument contains a marital deduction gift, the governing instrument shall be construed to comply with the marital deduction provisions of the Internal Revenue Code in every respect.
+
+ (b) If a governing instrument contains a marital deduction gift, any fiduciary operating under the governing instrument has all the powers, duties, and discretionary authority necessary to comply with the marital deduction provisions of the Internal Revenue Code. The fiduciary shall not take any action or have any power that may impair that deduction, but this does not require the fiduciary to make the election under § 2056(b)(7) or § 2523(f) of the Internal Revenue Code [26 U.S.C. § 2056(b)(7) or § 2523(f)].
+
+ (c) For purposes of this section, “marital deduction gift” means a gift intended to qualify for the marital deduction as indicated by a preponderance of the evidence including the governing instrument and extrinsic evidence whether or not the governing instrument is found to be ambiguous.
+
+ (d) For purposes of this section, “Internal Revenue Code” means the Internal Revenue Code of 1986 (26 U.S.C. § 1 et seq.), as amended, or any corresponding federal tax statute enacted hereafter.
+ 76 Del. Laws, c. 90, 
+ § 
+  9 ;  
+
+ § 
+ 3550. Electronic execution of documents.
+
+ (a) If otherwise validly executed, the following documents may be executed in accordance with the Uniform Electronic Transaction Act, Chapter 12A of Title 6:
+
+ (1) A governing instrument or other document-other than a will or codicil-described in §§ 3325(29), 3338, 3342, 3343, 3528, or 3545 of this title.
+
+ (2) The resignation, removal, appointment, or acceptance of appointment of any trustee, any adviser or protector as described in § 3313(a) of this title, or of any designated representative described in § 3339 of this title.
+
+ (3) A consent, release, ratification, or indemnification described in § 3588 of this title.
+
+ (4) Any other document addressed by Chapters 33 and 35 of this title to the extent it is not excluded from the scope of Chapter 12A of Title 6 under § 12A-103(a) of Title 6. 
+
+ (b) Notwithstanding any provision of Chapter 12A of Title 6 to the contrary, the documents under subsection (a) of this section are deemed to be a “transaction” within the meaning of § 12A-102 of Title 6 and are within the scope of § 12A-103 of Title 6.
+ 83 Del. Laws, c. 69, 
+ § 
+ 3 ;  
+
+ Delaware General Assembly 
+
+ Judicial 
+
+ Executive 
+
+ Contact 
+
+ Twitter 
+
+ Help

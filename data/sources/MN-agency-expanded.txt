@@ -1,0 +1,19 @@
+Source URL: https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=SRU-020103
+Retrieved: 2026-09-23
+Note: WebFetch extraction, not verbatim (fetch.py got a Radware CAPTCHA page; CAPTCHA not solved)
+
+Page title: Expanded definition of "estate" for an MA claim (Minnesota DHS, MA Estate Recovery Manual)
+
+Summary returned by WebFetch:
+An estate for recovery purposes includes:
+- Probate estate: all property interests at time of death except those terminated by death
+- Life estates and joint tenancy: interests created on/after August 1, 2003, or pre-2003 joint tenancy between married parties
+- TOD securities: beneficiary-designated securities when other estate assets cannot cover debts
+- Multiple-party accounts: joint, POD, brokerage, and investment accounts when owner is source of funds
+- Survivorship assets: property passing through survivorship rights
+- Living trusts: self-funded trusts where the MA member was beneficiary (with exceptions for special needs and pooled trusts)
+- Marital property: property acquired during marriage, presumed marital regardless of titling (recoverable only if MA member died on/after July 1, 2009)
+- Life insurance: policies without designated beneficiaries
+
+Cited: 42 U.S.C. 1396p(b)(4); Minn. Stat. 256B.15; 524.1-201; 524.6-201 to 524.6-307; Hendrickson v. Minneapolis Fed. Sav. & Loan Ass'n, 161 N.W.2d 688 (Minn. 1968); In re Estate of Grote, 766 N.W.2d 82 (Minn. Ct. App. 2009).
+Search snippet (same page): "For the purpose of estate recovery, whether the terms of the trust are revocable or irrevocable is not important."

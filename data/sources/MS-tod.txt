@@ -1,0 +1,2965 @@
+Source URL: https://billstatus.ls.state.ms.us/documents/2020/html/SB/2800-2899/SB2851SG.htm
+Retrieved: 2026-09-23
+
+SB2851 (As Sent to Governor) - 2020 Regular Session 
+
+ MISSISSIPPI LEGISLATURE
+
+ 2020 Regular Session
+
+ To: Judiciary, Division A
+
+ By: Senator(s) Doty, Jackson (11th)
+
+ Senate Bill 2851
+
+ (As Sent to Governor)
+
+ AN ACT TO REVISE MISSISSIPPI LAW GOVERNING TRUSTS AND 
+ESTATES; TO CREATE THE MISSISSIPPI REAL PROPERTY TRANSFER-ON-DEATH ACT; TO 
+CREATE NEW SECTION 91-27-1, MISSISSIPPI CODE OF 1972, TO CREATE A SHORT TITLE; 
+TO CREATE NEW SECTION 91-27-3, MISSISSIPPI CODE OF 1972, TO ENACT DEFINITIONS; 
+TO CREATE NEW SECTIONS 91-27-5 AND 91-27-7, MISSISSIPPI CODE OF 1972, TO 
+PROVIDE FOR APPLICABILITY AND NONEXCLUSIVITY; TO CREATE NEW SECTIONS 91-27-9, 
+91-27-11 AND 91-27-13, MISSISSIPPI CODE OF 1972, TO AUTHORIZE A TRANSFER-ON-DEATH 
+DEED THAT IS BOTH REVOCABLE AND NONTESTAMENTARY; TO CREATE NEW SECTION 91-27-15, 
+MISSISSIPPI CODE OF 1972, TO REQUIRE CAPACITY ON THE PART OF THE TRANSFEROR; TO 
+CREATE NEW SECTION 91-27-17, MISSISSIPPI CODE OF 1972, TO SET OTHER 
+REQUIREMENTS; TO CREATE NEW SECTION 91-27-19, MISSISSIPPI CODE OF 1972, TO 
+ALLOW WAIVER OF NOTICE, DELIVERY, ACCEPTANCE AND CONSIDERATION; TO CREATE NEW 
+SECTION 91-27-21, MISSISSIPPI CODE OF 1972, TO SET LIMITS ON REVOCATION; TO 
+CREATE NEW SECTION 91-27-23, MISSISSIPPI CODE OF 1972, TO PROVIDE FOR THE 
+EFFECT OF A TRANSFER-ON-DEATH DEED DURING A TRANSFEROR'S LIFE; TO CREATE NEW 
+SECTION 91-27-25, MISSISSIPPI CODE OF 1972, TO PROVIDE FOR THE EFFECT OF 
+SUBSEQUENT CONVEYANCE; TO CREATE NEW SECTION 91-27-27, MISSISSIPPI CODE OF 1972, 
+TO PROVIDE FOR THE EFFECT AT TRANSFEROR'S DEATH; TO CREATE NEW SECTION 91-27-29, 
+MISSISSIPPI CODE OF 1972, TO PROVIDE FOR THE EFFECT OF LIENS, ENCUMBRANCES AND 
+CREDITORS' CLAIMS; TO CREATE NEW SECTION 91-27-31, MISSISSIPPI CODE OF 1972, TO 
+AUTHORIZE DISCLAIMER; TO CREATE NEW SECTION 91-27-33 AND 91-27-35, MISSISSIPPI 
+CODE OF 1972, TO PROVIDE OPTIONAL FORMS; TO CREATE NEW SECTION 91-27-37, 
+MISSISSIPPI CODE OF 1972, TO SPECIFY THE ACT'S RELATION TO ELECTRONIC 
+SIGNATURES UNDER THE GLOBAL AND NATIONAL COMMERCE ACT; TO CREATE NEW SECTION 91-29-1, 
+MISSISSIPPI CODE OF 1972, TO PROVIDE FOR REVOCATION OF CERTAIN INSTRUMENTS 
+EXECUTED BEFORE DIVORCE; TO CREATE NEW SECTION 91-29-3, MISSISSIPPI CODE OF 
+1972, TO PROVIDE FOR TREATMENT OF A DECEDENT'S FORMER SPOUSE; TO CREATE NEW 
+SECTION 91-29-5, MISSISSIPPI CODE OF 1972, TO ENACT DEFINITIONS; TO CREATE NEW 
+SECTION 91-29-7, MISSISSIPPI CODE OF 1972, TO PROVIDE FOR REVOCATION OF CERTAIN 
+NONTESTAMENTARY TRANSFERS AND INSTRUMENTS UNDER WHICH THE FORMER SPOUSE MAY 
+HAVE BEEN A BENEFICIARY; TO CREATE NEW SECTION 91-29-9, MISSISSIPPI CODE OF 
+1972, TO PROVIDE FOR THE EFFECT OF REVOCATION; TO CREATE NEW SECTIONS 91-29-11 
+AND 91-29-13, MISSISSIPPI CODE OF 1972, TO PROVIDE FOR THE LIABILITY OF THE 
+FORMER SPOUSE AND CERTAIN OTHERS; TO CREATE NEW SECTION 91-29-15, MISSISSIPPI 
+CODE OF 1972, TO PROVIDE FOR CERTAIN TRUST WITH DIVORCED PARTIES AS JOINT 
+SETTLORS; TO CREATE NEW SECTION 91-29-17, MISSISSIPPI CODE OF 1972, TO MAKE 
+PROVISION FOR CERTAIN MULTIPLE-PARTY ACCOUNTS AND TO PROVIDE FOR TREATMENT OF A 
+FORMER SPOUSE UNDER CERTAIN CIRCUMSTANCES; TO CREATE NEW SECTIONS 91-29-19 AND 
+91-29-21, MISSISSIPPI CODE OF 1972, TO CREATE STANDARDS FOR DETERMINING 
+AFFINITY AND CONSANGUINITY; TO CREATE NEW SECTION 91-29-23, MISSISSIPPI CODE OF 
+1972, TO PROVIDE FOR THE PRE-DECREE DESIGNATION OF EX-SPOUSE AS LIFE INSURANCE 
+BENEFICIARY; TO CREATE NEW SECTION 91-29-25, MISSISSIPPI CODE OF 1972, TO 
+PROVIDE FOR THE PRE-DECREE DESIGNATION OF EX-SPOUSE AS RETIREMENT OR OTHER 
+FINANCIAL PLAN BENEFICIARY; TO CREATE THE MISSISSIPPI UNIFORM ESTATE TAX 
+APPORTIONMENT ACT; TO CREATE NEW SECTION 91-25-1, MISSISSIPPI CODE OF 1972, TO 
+ENACT A SHORT TITLE; TO CREATE NEW SECTION 91-25-3, MISSISSIPPI CODE OF 1972, 
+TO CREATE DEFINITIONS; TO CREATE NEW SECTION 91-25-5, MISSISSIPPI CODE OF 1972, 
+TO PROVIDE FOR APPORTIONMENT BY WILL; TO CREATE NEW SECTION 91-25-7, 
+MISSISSIPPI CODE OF 1972, TO CREATE A STATUTORY SCHEME FOR APPORTIONMENT OF 
+ESTATE TAXES; TO CREATE NEW SECTION 91-25-9, MISSISSIPPI CODE OF 1972, TO 
+PROVIDE FOR CREDITS AND DEFERRALS; TO CREATE NEW SECTION 91-25-11, MISSISSIPPI 
+CODE OF 1972, TO PROVIDE FOR INSTANCES WHEN PROPERTY IS IMPRACTICABLE OR 
+UNAVAILABLE FOR PAYMENT OF TAX; TO CREATE NEW SECTION 91-25-13, MISSISSIPPI 
+CODE OF 1972, TO MAKE RECAPTURE PROVISIONS; TO CREATE NEW SECTION 91-25-15, 
+MISSISSIPPI CODE OF 1972, TO PROVIDE FOR PAYMENT BY A FIDUCIARY; TO CREATE NEW 
+SECTION 91-25-17, MISSISSIPPI CODE OF 1972, TO PROVIDE FOR COLLECTION BY A 
+FIDUCIARY; TO CREATE NEW SECTION 91-25-19, MISSISSIPPI CODE OF 1972, TO CREATE 
+A RIGHT OF REIMBURSEMENT; TO CREATE NEW SECTION 91-25-21, MISSISSIPPI CODE OF 
+1972, TO PUT JURISDICTION IN THE CHANCERY COURT; TO CREATE NEW SECTION 91-25-23, 
+MISSISSIPPI CODE OF 1972, TO PROVIDE FOR UNIFORMITY; TO CREATE NEW SECTION 91-25-25, 
+MISSISSIPPI CODE OF 1972, TO PROVIDE FOR SEVERABILITY; TO CREATE NEW SECTION 91-25-27, 
+MISSISSIPPI CODE OF 1972, TO MAKE TRANSITION PROVISIONS; TO PROVIDE FOR FOREIGN 
+PERSONAL REPRESENTATIVES AND ANCILLARY ADMINISTRATION; TO CREATE NEW SECTION 91-7-501, 
+MISSISSIPPI CODE OF 1972, TO ENACT DEFINITIONS; TO CREATE NEW SECTION 91-7-503, 
+MISSISSIPPI CODE OF 1972, TO ALLOW AN ESTATE DEBTOR TO SETTLE THE OBLIGATION 
+OUTSIDE OF ADMINISTRATION; TO CREATE NEW SECTION 91-7-505, MISSISSIPPI CODE OF 
+1972, TO RELEASE A DEBTOR ACTING IN GOOD FAITH; TO CREATE NEW SECTION 91-7-507, 
+MISSISSIPPI CODE OF 1972, TO PROHIBIT PAYMENT OR DELIVERY UNDER CERTAIN 
+CIRCUMSTANCES; TO CREATE NEW SECTION 91-7-509, MISSISSIPPI CODE OF 1972, TO 
+ALLOW A DOMICILIARY FOREIGN PERSONAL REPRESENTATIVE TO FILE AUTHENTICATED 
+COPIES OF A FOREIGN APPOINTMENT; TO CREATE NEW SECTION 91-7-511, MISSISSIPPI 
+CODE OF 1972, TO PROVIDE FOR POWERS OF A FOREIGN PERSONAL REPRESENTATIVE; TO 
+CREATE NEW SECTION 91-7-513, MISSISSIPPI CODE OF 1972, TO PROVIDE FOR THE CASE 
+WHEN AN ADMINISTRATION IS PENDING IN THIS STATE; TO CREATE NEW SECTION 91-7-515, 
+MISSISSIPPI CODE OF 1972, TO PROVIDE FOR A NONRESIDENT DECEDENT; TO CREATE NEW 
+SECTION 91-7-517, MISSISSIPPI CODE OF 1972, TO PROVIDE FOR JURISDICTION OVER A 
+FOREIGN PERSONAL REPRESENTATIVE; TO CREATE NEW SECTION 91-7-519, MISSISSIPPI 
+CODE OF 1972, TO FURTHER PROVIDE FOR JURISDICTION OVER A FOREIGN PERSONAL 
+REPRESENTATIVE; TO CREATE NEW SECTION 91-7-521, MISSISSIPPI CODE OF 1972, TO 
+PROVIDE FOR SERVICE OF PROCESS; TO CREATE NEW SECTION 91-7-523, MISSISSIPPI 
+CODE OF 1972, TO PROVIDE FOR THE EFFECT OF A FOREIGN ADJUDICATION; TO CREATE 
+ARTICLE 5 OF THE UNIFORM TRUST CODE; TO CREATE NEW SECTION 91-8-501, 
+MISSISSIPPI CODE OF 1972, TO PROVIDE FOR THE RIGHTS OF A BENEFICIARY'S CREDITOR 
+OR ASSIGNEE; TO CREATE NEW SECTION 91-8-502, MISSISSIPPI CODE OF 1972, TO 
+CREATE A SPENDTHRIFT PROVISION; TO CREATE NEW SECTION 91-8-503, MISSISSIPPI 
+CODE OF 1972, TO PROVIDE THAT A DISCRETIONARY INTEREST IS A MERE EXPECTANCY; TO 
+CREATE NEW SECTION 91-8-504, MISSISSIPPI CODE OF 1972, TO PROVIDE FOR 
+CREDITORS' CLAIMS AGAINST SETTLORS; TO CREATE NEW SECTION 91-8-505, MISSISSIPPI 
+CODE OF 1972, TO PROVIDE FOR DISTRIBUTIONS RELATIVE TO SUPPORT AND CERTAIN 
+REMAINDER INTERESTS; TO CREATE NEW SECTION 91-8-506, MISSISSIPPI CODE OF 1972, 
+TO PROVIDE THAT TRUST PROPERTY IS NOT SUBJECT TO PERSONAL OBLIGATIONS OF THE 
+TRUSTEE; TO CREATE NEW SECTION 91-8-507, MISSISSIPPI CODE OF 1972, TO PROVIDE 
+FOR THE REMOVAL OR REPLACEMENT POWER OVER A TRUSTEE; TO CREATE NEW SECTION 91-8-508, 
+MISSISSIPPI CODE OF 1972, TO PROHIBIT JUDICIAL FORECLOSURE OF CERTAIN 
+INTERESTS; TO AMEND SECTION 91-8-105, MISSISSIPPI CODE OF 1972, TO CONFORM; TO 
+REPEAL SECTIONS 27-10-1 THROUGH 27-10-25, MISSISSIPPI CODE OF 1972, WHICH 
+CONSTITUTE THE UNIFORM ESTATE TAX APPORTIONMENT ACT; TO REPEAL SECTIONS 89-21-1 
+THROUGH 89-21-17, MISSISSIPPI CODE OF 1972, WHICH CONSTITUTE THE UNIFORM 
+DISCLAIMER OF PROPERTY INTERESTS ACT; TO REPEAL SECTIONS 91-9-501 THROUGH 91-9-511, 
+MISSISSIPPI CODE OF 1972, WHICH CONSTITUTE THE FAMILY TRUST PRESERVATION ACT OF 
+1998; TO REPEAL SECTION 91-7-259, MISSISSIPPI CODE OF 1972, WHICH PROVIDES FOR 
+FOREIGN FIDUCIARIES AND LAWSUITS AND DEBTS; AND FOR RELATED PURPOSES.
+
+ ���� BE IT ENACTED BY THE 
+LEGISLATURE OF THE STATE OF MISSISSIPPI:
+
+ ���� SECTION 1. � The 
+following shall be codified as Section 91-27-1, Mississippi Code of 1972:
+
+ ���� 91-27-1 . � 
+ Short title. � Sections 1 through 19 of this act may be cited as the 
+Mississippi Real Property Transfer-On-Death Act.
+
+ ���� SECTION 2. � The 
+following shall be codified as Section 91-27-3, Mississippi Code of 1972:
+
+ ���� 97-27-3. � Definitions. � 
+(a)� "Beneficiary" means a person who receives real property under a 
+transfer-on-death deed.
+
+ ���� (b)� "Designated 
+beneficiary" means a person designated to receive real property in a 
+transfer-on-death deed.
+
+ ���� (c)� "Joint owner with 
+right of survivorship" or "joint owner" means an individual who 
+owns real property concurrently with one or more other individuals with a right 
+of survivorship. The term includes a joint tenant and a tenant by the entirety.� 
+The term does not include a tenant in common.
+
+ ���� (d)� "Person" 
+means an individual, corporation, business trust, estate, trust, partnership, 
+limited liability company, association, joint venture, public corporation, 
+government or governmental subdivision, agency, or instrumentality, or any 
+other legal or commercial entity.
+
+ ���� (e)� "Real 
+property" means an interest in real property located in this state.
+
+ ���� (f)� "Transfer-on-death 
+deed" means a deed authorized under this chapter and does not refer to any 
+other deed that transfers an interest in real property on the death of an 
+individual.
+
+ ���� (g)� "Transferor" 
+means an individual who makes a transfer-on-death deed.
+
+ ���� (h)� In this chapter, the 
+terms "cancel" and "revoke" are synonymous.
+
+ ���� SECTION 3. � The 
+following shall be codified as Section 91-27-5, Mississippi Code of 1972:
+
+ ���� 97-27-5. � Applicability. 
+ � This chapter applies to a transfer-on-death 
+deed executed and acknowledged on or after the effective date of this act, by a 
+transferor who dies on or after the effective date of this act.
+
+ ���� SECTION 4. � The 
+following shall be codified as Section 91-27-7, Mississippi Code of 1972:
+
+ ���� 97-27-7. � Nonexclusivity. � 
+This chapter does not affect any method of transferring real property otherwise 
+permitted under the laws of this state.
+
+ ���� SECTION 5. � The 
+following shall be codified as Section 91-27-9, Mississippi Code of 1972:
+
+ ���� 97-27-9. � Transfer-on-death 
+deed authorized. � An individual may transfer the individual's interest in 
+real property to one or more beneficiaries effective at the transferor's death 
+by a transfer-on-death deed.
+
+ ���� SECTION 6. � The 
+following shall be codified as Section 91-27-11, Mississippi Code of 1972:
+
+ ���� 97-27-11. � Transfer-on-death 
+deed revocable. � A transfer-on-death deed must be executed as set forth in 
+Title 89, Chapter 3, Mississippi Code or 1972, relating to necessary 
+acknowledgements, and need not be executed with the formalities of a will.
+
+ ���� SECTION 7. � The 
+following shall be codified as Section 91-27-13, Mississippi Code of 1972:
+
+ ���� 91-27-13. � Transfer-on-death 
+deed nontestamentary. � A transfer-on-death deed is a nontestamentary 
+instrument.
+
+ ���� SECTION 8. � The 
+following shall be codified as Section 91-27-15, Mississippi Code of 1972:
+
+ ���� 91-27-15. � Capacity 
+of transferor. � (a)� The capacity required to make or revoke a transfer-on-death 
+deed is the same as the capacity required to make a contract. 
+
+ ���� (b)� A transfer-on-death 
+deed may not be created through use of a power of attorney unless the transfer 
+of real property through a transfer-on-death deed is specifically authorized in 
+the power of attorney. 
+
+ ���� SECTION 9. � The 
+following shall be codified as Section 91-27-17, Mississippi Code of 1972:
+
+ ���� 91-27-17. � Requirements. � 
+To be effective, a transfer-on-death deed must:
+
+ ��������� (1)� Except as 
+otherwise provided in subsection (2), contain the essential elements and 
+formalities of a recordable deed;
+
+ ��������� (2)� State that the 
+transfer of an interest in real property to the designated beneficiary is to 
+occur at the transferor's death;
+
+ ��������� (3)� Be recorded before 
+the transferor's death in the deed records in the official records of the 
+chancery clerk of the county where the real property is located.
+
+ ���� SECTION 10. � The 
+following shall be codified as Section 91-27-19, Mississippi Code of 1972:
+
+ ���� 91-27-19. � Notice, 
+delivery, acceptance, consideration not required. � A transfer-on-death deed 
+is effective without:
+
+ ��������� (1)� Notice or delivery 
+to or acceptance by the designated beneficiary during the transferor's life; or
+
+ ��������� (2)� Consideration.
+
+ ���� SECTION 11. � The 
+following shall be codified as Section 91-27-21, Mississippi Code of 1972:
+
+ ���� 91-27-21. � Revocation 
+by instrument authorized; revocation by act not permitted. � (a)� Subject to 
+subsections (d) and (e), an instrument is effective to revoke a recorded 
+transfer-on-death deed, or any part of it, if the instrument:
+
+ ��������� (1)� Is one (1) of the 
+following:
+
+ ������������� (A)� A subsequent 
+transfer-on-death deed that revokes the preceding transfer-on-death deed or 
+part of the deed expressly or by inconsistency; or
+
+ ������������� (B)� Except as 
+provided by subsection (b), an instrument of revocation that expressly revokes 
+the transfer-on-death deed or part of the deed;
+
+ ��������� (2)� Is acknowledged by 
+the transferor after the acknowledgment of the deed being revoked; and
+
+ ��������� (3)� Is recorded before 
+the transferor's death in the official records of the chancery clerk of the 
+county where the deed being revoked is recorded.
+
+ ���� (b)� A will does not revoke 
+or supersede a transfer-on-death deed.
+
+ ���� (c)� If a marriage between 
+the transferor and a designated beneficiary is dissolved after a transfer-on-death 
+deed is recorded, a final judgment of the court dissolving the marriage 
+operates to revoke the transfer-on-death deed as to that designated 
+beneficiary.
+
+ ���� (d)� If a transfer-on-death 
+deed is made by more than one (1) transferor, revocation by a transferor does 
+not affect the deed as to the interest of another transferor who does not make 
+that revocation.
+
+ ���� (e)� A transfer-on-death 
+deed made by joint owners with right of survivorship is revoked only if it is 
+revoked by all of the living joint owners.
+
+ ���� (f)� This section does not 
+limit the effect of an inter vivos transfer of the real property.
+
+ ���� SECTION 12. � The 
+following shall be codified as Section 91-27-23, Mississippi Code of 1972:
+
+ ���� 91-27-23. � Effect 
+of transfer-on-death deed during transferor's life. � During a transferor's 
+life, a transfer-on-death deed does not:
+
+ ��������� (1)� Affect an interest 
+or right of the transferor or any other owner, including:
+
+ ������������� (A)� The right to 
+transfer or encumber the real property that is the subject of the deed;
+
+ ������������� (B)� Homestead rights 
+in the real property, if applicable; and
+
+ ������������� (C)� Ad valorem tax 
+exemptions, including exemptions for residence homestead, persons sixty-five 
+(65) years of age or older, persons with disabilities, and veterans;
+
+ ��������� (2)� Affect an interest 
+or right of a transferee of the real property that is the subject of the deed, 
+even if the transferee has actual or constructive notice of the deed;
+
+ ��������� (3)� Affect an interest 
+or right of a secured or unsecured creditor or future creditor of the 
+transferor, even if the creditor has actual or constructive notice of the deed;
+
+ ��������� (4)� Affect the 
+transferor's or designated beneficiary's eligibility for any form of public 
+assistance, subject to applicable federal law;
+
+ ��������� (5)� Constitute a 
+transfer triggering a "due-on-sale" or similar clause;
+
+ ��������� (6)� Invoke statutory 
+real estate notice or disclosure requirements;
+
+ ��������� (7)� Create a legal or 
+equitable interest in favor of the designated beneficiary; or
+
+ ��������� (8)� Subject the real 
+property to claims or process of a creditor of the designated beneficiary.
+
+ ���� SECTION 13. � The 
+following shall be codified as Section 91-27-25, Mississippi Code of 1972:
+
+ ���� 91-27-25. � Effect 
+of subsequent conveyance on transfer-on-death deed. � An otherwise valid 
+transfer-on-death deed is void as to any interest in real property that is 
+conveyed by the transferor during the transferor's lifetime after the transfer-on-death 
+deed is executed and recorded if:
+
+ ��������� (1)� A valid instrument 
+conveying the interest is recorded in the official records of the chancery 
+clerk of the same county in which the transfer-on-death deed is recorded; and
+
+ ��������� (2)� The recording of 
+the instrument occurs before the transferor's death.
+
+ ���� SECTION 14. � The 
+following shall be codified as Section 91-27-27, Mississippi Code of 1972:
+
+ ���� 91-27-27. � Effect 
+of transfer-on-death deed at transferor's death. � On the death of the 
+transferor, the following rules apply to an interest in real property that is 
+the subject of a transfer-on-death deed and owned by the transferor at death 
+except as otherwise provided:� in the transfer-on-death deed; in this Title 91, 
+Chapter 27, Mississippi Code of 1972; in Title 91, Chapter 29, Mississippi Code 
+of 1972, relating to revocation by divorce; in Section 91-1-25 relating to the 
+prohibition on inheriting from a person whom one has killed; in Title 91, 
+Chapter 3, Mississippi Code of 1972, the Mississippi Uniform Simultaneous Death 
+Act; and in Section 91-5-25 relating to the spousal right to renounce a will:
+
+ ��������� (1)� If a transferor is 
+a joint owner with right of survivorship who is survived by one or more other 
+joint owners, the real property that is the subject of the transfer-on-death 
+deed belongs to the surviving joint owner or owners.� If a transferor is a 
+joint owner with right of survivorship who is the last-surviving joint owner, the 
+transfer-on-death deed is effective.
+
+ ��������� (2)� The last-surviving 
+joint owner may revoke the transfer-on-death deed subject to Section 91-27-19.
+
+ ��������� (3)� A transfer-on-death 
+deed transfers real property without covenant or warranty of title even if the 
+deed contains a contrary provision.
+
+ ��������� (4)� The interest in 
+the property is transferred to a designated beneficiary in accordance with the 
+deed, but the interest of a designated beneficiary is contingent on the 
+designated beneficiary surviving the transferor.� The interest of a designated 
+beneficiary that fails to survive the transferor lapses.
+
+ ��������� (5)� Concurrent 
+interests are transferred to the beneficiaries in equal and undivided shares 
+with no right of survivorship, but if the transferor has identified two (2) or 
+more designated beneficiaries to receive concurrent interests in the property, 
+the share of one which lapses or fails for any reason is transferred to the 
+other, or to the others in proportion to the interest of each in the remaining 
+part of the property held concurrently.
+
+ ���� SECTION 15. � The 
+following shall be codified as Section 91-27-29, Mississippi Code of 1972:
+
+ ���� 91-27-29. � Transfer-on-death 
+deed property subject to liens and encumbrances at transferor's death; 
+creditors' claims. � Subject to Title 89, Chapter 5, Mississippi Code of 
+1972, relating to the recordation of instruments, a designated beneficiary 
+takes the real property subject to all conveyances, encumbrances, assignments, 
+contracts, mortgages, liens, and other interests to which the real property is 
+subject at the transferor's death.� For purposes of this subsection and Title 
+89, Chapter 5, Mississippi Code of 1972, the recording of the transfer-on-death 
+deed is considered to have occurred at the transferor's death.
+
+ ���� SECTION 16. � The 
+following shall be codified as Section 91-27-31, Mississippi Code of 1972:
+
+ ���� 91-27-31. � Disclaimer. � 
+A designated beneficiary may disclaim all or part of the designated 
+beneficiary's interest as provided by the Mississippi Uniform Disclaimer of 
+Property Interests Act (2002/2010), Title 89, Chapter 22, Mississippi Code of 
+1972.
+
+ ���� SECTION 17. � The 
+following shall be codified as Section 91-27-33, Mississippi Code of 1972:
+
+ ���� 91-27-33. � Optional 
+form for transfer-on-death deed. � The following form may be used to create 
+a transfer-on-death deed.� This chapter governs the effect of this or any other 
+instrument used to create a transfer-on-death deed:
+
+ REVOCABLE 
+TRANSFER-ON-DEATH DEED
+
+ NOTICE 
+TO OWNER
+
+ ���� You should carefully read 
+all information on the other side of this form.� YOU MAY WANT TO CONSULT A 
+LAWYER BEFORE USING THIS FORM.
+
+ ���� This form must be recorded 
+before your death, or it will not be effective.
+
+ IDENTIFYING 
+INFORMATION
+
+ Owner or Owners Making This Deed:
+
+ ___________________________�� _______________________________
+
+ Printed name���������������� Mailing 
+address
+
+ ___________________________�� _______________________________
+
+ Printed name���������������� Mailing 
+address
+
+ Legal description of the 
+property:
+
+ _____________________________________________________________
+
+ PRIMARY BENEFICIARY
+
+ I designate the following 
+beneficiary if the beneficiary survives me.
+
+ ___________________________�� _______________________________
+
+ Printed name���������������� Mailing 
+address, if available
+
+ ALTERNATE BENEFICIARY � Optional
+
+ If my primary beneficiary does 
+not survive me, I designate the following alternate beneficiary if that 
+beneficiary survives me.
+
+ __________________________��� _____________________________
+
+ Printed name���������������� Mailing 
+address, if available
+
+ TRANSFER-ON-DEATH
+
+ ���� At my death, I transfer my 
+interest in the described property to the beneficiaries as designated above.
+
+ ���� Before my death, I have the 
+right to revoke this deed as set forth in Section 97-27-21, Mississippi Code of 
+1972.
+
+ SIGNATURE 
+OF OWNER OR OWNERS MAKING THIS DEED
+
+ ______________________________������������� _________________
+
+ Signature������������������������ ������������������ Date
+
+ ______________________________������������� _________________
+
+ Signature������������������������������������������� Date
+
+ ACKNOWLEDGMENT
+
+ (insert acknowledgment for deed 
+here)
+
+ ���� SECTION 18. � The 
+following shall be codified as Section 91-27-35, Mississippi Code of 1972:
+
+ ���� 91-27-35. � Optional 
+form of revocation. � The following form may be used to create an instrument 
+of revocation of a transfer-on-death deed.� This chapter governs the effect of 
+this or any other instrument used to revoke a transfer-on-death deed.
+
+ REVOCATION 
+OF TRANSFER-ON-DEATH DEED
+
+ NOTICE 
+TO OWNER
+
+ ���� This revocation must be 
+recorded before you die or it will not be effective.� This revocation is 
+effective only as to the interests in the property of owners who sign this 
+revocation.
+
+ IDENTIFYING 
+INFORMATION
+
+ Owner or Owners of Property Making 
+This Revocation:
+
+ ___________________________�� _____________________________
+
+ Printed name���������������� Mailing 
+address
+
+ ___________________________�� _____________________________
+
+ Printed name���������������� Mailing 
+address
+
+ Legal description of the 
+property:
+
+ ___________________________________________________________
+
+ REVOCATION
+
+ ���� I revoke all my previous 
+transfers of this property by transfer-on-death deed.� 
+
+ SIGNATURE 
+OF OWNER OR OWNERS MAKING THIS REVOCATION
+
+ _____________________________���������� _________________
+
+ Signature�������������������������������������� Date
+
+ _____________________________���������� _________________
+
+ Signature�������������������������������������� Date
+
+ ACKNOWLEDGMENT
+
+ (insert acknowledgment here)
+
+ ���� SECTION 19. � The 
+following shall be codified as Section 91-27-37, Mississippi Code of 1972:
+
+ ���� 91-27-37. � Relation 
+to electronic signatures in Global and National Commerce Act. � This chapter 
+modifies, limits, and supersedes the federal Electronic Signatures in Global 
+and National Commerce Act, 15 U.S.C. Section 7001 et seq., but does not modify, 
+limit, or supersede Section 101(c) of that act, 15 U.S.C. Section 7001(c), or 
+authorize electronic delivery of any of the notices described in Section 103(b) 
+of that act, 15 U.S.C.
+
+ ���� SECTION 20. � The 
+following shall be codified as Section 91-29-1, Mississippi Code of 1972:
+
+ ���� 91-29-1. � Will 
+provisions made before dissolution of marriage. � (a)� In this section:
+
+ ��������� (1)� "Irrevocable 
+trust" means a trust:
+
+ ������������� (A)� For which the 
+trust instrument was executed before the dissolution of a testator's marriage; 
+and
+
+ ������������� (B)� That the 
+testator was not solely empowered by law or by the trust instrument to revoke.
+
+ ��������� (2)� 
+"Relative" means an individual related to another individual by:
+
+ ������������� (A)� Consanguinity, 
+as determined under Section 91-29-17; or
+
+ ������������� (B)� Affinity, as 
+determined under Section 91-29-19.
+
+ ���� (b)� If, after the testator 
+makes a will, the testator's marriage is dissolved by divorce, annulment, or a 
+declaration that the marriage is void, unless the will expressly provides 
+otherwise:
+
+ ��������� (1)� All provisions in 
+the will, including all fiduciary appointments, shall be read as if the former 
+spouse and each relative of the former spouse who is not a relative of the 
+testator had failed to survive the testator; and
+
+ ��������� (2)� All provisions in 
+the will disposing of property to an irrevocable trust in which a former spouse 
+or a relative of a former spouse who is not a relative of the testator is a 
+beneficiary or is nominated to serve as trustee or in another fiduciary 
+capacity or that confers a general or special power of appointment on a former 
+spouse or a relative of a former spouse who is not a relative of the testator 
+shall be read to instead dispose of the property to a trust the provisions of 
+which are identical to the irrevocable trust, except any provision in the 
+irrevocable trust:
+
+ ������������� (A)� Conferring a 
+beneficial interest or a general or special power of appointment to the former 
+spouse or a relative of the former spouse who is not a relative of the testator 
+shall be treated as if the former spouse and each relative of the former spouse 
+who is not a relative of the testator had disclaimed the interest granted in 
+the provision; and
+
+ ������������� (B)� Nominating the 
+former spouse or a relative of the former spouse who is not a relative of the 
+testator to serve as trustee or in another fiduciary capacity, or trust 
+protector, trust advisor, investment advisor or similar capacity, shall be 
+treated as if the former spouse and each relative of the former spouse who is 
+not a relative of the testator had died immediately before the dissolution of 
+the marriage.
+
+ ���� (c)� Subsection (b)(2) does 
+not apply if one (1) of the following provides otherwise:
+
+ ��������� (1)� A court order; or
+
+ ��������� (2)� An express 
+provision of a contract relating to the division of the marital estate entered 
+into between the testator and the testator's former spouse before, during, or 
+after the marriage.
+
+ ���� SECTION 21. � The 
+following shall be codified as Section 91-29-3, Mississippi Code of 1972:
+
+ ���� 91-29-3. � Treatment 
+of decedent's former spouse. � A person is not a surviving spouse of a 
+decedent if the person's marriage to the decedent has been dissolved by 
+divorce, annulment, or a declaration that the marriage is void, unless:
+
+ ��������� (1)� As the result of a 
+subsequent marriage, the person is married to the decedent at the time of 
+death; and
+
+ ��������� (2)� The subsequent 
+marriage is not declared void. 
+
+ ���� SECTION 22. � The 
+following shall be codified as Section 91-29-5, Mississippi Code of 1972:
+
+ ���� 91-29-5. � Definitions. � 
+In this chapter : 
+
+ ��������� (1)� "Disposition 
+or appointment of property" includes a transfer of property to or a 
+provision of another benefit to a beneficiary under a trust instrument.
+
+ ��������� (2)� "Divorced 
+individual" means an individual whose marriage has been dissolved by 
+divorce, annulment, or a declaration that the marriage is void.
+
+ ��������� (3)� 
+"Relative" means an individual who is related to another individual 
+by consanguinity or affinity, as determined under Sections 91-29-17 and 91-25-19.
+
+ ��������� (4)� 
+"Revocable," with respect to a disposition, appointment, provision, 
+or nomination, means a disposition to, appointment of, provision in favor of, 
+or nomination of an individual's spouse that is contained in a trust instrument 
+executed by the individual before the dissolution of the individual's marriage 
+to the spouse and that the individual was solely empowered by law or by the 
+trust instrument to revoke regardless of whether the individual had the 
+capacity to exercise the power at that time.
+
+ ���� SECTION 23. � The 
+following shall be codified as Section 91-29-7, Mississippi Code of 1972:
+
+ ���� 91-29-7. � Revocation 
+of certain nontestamentary transfers; treatment of former spouse as beneficiary 
+under certain policies or plans. � (a)� The dissolution of the marriage 
+revokes a provision in a trust instrument that was executed by a divorced 
+individual as settlor before the divorced individual's marriage was dissolved 
+and that:
+
+ ��������� (1) �Is a revocable 
+disposition or appointment of property made to the divorced individual's former 
+spouse or any relative of the former spouse who is not a relative of the 
+divorced individual;
+
+ ��������� (2)� Revocably confers 
+a general or special power of appointment on the divorced individual's former 
+spouse or any relative of the former spouse who is not a relative of the 
+divorced individual; or
+
+ ��������� (3)� Revocably 
+nominates the divorced individual's former spouse or any relative of the former 
+spouse who is not a relative of the divorced individual to serve:
+
+ ������������� (A)� As a personal 
+representative, trustee, conservator, agent, or guardian; or
+
+ ������������� (B)� In another 
+fiduciary or representative capacity.
+
+ ���� (b)� Subsection (a) does not 
+apply if one (1) of the following provides otherwise:
+
+ ��������� (1)� A court order;
+
+ ��������� (2)� The express terms 
+of a trust instrument executed by the divorced individual before the 
+individual's marriage was dissolved; or
+
+ ��������� (3)� An express 
+provision of a contract relating to the division of the marital estate entered 
+into between the divorced individual and the individual's former spouse before, 
+during, or after the marriage.
+
+ ���� (c)� Sections 91-29-21 and 
+91-29-23 govern the designation of a former spouse as a beneficiary of certain 
+life insurance policies or as a beneficiary under certain retirement benefit 
+plans or other financial plans.
+
+ ���� SECTION 24. � The 
+following shall be codified as Section 91-29-9, Mississippi Code of 1972:
+
+ ���� 91-29-9. � Effect 
+of revocation. � (a)� An interest granted in a provision of a trust instrument 
+that is revoked under Section 91-29-7(a)(1) or (2) passes as if the former 
+spouse of the divorced individual who executed the trust instrument and each 
+relative of the former spouse who is not a relative of the divorced individual 
+disclaimed the interest granted in the provision.
+
+ ���� (b)� An interest granted in 
+a provision of a trust instrument that is revoked under Section 91-29-7(a)(3) 
+passes as if the former spouse and each relative of the former spouse who is 
+not a relative of the divorced individual died immediately before the 
+dissolution of the marriage.
+
+ ���� SECTION 25. � The 
+following shall be codified as Section 91-29-11, Mississippi Code of 1972:
+
+ ���� 91-29-11. � Liability 
+of certain purchasers or recipients of certain payments, benefits, or property. 
+�A bona fide purchaser of property from a divorced individual's former spouse 
+or any relative of the former spouse who is not a relative of the divorced 
+individual or a person who receives from the former spouse or any relative of 
+the former spouse who is not a relative of the divorced individual a payment, 
+benefit, or property in partial or full satisfaction of an enforceable 
+obligation:
+
+ ��������� (1)� Is not required by 
+this chapter to return the payment, benefit, or property; and
+
+ ��������� (2)� Is not liable 
+under this chapter for the amount of the payment or the value of the property 
+or benefit.
+
+ ���� SECTION 26. � The 
+following shall be codified as Section 91-29-13, Mississippi Code of 1972:
+
+ ���� 91-29-13. � Liability 
+of former spouse for certain payments, benefits or property. � A divorced 
+individual's former spouse or any relative of the former spouse who is not a 
+relative of the divorced individual who, not for value, receives a payment, 
+benefit, or property to which the former spouse or the relative of the former 
+spouse who is not a relative of the divorced individual is not entitled as a 
+result of Sections 91-29-7 (a) and (b):
+
+ ��������� (1)� Shall return the 
+payment, benefit, or property to the person who is entitled to the payment, 
+benefit, or property under this chapter; or
+
+ ��������� (2)� Is personally 
+liable to the person described by paragraph (1) for the amount of the 
+payment or the value of the benefit or property received, as applicable.
+
+ ���� SECTION 27. � The 
+following shall be codified as Section 91-29-15, Mississippi Code of 1972:
+
+ ���� 91-29-15. � Certain 
+trusts with divorced individuals as joint settlors. � (a)� This section 
+applies only to a trust created under a trust instrument that:
+
+ ��������� (1)� Was executed by 
+two (2) married individuals as settlors whose marriage to each other is 
+subsequently dissolved; and
+
+ ��������� (2)� Includes a 
+provision described by Section 91-29-7(a).
+
+ ���� (b)� On the death of one (1) 
+of the divorced individuals who is a settlor of a trust to which this section 
+applies, the trustee shall divide the trust into two (2) trusts, each of which 
+shall be composed of the property attributable to the contributions of only one 
+(1) of the divorced individuals.
+
+ ���� (c)� An action authorized in 
+a trust instrument described by subsection (a) that requires the actions of 
+both divorced individuals may be taken with respect to a trust established in 
+accordance with subsection (b) from the surviving divorced individual's 
+contributions solely by that divorced individual.
+
+ ���� (d)� The provisions of this 
+chapter apply independently to each trust established in accordance with 
+subsection (b) as if the divorced individual from whose contributions the trust 
+was established had been the only settlor to execute the trust instrument 
+described by subsection (a).
+
+ ���� (e)� This section does not 
+apply if one (1) of the following provides otherwise:
+
+ ��������� (1)� A court order;
+
+ ��������� (2)� The express terms 
+of a trust instrument executed by the two (2) divorced individuals before their 
+marriage was dissolved; or
+
+ ��������� (3)� An express 
+provision of a contract relating to the division of the marital estate entered 
+into between the two (2) divorced individuals before, during, or after their 
+marriage.
+
+ ���� SECTION 28. � The 
+following shall be codified as Section 91-29-17, Mississippi Code of 1972:
+
+ ���� 91-29-17. � Designation 
+of former spouse or relative of former spouse on certain multiple-party 
+accounts. � (a)� In this section:
+
+ ��������� (1)� 
+"Beneficiary," "multiple-party account, "party," 
+"P.O.D. account," "P.O.D. payee," "T.O.D. 
+account," and "T.O.D. payee" have the meanings assigned in Title 
+91, Chapter 21, Mississippi Code of 1972.
+
+ ��������� (2)� "Public 
+retirement system" has the meaning assigned by Section 25-11-101.
+
+ ���� (b)� If a decedent 
+established a P.O.D. account, T.O.D. account, or other multiple-party account 
+and the decedent's marriage was later dissolved by divorce, annulment, or a 
+declaration that the marriage is void, any payable on request after death 
+designation provision with respect to that account in favor of the decedent's 
+former spouse or a relative of the former spouse who is not a relative of the 
+decedent is not effective as to that spouse or relative unless:
+
+ ��������� (1)� The court decree 
+dissolving the marriage designates the former spouse or the former spouse's 
+relative as the P.O.D. payee, T.O.D. payee, or beneficiary; or
+
+ ��������� (2)� After the marriage 
+was dissolved, the decedent redesignated the former spouse or the former 
+spouse's relative as the P.O.D payee, T.O.D. payee, or beneficiary; or
+
+ ��������� (3)� The former spouse 
+or the former spouse's relative is designated to receive the proceeds or 
+benefits in trust for, on behalf of, or for the benefit of a child or dependent 
+of either the decedent or the former spouse.
+
+ ���� (c)� If a designation is not 
+effective under subsection (b), a multiple-party account is payable to the 
+named alternative P.O.D. payee, T.O.D. payee, or beneficiary or, if an 
+alternative P.O.D. payee, T.O.D. payee, or beneficiary is not named, to the 
+estate of the decedent.
+
+ ���� (d)� A financial institution 
+or other person obligated to pay an account described by subsection (b) that 
+pays the account to the former spouse or the former spouse's relative as P.O.D. 
+payee, T.O.D. payee, or beneficiary under a designation that is not effective 
+under subsection (b) is liable for payment of the account to the person 
+provided by subsection (c) only if:
+
+ ��������� (1)� Before payment of 
+the account to the designated P.O.D. payee, T.O.D. payee, or beneficiary, the 
+payor receives written notice at the home office or principal office of the 
+payor from an interested person that the designation of the P.O.D. payee, 
+T.O.D. payee, or beneficiary is not effective under subsection (b); and
+
+ ��������� (2)� The payor has not 
+interpleaded the account funds into the registry of a court of competent 
+jurisdiction in accordance with the Mississippi Rules of Civil Procedure.
+
+ ���� (e)� This section does not 
+affect the right of a former spouse to assert an ownership interest in an 
+undivided multiple-party account described by subsection (b).
+
+ ���� (f)� This section does not 
+apply to the disposition of a beneficial interest in a retirement benefit or 
+other financial plan of a public retirement system.
+
+ ���� SECTION 29. � The 
+following shall be codified as Section 91-29-19, Mississippi Code of 1972:
+
+ ���� 91-29-19. � Determination of consanguinity. � (a)� Two 
+(2) individuals are related to each other by consanguinity if:
+
+ ��������� (1)� One (1) is a 
+descendant of the other; or
+
+ ��������� (2)� They share a 
+common ancestor.
+
+ ���� (b)� An adopted child is 
+considered to be a child of the adoptive parent for this purpose.
+
+ ���� SECTION 30. � The 
+following shall be codified as Section 91-29-29, Mississippi Code of 1972:
+
+ ���� 91-29-29. � Determination 
+of affinity. � (a)� Two (2) individuals are related to each other by 
+affinity if:
+
+ ��������� (1)� They are married 
+to each other; or
+
+ ��������� (2)� The spouse of one 
+(1) of the individuals is related by consanguinity to the other individual.
+
+ ���� (b)� The ending of a 
+marriage by divorce or the death of a spouse ends relationships by affinity 
+created by that marriage. 
+
+ ���� SECTION 31. � The 
+following shall be codified as Section 91-29-23, Mississippi Code of 1972:
+
+ ���� 91-29-23. � Pre-decree 
+designation of ex-spouse as beneficiary of life insurance. � (a)� If a 
+decree of divorce or annulment is rendered after an insured has designated the 
+insured's spouse as a beneficiary under a life insurance policy in force at the 
+time of rendition, a provision in the policy in favor of the insured's former 
+spouse is not effective unless:
+
+ ��������� (1)� The decree 
+designates the insured's former spouse as the beneficiary;
+
+ ��������� (2)� The insured 
+redesignates the former spouse as the beneficiary after rendition of the 
+decree; or
+
+ ��������� (3)� The former spouse 
+is designated to receive the proceeds in trust for, on behalf of, or for the 
+benefit of a child or a dependent of either former spouse.
+
+ ���� (b)� If a designation is not 
+effective under subsection (a), the proceeds of the policy are payable 
+to the named alternative beneficiary or, if there is not a named alternative 
+beneficiary, to the estate of the insured.
+
+ ���� (c)� An insurer who pays the 
+proceeds of a life insurance policy issued by the insurer to the beneficiary 
+under a designation that is not effective under subsection (a) is liable for 
+payment of the proceeds to the person or estate provided by subsection (b) only 
+if:
+
+ ��������� (1)� Before payment of 
+the proceeds to the designated beneficiary, the insurer receives written notice 
+at the home office of the insurer from an interested person that the 
+designation is not effective under subsection (a); and
+
+ ��������� (2)� The insurer has 
+not interpleaded the proceeds into the registry of a court of competent 
+jurisdiction in accordance with the Mississippi Rules of Civil Procedure.
+
+ ���� SECTION 32. � The 
+following shall be codified as Section 91-29-25, Mississippi Code of 1972:
+
+ ���� 91-29-25. � Pre-decree 
+designation of ex-spouse as beneficiary in retirement benefits and other 
+financial plans. � (a)� If a decree of divorce or annulment is rendered 
+after a spouse, acting in the capacity of a participant, annuitant, or account 
+holder, has designated the other spouse as a beneficiary under an individual 
+retirement account, employee stock option plan, stock option, or other form of 
+savings, bonus, profit-sharing, or other employer plan or financial plan of an 
+employee or a participant in force at the time of rendition, the designating 
+provision in the plan in favor of the other former spouse is not effective 
+unless:
+
+ ��������� (1)� The decree designates 
+the other former spouse as the beneficiary;
+
+ ��������� (2)� The designating 
+former spouse redesignates the other former spouse as the beneficiary after 
+rendition of the decree; or
+
+ ��������� (3)� The other former 
+spouse is designated to receive the proceeds or benefits in trust for, on 
+behalf of, or for the benefit of a child or dependent of either former spouse.
+
+ ���� (b)� If a designation is not 
+effective under subsection (a), the benefits or proceeds are payable to the 
+named alternative beneficiary or, if there is not a named alternative 
+beneficiary, to the designating former spouse.
+
+ ���� (c)� A business entity, 
+employer, pension trust, insurer, financial institution, or other person 
+obligated to pay retirement benefits or proceeds of a financial plan covered by 
+this section who pays the benefits or proceeds to the beneficiary under a 
+designation of the other former spouse that is not effective under subsection 
+(a) is liable for payment of the benefits or proceeds to the person provided by 
+subsection (b) only if:
+
+ ��������� (1)� Before payment of 
+the benefits or proceeds to the designated beneficiary, the payor receives 
+written notice at the home office or principal office of the payor from an 
+interested person that the designation of the beneficiary or fiduciary is not 
+effective under subsection (a); and
+
+ ��������� (2)� The payor has not 
+interpleaded the benefits or proceeds into the registry of a court of competent 
+jurisdiction in accordance with the Mississippi Rules of Civil Procedure.
+
+ ���� (d)� This section does not 
+affect the right of a former spouse to assert an ownership interest in an 
+undivided pension, retirement, annuity, or other financial plan described by 
+this section as provided by this chapter.
+
+ ���� (e)� This section does not 
+apply to the disposition of a beneficial interest in a retirement benefit or 
+other financial plan of a public retirement system as defined by Section 25-11-101 
+et seq.
+
+ ���� SECTION 33. � The 
+following shall be codified as Section 91-25-1, Mississippi Code of 1972:
+
+ ���� 91-25-1. � Short 
+title. � This chapter may be cited as the Mississippi Uniform Estate Tax 
+Apportionment Act.
+
+ ���� SECTION 34. � The 
+following shall be codified as Section 91-25-3, Mississippi Code of 1972:
+
+ ���� 91-25-3. � Definitions. � 
+In this chapter:
+
+ ��������� (1)� 
+"Apportionable estate" means the value of the gross estate as finally 
+determined for purposes of the estate tax to be apportioned reduced by:
+
+ ������������� (A)� Any claim or 
+expense allowable as a deduction for purposes of the tax; 
+
+ ������������� (B)� The value of 
+any interest in property that, for purposes of the tax, qualifies for a marital 
+or charitable deduction or otherwise is deductible or is exempt; and
+
+ ������������� (C)� Any amount 
+added to the decedent's gross estate because of a gift tax on transfers made 
+before death.
+
+ ��������� (2)� "Chancery 
+court" means the chancery court where the decedent's will is probated in 
+the State of Mississippi.
+
+ ��������� (3)� "Estate 
+tax" means a federal, state, or foreign tax imposed because of the death 
+of an individual and interest and penalties associated with the tax.� The term 
+does not include an inheritance tax, income tax, or generation-skipping 
+transfer tax other than a generation-skipping transfer tax incurred on a direct 
+skip taking effect at death.
+
+ ��������� (4)� "Gross 
+estate" means, with respect to an estate tax, all interests in property 
+subject to the tax.
+
+ ��������� (5)� "Person" 
+means an individual, corporation, business trust, estate, trust, partnership, 
+limited liability company, association, joint venture, public corporation, 
+government, governmental subdivision, agency, or instrumentality, or any other 
+legal or commercial entity.
+
+ ��������� (6)� 
+"Ratable"� means apportioned or allocated pro rata according to the 
+relative values of interests to which the term is to be applied.� 
+"Ratably" has a corresponding meaning.
+
+ ��������� (7)� "Time-limited 
+interest" means an interest in property which terminates on a lapse of 
+time or on the occurrence or nonoccurrence of an event or which is subject to 
+the exercise of discretion that could transfer a beneficial interest to another 
+person.� The term does not include a cotenancy unless the cotenancy itself is a 
+time-limited interest.� The term also does not include an interest in property 
+to the extent the beneficiary has the sole right to accelerate, require or 
+elect to receive a distribution of the property.
+
+ ��������� (8)� "Value" 
+means, with respect to an interest in property, fair market value as finally 
+determined for purposes of the estate tax that is to be apportioned, reduced by 
+any outstanding debt secured by the interest without reduction for taxes paid 
+or required to be paid or for any special valuation adjustment.
+
+ ���� SECTION 35. � The 
+following shall be codified as Section 91-25-5, Mississippi Code of 1972:
+
+ ���� 91-25-5. � Apportionment 
+by will or other dispositive instrument. � (a)� Except as otherwise provided 
+in subsection (c), the following rules apply:
+
+ ��������� (1)� To the extent that 
+a provision of a decedent's will expressly and unambiguously directs the 
+apportionment of an estate tax, the tax must be apportioned accordingly.
+
+ ��������� (2)� Any portion of an 
+estate tax not apportioned under paragraph (1) must be apportioned in accordance 
+with any provision of a revocable trust of which the decedent was the settlor 
+which expressly and unambiguously directs the apportionment of an estate tax.� 
+If conflicting apportionment provisions appear in two (2) or more revocable 
+trust instruments, the provision in the most recently dated instrument 
+prevails.� For purposes of this paragraph:
+
+ ������������� (A)� A trust is 
+revocable if it was revocable immediately after the trust instrument was 
+executed, even if the trust subsequently becomes irrevocable; and
+
+ ������������� (B)� The date of an 
+amendment to a revocable trust instrument is the date of the amended instrument 
+only if the amendment contains an apportionment provision.
+
+ ��������� (3)� If any portion of 
+an estate tax is not apportioned under paragraph (1) or (2), and a provision in 
+any other dispositive instrument expressly and unambiguously directs that any 
+interest in the property disposed of by the instrument is or is not to be 
+applied to the payment of the estate tax attributable to the interest disposed 
+of by the instrument, the provision controls the apportionment of the tax to 
+that interest.
+
+ ���� (b)� Subject to subsection 
+(c), and unless the decedent expressly and unambiguously directs the contrary, 
+the following rules apply:� 
+
+ ��������� (1)� If an 
+apportionment provision directs that a person receiving an interest in property 
+under an instrument is to be exonerated from the responsibility to pay an 
+estate tax that would otherwise be apportioned to the interest, the tax 
+attributable to the exonerated interest must be apportioned ratably among all 
+the other persons receiving interests in the apportionable estate that are not 
+exonerated from apportionment of the tax.
+
+ ��������� (2)� If an 
+apportionment provision directs that an estate tax is to be apportioned to an 
+interest in property a portion of which qualifies for a marital or charitable 
+deduction, the estate tax must first be apportioned ratably among the holders 
+of the portion that does not qualify for a marital or charitable deduction and 
+then apportioned ratably among the holders of the deductible portion to the 
+extent that the value of the nondeductible portion is insufficient.
+
+ ��������� (3)� Except as 
+otherwise provided in paragraph (4), if an apportionment provision directs that 
+an estate tax be apportioned to property in which one or more time-limited 
+interests exist, other than interests in specified property under Section 91-25-13, 
+the tax must be apportioned to the principal of that property, regardless of 
+the deductibility of some of the interests in that property.
+
+ ��������� (4)� If an apportionment 
+provision directs that an estate tax is to be apportioned to the holders of 
+interests in property in which one or more time-limited interests exist and a 
+charity has an interest that otherwise qualifies for an estate tax charitable 
+deduction, the tax must first be apportioned, to the extent feasible, to 
+interests in property that have not been distributed to the persons entitled to 
+receive the interests.� No tax shall be paid from a charitable remainder 
+annuity trust or charitable remainder unitrust described in Section 664 of the 
+Internal Revenue Code (26 U.S.C. Section 664) and created during the decedent's 
+life. 
+
+ ���� (c)� A provision that 
+apportions an estate tax is ineffective to the extent that it increases the tax 
+apportioned to a person having an interest in the gross estate over which the 
+decedent had no power to transfer immediately before the decedent executed the 
+instrument in which the apportionment direction was made.� For purposes of this 
+subsection, a testamentary power of appointment is a power to transfer the 
+property that is subject to the power.
+
+ ���� SECTION 36. � The 
+following shall be codified as Section 91-25-7, Mississippi Code of 1972:
+
+ ���� 91-25-7. � Statutory 
+apportionment of estate taxes. � To the extent that apportionment of an 
+estate tax is not controlled by an instrument described in Section 91-25-5 and 
+except as otherwise provided in Sections 91-25-11 and 91-25-13, the following 
+rules apply:
+
+ ��������� (1)� Subject to 
+paragraphs (2), (3) and (4), the estate tax is apportioned ratably to each person 
+that has an interest in the apportionable estate.
+
+ ��������� (2)� A generation-skipping 
+transfer tax incurred on a direct skip taking effect at death is charged to the 
+person to which the interest in property is transferred.
+
+ ��������� (3)� If property is 
+included in the decedent's gross estate because of Section 2044 of the Internal 
+Revenue Code of 1986 or any similar estate tax provision, the difference 
+between the total estate tax for which the decedent's estate is liable and the 
+amount of estate tax for which the decedent's estate would have been liable if 
+the property had not been included in the decedent's gross estate is 
+apportioned ratably among the holders of interests in the property.� The 
+balance of the tax, if any, is apportioned ratably to each other person having 
+an interest in the apportionable estate.
+
+ ��������� (4)� Except as 
+otherwise provided in Section 91-25-5(b)(4) and except as to property to which 
+Section 91-25-13 applies, an estate tax apportioned to persons holding 
+interests in property subject to a time-limited interest must be apportioned, 
+without further apportionment, to the principal of that property.
+
+ ���� SECTION 37. � The 
+following shall be codified as Section 91-25-9, Mississippi Code of 1972:
+
+ ���� 91-25-9. � Credits 
+and deferrals. � Except as otherwise provided in Sections 91-25-11 and 91-25-13, 
+the following rules apply to credits and deferrals of estate taxes:
+
+ ��������� (1)� A credit resulting 
+from the payment of gift taxes or from estate taxes paid on property previously 
+taxed inures ratably to the benefit of all persons to which the estate tax is 
+apportioned.
+
+ ��������� (2)� A credit for state 
+or foreign estate taxes inures ratably to the benefit of all persons to which 
+the estate tax is apportioned, except that the amount of a credit for a state 
+or foreign tax paid by a beneficiary of the property on which the state or 
+foreign tax was imposed, directly or by a charge against the property, inures 
+to the benefit of the beneficiary.
+
+ ��������� (3)� If payment of a 
+portion of an estate tax is deferred because of the inclusion in the gross 
+estate of a particular interest in property, the benefit of the deferral inures 
+ratably to the persons to which the estate tax attributable to the interest is 
+apportioned.� The burden of any interest charges incurred on a deferral of 
+taxes and the benefit of any tax deduction associated with the accrual or 
+payment of the interest charge is allocated ratably among the persons receiving 
+an interest in the property.
+
+ ���� SECTION 38. � The 
+following shall be codified as Section 91-25-11, Mississippi Code of 1972:
+
+ ���� 91-25-11. � Insulated 
+property; advancement of tax. � (a)� In this section:
+
+ ��������� (1)� "Advanced 
+fraction" means a fraction that has as its numerator the amount of the 
+advanced tax and as its denominator the value of the interests in insulated 
+property to which that tax is attributable.
+
+ ��������� (2)� "Advanced 
+tax" means the aggregate amount of estate tax attributable to interests in 
+insulated property which is required to be advanced by uninsulated holders 
+under subsection (c).
+
+ ��������� (3)� "Insulated 
+property" means property subject to a time-limited interest which is 
+included in the apportionable estate but is unavailable for payment of an 
+estate tax because of impossibility or impracticability.
+
+ ��������� (4)� "Uninsulated 
+holder" means a person who has an interest in uninsulated property.
+
+ ��������� (5)� "Uninsulated 
+property" means property included in the apportionable estate other than 
+insulated property.
+
+ ���� (b)� If an estate tax is to 
+be advanced under subsection (c) by persons holding interests in uninsulated 
+property subject to a time-limited interest other than property to which 
+Section 91-25-13 applies, the tax must be advanced, without further 
+apportionment, from the principal of the uninsulated property.
+
+ ���� (c)� Subject to Section 91-25-17(b) 
+and (d), an estate tax attributable to interests in insulated property must be 
+advanced ratably by uninsulated holders.� If the value of an interest in 
+uninsulated property is less than the amount of estate taxes otherwise required 
+to be advanced by the holder of that interest, the deficiency must be advanced 
+ratably by the persons holding interests in properties that are excluded from 
+the apportionable estate under Section 91-25-3(1)(B) as if those interests were 
+in uninsulated property.
+
+ ���� (d)� A court having 
+jurisdiction to determine the apportionment of an estate tax may require a 
+beneficiary of an interest in insulated property to pay all or part of the 
+estate tax otherwise apportioned to the interest if the court finds that it 
+would be substantially more equitable for that beneficiary to bear the tax 
+liability personally than for that part of the tax to be advanced by 
+uninsulated holders.
+
+ ���� (e)� When a distribution of 
+insulated property is made, each uninsulated holder may recover from the 
+distributee a ratable portion of the advanced fraction of the property 
+distributed.� To the extent that undistributed insulated property ceases to be 
+insulated, each uninsulated holder may recover from the property a ratable 
+portion of the advanced fraction of the total undistributed property.
+
+ ���� (f)� Upon payment by an 
+uninsulated holder of estate tax required to be advanced, a court may require 
+the beneficiary of an interest in insulated property to provide a bond or other 
+security, including a recordable lien on the property of the beneficiary, for 
+repayment of the advanced tax. 
+
+ ���� SECTION 39. � The 
+following shall be codified as Section 91-25-13, Mississippi Code of 1972:
+
+ ���� 91-25-13. � Apportionment 
+and recapture of special elective benefits. � (a)� In this section:
+
+ ��������� (1)� "Special 
+elective benefit" means a reduction in an estate tax obtained by an 
+election for:
+
+ ������������� (A)� A reduced 
+valuation of specified property that is included in the gross estate;
+
+ ������������� (B)� A deduction 
+from the gross estate, other than a marital or charitable deduction, allowed 
+for specified property; or
+
+ ������������� (C)� An exclusion 
+from the gross estate of specified property.
+
+ ��������� (2)� "Specified 
+property" means property for which an election has been made for a special 
+elective benefit.
+
+ ���� (b)� If an election is made 
+for one or more special elective benefits, an initial apportionment of a 
+hypothetical estate tax must be computed as if no election for any of those 
+benefits had been made.� The aggregate reduction in estate tax resulting from 
+all elections made must be allocated among holders of interests in the specified 
+property in the proportion that the amount of deduction, reduced valuation, or 
+exclusion attributable to each holder's interest bears to the aggregate amount 
+of deductions, reduced valuations, and exclusions obtained by the decedent's 
+estate from the elections.� If the estate tax initially apportioned to the 
+holder of an interest in specified property is reduced to zero, any excess 
+amount of reduction reduces ratably the estate tax apportioned to other persons 
+that receive interests in the apportionable estate.
+
+ ���� (c)� An additional estate 
+tax imposed to recapture all or part of a special elective benefit must be 
+charged to the persons that are liable for the additional tax under the law 
+providing for the recapture.
+
+ ���� SECTION 40. � The 
+following shall be codified as Section 91-25-15, Mississippi Code of 1972:
+
+ ���� 91-25-15. � Securing 
+payment of estate tax from property in possession of fiduciary. � (a)� A 
+fiduciary may defer a distribution of property until the fiduciary is satisfied 
+that adequate provision for payment of the estate tax has been made.
+
+ ���� (b)� A fiduciary may 
+withhold from a distributee an amount equal to the amount of estate tax 
+apportioned to an interest of the distributee and the estate tax required to be 
+advanced by the distributee.
+
+ ���� (c)� As a condition to a 
+distribution, a fiduciary may require the distributee to provide a bond or 
+other security for the portion of the estate tax apportioned to the distributee 
+and also for the estate tax required to be advanced by the distributee.
+
+ ���� SECTION 41. � The 
+following shall be codified as Section 91-25-17, Mississippi Code of 1972:
+
+ ���� 91-25-17. � Collection 
+of estate tax by fiduciary. � (a)� A fiduciary responsible for payment of an 
+estate tax may collect from any person the estate tax apportioned to and the 
+tax required to be advanced by the person.
+
+ ���� (b)� Except as otherwise 
+provided in Section 27-10-61, any estate tax due from a person that cannot be 
+collected from the person may be collected by the fiduciary from other persons 
+in the following order of priority:
+
+ ��������� (1)� Any person having 
+an interest in the apportionable estate which is not exonerated from the tax;
+
+ ��������� (2)� Any other person 
+having an interest in the apportionable estate; or
+
+ ��������� (3)� Any person having 
+an interest in the gross estate.
+
+ ���� (c)� A domiciliary fiduciary 
+may recover from an ancillary personal representative the estate tax 
+apportioned to the property controlled by the ancillary personal 
+representative.
+
+ ���� (d)� The total tax collected 
+from a person under this act may not exceed the value of the person's interest.
+
+ ���� SECTION 42. � The 
+following shall be codified as Section 91-25-19, Mississippi Code of 1972:
+
+ ���� 91-25-19. � Right 
+of reimbursement. � (a)� A person required under Section 91-25-17 to pay an 
+estate tax greater than the amount due from the person under Section 91-25-5 or 
+91-25-7 has a right to reimbursement from another person to the extent that the 
+other person has not paid the tax required by Section 91-25-5 or 91-25-7 and a 
+right to reimbursement ratably from other persons to the extent that each has 
+not contributed a portion of the amount collected under Section 91-25-17(b).� 
+The right to reimbursement includes the right to receive interest on the amount 
+of the estate tax payment from the date of the payment to the date of 
+reimbursement at the interest rate that would be charged during such period on 
+an estate tax deficiency by the taxing authority that imposed the estate tax.� 
+The right of reimbursement also includes the reasonable costs of collection, 
+including attorney's fees.
+
+ ���� (b)� A fiduciary may enforce 
+the right of reimbursement under subsection (a) on behalf of the person that is 
+entitled to the reimbursement and shall take reasonable steps to do so if 
+requested by the person.
+
+ ���� SECTION 43. � The 
+following shall be codified as Section 91-25-21, Mississippi Code of 1972:
+
+ ���� 91-25-21. � Action 
+to determine or enforce act. �(a)� The chancery court has jurisdiction and 
+all power necessary to make the prorations and the orders directing the payment 
+of amounts of tax contemplated by this chapter.
+
+ ���� (b)� Such jurisdiction may 
+be invoked by petition filed in the chancery court by an executor, 
+administrator, temporary administrator, trustee or other person acting in a 
+fiduciary capacity, transferee, beneficiary of the gross estate, or any other 
+person having such an interest as may in the judgment of the chancery court 
+entitle such person to file such a petition.
+
+ ���� (c)� The chancery court, 
+upon making a determination as provided in this chapter, shall make a decree or 
+order directing the executor, administrator or other fiduciary to charge the 
+prorated amounts against the persons against whom the tax has been so prorated, 
+insofar as such person is in possession of property or interests of such 
+persons against whom such charge has been made, and summarily directing all 
+other persons against whom the tax has been so prorated or who are in 
+possession of property or interests of such persons to make payment of such 
+prorated amounts to such executor, administrator or other fiduciary or to 
+another person who has paid such tax.
+
+ ���� SECTION 44. � The 
+following shall be codified as Section 91-25-23, Mississippi Code of 1972:
+
+ ���� 91-25-23. � Uniformity 
+of application and construction. �In applying and construing this chapter, 
+consideration must be given to the need to promote uniformity of the law with 
+respect to its subject matter among states that enact it.
+
+ ���� SECTION 45. � The 
+following shall be codified as Section 91-25-25, Mississippi Code of 1972:
+
+ ���� 91-25-25. � Severability. 
+�If any provision of this chapter or the application thereof to any person or 
+circumstance is held invalid, the invalidity does not affect other provisions 
+or applications of this chapter which can be given effect without the invalid 
+provision or application, and to this end the provisions of this chapter are 
+severable.
+
+ ���� SECTION 46. � The 
+following shall be codified as Section 91-25-27, Mississippi Code of 1972:
+
+ ���� 91-25-27. � Delayed 
+application. � (a)� This chapter does not apply to the estate of a decedent 
+who dies on or within one (1) year after the effective date of this act, nor 
+with respect to a decedent who dies more than one (1) year after the effective 
+date of this act, if the decedent continuously lacked testamentary capacity 
+from the expiration of the one-year period until the date of death.
+
+ ���� (b)� With respect to a 
+decedent who dies on or after the effective date of this act, to whom this 
+chapter does not apply, estate taxes must be apportioned under the law in 
+effect on the day before the effective date of this act.
+
+ ���� (c)� Notwithstanding the 
+provisions of subsection (a) and (b), this chapter applies with respect to a 
+decedent to whom the provisions would not otherwise apply if the decedent 
+expressly and unambiguously directs that the provisions shall apply to such 
+decedent.
+
+ ���� SECTION 
+47. � The following shall be codified as Section 91-7-501 Mississippi Code 
+of 1972:
+
+ 91-7-501. � As used in this act:
+
+ ���� (1)� "Local administration" means administration by a 
+personal representative appointed in this state pursuant to appointment 
+proceedings.
+
+ ���� (2)� "Personal representative" means an executor, an 
+administrator with or without the will annexed, or other representative 
+authorized in a court of competent jurisdiction to conduct an estate 
+administration.
+
+ ���� (3)� "Local personal representative" includes any personal 
+representative appointed in this state by appointment proceedings and excludes 
+foreign personal representatives who acquire the power of a local personal 
+representative under Section 91-7-509.
+
+ ���� (4)� "Resident creditor" means a person domiciled in, or 
+doing business in this state, who is, or could be, a claimant against an estate 
+of a nonresident decedent.
+
+ ���� (5)� "Foreign personal representative" means a personal 
+representative appointed by another jurisdiction.
+
+ ���� SECTION 
+48. � The following shall be codified as Section 91-7-503, Mississippi Code 
+of 1972:
+
+ ���� 91-7-503. � 
+At any time after the expiration of sixty (60) days from the death of a 
+nonresident decedent, any person indebted to the estate of the nonresident 
+decedent or having possession or control of personal property, or of an 
+instrument evidencing a debt, obligation, stock or chose in action belonging to 
+the estate of the nonresident decedent may pay the debt, deliver the personal 
+property, or the instrument evidencing the debt, obligation, stock or chose in 
+action, to the domiciliary foreign personal representative of the nonresident 
+decedent upon being presented with proof of his appointment, including the 
+admitted will and letters testamentary or letters of administration or 
+substantial equivalent, authenticated under the Acts of Congress under 28 
+U.S.C.A. Section 1739, and an affidavit made by or on behalf of the personal 
+representative stating:
+
+ ��������� (1)� 
+The date of the death of the nonresident decedent;
+
+ ��������� (2)� 
+That no local administration, or application or petition therefor, is pending 
+in this state; and
+
+ ��������� (3)� 
+That the domiciliary foreign personal representative is entitled to payment or 
+delivery.
+
+ ���� SECTION 
+49. �The following shall be codified as Section 91-7-505, Mississippi Code 
+of 1972:
+
+ ���� 91-7-505. � 
+Payment or delivery made in good faith on the basis of the proof of authority, 
+including the admitted will and letters testamentary or letters of 
+administration or substantial equivalent, authenticated under the Acts of 
+Congress under 28 U.S.C.A. Section 1739, and affidavit releases the debtor or 
+person having possession of the personal property to the same extent as if 
+payment or delivery had been made to a local personal representative.
+
+ ���� SECTION 
+50. � The following shall be codified as Section 91-7-507, Mississippi Code 
+of 1972:
+
+ ���� 91-7-507. � 
+Payment or delivery under Section 91-7-503 may not be made if a resident 
+creditor of the nonresident decedent has notified the debtor of the nonresident 
+decedent or the person having possession of the personal property belonging to 
+the nonresident decedent that the debt should not be paid nor the property 
+delivered to the domiciliary foreign personal representative.
+
+ ���� SECTION 
+51. � The following shall be codified as Section 91-7-509, Mississippi Code 
+of 1972:
+
+ ���� 91-7-509. � 
+If no local administration or application or petition therefor is pending in 
+this state, a domiciliary foreign personal representative may file with a court 
+in this state in a county in which property belonging to the decedent is 
+located, authenticated copies of his appointment, including the admitted will 
+and letters testamentary or letters of administration or substantial 
+equivalent, authenticated under the Acts of Congress under 28 U.S.C.A. Section 
+1739, and any official bond he has given.� A domiciliary foreign personal 
+representative is subject to the estate administration requirements and 
+obligations set forth in Title 91, Chapter 7, Mississippi Code of 1972.
+
+ ���� SECTION 
+52. � The following shall be codified as Section 91-7-511, Mississippi Code 
+of 1972:
+
+ ���� 91-7-511. � 
+A domiciliary foreign personal representative who has complied with Section 91-7-509 
+may exercise as to assets in this state all powers of a local personal 
+representative, and may maintain actions and proceedings in this state subject 
+to any conditions imposed upon nonresident parties generally.
+
+ ���� SECTION 
+53. � The following shall be codified as Section 91-7-513, Mississippi Code 
+of 1972:
+
+ ���� 91-7-513. � 
+The power of a domiciliary foreign personal representative under Section 91-7-503 
+or Section 91-7-511 shall be exercised only if there is no administration or 
+application therefor pending in this state.� An application or petition for 
+local administration of the estate terminates the power of the foreign personal 
+representative to act under Section 91-7-509, but the local court may allow the 
+foreign personal representative to exercise limited powers to preserve the 
+estate.� A person who, before receiving actual notice of a pending local 
+administration, has changed his position in reliance upon the powers of a foreign 
+personal representative shall not be prejudiced by reason of the application or 
+petition for, or grant of, local administration.� The local personal 
+representative is subject to all duties and obligations which have accrued by 
+virtue of the exercise of the powers by the foreign personal representative and 
+may be substituted for him in any action or proceedings in this state.
+
+ ���� SECTION 
+54. �The following shall be codified as Section 91-7-515, Mississippi Code 
+of 1972:
+
+ ���� 91-7-515. � 
+In respect to a nonresident decedent, the provisions of this chapter govern:
+
+ ���� (1)� Proceedings, if any, in a court of this state for probate of 
+the will, appointment, removal, supervision, and discharge of the local 
+personal representative, and any other order concerning the estate; and
+
+ ���� (2)� The status, powers, duties and liabilities of any local 
+personal representative and the rights of claimants, purchasers, distributees 
+and others in regard to a local administration.
+
+ ���� SECTION 
+55. � The following shall be codified as Section 91-7-517, Mississippi Code 
+of 1972:
+
+ ���� 91-7-517. � 
+A foreign personal representative submits personally to the jurisdiction of the 
+courts of this state in any proceeding relating to the estate by:� (1) filing 
+authenticated copies of his appointment as provided in Section 91-7-509; or (2) 
+receiving payment of money or taking delivery of personal property under 
+Section 91-7-503; or (3) doing any act as a personal representative in this 
+state that would have given the state jurisdiction over him as an individual.� 
+Jurisdiction under paragraph (1) is limited to the money or value of personal 
+property collected.
+
+ ���� SECTION 
+56. �The following shall be codified as Section 91-7-519, Mississippi Code 
+of 1972:
+
+ ���� 91-7-519. � 
+In addition to jurisdiction conferred by Section 91-7-515, a foreign personal 
+representative is subject to the jurisdiction of the courts of this state to 
+the same extent that his decedent was subject to jurisdiction immediately 
+before death.
+
+ ���� SECTION 
+57. � The following shall be codified as Section 91-7-521, Mississippi Code 
+of 1972:
+
+ ���� 91-7-521. � 
+(a)� Service of process may be made upon the foreign personal representative by 
+registered or certified mail, addressed to his last reasonably ascertainable 
+address, requesting a return receipt signed by addressee only.� Notice by 
+ordinary first-class mail is sufficient if registered or certified mail service 
+to the addressee is unavailable.� Service may be made upon a foreign personal 
+representative in the manner in which service could have been made under other 
+laws of this state on either the foreign personal representative or his 
+decedent immediately before death.
+
+ ���� (b)� If 
+service is made upon a foreign personal representative as provided in 
+subsection (a), he shall be allowed at least thirty (30) days within which to 
+appear or respond.
+
+ ���� SECTION 
+58. � The following shall be codified as Section 91-7-523, Mississippi Code 
+of 1972:
+
+ ���� 91-7-523. � 
+An adjudication rendered in any jurisdiction in favor of or against any foreign 
+personal representative of the estate is as binding on the local personal 
+representative as if he were a party to the adjudication.
+
+ ���� SECTION 59. � The 
+following shall be codified as Section 91-8-501, Mississippi Code of 1972:
+
+ ���� 91-8-501. � Application 
+of Article 5; rights of beneficiary's creditor or assignee. � This Article 5 
+applies to a creditor's or assignee's claims and ability to reach mandatory, 
+support and discretionary interests regardless of whether such interests are 
+subject to a spendthrift provision.� To the extent not otherwise prohibited by 
+this Article 5, the court may authorize a creditor or assignee of the 
+beneficiary to reach the beneficiary's distribution interest by attachment of 
+present or future distributions to or for the benefit of the beneficiary or 
+other means.� The court may limit the award to such relief as is appropriate 
+under the circumstances.
+
+ ���� SECTION 60. � The 
+following shall be codified as Section 91-8-502, Mississippi Code of 1972:
+
+ ���� 91-8-502. � Spendthrift 
+provision. � (a)� Except as provided in Section 91-8-505, if the trust 
+instrument provides that a beneficiary's interest in a trust is not subject to 
+voluntary or involuntary transfer, the beneficiary's interest in the trust may 
+not be transferred and is not subject to the enforcement of a money judgment 
+until paid to the beneficiary.
+
+ ���� (b)� A term of a trust 
+providing that the interest of a beneficiary is held subject to a 
+"spendthrift trust," or words of similar import, is sufficient to 
+restrain both voluntary and involuntary transfer of the beneficiary's interest.
+
+ ���� (c)� A spendthrift provision 
+applies to all beneficial interests, including distribution interests whether 
+with respect to income or principal or both, and remainder interests.
+
+ ���� (d)� A beneficiary may not 
+transfer an interest in a trust in violation of a valid spendthrift provision, 
+and a creditor or assignee of the beneficiary may not reach the interest or a 
+present, future or prospective distribution by the trustee before its receipt 
+by the beneficiary.� Similarly, a creditor or assignee of the beneficiary may 
+not force a distribution from the trust.� This subsection (d) remains 
+applicable regardless of the beneficiary's potential right to force a 
+distribution under Section 91-8-814.
+
+ ���� (e)� Notwithstanding any 
+other provision of this section to the contrary or whether a beneficiary has an 
+outstanding creditor, a trustee, cotrustee, or other fiduciary of a trust 
+subject to a spendthrift provision may directly pay any expense on behalf of 
+the beneficiary and may exhaust the income and principal of the trust for the 
+benefit of the beneficiary.� A trustee, cotrustee or other fiduciary is not 
+liable to any creditor for paying the expenses of a beneficiary under a trust 
+subject to a spendthrift provision.� This subsection (e) remains applicable 
+whether the beneficiary for whom the direct payment was made held a mandatory, 
+support, discretionary or remainder interest.
+
+ ���� SECTION 61. � The 
+following shall be codified as Section 91-8-503, Mississippi Code of 1972:
+
+ ���� 91-8-503. � Discretionary 
+interests; effect thereof. � (a)� A discretionary interest is neither a 
+property interest nor an enforceable right; it is a mere expectancy.
+
+ ���� (b)� Relative to a 
+discretionary interest, whether or not a trust contains a spendthrift 
+provision:
+
+ ��������� (1)� A creditor or 
+assignee cannot force or otherwise reach a distribution with regard to a 
+discretionary interest;
+
+ ��������� (2)� A creditor or 
+assignee cannot require a trustee, cotrustee or other fiduciary to exercise the 
+trustee's, cotrustee's or other fiduciary's discretion to make a distribution 
+with regard to a discretionary interest;
+
+ ��������� (3)� Whether or not a 
+beneficiary has any outstanding creditors or assignees, a trustee, cotrustee or 
+other fiduciary of a discretionary interest may directly pay any expense on 
+behalf of the beneficiary and may exhaust the income and principal of the trust 
+for the benefit of the beneficiary;
+
+ ��������� (4)� A trustee, 
+cotrustee or other fiduciary is not liable to any creditor or assignee for 
+paying the expenses of a beneficiary of a discretionary interest;
+
+ ��������� (5)� (A)� Whether or 
+not a beneficiary holding a discretionary interest is also a trustee, cotrustee 
+or other fiduciary, subsections (b)(1) through (4) remain applicable if:
+
+ ������������������ (i)� The 
+beneficiary-fiduciary does not have the discretion to make or participate in 
+making distributions to such beneficiary-fiduciary;
+
+ ������������������ (ii)� The 
+beneficiary-fiduciary's discretion to make or participate in making 
+distributions to such beneficiary-fiduciary is limited by an ascertainable 
+standard; or
+
+ ������������������ (iii)� The 
+beneficiary-fiduciary's discretion to make or participate in making 
+distributions to such beneficiary-fiduciary is exercisable only with the 
+consent of a cotrustee or another person holding an adverse interest.
+
+ ������������� (B)� A creditor or 
+assignee may compel or otherwise reach a distribution only to the extent the 
+creditor or assignee may compel or otherwise reach a distribution if the 
+beneficiary was not acting as a trustee, cotrustee or other fiduciary.
+
+ ���� SECTION 62. � The 
+following shall be codified as Section 91-8-504, Mississippi Code of 1972:
+
+ ���� 91-8-504. � Creditors' 
+claims against settlor. � (a)� Whether or not the terms of a trust contain a 
+spendthrift provision, the following rules apply:
+
+ ��������� (1)� During the 
+lifetime of the settlor, the property of a revocable trust is subject to claims 
+of the settlor's creditors.
+
+ ��������� (2)� Except as provided 
+in the Mississippi Qualified Disposition in Trust Act and subsections (a)(3) 
+through (5) regarding an irrevocable special needs trust, a creditor or 
+assignee of the settlor of an irrevocable trust may reach the maximum amount 
+that can be distributed to or for the settlor's benefit.� If a trust has more 
+than one (1) settlor, the amount the creditor or assignee of a particular 
+settlor may reach may not exceed the settlor's interest in the portion of the 
+trust attributable to that settlor's contribution.
+
+ ��������� (3)� For the purposes 
+of this section, "irrevocable special needs trust" means an 
+irrevocable trust established for the benefit of one or more disabled persons, 
+which includes, but is not limited to, an individual who is disabled as defined 
+in 42 U.S.C. Section 1382c(a), as well as an individual who is disabled as 
+defined in any similar federal, state or other jurisdictional law or 
+regulation, or has a condition that is substantially equivalent to one that 
+qualifies the person as disabled under such a provision, even if not officially 
+found to be disabled by a governmental body, if one (1) of the purposes of the 
+trust, expressed in the trust instrument or implied from the trust instrument, 
+is to allow the disabled person to qualify or continue to qualify for public, 
+charitable or private benefits that might otherwise be available to the 
+disabled person.� The existence of one or more nondisabled remainder 
+beneficiaries of the trust does not disqualify it as an irrevocable special needs 
+trust for the purposes of this section.
+
+ ��������� (4)� A creditor or 
+assignee of the settlor of an irrevocable special needs trust, as defined in 
+subsection (a)(3), may not reach or compel distributions from the special needs 
+trust, to or for the benefit of the settlor of the special needs trust, or 
+otherwise, whether or not the irrevocable special needs trust complies with, 
+and irrespective of the requirements of, the Mississippi Qualified Disposition 
+in Trust Act.
+
+ ��������� (5)� Notwithstanding 
+any law to the contrary, neither a creditor nor any other person shall have any 
+claim or cause of action against the trustee or other fiduciary, or an advisor 
+of an irrevocable special needs trust.� For purposes of this subsection (a)(5), 
+an advisor of an irrevocable special needs trust includes any person involved 
+in the counseling, drafting, preparation, execution or funding of an 
+irrevocable special needs trust.
+
+ ��������� (6)� After the death of 
+a settlor, and subject to the settlor's right to direct the source from which 
+liabilities will be paid, the property of a trust that was revocable 
+immediately preceding the settlor's death is subject to claims of the settlor's 
+creditors, costs of administration of the settlor's estate, and the expenses of 
+the settlor's funeral and disposal of remains subject to the following:
+
+ ������������� (A)� With respect 
+to claims, expenses, and taxes in connection with the settlement of the 
+settlor's estate, any claim of a creditor that would be barred against the 
+fiduciary of a settlor's estate, the estate of the settlor, or any creditor or 
+beneficiary of the settlor's estate shall be barred against the trust property 
+of a trust that was revocable at the settlor's death, the trustee of the 
+revocable trust, and the creditors and beneficiaries of the trust.
+
+ ������������� (B)� Unless a 
+personal representative of the settlor's estate has been appointed or an 
+application or petition for appointment of a personal representative of the 
+settlor's estate is pending, the trustee at any time may give notice to any 
+person the trustee has reason to believe may have a claim against the settlor 
+at death, at the claimant's last known address.� The notice shall contain the 
+name and address of the trustee to whom the claim must be presented and provide 
+information that failure to present the claim to the trustee within ninety (90) 
+days of the date of the notice will forever bar the claim.� If the person fails 
+to present the claim in writing within ninety (90) days from the date of the 
+notice, then the person is forever barred from asserting or recovering on the 
+claim from the trustee, the trust property and the creditors and beneficiaries 
+of the trust.� A person who presents a claim on or before the date specified in 
+the notice may not later increase the claim following the expiration of the 
+ninety-day period.
+
+ ������������� (C)� Unless a 
+personal representative of the settlor's estate has been appointed or an 
+application or petition for appointment of a personal representative of the 
+settlor's estate is pending, a trustee may also publish in some newspaper in the 
+county of the decedent's last residence a notice requiring all persons having 
+unknown claims against the settlor to present their claims to the trustee, 
+which notice shall state that failure to present the claim to the trustee 
+within ninety (90) days of the date after the first publication of the notice 
+will forever bar the claim.� The notice must be published for three (3) 
+consecutive weeks, and proof of publication must be maintained with the books 
+and records of the trust.� If a person fails to present a claim in writing 
+within ninety (90) days from the date of first publication, that person shall 
+be forever barred from asserting or recovering on the claim from the trustee, 
+the trust property and the creditors and beneficiaries of the trust.� A person 
+who presents a claim on or before ninety (90) days from first publication may 
+not later increase the claim following the expiration of the ninety-day period.
+
+ ������������� (D)� In addition to 
+subsection (a)(6)(B) and (a)(6)(C), if a claim is not presented in writing to 
+the personal representative of the settlor's estate or to the trustee:� (i) 
+within six (6) months from the date of the appointment of the initial personal 
+representative of the settlor's estate; or (ii) if no personal representative 
+is appointed within six (6) months from the settlor's date of death and a claim 
+is not presented in writing to the trustee within six (6) months from the 
+settlor's date of death, a trustee is not chargeable for any assets that the 
+trustee may pay or distribute in good faith in satisfaction of any lawful 
+claims, expenses, or taxes or to any beneficiary before the claim was 
+presented.� A payment or distribution of assets by a trustee is deemed to have 
+been made in good faith unless the creditor can prove that the trustee had actual 
+knowledge of the claim at the time of the payment or distribution.� The six-month 
+period shall not be interrupted or affected by the death, resignation, or 
+removal of a trustee, except that the time during which there is no trustee in 
+office shall not be counted as part of the period.
+
+ ������������� (E)� A claim 
+presented to the trustee under subsection (a)(6)(B) or (a)(6)(C) must contain 
+substantially the same information as required in Section 91-7-149.
+
+ ������������� (F)� The provisions 
+of Section 91-7-261 detailing the priority of payment of claims, expenses, and 
+taxes from the probate estate of a decedent apply to a revocable trust to the 
+extent the assets of the settlor's probate estate are inadequate and the 
+personal representative or creditor or taxing authority of the settlor's estate 
+has perfected its right to collect from the settlor's revocable trust.
+
+ ������������� (G)� If a personal 
+representative has been appointed for the settlor's estate, assets of the trust 
+shall abate pari passu with assets of the settlor's estate.� If no personal 
+representative has been appointed for the settlor's estate, assets of the trust 
+shall abate in the same order of preference as would apply to a decedent's 
+estate.
+
+ ������������� (H)� Nothing in 
+this paragraph (6) obligates a trustee to seek appointment of a personal 
+representative of a settlor's estate, and a trustee is not liable to any 
+beneficiary or other third party for failure to do so.
+
+ ���� (b)� For purposes of this 
+section during the period a power of withdrawal may be exercised or upon the 
+lapse, release, or waiver of the power, the holder is treated as the settlor of 
+the trust only to the extent the value of the property affected by the lapse, 
+release, or waiver exceeds the greater of:
+
+ ��������� (1)� The amount 
+specified in Section 2041(b)(2) or 2514(e) of the Internal Revenue Code of 1986 
+(26 U.S.C. Section 2041(b)(2) and Section 2514(e));
+
+ ��������� (2)� If the donor of 
+the property subject to holder's power of withdrawal is not married at the time 
+of the transfer of property to the trust, the amount specified in Section 
+2503(b) of the Internal Revenue Code of 1986 (26 U.S.C. Section 2503(b)); or
+
+ ��������� (3)� If the donor of 
+the property subject to holder's power of withdrawal is married at the time of 
+the transfer of property to the trust, twice the amount specified in Section 
+2503(b) of the Internal Revenue Code of 1986 (26 U.S.C. Section 2503(b)).
+
+ ��������� (4)� A power to 
+withdraw is not considered to exceed the greater of the amounts specified in 
+subsection (b)(1) through (3) if the amount subject to a withdrawal right 
+granted to the holder in any calendar year does not exceed the greater of such 
+amounts even if the total amount subject to the holder's power to withdraw 
+exceeds the greater of such amounts in any subsequent calendar year.
+
+ ��������� (5)� Except to the 
+extent provided in this subsection (b), a person who is the holder of a power 
+of withdrawal is not considered a settlor of the trust by failing to exercise 
+the power of withdrawal, releasing the power of withdrawal, or waiving the 
+power of withdrawal.
+
+ ���� (c)� For purposes of subsection 
+(a)(2), the following are not considered an amount that may be distributed to 
+or for the settlor's benefit:
+
+ ��������� (1)� The power of a 
+trustee of an irrevocable trust, whether arising under the trust agreement or 
+any other provision of law, to make a distribution to or for the benefit of a 
+settlor for the purpose of reimbursing the settlor in an amount equal to any 
+income taxes payable on any portion of the trust principal and income that are 
+includable in the settlor's personal income under applicable law, as well as 
+distributions made by the trustee under such authority; and
+
+ ��������� (2)� The power of the 
+settlor to exercise any of the powers described in Section 675 of the Internal 
+Revenue Code of 1986 (26 U.S.C. Section 675).
+
+ ���� (d)� Property contributed to 
+the following trusts is not considered to have been contributed by the settlor, 
+and a person who would otherwise be treated as a settlor or deemed settlor of 
+the following trusts may not be treated as a settlor:
+
+ ��������� (1)� An irrevocable 
+inter vivos marital trust if:
+
+ ������������� (A)� The settlor is 
+a beneficiary of the trust after the death of the settlor's spouse; and
+
+ ������������� (B)� The trust is 
+treated as:
+
+ ������������������ (i)� Qualified 
+terminable interest property under Section 2523(f), Internal Revenue Code of 
+1986;   or
+
+ ������������������ (ii)� A general 
+power of appointment trust under Section 2523(e), Internal Revenue Code of 
+1986;
+
+ ��������� (2)� An irrevocable 
+inter vivos trust of which the settlor's spouse is a beneficiary if the settlor 
+is a beneficiary of the trust after the death of the settlor's spouse;   or
+
+ ��������� (3)� An irrevocable 
+trust for the benefit of any person to the extent that the property of the 
+trust was subject to a power of appointment in another person, whether the 
+settlor's interest was created by the lapse or exercise of such power.
+
+ ���� The effect of this 
+subsection (d) shall be that the power of a trustee, and any benefit resulting 
+to the settlor, whether arising under the trust agreement or any other 
+provision of the law, to make a distribution to or for the benefit of a settlor 
+or to otherwise permit the settlor to use or benefit from trust property 
+following the death of the settlor's spouse, shall not be considered an amount 
+that may be distributed to or for the settlor's benefit for purposes of 
+subsection (a)(2).
+
+ ���� (e)� A beneficiary is not considered 
+to be a settlor, to have made a voluntary or involuntary transfer of the 
+beneficiary's interest in the trust, or to have the power to make a voluntary 
+or involuntary transfer of the beneficiary's interest in the trust, merely 
+because the beneficiary holds, exercises, waives, releases, or allows to lapse:
+
+ ��������� (1)� A presently 
+exercisable power to:
+
+ ������������� (A)� Consume, 
+invade, appropriate, or distribute property to or for the benefit of the 
+beneficiary, if the power is:
+
+ ������������������ (i)� 
+Exercisable only on consent of another person holding an interest adverse to 
+the beneficiary's interest;   or
+
+ ������������������ (ii)� Limited 
+by an ascertainable standard, including health, education, support, or 
+maintenance of the beneficiary;   or
+
+ ������������� (B)� Appoint any 
+property of the trust to or for the benefit of a person other than the 
+beneficiary, a creditor of the beneficiary, the beneficiary's estate, or a 
+creditor of the beneficiary's estate;
+
+ ��������� (2)� A testamentary 
+power of appointment; or
+
+ ��������� (3)� A presently 
+exercisable right described by subsection (b).
+
+ ���� (f)� For purposes of 
+subsection (a)(2) and subsection (g), a person who becomes a beneficiary of a 
+trust due to the exercise of a power of appointment by someone other than such 
+person shall not be considered a settlor of the trust.
+
+ ���� (g)� (1)� Notwithstanding 
+Section 15-3-115, no person shall bring an action with respect to a transfer of 
+property to a spendthrift trust if the person is a creditor when the transfer 
+is made, unless the action is commenced within the later of two (2) years after 
+the transfer is made or six (6) months after the person discovers or reasonably 
+should have discovered the transfer; and
+
+ ��������� (2)� If subsection 
+(g)(1) applies:
+
+ ������������� (A)� A person is 
+deemed to have discovered the existence of a transfer at the time any public record 
+is made of the transfer, including, but not limited to, a conveyance of real 
+property that is recorded in the office of the county register of deeds of the 
+county in which the property is located or the filing of a financing statement 
+Uniform Commercial Code, or the equivalent recording or filing of either with 
+the appropriate person or official under the laws of a jurisdiction other than 
+this state;
+
+ ������������� (B)� A creditor 
+cannot bring an action with respect to a transfer of property to a spendthrift 
+trust unless that creditor proves by clear and convincing evidence that the 
+settlor's transfer to the trust was made with the intent to defraud that 
+specific creditor; and
+
+ ������������������ (i)� 
+Notwithstanding any law to the contrary, a creditor or any other person does not 
+have a claim or cause of action against the trustee, other fiduciary, or an 
+advisor of a spendthrift trust if that claim or cause of action is based in any 
+way on any person making use of the benefits of this subsection (g);
+
+ ������������������ (ii)� For 
+purposes of subsection (g)(2)(B), an advisor of a spendthrift trust includes, 
+but is not limited to, any person involved in the counseling, drafting, 
+preparation, execution or funding of a spendthrift trust;
+
+ ������������������ (iii)� For 
+purposes of subsection (g)(2)(B)(i), counseling, drafting, preparation, 
+execution or funding of a spendthrift trust includes the counseling, drafting, 
+preparation, execution and funding of a limited partnership, a limited 
+liability company or any other type of entity if interests in the limited 
+partnership, limited liability company or other entity are subsequently 
+transferred to a spendthrift trust;
+
+ ��������� (3)� Notwithstanding 
+subsection (g)(2)(B), in the same manner as provided other than by this section 
+to trusts in general, a beneficiary, settlor, cotrustee, trust advisor or trust 
+protector retains the right to bring a claim against a trustee or against 
+another cotrustee, trust advisor, trust protector or any of their predecessors; 
+however, no such claim shall arise solely because a person used, or attempted 
+to use, the benefits of this subsection (g);
+
+ ��������� (4)� If more than one 
+(1) transfer of property is made to a spendthrift trust, the subsequent 
+transfer of property to the spendthrift trust shall be disregarded for the 
+purpose of determining whether a person may bring an action under this 
+subsection (g) with respect to a prior transfer of property to the spendthrift 
+trust; any distribution to a beneficiary from the spendthrift trust shall be 
+deemed to have been made from the most recent transfer made to the spendthrift 
+trust;
+
+ ��������� (5)� With the exception 
+of a claim brought under subsection (g)(3), notwithstanding any other law, no 
+action of any kind, including, without limitation, an action to enforce a 
+judgment entered by a court or other body having adjudicative authority, shall 
+be brought at law or in equity against the trustee, other fiduciary or advisor 
+of a spendthrift trust if, as of the date the action is brought, an action by a 
+creditor with respect to a transfer of property to the spendthrift trust would 
+be barred under this subsection (g); and
+
+ ��������� (6)� This subsection 
+(g) shall not abridge the rights of a creditor, to the extent otherwise 
+provided by this section, to reach the maximum amount that can be distributed 
+to or for the settlor's benefit under a spendthrift trust.
+
+ ���� SECTION 63. � The 
+following shall be codified as Section 91-8-505, Mississippi Code of 1972:
+
+ ���� 91-8-505. � Distributions 
+relative to support, mandatory and certain remainder interests .� (a)� 
+Relative to a support interest, whether or not a trust contains a spendthrift 
+provision:
+
+ ��������� (1)� Although a 
+beneficiary of a support interest has enforceable rights under Section 91-8-814, 
+those rights do not raise the beneficiary's support interest to the level of a 
+property interest;
+
+ ��������� (2)� No creditor or 
+assignee shall reach that support interest until a distribution from the 
+support interest is actually made to the beneficiary;
+
+ ��������� (3)� After all or a 
+portion of a support interest is distributed to the beneficiary, no portion of 
+the distribution made from the support interest shall be reached by a creditor 
+or assignee of the beneficiary except to the extent that the distribution made 
+from the support interest exceeds the amount necessary for the health, 
+education, maintenance and support of the beneficiary who received the 
+distribution made from the support interest;
+
+ ��������� (4)� In the case of a 
+beneficiary who holds a support interest, the use or enjoyment of property 
+belonging to the trust by that beneficiary shall not be transferred and shall 
+not be reached by creditors or assignees of that beneficiary;
+
+ ��������� (5)� Regardless of 
+whether a beneficiary has any outstanding creditors or assignees, a trustee or 
+other fiduciary of a support interest may directly pay any expense on behalf of 
+the beneficiary and may exhaust the income and principal of the trust for the 
+benefit of the beneficiary; and
+
+ ��������� (6)� A trustee or other 
+fiduciary is not liable to any creditor or assignee for paying the expenses of 
+a beneficiary of a support interest.
+
+ ���� (b)� Relative to a mandatory 
+interest, whether or not a trust contains a spendthrift provision:
+
+ ��������� (1)� While a court may 
+order a trustee or other fiduciary to distribute a past-due mandatory 
+distribution to its beneficiary, no court shall order a trustee or other 
+fiduciary to distribute such past-due mandatory distribution directly to a 
+creditor or assignee;
+
+ ��������� (2)� Regardless of 
+whether a beneficiary has any outstanding creditors or assignees, a trustee or 
+other fiduciary of a mandatory interest may directly pay any expense on behalf 
+of the beneficiary and may exhaust the income and principal of the trust for 
+the benefit of the beneficiary;
+
+ ��������� (3)� A trustee or other 
+fiduciary is not liable to any creditor or assignee for paying the expenses of 
+a beneficiary of a mandatory interest.
+
+ ���� (c) �Although a remainder 
+interest may be an enforceable right, where it is not absolutely certain based 
+on the language of the trust that the remainder interest will be distributed 
+within one (1) year, it shall not be classified as a property interest.� This subsection 
+(c) does not affect eligibility for any public assistance program administered 
+by the Department of Human Services.
+
+ ���� SECTION 64. � The 
+following shall be codified as Section 91-8-506, Mississippi Code of 1972:
+
+ ���� 91-8-506. � Personal 
+obligations of trustee. � Trust property is not subject to personal 
+obligations of the trustee, even if the trustee becomes insolvent or bankrupt.
+
+ ���� SECTION 65. � The 
+following shall be codified as Section 91-8-507, Mississippi Code of 1972:
+
+ ���� 91-8-507. � Removal 
+or replacement power over trustee or other fiduciary not reachable by holder's 
+creditors; interests of beneficiary who is also a trustee or other fiduciary 
+not reachable. � (a)� A creditor or assignee of a beneficiary does not have 
+the power to reach an interest of a beneficiary or any other person who holds 
+an unconditional or conditional removal or replacement power over a trustee or 
+other fiduciary.� Such power over a trustee or other fiduciary is personal to 
+the holder and shall not be exercised by the holder's creditors.� No court 
+shall direct a holder to exercise the power.
+
+ ���� (b)� Subject to Section 91-8-504(b)(3):
+
+ ��������� (1)� A creditor or 
+assignee of a beneficiary may not reach an interest of a beneficiary who is 
+also a trustee, cotrustee or other fiduciary, or otherwise compel a 
+distribution because the beneficiary is then serving as a trustee, cotrustee or 
+other fiduciary; and
+
+ ��������� (2)� A court may not 
+foreclose against a beneficiary's interest described in subsection (a).
+
+ ���� SECTION 66. � The 
+following shall be codified as Section 91-8-508, Mississippi Code of 1972:
+
+ ���� 91-8-508. � Judicial 
+foreclosure of beneficial interests, powers of appointment, and reserved powers 
+prohibited; certain reaches prohibited. � Regardless of whether a trust 
+contains a spendthrift provision:
+
+ ��������� (1)� No beneficial 
+interest, power of appointment, or reserved power in a trust shall be 
+judicially foreclosed.
+
+ ��������� (2)� Trust property 
+subject to a power of appointment is not subject to the claims of the creditors 
+of the holder of the power of appointment or to any permitted appointee unless 
+and until such trust property is distributed pursuant to the exercise of such 
+power of appointment and then only to the extent of the claims of the creditors 
+of the appointee.
+
+ ��������� (3)� A creditor or an 
+assignee of a beneficiary of a residuary interest in a trust has no interest in 
+trust property until trust property is actually distributed to such assignee of 
+the residuary interest and therefore trust property is not subject to claims of 
+a creditor of the assignee.
+
+ ��������� (4)� A power of 
+appointment is not a property interest.
+
+ ���� SECTION 67. � The 
+following shall be codified as Section 89-22-1, Mississippi Code of 1972:
+
+ ���� 89-22-1. � Short 
+title. � This chapter may be cited as the "Mississippi Uniform 
+Disclaimer of Property Interests Act (2002/2010)."
+
+ ���� SECTION 68. � The 
+following shall be codified as Section 89-22-3, Mississippi Code of 1972:
+
+ ���� 89-22-3. � Definitions. � 
+In this chapter:
+
+ ��������� (1)� 
+"Disclaimant" means the person to whom a disclaimed interest or power 
+would have passed had the disclaimer not been made.
+
+ ��������� (2)� "Disclaimed 
+interest" means the interest that would have passed to the disclaimant had 
+the disclaimer not been made.
+
+ ��������� (3)� 
+"Disclaimer" means the refusal to accept an interest in or power over 
+property.
+
+ ��������� (4)� 
+"Fiduciary" means a personal representative, trustee, agent acting 
+under a power of attorney, or other person authorized to act as a fiduciary 
+with respect to the property of another person.
+
+ ��������� (5)� "Jointly held 
+property" means property held in the name of two (2) or more persons under 
+an arrangement in which all holders have concurrent interests and under which 
+the last-surviving holder is entitled to the whole of the property.� Jointly 
+held property does not include property held as tenants by the entirety.
+
+ ��������� (6)� "Person" 
+means an individual, corporation, business trust, estate, trust, partnership, 
+limited liability company, association, joint venture, government, governmental 
+subdivision, agency, or instrumentality, public corporation, or any other legal 
+or commercial entity.
+
+ ��������� (7)� "State" 
+means a state of the United States, the District of Columbia, Puerto Rico, the 
+United States Virgin Islands, or any territory or insular possession subject to 
+the jurisdiction of the United States.� The term includes an Indian tribe or 
+band or an Alaskan native village that is recognized by federal law or formally 
+acknowledged by a state.
+
+ ��������� (8)� "Trust" 
+means:
+
+ ������������� (A)� An express 
+trust, charitable or noncharitable, with additions thereto, whenever and 
+however created; and
+
+ ������������� (B)� A trust 
+created under a statute, judgment, or decree that requires the trust to be 
+administered in the manner of an express trust.
+
+ ���� SECTION 69. � The 
+following shall be codified as Section 89-22-5, Mississippi Code of 1972:
+
+ ���� 89-22-5 . � 
+ Scope. � This chapter applies to disclaimers of any interest in or power 
+over property, whenever created.
+
+ ���� SECTION 70.� The 
+following shall be codified as Section 89-22-7, Mississippi Code of 1972:
+
+ ���� 89-22-7. � Chapter 
+supplemented by other law. � (a)� Unless displaced by a provision of this 
+chapter, the principles of law and equity supplement this chapter.
+
+ ���� (b)� This chapter does not 
+limit any right of a person to waive, release, disclaim, or renounce an 
+interest in or power over property under a law other than this chapter.
+
+ ���� SECTION 71. �The 
+following shall be codified as Section 89-22-9, Mississippi Code of 1972:
+
+ ���� 89-22-9. � Power to 
+disclaim; general requirements; when irrevocable. � (a)� A person may 
+disclaim, in whole or part, any interest in or power over property, including a 
+power of appointment.� A person may disclaim the interest or power even if its 
+creator imposed a spendthrift provision or similar restriction on transfer or a 
+restriction or limitation on the right to disclaim.
+
+ ���� (b)� Except to the extent a 
+fiduciary's right to disclaim is expressly restricted or limited by another 
+statute of this state or by the instrument creating the fiduciary relationship, 
+a fiduciary may disclaim, in whole or part, any interest in or power over 
+property, including a power of appointment, whether acting in a personal or 
+representative capacity.� A fiduciary may disclaim the interest or power even 
+if its creator imposed a spendthrift provision or similar restriction on 
+transfer or a restriction or limitation on the right to disclaim, or an instrument 
+other than the instrument that created the fiduciary relationship imposed a 
+restriction or limitation on the right to disclaim.
+
+ ���� (c)� To the extent there is 
+no material conflict of interest, a parent, as defined in Section 93-15-103(h), 
+can disclaim on behalf of the parent's minor or incapacitated child, if a 
+conservator or guardian has not been appointed for the child.
+
+ ���� (d)� To be effective, a 
+disclaimer must be in a writing or other record, declare the disclaimer, 
+describe the interest or power disclaimed, be signed by the person making the 
+disclaimer, and be delivered or filed in the manner provided in Section 89-22-25.� 
+In this subsection "record" means information that is inscribed on a 
+tangible medium or that is stored in an electronic or other medium and is 
+retrievable in perceivable form.
+
+ ���� (e)� A partial disclaimer 
+may be expressed as a fraction, percentage, monetary amount, term of years, 
+limitation of a power, or any other interest or estate in the property.
+
+ ���� (f)� A disclaimer becomes 
+irrevocable when it is delivered or filed under Section 89-22-25 or when it 
+becomes effective as provided in Sections 89-22-11 through 89-22-23 of this 
+chapter, whichever occurs later.
+
+ ���� (g)� A disclaimer made under 
+this chapter is not a transfer, assignment, or release.
+
+ ���� (h)� A person obligated to 
+distribute an interest disclaimed under this chapter is not liable to any 
+person for distributing the interest as if the interest were not disclaimed 
+unless the person obligated to distribute the interest receives a copy of the 
+disclaimer before distributing the interest.
+
+ ���� SECTION 72. � The 
+following shall be codified as Section 89-22-11, Mississippi Code of 1972:
+
+ ���� 89-22-11. � Disclaimer 
+of interest in property. � (a)� In this section:
+
+ ��������� (1)� "Future 
+interest" means an interest that takes effect in possession or enjoyment, 
+if at all, later than the time of its creation.
+
+ ��������� (2)� "Time of 
+distribution" means the time when a disclaimed interest would have taken 
+effect in possession or enjoyment.
+
+ ���� (b)� Except for a disclaimer 
+governed by Section 89-22-13, 89-22-15 or 89-22-17, the following rules apply 
+to a disclaimer of an interest in property:
+
+ ��������� (1)� The disclaimer 
+takes effect as of the time the instrument creating the interest becomes 
+irrevocable, or, if the interest arose under the law of intestate succession, 
+as of the time of the intestate's death.
+
+ ��������� (2)� The disclaimed 
+interest passes according to any provision in the instrument creating the 
+interest providing for the disposition of the interest, should it be 
+disclaimed, or of disclaimed interests in general.
+
+ ��������� (3)� If the instrument 
+does not contain a provision described in paragraph (2), the following rules 
+apply:
+
+ ������������� (A)� If the 
+disclaimant is not an individual, the disclaimed interest passes as if the 
+disclaimant did not exist.
+
+ ������������� (B)� If the 
+disclaimant is an individual, except as otherwise provided in subparagraphs (C) 
+and (D), the disclaimed interest passes as if the disclaimant had died 
+immediately before the time of distribution.
+
+ ������������� (C)� If by law or 
+under the instrument, the descendants of the disclaimant would share in the 
+disclaimed interest by any method of representation had the disclaimant died 
+before the time of distribution, the disclaimed interest passes only to the 
+descendants of the disclaimant who survive the time of distribution.
+
+ ������������� (D)� If the 
+disclaimed interest would pass to the disclaimant's estate had the disclaimant 
+died before the time of distribution, the disclaimed interest instead passes by 
+representation to the descendants of the disclaimant who survive the time of 
+distribution.� If no descendant of the disclaimant survives the time of 
+distribution, the disclaimed interest passes to those persons, including the 
+state but excluding the disclaimant, and in such shares as would succeed to the 
+transferor's intestate estate under the intestate succession law of the 
+transferor's domicile had the transferor died at the time of distribution.� 
+However, if the transferor's surviving spouse is living but is remarried at the 
+time of distribution, the transferor is deemed to have died unmarried at the 
+time of distribution.
+
+ ��������� (4)� Upon the 
+disclaimer of a preceding interest, a future interest held by a person other 
+than the disclaimant takes effect as if the disclaimant had died or ceased to 
+exist immediately before the time of distribution, but a future interest held 
+by the disclaimant is not accelerated in possession or enjoyment.
+
+ ���� SECTION 73. � The 
+following shall be codified as Section 89-22-13, Mississippi Code of 1972:
+
+ ���� 89-22-13. � Disclaimer 
+of rights of survivorship in jointly held property. � (a)� Upon the death of a holder of jointly held property, 
+a surviving holder may disclaim, in whole or in part, the incremental portion 
+of the jointly held property devolving to the surviving holder by right of 
+survivorship. 
+
+ ���� (b)� 
+A disclaimer under subsection (a) of this section takes effect as of the death 
+of the holder of jointly held property to whose death the disclaimer relates. 
+
+ ���� (c)� 
+If a disclaimer is made under subsection (a) of this section with only one (1) 
+holder surviving the death of the holder to whose death the disclaimer relates, 
+the incremental portion disclaimed shall, as a consequence of the disclaimer, 
+pass as part of the estate of the deceased holder. 
+
+ ���� (d)� 
+If a disclaimer is made under subsection (a) of this section with two (2) or 
+more of the holders surviving the death of the holder to whose death the 
+disclaimer relates: 
+
+ ��������� (1)� 
+The disclaimer does not sever the joint tenancy with respect to the jointly 
+held property as among the surviving holders; 
+
+ ��������� (2)� 
+The incremental portion disclaimed, as a consequence of a disclaimer, devolves 
+to the surviving holders in proportion to their respective interests in the 
+jointly held property excluding the disclaimant and any other surviving holder 
+who disclaims to the extent of his, her or its disclaimer of the incremental 
+portion; 
+
+ ��������� (3)� 
+An incremental portion devolving to a surviving holder, as a consequence of one 
+or more disclaimers, may be disclaimed by the surviving holder; 
+
+ ��������� (4)� 
+To the extent that all of the surviving holders disclaim an incremental portion 
+devolving to them, the portion shall instead pass as part of the estate of the 
+deceased holder; and 
+
+ ��������� (5)� 
+The proportion of each of the surviving holders with respect to the jointly 
+held property shall be adjusted to take into account the devolution of the 
+incremental portion to the extent that the portion is disclaimed. 
+
+ ���� SECTION 74. � The 
+following shall be codified as Section 89-22-15, Mississippi Code of 1972:
+
+ ���� 89-22-15. � Disclaimer 
+of property held as tenants by the entirety. � (a)� The survivorship 
+interest in property held as a tenancy by the entirety to which the survivor 
+succeeds by operation of law upon the death of the cotenant may be disclaimed 
+as provided in this chapter.� For purposes of this chapter only, the deceased 
+tenant's interest in property held as a tenancy by the entirety shall be deemed 
+to be an undivided one-half (1/2) interest.
+
+ ���� (b)� A disclaimer under 
+subsection (a) takes effect as of the death of the deceased tenant to whose 
+death the disclaimer relates.
+
+ ���� (c)� The survivorship 
+interest in property held as a tenancy by the entirety disclaimed by the 
+surviving tenant passes as if the disclaimant had predeceased the tenant to 
+whose death the disclaimer relates.
+
+ ���� SECTION 75. � The 
+following shall be codified as Section 89-22-17, Mississippi Code of 1972:
+
+ ���� 89-22-17. � Disclaimer 
+of interest by trustee. � (a)� If a trustee disclaims an interest in 
+property that otherwise would have become trust property:
+
+ ��������� (1)� The interest does 
+not become trust property;
+
+ ��������� (2)� The disclaimer:
+
+ ������������� (A)� Takes effect 
+as of the time the trust became irrevocable; and
+
+ ������������� (B)� Relates back 
+for all purposes to the time the trust became irrevocable; and
+
+ ��������� (3)� The disclaimed 
+interest is not subject to the claims of any creditor of the trustee, the 
+trust, or any trust beneficiary.
+
+ ���� (b)� If the instrument 
+creating the disclaimed interest contains a provision that provides for the 
+disposition of the interest if the interest were to be disclaimed, the 
+disclaimed interest passes according to that provision.
+
+ ���� (c)� If the instrument 
+creating the disclaimed interest does not contain a provision described by 
+subsection (b), the disclaimed interest passes as if:
+
+ ��������� (1)� All of the current 
+beneficiaries, presumptive remainder beneficiaries, and contingent 
+beneficiaries of the trust affected by the disclaimer who are individuals who 
+died before the trust became irrevocable; and
+
+ ��������� (2)� All beneficiaries 
+of the trust affected by the disclaimer who are not individuals ceased to exist 
+without successor organizations and without substitution of beneficiaries under 
+the cy pres doctrine before the trust became irrevocable.
+
+ ���� (d)� Subsection (c) applies 
+only for purposes of determining the disposition of an interest in property 
+disclaimed by a trustee that otherwise would have become trust property and 
+applies only with respect to the trust affected by the disclaimer.� Subsection 
+(c) does not apply with respect to other trusts governed by the instrument and 
+does not apply for other purposes under the instrument or under the laws of 
+intestacy.
+
+ ���� SECTION 76. � The 
+following shall be codified as Section 89-22-19, Mississippi Code of 1972:
+
+ ���� 89-22-19. � Disclaimer 
+of power of appointment or other power not held in fiduciary capacity. � If 
+a holder disclaims a power of appointment or other power not held in a 
+fiduciary capacity, the following rules apply:
+
+ ��������� (1)� If the holder has 
+not exercised the power, the disclaimer takes effect as of the time the 
+instrument creating the power becomes irrevocable.
+
+ ��������� (2)� If the holder has 
+exercised the power and the disclaimer is of a power other than a presently 
+exercisable general power of appointment, the disclaimer takes effect 
+immediately after the last exercise of the power.
+
+ ��������� (3)� The instrument 
+creating the power is construed as if the power expired when the disclaimer 
+became effective.
+
+ ���� SECTION 77. � The 
+following shall be codified as Section 89-22-21, Mississippi Code of 1972:
+
+ ���� 89-22-21. � Disclaimer 
+by appointee, object, or taker in default of exercise of power of appointment. � 
+(a)� A disclaimer of an interest in property by an appointee of a power of 
+appointment takes effect as of the time the instrument by which the holder 
+exercises the power becomes irrevocable.
+
+ ���� (b)� A disclaimer of an 
+interest in property by an object or taker in default of an exercise of a power 
+of appointment takes effect as of the time the instrument creating the power 
+becomes irrevocable.
+
+ ���� SECTION 78.� The 
+following shall be codified as Section 89-22-23, Mississippi Code of 1972:
+
+ ���� 89-22-23. � Disclaimer 
+of power held in fiduciary capacity. � (a)� If a fiduciary disclaims a power 
+held in a fiduciary capacity which has not been exercised, the disclaimer takes 
+effect as of the time the instrument creating the power becomes irrevocable.
+
+ ���� (b)� If a fiduciary 
+disclaims a power held in a fiduciary capacity which has been exercised, the 
+disclaimer takes effect immediately after the last exercise of the power.
+
+ ���� (c)� A disclaimer under this 
+section is effective as to another fiduciary if the disclaimer so provides and 
+the fiduciary disclaiming has the authority to bind the estate, trust, or other 
+person for whom the fiduciary is acting.
+
+ ���� SECTION 79. � The 
+following shall be codified as Section 89-22-35, Mississippi Code of 1972:
+
+ ���� 89-22-35. � Delivery 
+or filing. � (a)� In this section, "beneficiary designation" means 
+an instrument, other than an instrument creating a trust, naming the 
+beneficiary of:
+
+ ��������� (1)� An annuity or 
+insurance policy;
+
+ ��������� (2)� An account with a 
+designation for payment on death;
+
+ ��������� (3)� A security 
+registered in beneficiary form;
+
+ ��������� (4)� A pension, profit-sharing, 
+retirement, or other employment-related benefit plan; or
+
+ ��������� (5)� Any other 
+nonprobate transfer at death.
+
+ ���� (b)� Subject to subsections 
+(c) through (l), delivery of a disclaimer may be effected by personal delivery, 
+first-class mail, or any other method likely to result in its receipt.
+
+ ���� (c)� In the case of an 
+interest created under the law of intestate succession or an interest created 
+by will, other than an interest in a testamentary trust:
+
+ ���� ���� (1)� A disclaimer must 
+be delivered to the personal representative of the decedent's estate; or
+
+ ��������� (2)� If no personal 
+representative is then serving, it must be filed with a court having 
+jurisdiction to appoint the personal representative.
+
+ ���� (d)� In the case of an 
+interest in a testamentary trust:
+
+ ��������� (1)� A disclaimer must 
+be delivered to the trustee then serving, or if no trustee is then serving, to 
+the personal representative of the decedent's estate; or
+
+ ��������� (2)� If no personal 
+representative is then serving, it must be filed with a court having 
+jurisdiction to enforce the trust.
+
+ ���� (e)� In the case of an 
+interest in an inter vivos trust:
+
+ ��������� (1)� A disclaimer must 
+be delivered to the trustee then serving;
+
+ ��������� (2)� If no trustee is 
+then serving, it must be filed with a court having jurisdiction to enforce the 
+trust; or
+
+ ��������� (3)� If the disclaimer 
+is made before the time the instrument creating the trust becomes irrevocable, 
+it must be delivered to the settlor of a revocable trust or the transferor of 
+the interest.
+
+ ���� (f)� In the case of an 
+interest created by a beneficiary designation which is disclaimed before the 
+designation becomes irrevocable, the disclaimer must be delivered to the person 
+making the beneficiary designation or to such person's legal representative.
+
+ ���� (g)� In the case of an 
+interest created by a beneficiary designation which is disclaimed after the 
+designation becomes irrevocable, the disclaimer must be delivered to the person 
+obligated to distribute the interest.
+
+ ���� (h)� In the case of a 
+disclaimer by a surviving holder of jointly held property or property held as 
+tenants by the entirety, the disclaimer must be delivered to the person to whom 
+the disclaimed interest passes.
+
+ ���� (i)� In the case of a 
+disclaimer by an object or taker in default of exercise of a power of 
+appointment at any time after the power was created:
+
+ ��������� (1)� The disclaimer 
+must be delivered to the holder of the power or to the fiduciary acting under 
+the instrument that created the power; or
+
+ ��������� (2)� If no fiduciary is 
+then serving, it must be filed with a court having authority to appoint the 
+fiduciary.
+
+ ���� (j)� In the case of a 
+disclaimer by an appointee of a nonfiduciary power of appointment:
+
+ ��������� (1)� The disclaimer 
+must be delivered to the holder, the personal representative of the holder's 
+estate or to the fiduciary under the instrument that created the power; or
+
+ ��������� (2)� If no fiduciary is 
+then serving, it must be filed with a court having authority to appoint the 
+fiduciary.
+
+ ���� (k)� In the case of a 
+disclaimer by a fiduciary of a power over a trust or estate, the disclaimer 
+must be delivered as provided in subsection (c), (d) or (e), as if the power 
+disclaimed were an interest in property.
+
+ ���� (l)� In the case of a 
+disclaimer of a power by an agent, the disclaimer must be delivered to the 
+principal or the principal's representative.
+
+ ���� SECTION 80. � The 
+following shall be codified as Section 89-22-27, Mississippi Code of 1972:
+
+ ���� 89-22-27. � When 
+disclaimer barred or limited. � (a)� A disclaimer is barred by a written 
+waiver of the right to disclaim.
+
+ ���� (b)� A disclaimer of an 
+interest in property is barred if any of the following events occur before the 
+disclaimer becomes effective:
+
+ ��������� (1)� The disclaimant 
+accepts the interest sought to be disclaimed;
+
+ ��������� (2)� The disclaimant 
+voluntarily assigns, conveys, encumbers, pledges, or transfers the interest 
+sought to be disclaimed or contracts to do so; or
+
+ ��������� (3)� A judicial sale of 
+the interest sought to be disclaimed occurs.
+
+ ���� (c)� A disclaimer, in whole 
+or part, of the future exercise of a power held in a fiduciary capacity is not 
+barred by its previous exercise.
+
+ ���� (d)� A disclaimer, in whole 
+or part, of the future exercise of a power not held in a fiduciary capacity is 
+not barred by its previous exercise unless the power is exercisable in favor of 
+the disclaimant.
+
+ ���� (e)� A disclaimer is barred 
+or limited if so provided by law other than this chapter.
+
+ ���� (f)� A disclaimer of a power 
+over property which is barred by this section is ineffective.� A disclaimer of 
+an interest in property which is barred by this section takes effect as a 
+transfer of the interest disclaimed to the persons who would have taken the 
+interest under this chapter had the disclaimer not been barred.
+
+ ���� SECTION 81. � The 
+following shall be codified as Section 89-22-29, Mississippi Code of 1972:
+
+ ���� 89-22-29. � Tax-qualified 
+disclaimer. � (a)� Notwithstanding any other provision of this chapter, if 
+as a result of a disclaimer or transfer, the disclaimed or transferred interest 
+is treated under the provisions of Title 26 of the United States Code, as now 
+or hereafter amended, or any successor statute thereto, and the regulations 
+promulgated thereunder, as never having been transferred to the disclaimant, 
+then the disclaimer or transfer is effective as a disclaimer under this 
+chapter.
+
+ ���� (b)� In order for a 
+disclaimer made under the provisions of this chapter to be effective as a tax-qualified 
+disclaimer under the provisions of Title 26 of the United States Code, the 
+disclaimer must satisfy the conditions of Title 26, Section 2518 of the United 
+States Code, as now or hereafter amended, including the requirement that the 
+disclaimer be made generally within nine (9) months from the day the interest 
+being disclaimed was created.
+
+ ���� SECTION 82. � The 
+following shall be codified as Section 89-22-31, Mississippi Code of 1972:
+
+ ���� 89-22-31. � Recording 
+of disclaimer. � (a)� A disclaimer of an interest in or relating to real 
+property does not provide constructive notice to all persons unless the 
+disclaimer contains a legal description of the real property to which the 
+disclaimer relates and unless the disclaimer is filed for recording in the 
+office of the chancery clerk of the county or counties where the real property 
+is located.
+
+ ���� (b)� An effective disclaimer 
+meeting the requirements of subsection (a) constitutes constructive notice to 
+all persons from and after the time of filing.
+
+ ���� (c)� Failure to file, 
+record, or register the disclaimer does not affect its validity as between the 
+disclaimant and persons to whom the property interest or power passes by reason 
+of the disclaimer.
+
+ ���� SECTION 83. � The 
+following shall be codified as Section 89-22-33, Mississippi Code of 1972:
+
+ ���� 89-22-33. � Application 
+to existing relationships. � Except as otherwise provided in Section 89-22-27, 
+an interest in or power over property existing on the effective date of this 
+chapter as to which the time for delivering or filing a disclaimer under law 
+superseded by this chapter has not expired may be disclaimed after the 
+effective date of this chapter.
+
+ ���� SECTION 84. � The 
+following shall be codified as Section 89-22-29, Mississippi Code of 1972:
+
+ ���� 89-22-29. � Uniformity 
+of application and construction. � In applying and construing this uniform 
+act, consideration must be given to the need to promote uniformity of the law 
+with respect to its subject matter among states that enact it.
+
+ ���� SECTION 85. � The 
+following shall be codified as Section 89-22-31, Mississippi Code of 1972:
+
+ ���� 89-22-31. � Severability 
+clause. � If any provision of this chapter or its application to any person 
+or circumstance is held invalid, the invalidity does not affect other 
+provisions or applications of this chapter which can be given effect without 
+the invalid provision or application, and to this end the provisions of this 
+chapter are severable.
+
+ ���� SECTION 86. � Section 
+91-8-105, Mississippi Code of 1972, is amended as follows:
+
+ ���� 91-8-105.� (a)� 
+Except as otherwise provided in the terms of the trust, this chapter governs 
+the duties and powers of a trustee or any other fiduciary under this chapter, 
+relations among trustees and such other fiduciaries, and the rights and interests 
+of a beneficiary.� The terms of a trust may expand, restrict, eliminate, or 
+otherwise vary the duties and powers of a trustee, any such other fiduciary, 
+relations among any of them, and the rights and interests of a beneficiary; 
+however, nothing contained in this subsection shall be construed to override or 
+nullify the provisions of subsection (b).� The rule of statutory construction 
+that statutes in derogation of the common law are to be strictly construed 
+shall have no application to this section.� Except as restricted by subsection 
+(b), pursuant to this section, courts shall give maximum effect to the 
+principal of freedom of disposition and to the enforceability of trust 
+instruments.
+
+ ���� (b)� The terms of a trust 
+prevail over any provision of this chapter except: 
+
+ ��������� (1)� The requirements 
+for creating a trust;
+
+ ��������� (2)� The duty of a 
+trustee to act in good faith in accordance with the terms and purposes of the 
+trust and the interests of the beneficiaries;
+
+ ��������� (3)� The requirement 
+that a trust and its terms be for the benefit of its beneficiaries as the 
+interests of such beneficiaries are defined under the terms of the trust, and 
+that the trust have a purpose that is lawful and possible to achieve;
+
+ ��������� (4)� The power of the 
+court to modify or terminate a trust under Sections 91-8-410 through 91-8-416;
+
+ ��������� (5)� The effect of a 
+spendthrift provision and the rights of certain creditors and assignees to 
+reach a trust as provided in  * * * the Family Trust Preservation Act, Section 91‑9‑501 
+et seq. Article 5 of the Uniform Trust Code (Title 91, Chapter 8, 
+Article 5, Mississippi Code of 1972) ;
+
+ ��������� (6)� The power of the 
+court under Section 91-8-702 to require, dispense with, or modify or terminate 
+a bond;
+
+ ��������� (7)� The power of the 
+court under Section 91-8-708(b) to adjust a trustee's compensation specified in 
+the terms of the trust which is unreasonably low or high;
+
+ ��������� (8)� Subject to 
+subsection (d), the duty under Section 91-8-813(b) to notify beneficiaries of 
+an irrevocable trust (including anyone who holds a power of appointment) who 
+have attained twenty-five (25) years of age that the trust has been established 
+as set forth in  * * * that 
+Section 91-8-813(b);
+
+ ��������� (9)� Subject to 
+subsection (d), the duty under Section 91-8-813(a)(1) and (2) to keep the 
+beneficiaries (including anyone who holds a power of appointment) informed and 
+to respond to the request of a beneficiary of an irrevocable trust for 
+trustee's reports and other information reasonably related to the 
+administration of the trust;
+
+ ��������� (10)� The effect of an 
+exculpatory term under Section 91-8-1008;
+
+ ��������� (11)� The rights under 
+Sections 91-8-1010 through 91-8-1013 of a person other than a trustee or 
+beneficiary;
+
+ ��������� (12)� Periods of 
+limitation for commencing a judicial proceeding; 
+
+ ��������� (13)� The power of the 
+court to take such action and exercise such jurisdiction as may be necessary in 
+the interests of justice; and
+
+ ��������� (14)� The subject-matter 
+jurisdiction of the court and venue for commencing a proceeding as provided in 
+Sections 91-8-203 and 91-8-204.
+
+ ���� (c)� Any purpose enunciated 
+as a material purpose of a trust in that trust's trust instrument shall be 
+treated as a material purpose of that trust for all purposes of this chapter.
+
+ ���� (d)� Notwithstanding 
+subsection (b)(8) and (9) of this section, the duties of a trustee to give 
+notice, information and reports under Section 91-8-813(a) and (b) may be waived 
+or modified in the trust instrument or by the settlor of the trust, or a trust 
+protector or trust advisor that holds the power to so direct, directs otherwise 
+in a writing delivered to the trustee in any of the following ways:
+
+ ��������� (1)� By waiving or 
+modifying such duties as to all qualified beneficiaries during the lifetime of 
+the settlor or the settlor's spouse; 
+
+ ��������� (2)� By specifying a 
+different age at which a beneficiary or class of beneficiaries must be notified 
+under Section 91-8-813(b); or
+
+ ��������� (3)� With respect to 
+one or more of the beneficiaries, by designating a beneficiary surrogate to 
+receive such notice, information and reports who will act in good faith to 
+protect the interests of the beneficiary or beneficiaries.
+
+ ���� SECTION 87. � Sections 
+27-10-1, 27-10-3, 27-10-5, 27-10-7, 27-10-9, 27-10-11, 27-10-13, 27-10-15, 27-10-17, 
+27-10-19, 27-10-21, 27-10-23 and 27-10-25, Mississippi Code of 1972, which 
+constitute the Uniform Estate Tax Apportionment Act, are repealed.
+
+ ���� SECTION 88. � Sections 
+89-21-1, 89-21-3, 89-21-5, 89-21-7, 89-21-9, 89-21-11, 89-21-13, 89-21-15 and 
+89-21-17, Mississippi Code of 1972, which constitute the Uniform Disclaimer of 
+Property Interests Act, are repealed.
+
+ ���� SECTION 89. � Sections 
+91-9-501, 91-9-503, 91-9-505, 91-9-507, 91-9-509 and 91-9-511, Mississippi Code 
+of 1972, which constitute the Family Trust Preservation Act of 1998, are 
+repealed.
+
+ ���� SECTION 90. � Section 
+91-7-259, Mississippi Code of 1972, which provides for foreign fiduciaries and 
+lawsuits and debts, is repealed.
+
+ ���� SECTION 91. � Sections 
+91-8-501 through 91-8-508, Mississippi Code of 1972, constitute Article 5 of 
+the Uniform Trust Code.
+
+ ���� SECTION 92. � This act 
+shall take effect and be in force from and after July 1, 2020.

@@ -1,0 +1,363 @@
+Source URL: https://bms.wv.gov/sites/default/files/2025-07/BMS%20Chapter_900_Estate_RecoveryRevised12.6.24.pdf
+Retrieved: 2026-09-23
+
+                                              CHAPTER 900 ESTATE RECOVERY
+
+
+TABLE OF CONTENTS
+SECTION PAGE NUMBER
+
+Background ............................................................................................................................................... 2
+
+Policy ......................................................................................................................................................... 2
+
+900.1              Scope ..................................................................................................................................... 2
+
+900.2              Authority and Enforcement .................................................................................................... 2
+
+900.3              Determination of Permanent Institutionalization .................................................................... 3
+
+900.4              Identification of Estates for Recovery .................................................................................... 3
+
+900.5              Recovery from Estates .......................................................................................................... 3
+
+900.5.1            Delayed Recovery ................................................................................................................. 3
+
+900.6              Undue Hardship Waivers ....................................................................................................... 4
+
+900.7              Recovery on Estates ............................................................................................................. 4
+
+900.8              Medicaid Exempt Trusts ........................................................................................................ 5
+
+900.9              Administrative Due Process .................................................................................................. 5
+
+900.9.1            Administrative Review ........................................................................................................... 5
+
+900.9.2            Request for Administrative Review........................................................................................ 5
+
+900.9.3            Administrative Review Notice of Decision ............................................................................. 5
+
+900.9.4            Evidentiary Hearing ............................................................................................................... 5
+
+900.9.5            Request for Evidentiary Hearing............................................................................................ 6
+
+900.9.6            Record of Hearing ................................................................................................................. 6
+
+900.9.7            Evidentiary Hearing Notice of Decision ................................................................................. 6
+
+Glossary .................................................................................................................................................... 6
+
+Change Log ............................................................................................................................................... 7
+
+
+
+
+BMS Provider Manual                                                                                                                                  Page 1
+Chapter 900 Estate Recovery                                                                                                               Revised 12/6/2024
+
+ DISCLAIMER: This chapter does not address all the complexities of Medicaid policies and procedures, and must be
+    supplemented with all State and Federal Laws and Regulations. Contact BMS Fiscal Agent for coverage, prior
+                 authorization requirements, service limitations and other practitioner information.
+                              CHAPTER 900 ESTATE RECOVERY
+
+
+BACKGROUND
+This rule establishes the West Virginia Department of Human Services (DoHS) Bureau for Medical
+Services (BMS) standards and procedures for recovery of medical assistance payments from the estates
+of certain deceased members and from property sold by permanently institutionalized members receiving
+such assistance.
+
+POLICY
+
+900.1 SCOPE
+Under certain circumstances, states are mandated by both federal and state law to pursue recovery of
+certain Medicaid costs.
+
+900.2 AUTHORITY AND ENFORCEMENT
+The Omnibus Budget Reconciliation Act of 1993 (OBRA ’93) requires all states to implement a Medicaid
+estate recovery program. Section 1917 of the Social Security Act and WV Code §9-5-11c allows a state
+to recoup payments made by the BMS, or any successor agency responsible for administering the State's
+Medicaid program for nursing facility services, home and community-based services and related hospital
+and prescription drug services provided to individuals 55 years of age or older or to individuals who, after
+notice and an opportunity for hearing, have been deemed to be permanently institutionalized.
+
+The Secretary of the Department of Health and Human Resources or their lawful designee is granted full
+authority to enforce this mandate.
+
+900.3 DETERMINATION OF PERMANENT INSTITUTIONALIZATION
+Upon admission of a Medicaid member to a nursing facility or other institution that provides 24-hour
+nursing and custodial care, the facility will notify the local DoHS office of the member's admission, legal
+guardian, and physician.
+
+The BMS will determine, based upon the medical information supplied, if the member meets the
+conditions of being permanently institutionalized. There shall be a rebuttable presumption that the
+member is permanently institutionalized. The presumption of permanent institutionalization after six
+months of residence can be rebutted by documentation of the personal physician that the individual will
+be discharged within a reasonable period of time not to exceed three months and that the individual has a
+place to which they can return. If said individual is not discharged within this three-month period, the
+nursing facility will notify the BMS, and a presumption of permanent institutionalization will be instituted.
+For additional information refer to WV Code §9-5-11c.
+
+If the member is permanently institutionalized, the member and their legal guardian will be advised in
+writing of this determination and the right to a hearing before the BMS should this determination be
+disputed. The member and his/her legal guardian shall have 30 days from the date of receipt of the BMS
+determination in which to request a hearing.
+
+
+
+BMS Provider Manual                                                                                     Page 2
+Chapter 900 Estate Recovery                                                                  Revised 12/6/2024
+
+DISCLAIMER: This chapter does not address all the complexities of Medicaid policies and procedures, and must be
+   supplemented with all State and Federal Laws and Regulations. Contact BMS Fiscal Agent for coverage, prior
+                authorization requirements, service limitations and other practitioner information.
+                               CHAPTER 900 ESTATE RECOVERY
+
+No lien shall be placed upon property belonging to a member until a final determination is made regarding
+whether the individual is permanently institutionalized.
+
+Any lien imposed shall dissolve within 30 days upon that individual’s discharge from the medical
+institution and return home. The individual shall provide written documentation of the return home and
+request that the lien be dissolved.
+
+900.4 IDENTIFICATION OF ESTATES FOR RECOVERY
+All local DoHS case managers will advise the BMS when any member in their case load age 55 or older
+is admitted to a nursing facility, Intermediate Care Facilities for Individuals with Intellectual Disabilities
+(ICF/IID) or becomes a recipient of home and community-based services pursuant to a 1915(c) waiver.
+Nursing facilities, ICF/IID facilities, and case managers will also advise the BMS on a monthly basis of
+those individuals in their case load who are in nursing facilities or receiving home and community-based
+services and have attained the age of 55.
+
+900.5 RECOVERY FROM ESTATES
+OBRA ’93 requires states to recover, at a minimum, all property and assets that pass from a deceased
+person to their heirs under state probate law, for both properties conveyed by will or property of a person
+who dies intestate. The order of payment of debt is established under state law and may reduce the
+amount if any that is recovered.
+
+Pursuant to 42 USC §1396p (2)(A), recovery will be made against an estate of a member and a lien
+imposed only if the home is not the lawful residence to:
+    •   The spouse of the member
+    •   The member’s child who is under 21
+    •   The member’s child is blind or permanently and totally disabled
+    •   A sibling of the member with an equity interest and residing in the member’s home for a period of
+        at least one year immediately before the date the member was admitted to the medical institution.
+
+Pursuant to 42 USC §1396p (2)(B), recovery will be made against an estate of a member and a lien
+imposed only after:
+    •   The death of the individual’s spouse
+    •   No surviving child under age 21, or
+    •   The individual’s blind or permanently and totally disabled child no longer lawfully resides in the
+        home
+    •   The member’s sibling with equity interest no longer lawfully resides in the home.
+
+For members whose eligibility is determined using Modified Adjusted Gross Income (MAGI) standards,
+refer to Section 1917(a) of the Social Security Act and 42CFR 435.700 et seq. for additional information.
+
+
+
+
+BMS Provider Manual                                                                                     Page 3
+Chapter 900 Estate Recovery                                                                  Revised 12/6/2024
+
+DISCLAIMER: This chapter does not address all the complexities of Medicaid policies and procedures, and must be
+   supplemented with all State and Federal Laws and Regulations. Contact BMS Fiscal Agent for coverage, prior
+                authorization requirements, service limitations and other practitioner information.
+                              CHAPTER 900 ESTATE RECOVERY
+
+
+900.5.1 Delayed Recovery
+Recovery from estates may occur when the condition upon which the delay was based no longer exists.
+The DoHS may impose a recovery property lien to be executed only when the condition no longer exists,
+and the property is to be sold.
+
+If property subject to delayed recovery is sold, only that portion of the proceeds which represents the
+member's interest in the property is subject to a recovery lien.
+
+900.6 UNDUE HARDSHIP WAIVERS
+No lien will be placed nor recovery made from the estates of members when there is:
+    a) An adult child who has resided continuously in the home for a two-year period of time prior to the
+       date the parent became a member and continued to reside in the home until the parent's death, if
+       that child can establish that he/she provided care to the member which permitted the parent to
+       remain at home without Medicaid assistance for at least that two-year period;
+    b) An heir, who maintains continuous employment in the family business for a period of time
+       beginning at least one year before the member became a Medicaid member until the time of the
+       member's death, if the property which would otherwise be subject to an estate recovery lien is an
+       integral part of the business and is required for the continued viability of the business.
+    c) An adult child maintains continuous employment in the family business for a period of time
+       beginning at least three years before the parent became a member until the time of the parent’s
+       death if the property which would otherwise be subject to an estate recovery lien is an integral
+       part of the business and is required for the continued viability of the business.
+    d) An adult child regardless of whether he/she was living in the family home, is able to present proof
+       of monetary support to his/her parent for medical care and other necessities including upkeep,
+       utilities and repairs prior to the date the parent became a member and continued said upkeep in
+       order to maintain the member's property. Such support will reduce the medical assistance lien on
+       a dollar-for-dollar basis.
+    e) An adult grandchild, who is the heir and whose parents are both deceased prior to the date the
+       grandparent became a member is able to present proof of monetary support to his/her
+       grandparent for medical care and other necessities prior to the date the grandparent became a
+       member. Such support will reduce the medical assistance lien on a dollar-for-dollar basis.
+    f) A sibling who is able to present proof of monetary support to his/her sibling for medical care and
+       other necessities prior to the date the sibling became a member. Such support will reduce the
+       medical assistance lien on a dollar-for-dollar basis.
+    g) An heir may apply for a hardship waiver by presenting evidence that recovery from the estate will
+       jeopardize the survival of the family unit or severely disrupt the family’s income or business
+       unless the circumstances which caused the disruption were created by the member’s use of
+       estate planning methods to avoid estate recovery.
+
+An application for an undue hardship waiver shall be submitted to the Bureau within 45 days of the
+placement of the lien or filing of the proof of claim. The BMS will have 90 days from receipt in which to
+issue an approval or denial of a request for a hardship waiver or to advise the applicant that additional
+time is necessary to consider the request. The presence of a will that bequests specific property to heirs
+cannot be used as evidence of an undue hardship. Documentation of an inter vivos gift cannot be used as
+
+
+BMS Provider Manual                                                                                     Page 4
+Chapter 900 Estate Recovery                                                                  Revised 12/6/2024
+
+DISCLAIMER: This chapter does not address all the complexities of Medicaid policies and procedures, and must be
+   supplemented with all State and Federal Laws and Regulations. Contact BMS Fiscal Agent for coverage, prior
+                authorization requirements, service limitations and other practitioner information.
+                              CHAPTER 900 ESTATE RECOVERY
+
+evidence of an undue hardship unless the gift would not have been considered an uncompensated
+transfer and resulted in the imposition of a penalty period.
+
+900.7 RECOVERY ON ESTATES
+The West Virginia DoHS will impose no recovery on estates with a value of $5,000.00 or less at the time
+the estate is admitted to probate.
+
+No undue hardship waiver will be granted if the member had a long-term care insurance policy and
+became Medicaid eligible by virtue of disregarding assets because of payments or entitlement to
+payments under such policy. [See 42 USC §1396p (b)(C)(ii) (1)].
+
+900.8 MEDICAID EXEMPT TRUSTS
+For any trust established under 42 USC 1396p, the trustee must assure that the West Virginia DoHS is
+the primary beneficiary of the trust after the member’s death. The West Virginia DoHS is to be reimbursed
+up to the amount of medical assistance paid on behalf of the member after June 9, 1995, or the balance
+of the trust whichever is less.
+
+The trustee shall account to the West Virginia DoHS and forward payment within 30 days of the
+member’s death.
+
+900.9 ADMINISTRATIVE DUE PROCESS
+Only those persons adversely affected by the enforcement of this rule may request an administrative
+review or appeal the issue of permanently institutionalized or to contest the failure to grant an undue
+hardship waiver only shall do so in conformance with the following:
+
+900.9.1 Administrative Review
+The administrative review procedure provides an informal conference to allow the member, administrator,
+executor, or heir the opportunity to present his/her case, to provide additional information bearing on the
+adverse administrative action. Through this procedure, the BMS is afforded an opportunity to receive
+additional information that could affect its decision or impending action on permanent institution or undue
+hardship.
+
+900.9.2 Request for Administrative Review
+A member, administrator, executor, or heir may, within 30 days after receipt of a notice of an adverse
+administrative action taken by the BMS, request an administrative review. The request for an
+administrative review must be in writing, dated, signed and must set forth in detail the items in contention,
+and identify the representatives who will be present for the conference. Upon receipt of the request for an
+administrative review conference, the Bureau will establish a mutually agreeable date and time for the
+review.
+
+
+
+
+BMS Provider Manual                                                                                     Page 5
+Chapter 900 Estate Recovery                                                                  Revised 12/6/2024
+
+DISCLAIMER: This chapter does not address all the complexities of Medicaid policies and procedures, and must be
+   supplemented with all State and Federal Laws and Regulations. Contact BMS Fiscal Agent for coverage, prior
+                authorization requirements, service limitations and other practitioner information.
+                               CHAPTER 900 ESTATE RECOVERY
+
+
+900.9.3 Administrative Review Notice of Decision
+A written decision based on findings and setting forth the reasons for the conclusions will be issued within
+30 to 60 days after the administrative review hearing. The decision may nullify, modify, or uphold the
+original administrative action and will establish an effective date for any further action to be taken. In the
+case where the decision is disputed, the member, or heir may/must request an evidentiary hearing within
+30 days after receipt of the notice of decision.
+
+900.9.4 Evidentiary Hearing
+An evidentiary hearing is a formal hearing procedure before the BMS Commissioner of or their designee.
+The member or heir may present evidence and argument and cross-examine adverse witnesses. Only
+those issues presented in the administrative review will be considered in the evidentiary hearing.
+
+900.9.5 Request for Evidentiary Hearing
+The request for an evidentiary hearing shall be in writing, dated, signed, and filed within 30 days of the
+date on the notice of the decision from the administrative review conference or other adverse ruling. The
+request for an evidentiary hearing shall contain a statement as to the specific issues or findings of fact
+and/or conclusions of law in the preceding determination with which the member, administrator, executor,
+or heir disagrees and the basis for their contention that the specific issues and/or findings and
+conclusions were incorrect. The request shall include the identification of the representatives who will be
+present at the hearing.
+
+Any member, administrator, executor, or heir requesting a hearing resulting from an adverse decision of
+the BMS shall bear the necessary and attendant costs of such hearing, including costs of transcription,
+court reporting, production, and copying of documents and all similar costs.
+
+900.9.6 Record of Hearing
+A complete record of proceedings at the hearing shall be made and transcribed in all cases.
+
+900.9.7 Evidentiary Hearing Notice of Decision
+A written decision based on findings and setting forth reasons for the decision will be issued as soon as
+practical after the hearing. The decision by the BMS Commissioner is final. The member, heir,
+administrator, or executor may pursue further recourse through judicial review.
+
+GLOSSARY
+Definitions in Chapter 200, Definitions and Acronyms apply to all West Virginia Medicaid services,
+including those covered by this chapter. Definitions in this glossary are specific to this chapter.
+Adult Child: A natural child, legally adopted child or stepchild who is under the age of twenty-one.
+
+Estate: The real and personal property belonging to a decedent at the time of his/her death, including any
+intangible interests therein. The term "estate" includes all property identified in W.Va. Code §11-11-2(b)
+(4).
+
+BMS Provider Manual                                                                                     Page 6
+Chapter 900 Estate Recovery                                                                  Revised 12/6/2024
+
+DISCLAIMER: This chapter does not address all the complexities of Medicaid policies and procedures, and must be
+   supplemented with all State and Federal Laws and Regulations. Contact BMS Fiscal Agent for coverage, prior
+                authorization requirements, service limitations and other practitioner information.
+                              CHAPTER 900 ESTATE RECOVERY
+
+Home and Community-based Services: Those services provided by Medicaid pursuant to Section
+1915(c) Waivers (No.WV.0133 Intellectual and/or Developmental Disabilities, No.WV.0134 Aged and
+Disabled, and No.WV.0876 Traumatic Brain Injury, as approved by the Centers for Medicare and
+Medicaid Service (CMS) of the United States Department of Health and Human Services (DHHS).
+
+Related Hospital and Prescription Drug Services: Those hospital and prescription drug services which
+are rendered in conjunction with nursing facility and/or home and community-based services whether or
+not they are billed by the nursing facility or home and community-based service provider.
+
+Other necessities: Such as utilities, major home repairs, real estate taxes, real estate insurance and
+normal upkeep and maintenance.
+
+Permanently Institutionalized: An individual who:
+    •   Is an inpatient in a nursing facility, ICF/IID facility or other medical institution;
+    •   Is required, as a condition of receiving services in such institution under the State Plan, to spend
+        for costs of medical care all but a minimal amount of his/her income required for personal needs;
+        and,
+    •   After notice and opportunity for a hearing, has been deemed permanently disabled to such an
+        extent that he or she cannot reasonably be expected to be discharged from the medical institution
+        and returned to a non-institutional home environment prior to death.
+
+REFERENCES
+The West Virginia Medicaid State Plan references estate recovery in Section 4.17 Liens and Recoveries.
+
+CHANGE LOG
+         REPLACE                              TITLE                              EFFECTIVE DATE
+  Entire Chapter              Estate Recovery                                      October 2, 2015
+  Entire Chapter              Estate Recovery: Updated links, logo            Revised December 6, 2024
+                              and replaced DHHR titles with the DoHS
+
+
+
+
+BMS Provider Manual                                                                                     Page 7
+Chapter 900 Estate Recovery                                                                  Revised 12/6/2024
+
+DISCLAIMER: This chapter does not address all the complexities of Medicaid policies and procedures, and must be
+   supplemented with all State and Federal Laws and Regulations. Contact BMS Fiscal Agent for coverage, prior
+                authorization requirements, service limitations and other practitioner information.
+

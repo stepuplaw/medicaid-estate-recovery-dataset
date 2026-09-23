@@ -1,0 +1,19 @@
+Source URL: https://hfs.illinois.gov/medicalclients/medicaidestaterecovery/guidetothemedicaidestaterecoveryprogram.html
+Retrieved: 2026-09-23
+Note: WebFetch extraction, not verbatim (script fetch failed: DNS resolution error)
+
+Estate definition: "An estate is property, such as money, a house, or other things of value that a person leaves to family members or others (heirs) when he or she dies."
+
+Property NOT subject to recovery includes: "Life insurance policies that name a person to receive the payment. Bank accounts that are paid on death to another person."
+
+$25,000 exemption: "For estates of Medicaid customers with a date of death on or after July 1, 2022, no recoveries are allowed against the first $25,000 of estate value."
+
+Surviving spouse: recovery is prohibited "when there is a spouse who is still alive."
+
+No recovery when "There is a child under 21 years of age" or "There is a child of any age who is blind or permanently and totally disabled under Social Security requirements."
+
+Hardship: the state may deny recovery "when this would cause an undue hardship for the heirs," including where estate property was "a family business, farm, or ranch for at least 12 months before the person on Medicaid died and is the main source of income for the heirs."
+
+"If the estate has debts, such as funeral costs, legal costs, or a home mortgage, those costs are paid before an estate recovery claim is paid."
+
+(The extraction reported that the page does not specifically address probate, joint tenancy, life estates, trusts, transfer on death, or liens.)

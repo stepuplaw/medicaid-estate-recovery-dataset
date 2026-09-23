@@ -1,0 +1,418 @@
+Source URL: https://medicaid.ms.gov/wp-content/uploads/2023/09/Title-23-Part-306-Third-Party-Recovery-eff.-9.1.23.pdf
+Retrieved: 2026-09-23
+
+Administrative Code
+
+ Title 23: Medicaid
+       Part 306
+Third Party Recovery
+                                                         Table of Contents
+Title 23: Division of Medicaid ..................................................................................................... 1
+Part 306: Third Party Recovery ...................................................................................................... 1
+   Part 306 Chapter 1: Third Party Recovery ................................................................................. 1
+         Rule 1.1: Definitions ............................................................................................................ 1
+         Rule 1.2: Provider Requirements ........................................................................................ 1
+         Rule 1.3: Billing ................................................................................................................... 3
+         Rule 1.4: Casualty Cases...................................................................................................... 3
+         Rule 1.5: Reimbursement..................................................................................................... 5
+         Rule 1.6: Third Party Sources .............................................................................................. 6
+         Rule 1.7: Coordination of Benefits ...................................................................................... 7
+         Rule 1.8: Estate Recovery Requirements............................................................................. 7
+Title 23: Division of Medicaid
+
+Part 306: Third Party Recovery
+
+Part 306 Chapter 1: Third Party Recovery
+
+Rule 1.1: Definitions
+
+The Division of Medicaid defines:
+
+A. Third party as any individual, entity or program that is, or maybe, liable to pay all, or part of
+   the expenditures for medical assistance furnished under the State Plan.
+
+B. Cost Avoidance as a method of avoiding payment of Medicaid claims when other insurance
+   resources are available to the Medicaid beneficiary.
+
+C. Pay and Chase method as reimbursing the provider for a specific covered service and
+   pursuing recovery of the payment from a third party source.
+
+D. Casualty Cases as claims that involve the treatment of injuries arising out of vehicular
+   collision, industrial accident, product liability, malpractice cases, etc. in which collection
+   from the third party may be contingent upon legal action.
+
+E. Preferred provider organization (PPO) as a medical care arrangement in which medical
+   professionals and facilities provide services to subscribed beneficiaries at reduced rates. PPO
+   medical and healthcare providers are called preferred providers.
+
+Source: 42 CFR §§ 433.136, 433.137, 433.145; Miss. Code Ann. §§ 43-13-121, 43-13-125, 43-
+        13-305, 43-13-311, 43-13-313.
+
+History: Revised eff. 04/01/2021; Revised Miss. Admin. Code Part 306, Rule 1.1.A. eff.
+         06/01/2015.
+
+Rule 1.2: Provider Requirements
+
+A. Medicaid providers must:
+
+   1. Identify and report any third party source to the Division of Medicaid.
+
+   2. Cooperate with the Division of Medicaid in the recovery of payments from the third party
+      source. Providers will be held liable, to the extent of the Division of Medicaid’s payment,
+      for failure to cooperate with the Division of Medicaid’s staff when they have knowledge
+      of third party coverage.
+
+   3. Accept either the third party payment or the Division of Medicaid's payment for services
+      provided as payment in full.
+
+
+                                                 1
+B. Providers cannot refuse to furnish Medicaid covered services to a beneficiary because of a
+   third party's potential liability for the services.
+
+C. The Division of Medicaid may reduce any payment amount otherwise due the provider by up
+   to three (3) times the amount incorrectly received from the beneficiary if the provider is
+   found in violation of Miss. Admin. Code Part 306, Rule 1.3.C.
+
+D. The provider must obtain a signed statement from the beneficiary if beneficiary indicates
+   they no longer have third party insurance. The statement must include the name of the
+   insurance company, the policy number, and the beginning and ending date of coverage and
+   must be submitted to the Division of Medicaid.
+
+E. Requests for Medical Information
+
+   1. The Division of Medicaid requires that any medical information concerning a Medicaid
+      beneficiary released by a provider must contain the following information:
+
+       a) The person is or was a Medicaid beneficiary at the time the services were rendered,
+
+       b) His/her Medicaid identification number, and
+
+       c) The claim has been submitted to the Division of Medicaid or has been paid by the
+          Division of Medicaid.
+
+   2. If a provider receives a request for medical claims or other medical information from a
+      Medicaid beneficiary or someone acting on the beneficiary's behalf, such as an attorney,
+      insurance company, etc., release of said information will be restricted as follows:
+
+       a) Copies of claims or medical records requested by a beneficiary or the beneficiary’s
+          parent, guardian or legal representative must be furnished if the provider receives a
+          written authorization for release of the information.
+
+       b) Information requested by an insurance carrier with whom a claim has been filed must
+          be furnished directly to the carrier.
+
+       c) The provider must comply promptly to a request for medical information from a
+          Medicaid beneficiary's attorney once a signed authorization from the beneficiary has
+          been received.
+
+       d) Medical records or billing information requested by the Disability Determination
+          Service (DDS) or a school system, for educational evaluation, must be sent directly to
+          the requester. Notification to the Division of Medicaid is not necessary.
+
+Source: 42 CFR §§ 433.136, 433.137, 433.145; Miss. Code Ann. §§ 43-13-121, 43-13-125, 43-
+        13-305, 43-13-311, 43-13-313.
+
+
+                                               2
+History: Revised to correspond with SPA 23-0011 (eff. 5/01/2023) eff. 09/01/2023. Revised eff.
+         04/01/2021.
+
+Rule 1.3: Billing
+
+A. Providers must file a claim with the third party prior to billing Medicaid. Documentation of
+   payment or denial must be submitted to the Division of Medicaid with the claim including
+   but not limited to:
+
+   1. The explanation of benefits (EOB),
+
+   2. Any amount paid by the third party, and
+
+   3. If the claim is denied by the third party, the reason for the denial.
+
+B. In the event there is no response from the third party source in sixty (60) days from the date
+   of submittal, the provider may submit the claim to Medicaid as directed in Miss. Admin.
+   Code Part 306, Rule 1.3.J.
+
+C. When a Medicaid beneficiary is covered by a private insurance policy whose administrator
+   has a preferred provider organization (PPO) in which the Medicaid provider:
+
+   1. Does not participate, the provider must submit the claim to the Division of Medicaid with
+      a statement indicating the provider is not a member of a particular PPO, the insurance
+      company name and address, and specific third party filing data and follow the Division of
+      Medicaid’s instruction regarding the claim.
+
+   2. Does participate, the Division of Medicaid does not reimburse for the difference between
+      a third party payment and the provider’s charges as the provider has agreed to accept the
+      PPO’s payment as payment in full.
+
+D. The provider must obtain or make reasonable efforts to obtain an assignment of benefits from
+   the beneficiary prior to billing third party insurance.
+
+E. If a provider is unable to obtain an assignment of benefits, the provider must submit the
+   claim to the Division of Medicaid and include the third party information.
+
+F. The provider must file and obtain Medicare payment for the service or obtain a Medicare
+   denial before the Division of Medicaid can pay the claim.
+
+G. If the beneficiary has Medicare A, B, and/or C and private insurance, the provider must bill
+   Medicare and the private insurer prior to submitting the claim to Medicaid.
+
+H. If Medicare coverage is found after Medicaid has paid the claim, the Division of Medicaid
+   will recoup the payments from the provider and the provider must bill Medicare.
+
+
+                                                 3
+I. The provider must attach the EOB from the third party to the claim submitted to the Division
+   of Medicaid.
+
+J. The provider must make every effort to acquire payment from the third party source before
+   filing the claim with Medicaid. When a provider bills a third party insurer and does not
+   receive a response, the provider must:
+
+   1. Submit a written inquiry to the third party if no response has been received within thirty
+      (30) days from the date of original claim submission,
+
+   2. File the claim with the Division of Medicaid, attaching a completed copy of the “TPL
+      Edit Override Attachment: No Response Form” if no response has been received in sixty
+      (60) days from the date of original claim submission. This form must be signed and
+      dated by the provider or an authorized provider representative. The claim is adjudicated
+      according to the Medicaid payment policies.
+
+K. If a provider receives payment from a third party and the Division of Medicaid for the same
+   service, the provider must refund the full Medicaid payment and may refile the claim with
+   Medicaid if the third party payment is less than Medicaid fee.
+
+L. For hospitals having a PPO contract with an insurance company with payments subject to
+   retroactive adjustments, the amount to be reported as third party liability on the claim must
+   be as follows:
+
+   1. If the third party insurer pays a final amount, which is not subject to change, then the
+      third party payment should be reported as the third party liability amount.
+
+   2. If the third party insurer makes an interim payment, which may be adjusted or settled
+      later based on contractual agreements with the provider, the maximum third party
+      reimbursement should be reported as the third party liability amount.
+
+       a) If future settlements with other third party insurers result in the provider refunding
+          amounts to the third party insurer, the Division of Medicaid makes no additional
+          payment.
+
+       b) If future settlements with third party insurers result in the third party insurer making
+          an additional payment to the provider, the following should be adhered to:
+
+           1) If third party liability amounts have been reported as benefits as required in item
+              Miss. Admin. Code Part 306, Rule 1.3.O.2, no amounts are due the Division of
+              Medicaid.
+
+           2) If third party liability amounts have been reported at less than the maximum
+              amount payable by the third party insurer, the provider will be liable for the
+              overpayment by the Division of Medicaid, plus interest and penalty when
+
+
+                                                 4
+               applicable.
+
+Source: 42 CFR §§ 433.139, 433.145-433.148; Miss. Code Ann. § 43-13-121.
+
+History: Revised eff. 06/01/2022; Revised eff. 04/01/2021.
+
+Rule 1.4: Casualty Cases
+
+A. In the event a provider has knowledge that an individual is a Medicaid beneficiary and is
+   receiving or has received health care services which may be covered by Medicaid as a result
+   of the accident or incident, the provider is prohibited from:
+
+   1. Demanding any payment from the Medicaid beneficiary or his representative, or
+
+   2. Pursuing collection of any type against the Medicaid beneficiary or his representative.
+
+B. A provider who has filed and accepted Medicaid payment and who fails to notify the
+   Division of Medicaid that the provider has also received payment from a third party will be
+   referred to the Medicaid Fraud Control Unit for investigation/prosecution for any possible
+   violation of federal or state laws.
+
+C. A provider may be excluded from participation in the Medicaid Program if the provider:
+
+   1. Accepts payment from a third party and fails to comply with the provisions of this policy,
+      or
+
+   2. Fails to refund to Medicaid a duplicate payment within thirty (30) days of receipt of the
+      duplicate payment.
+
+Source: Miss. Code Ann. §§ 43-13-121, 43-13-313.
+
+History: Revised eff. 04/01/2021.
+
+Rule 1.5: Reimbursement
+
+A. The Division of Medicaid must be billed as the payor of last resort.
+
+B. Providers are required to file a claim with the third party prior to filing with the Division of
+   Medicaid except in the following circumstances:
+
+   1. Preventive pediatric service, including EPSDT services, claims must be paid in
+      accordance with the usual payment schedule.
+
+   2. Covered services furnished to an individual on whose behalf child support enforcement is
+      being carried out by the state Title IV-D program must be paid in accordance with the
+      usual payment schedule.
+
+
+                                                5
+C. Medicaid will not pay for services denied by Medicare due to lack of medical necessity but
+   may pay claims denied for other reasons as long as the services are covered under the
+   Medicaid program.
+
+Source: 42 U.S.C. § 1396(a)(25); Miss. Code Ann. § 43-13-121.
+
+History: Revised eff. 04/01/2021.
+
+Rule 1.6: Third Party Sources
+
+Third party sources that must be used to reduce Medicaid program cost include, but are not
+limited to the following:
+
+A. Medicare Parts A and B,
+
+B. Health Insurance:
+
+   1. Includes both reimbursement policies and indemnity policies that make payment because
+      medical care and/or services are rendered. Indemnity policies that restrict payment to
+      periods of hospital confinement are considered a third party source.
+
+   2. Does not include policies that provide for income supplementation for lost income due to
+      disability (without regard to hospital confinement), or policies that make payment for
+      disability (without regard to hospital confinement), such as weekly disability policies.
+
+C. Major medical, dental, drug, vision care or other supplements to basic health insurance
+   contracts,
+
+D. CHAMPUS provides coverage for off-base medical services to dependents of uniformed
+   services personnel, active or retired,
+
+E. Veterans Administration (CHAMP-VA) provides coverage for medical services to dependents
+    of living and deceased disabled veterans,
+
+F. Railroad Retirement,
+
+G. Automobile Medical Insurance,
+
+H. Worker’s Compensation,
+
+I. Liability Insurance includes automobile insurance and other public liability policies, such as
+   home accident insurance, etc.,
+
+J. Family Health Insurance carried by an absent parent,
+
+
+
+                                               6
+K. Black Lung Benefits,
+
+L. United Mine Workers of America Health and Retirement Fund, or
+
+M. Donated Funds.
+
+Source: 42 CFR §§ 433.136, 433.138; Miss. Code Ann. § 43-13-121.
+
+Rule 1.7: Coordination of Benefits
+
+A. Coverage available through the Mississippi Medicaid program is secondary to any third party
+   benefits to which a beneficiary may be entitled. If a beneficiary has other insurance, the
+   primary insurance should be used before billing Medicaid. Benefits available from insurance
+   or other third party liability are used to reduce costs to the Medicaid program. To be eligible
+   for Medicaid reimbursement, all Division of Medicaid policies including prior authorization
+   requirements must be followed.
+
+B. Policies that provide wage or income supplementation for lost income due to disability are
+   not considered third party resources. However, policies, including indemnity policies that
+   provide for payment while the beneficiary receives medical care and services such as during
+   a period of hospitalization covered by Medicaid, are considered third party resources. The
+   assignment of third party medical payments is a condition of eligibility for Medicaid per
+   federal and state laws.
+
+Source: 42 CFR §§ 433.138, 433.145; Miss. Code Ann. § 43-13-121.
+
+Rule 1.8: Estate Recovery Requirements
+
+A. The Division of Medicaid is required to seek recovery of payments for nursing facility
+   services and Home and Community-Based Services (HCBS) as well as related hospital and
+   prescription drug services from the estates of deceased Medicaid recipients who were fifty-
+   five (55) or older when Medicaid benefits were received.
+
+B. The estate recovery provision applies to all Medicaid recipients in a nursing facility as of
+   July 1, 1994, and all Medicaid recipients who entered the Home and Community-Based
+   Waiver (HCBS) Program on or after July 1, 2001, who:
+
+   1. Are age fifty-five (55) or older at time of death;
+
+   2. Own real or personal property at time of death that can be considered an estate.
+
+C. Individuals who entered the HCBS Waiver Program prior to July 1, 2001, are “grandfathered
+   in” and will not have their case referred to estate recovery unless the individual is discharged
+   from the program and readmitted after July 1, 2001. In which case, “grandfathered” status is
+   lost and the individual will be referred to estate recovery as a new HCBS client subject to the
+   provision.
+
+
+                                                7
+D. Estate property includes any real or personal property owned by the recipient in its entirety or
+   by shared ownership. Ownership of life estate interests or ownership of property that has
+   been transferred into a trust is not subject to estate recovery.
+
+E. Real property includes the home and any other real property, including ownership of mineral
+   rights and/or timber rights.
+
+F. Personal property includes ownership of any cash reserves, stocks, bonds, automobiles, RVs,
+   mobile homes or any other type of property with value known to be owned by the recipient in
+   full or in part.
+
+G. Estate recovery rules do not apply to a deceased recipient if at the time of death the recipient
+   has:
+
+   1. A legal surviving spouse living in the home, or
+
+   2. A surviving dependent child under the age of twenty-one (21) living in the home, or
+
+   3. A dependent blind or disabled child of any age living in the home, or
+
+   4. An undue hardship condition exists that causes estate recovery not to apply.
+
+H. An undue hardship that would exempt estate recovery includes:
+
+   1. A blood relative living in the home who meets all of the following requirements:
+
+       a) The relative resided in the home at least one continuous year immediately prior to the
+          date of the Medicaid recipient’s admission to a nursing facility or HCBS waiver
+          program.
+
+       b) The relative provided care to the Medicaid recipient which delayed entrance into a
+          nursing facility or allowed the recipient to avoid entering a nursing facility.
+
+       c) The relative has no other residence.
+
+   2. The property is a source of income for the family, such as a family farm.
+
+I. The following assets and resources of American Indians and Alaska Natives are exempt from
+   estate recovery:
+
+   1. Interest in and income derived from Tribal land and other resources currently held in trust
+      Status and Judgment funds from the Indian Claims commission and the U.S. claims court.
+
+   2. Ownership interest in trust or non-trust property, including real property and
+      improvements located on a reservation.
+
+                                                 8
+      a) Reservation payments to special populations.
+
+Source: P.L. 111-5 American Recovery and Reinvestment Act of 2009 § 5006, Miss. Code
+        Ann. § 43-13-317.
+
+History: New Rule moved from Miss. Admin. Code Part 306, Rule 1.8 eff. 08/01/2020.
+
+
+
+
+                                             9
+

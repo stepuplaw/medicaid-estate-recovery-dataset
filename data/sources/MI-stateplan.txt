@@ -1,0 +1,439 @@
+Source URL: https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/MI/MI-16-0005.pdf
+Retrieved: 2026-09-23
+Note: PDF downloaded via WebFetch, text extracted with pdftotext
+
+                           Table of Contents
+State/Territory Name:      MI
+State Plan Amendment (SPA) #: 16-0005
+This file contains the following documents in the order listed:
+  1) Approval Letter
+  2) CMS 179 Form/Summary Form (with 179-like data)
+  3) Approved SPA Pages
+DEPARTMENT OF HEALTH & HUMAN SERVICES
+Centers for Medicare & Medicaid Services
+Chicago Regional Office
+233 N. Michigan
+Suite 600
+Chicago, Illinois 60601
+
+
+                                            May 24, 2016
+
+
+
+Chris Priest
+Medical Services Administration
+Michigan Department of Health and Human Services
+400 South Pine Street, P.O. Box 30479
+Lansing, Michigan 48909-7979
+
+ATTN: Erin Black
+
+Dear Mr. Priest:
+
+Enclosed for your records is an approved copy of the following State Plan Amendment:
+
+    Transmittal #: 16-0005 - Liens, Adjustments or Recoveries (Estate Recovery)
+    Effective:     January 1, 2016
+
+If you have any questions, please contact Leslie Campbell at (312) 353-1557 or
+Leslie.Campbell@cms.hhs.gov.
+
+                                    Sincerely,
+
+                                            /s/
+
+                                    Ruth A. Hughes
+                                    Associate Regional Administrator
+                                    Division of Medicaid & Children’s Health Operations
+
+Enclosures
+DEPARTMENT OF HEALTH AND HUMAN SERVICES                                                                             FORM APPROVED
+HEALTHCARE FINANCING ADMINISTRATION                                                                                OMB NO. 0938-0193
+                                                                   1. TRANSMITTAL NUMBER:                        2. STATE:
+ TRANSMITTAL AND NOTICE OF APPROVAL OF
+                                                                   16 - 0005                                     Michigan
+          STATE PLAN MATERIAL                                      3. PROGRAM IDENTIFICATION: TITLE XIX OF THE SOCIAL
+ FOR: HEALTH CARE FINANCING ADMINISTRATION                            SECURITY ACT (MEDICAID)
+                                                                   TITLE XIX OF THE SOCIAL SECURITY ACT (MEDICAID)
+ TO:    REGIONAL ADMINISTRATOR                                     4. PROPOSED EFFECTIVE DATE
+        HEALTH FINANCING ADMINISTRATION                            January 1, 2016
+        DEPARTMENT OF HUMAN SERVICES
+ 5. TYPE OF PLAN MATERIAL (Check One):
+
+               NEW STATE PLAN                   AMENDMENT TO BE CONSIDERED AS NEW PLAN                         AMENDMENT
+                  COMPLETE BLOCKS 6 THRU 10 IF THIS IS AN AMENDMENT (Separate Transmittal for each amendment)
+ 6. FEDERAL STATUTE/REGULATION CITATION:                           7. FEDERAL BUDGET IMPACT:
+ 42 USC 1396p                                                         a. FFY 2016 $0
+                                                                      b. FFY 2017 $0
+ 8. PAGE NUMBER OF THE PLAN SECTION OR ATTACHMENT:                 9. PAGE NUMBER OF THE SUPERSEDED PLAN SECTION
+                                                                      OR ATTACHMENT (If Applicable):
+ Page 53b
+ Attachment 4.17-A, Pages 1,2,3,4,5                                Page 53b
+                                                                   Attachment 4.17-A, Pages 1,2,3,4,5
+
+ 10. SUBJECT OF AMENDMENT:
+ Clarifies language and ensures consistency with requirements set forth in federal statute regarding the definition of estate within
+ the Liens and Adjustments or Recoveries section.
+
+
+ 11. GOVERNOR'S REVIEW (Check One):
+              GOVERNOR'S OFFICE REPORTED NO COMMENT                            OTHER, AS SPECIFIED:
+              COMMENTS OF GOVERNOR'S OFFICE ENCLOSED                           Chris Priest, Director
+              NO REPLY RECEIVED WITHIN 45 DAYS OF SUBMITTAL                    Medical Services Administration
+
+ 12. SIGNATUE OF STATE AGENCY OFFICIAL:                        16. RETURN TO:
+
+
+ 13. TYPED NAME:
+                                                               Medical Services Administration
+ Chris Priest                                                  Actuarial Division - Federal Liaison
+                                                               Capitol Commons Center - 7th Floor
+ 14. TITLE:                                                    400 South Pine
+ Director, Medical Services Administration                     Lansing, Michigan 48933
+ 15. DATE SUBMITTED:
+ March 15, 2016                                                Attn: Erin Black
+
+                                                FOR REGIONAL OFFICE USE ONLY
+ 17. DATE RECEIVED:                                        18 DATE APPROVED:
+                         March 15, 2016                                                     May 24, 2016
+                                    PLAN APPROVED - ONE COPY ATTACHED
+ 19. EFFECTIVE DATE OF APPROVED MATERIAL:         20. SIGNATURE OF REGIONAL OFFICIAL:
+                         January 1, 2016                                                            /s/
+ 21. TYPE NAME:                                                22. TITLE:
+                    Ruth A. Hughes                                          Associate Regional Administrator
+ 23. REMARKS:
+
+
+
+
+FORM HCFA-179(07-92)                              Instructions on Back
+                                              53b
+Revision: HCFA-PM-95-3      (MB)
+          May 1995
+
+                  STATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+                  State:                MICHIGAN
+
+
+
+Citation(s)
+
+                                (4)      The State disregards assets or resources for individuals
+                                         who receive or are entitled to receive benefits under a long
+                                         term care insurance policy as provided for in Attachment
+                                         2.6-A, Supplement 8b.
+
+                                         The State adjusts or recovers from the individual’s estate
+                                         on account of all medical assistance paid for nursing
+                                         facility and other long term care services provided on
+                                         behalf of the individual. (States other than California,
+                                         Connecticut, Indiana, Iowa, and New York which provide
+                                         long term care insurance policy-based asset and resource
+                                         disregard must select this entry. These five States may
+                                         either check this entry or one of the following entries.)
+
+                                         In addition to adjustment or recovery of payments for
+                                         services listed above, payments are adjusted or recovered
+                                         for other services under the state plan as listed below:
+
+                                         All services covered by the Michigan Medicaid program for
+                                         individuals age 55 and over except Medicare cost-sharing
+                                         identified at 4.17(b)(3).
+
+                                         The State does not adjust or recover from the individual’s
+                                         estate on account of any medical assistance paid for
+                                         nursing facility or other long term care services provided
+                                         on behalf of the individual.
+
+                                         The State adjusts or recovers from the assets or
+                                         resources on account of medical assistance paid for
+                                         nursing facility or other long term care services provided
+                                         on behalf of the individual to the extent described below:
+
+                                         All assets and resources not otherwise excluded under
+                                         this provision of the Michigan Medicaid Program.
+
+                                         If an individual covered under a long-term care insurance
+                                         policy received benefits for which assets or resources
+                                         were disregarded as provided for in Attachment 2.6-A,
+                                         Supplement 8c (State Long-Term Care Insurance
+                                         Partnership), the State does not seek adjustment or
+                                         recovery from the individual’s estate for the amount of
+                                         assets or resources disregarded.
+
+
+
+TN NO.: 16-0005               Approval Date: __5/24/16________        Effective Date: 1/01/2016
+
+Supersedes
+TN No.: 13-015
+                                                                            Attachment 4.17-A
+                                                                            Page 1
+
+                  STATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+
+                                            State of MICHIGAN
+
+                                 Liens and Adjustments or Recoveries
+
+1.   The State uses the following process for determining that an institutionalized individual cannot
+     reasonably be expected to be discharged from the medical institution and return home:
+     The State is not a TEFRA state. Determination of permanent institutionalization is not required or
+     performed.
+2.   The following criteria are used for establishing that a permanently institutionalized individual’s son or
+     daughter provided care as specified under regulations at 42 CFR §433.36(f):
+     Because 42 CFR §433.36(f) is a provision required only if a State chooses to impose a lien against
+     an individual’s real property prior to his or her death, and the State is not a TEFRA state, the State
+     does not have nor need such criteria.
+3.   The State defines the terms below as follows:
+         estate -
+          MCL 700.1104(b) "estate" includes the property of the decedent, trust, or other person whose
+          affairs are subject to this act as the property is originally constituted and as it exists throughout
+          the administration. ("as the property is originally constituted and as it exists throughout
+          administration" describes an asset that has changed forms. As an example: an individual has
+          real estate which is sold in parcels and the proceeds from the sale of the separate parcels are
+          invested in cds. Even though the asset is no longer in its original form, it is still part of the
+          estate when the estate is distributed.) Additionally, the state’s estate recovery statute (MCL
+          400.112h (a)) defines estate as ". . .All property and other assets included within an
+          individual’s estate that is subject to probate administration. . ." If a decedent received (or is
+          entitled to receive) benefits under a long-term care insurance policy and had assets or
+          resources disregarded, pursuant to 42 USC 1396p(b)(4)(B) “estate” includes all real and
+          personal property and other assets in which the decedent had any legal title or interest
+          immediately before or at the time of death to the extent of that interest, including but not
+          limited to, assets conveyed to a survivor, heir, or assign of the deceased individual through
+          joint tenancy, tenancy in common, survivorship, life estate, living trust, transfer-on-death deed,
+          payable on death contract, promissory note or other arrangement.
+         Survivor - an individual who is entitled to inherit from the decedent’s estate, who does not
+          predecease the deceased beneficiary
+         individual’s home - any shelter used by an individual or spouse as a place of residence in
+          which the individual has a home-ownership interest
+         equity interest in the home - any equitable right, title or interest in real property
+         residing in the home for at least one or two years on a continuous basis - occupancy of an
+          individual’s home by a sibling, child or other survivor using the home as the principal place of
+          residence
+         discharge from the medical institution and return home - the attending physician has signed
+          an order for discharge from the nursing home, following which the individual has returned to
+          reside in his or her own home, and
+         lawfully residing - use of the home of an individual residing in a nursing facility as a primary
+          place of residence by a spouse, a minor, blind or disabled child, a sibling or other survivor.
+          Such property must be the spouse’s, child’s, sibling’s or other survivor’s mailing address or
+          legal address for driver’s licensure and/or voter registration.
+
+TN NO.: 16-0005                   Approval Date:      5/24/16               Effective Date: 01/01/2016
+
+Supersedes
+TN No.: 12-10
+                                                                           Attachment 4.17-A
+                                                                           Page 2
+
+                  STATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+
+                                           State of MICHIGAN
+
+                                 Liens and Adjustments or Recoveries
+
+         Surviving spouse - a person who is still married to the decedent. A person who is a party to a
+          judgment of separate maintenance or a judgment of divorce is not a surviving spouse for
+          purposes of this section.
+
+4.   The State defines undue hardship as follows:
+     An undue hardship may exist when (1) the estate subject to recovery is the primary income
+     producing asset of the survivors (where such income is limited), including, but not limited to, a family
+     farm or business; OR (2) the estate subject to recovery is a home of modest value.
+     There is a presumption that no hardship exists if the hardship resulted from estate planning
+     methods under which assets were diverted in order to avoid estate recovery. The agency will not
+     grant an undue hardship waiver if the granting of such waiver results in the payment of claims to
+     other creditors with a lower priority standing.
+     Home of modest value is defined as a home valued at fifty percent (50%) or less of the average
+     price of homes in the county where the homestead is located, as of the date of the beneficiary’s
+     death.
+     For individuals who apply for but do not meet the definition of undue hardship as found in MCL
+     §400.112g and provided above, the state will consider granting an exemption when a survivor who
+     was residing in the deceased beneficiary’s home continuously for at least two years immediately
+     before the beneficiary’s date of death, provided care that kept the deceased beneficiary out of an
+     institution, even if the deceased beneficiary never entered an institution. This exemption will only be
+     granted in circumstances where non-institutional long-term care services approved under the state
+     plan were provided and only after the means test has been satisfied.
+     The State is following its own definition of undue hardship in accordance with mcl §400.112g(3)(e).
+     When considering whether to grant an undue hardship waiver, a means test will be applied. West
+     Virginia v. Thompson, 475 F.3d 204. An applicant will satisfy the means test only if both of the
+     following are true:
+     Total household income of the applicant is less than 200 percent of the poverty level for a
+     household of the same size; and
+     Total household resources of the applicant do not exceed $10,000.
+     Undue hardship waivers are temporary. Undue hardship waivers expire when the conditions which
+     qualified an estate, or a portion of an estate, for a waiver no longer exist.
+
+5.   The following standards and procedures are used by the State for deferring or waiving estate
+     recoveries when recovery would cause an undue hardship, or when recovery is not cost-effective.
+     Review of hardship waivers begins with the estate recovery caseworker. The caseworker reviews
+     all incoming waiver applications and makes an initial recommendation to accept or deny and sends
+     it to the estate recovery program manager.
+
+
+
+
+TN NO.: 16-0005                   Approval Date:     5/24/16               Effective Date: 01/01/2016
+
+Supersedes
+TN No.: 12-10
+                                                                          Attachment 4.17-A
+                                                                          Page 3
+
+                  STATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+
+                                           State of MICHIGAN
+
+                                Liens and Adjustments or Recoveries
+
+     The Estate Recovery program manager’s responsibilities are:
+
+         monitors state and federal laws and regulations pertaining to estate recovery
+         conducts all initial hardship waiver reviews
+         monitors progress of filed claims in probate
+         assists caseworkers in sending notices of intent to file
+         ensures adherence to applicable timeframes
+         develops, tests, and implements TED, the Third Party Liability Electronic Database.
+         approves all correspondence and informational materials
+         coordinates with the Office of Legal Affairs and the Office of the Attorney General
+         verifies information in recommendations received from the caseworker and in the waiver
+          applications
+         directs the activities of staff in pursuing recoveries
+         evaluates methods for maximizing reimbursement from liable sources
+         ensures adherence to state and federal laws and regulations
+         approves or denies waiver applications
+
+     The caseworker will use the following criteria when making an initial undue hardship waiver
+     recommendation:
+
+         whether the estate is the primary income-producing asset of the survivors
+         whether the estate is a home of modest value
+         whether an actual hardship exists after application of the means test
+
+     TED is a module of the third party liability database that is used to process estate recovery cases.
+
+6.   The State defines cost-effective as follows:
+
+     Recovery is considered cost-effective when the potential recovery amount of the estate exceeds the
+     cost of filing the claim or if the claim amount is above a $1,000 threshold.
+
+
+
+
+TN NO.: 16-0005                   Approval Date:    5/24/16               Effective Date: 01/01/2016
+
+Supersedes
+TN No.: 12-10
+                                                                            Attachment 4.17-A
+                                                                            Page 4
+
+                  STATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+
+                                            State of MICHIGAN
+
+                                 Liens and Adjustments or Recoveries
+
+7.   The State uses the following collection procedures:
+
+     The State identifies deceased recipients subject to estate recovery via a match with the Medicaid
+     recipient eligibility file using data from the National Social Security Death Index and State Vital
+     Statistics, and claims paid with a discharge status code indicating death. The match is run weekly.
+     Deceased recipients are also identified by obtaining referrals from local MDHHS offices, service
+     providers, long-term care facilities, attorneys, personal representatives, family members of
+     recipients, and possibly by monitoring newly opened probate court records for high-population
+     counties in Michigan.
+
+     Under the Michigan Probate Code, a personal representative is required to publish notice to
+     creditors to present their claims to the estate. The personal representative must send a copy of the
+     published notice to all known creditors of the estate. A known creditor of the decedent is any
+     creditor whose existence is reasonably ascertainable through an investigation of the decedent’s
+     records for the 2 years prior to death. (MCL 700.3801(1)). The State will be a creditor ascertainable
+     from review of the decedent’s past two years’ records; therefore, the State will be a known creditor
+     and the personal representative will be required to send it notice of the probate estate.
+
+     The personal representative is also required, by state law to:
+
+     (1) within 91 days after appointment or other time specified by court rule, a personal representative,
+     who is not a special personal representative or a successor to another representative who has
+     previously discharged this duty, shall prepare an inventory of property owned by the decedent at the
+     time of death, listing it with reasonable detail, and indicating as to each listed item, its fair market
+     value as of the date of the decedent's death, and the type and amount of an encumbrance that may
+     exist with reference to each listed item.
+     (2) the personal representative shall send a copy of the inventory to all presumptive distributees and
+     to all other interested persons who request it, and may also file the original of the inventory with the
+     court. The personal representative shall submit to the court on a timely basis information necessary
+     to calculate the probate inventory fee. (MCL 700.3706)
+
+     The personal representative shall keep each presumptive distributee informed of the estate
+     settlement. Until a beneficiary's share is fully distributed, the personal representative shall annually,
+     and upon completion of the estate settlement, account to each beneficiary by supplying a statement
+     of the activities of the estate and of the personal representative, specifying all receipts and
+     disbursements and identifying property belonging to the estate. MCL 700.3703(4)
+
+     (D)   that, during the course of administering the estate, the personal representative must provide
+           all interested persons with all of the following:
+           (i) a copy of the petition for the personal representative's appointment and a copy of the will, if
+                 any, with the notice.
+           (ii) a copy of the inventory.
+           (iii) a copy of the settlement petition or of the closing statement.
+           (iv) unless waived, a copy of the account, including, but not limited to, fiduciary fees and
+                 attorney fees charged to the estate (MCL 700.3705).
+
+
+
+
+TN NO.: 16-0005                    Approval Date:     5/24/16               Effective Date: 01/01/2016
+
+Supersedes
+TN No.: 12-10
+                                                                            Attachment 4.17-A
+                                                                            Page 5
+
+                  STATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+
+                                            State of MICHIGAN
+
+                                 Liens and Adjustments or Recoveries
+
+     Within 30 days of learning of the death of a Medicaid recipient who is subject to estate recovery,
+     MDHHS mails a Notice of Intent (NOI) to the last known address of the decedent if a claim will be
+     pursued. If a valid address is not known, a letter will be sent to the facility where the decedent last
+     resided to request a family contact. The NOI indicates that the state intends to file a claim against
+     the estate in probate court to seek reimbursement for payments made by the Medicaid program (not
+     to exceed the value of the estate).
+
+     The NOI also indicates that the State may defer recovery in the event that recovery would result in
+     an undue hardship. The NOI provides the State’s definition of an undue hardship along with a
+     contact phone number and address to request an undue hardship application. The NOI also
+     advises that an undue hardship application may be downloaded from the estate recovery website
+     and gives the url. Lastly, the NOI states that adverse decisions may be appealed under the
+     Administrative Procedures Act, (MCL 24.201-24.328) within 60 days of receiving notice of the
+     State’s final decision.
+
+     Upon confirmation that a case does not meet any statutory exemptions or hardship conditions and
+     that probate has been opened, the State files a claim against the estate and pursues recovery. The
+     State’s estate recovery claim is administered through the State Probate Court system and all claims
+     are subject to review by the Probate Court.
+
+     The Probate Court’s allowance or denial of the State’s claim is subject to the appellate review
+     available to all other Probate Court decisions.
+
+     The State will petition a court pursuant to estates and protected individuals code, for distribution of
+     estate assets upon determination that the personal representative has failed to distribute the
+     proceeds of the estate in a timely manner (MCL §700.3415; 3807(1); 3951; 3952; 3953).
+
+8.   The State assures CMS that the full FMAP share of all recoveries will be credited timely to CMS via
+     the CMS-64 report.
+
+     The State will provide CMS copies of the reports mandated by the Michigan Legislature. Such
+     reports will be forwarded to CMS at the same time the reports are presented to the Legislature.
+
+
+
+
+TN NO.: 16-0005                   Approval Date:      5/24/16               Effective Date: 01/01/2016
+
+Supersedes
+TN No.: 12-10
+

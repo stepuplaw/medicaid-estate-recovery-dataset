@@ -1,0 +1,178 @@
+Source URL: https://www.medicaid.gov/medicaid/spa/downloads/KS-21-0016.pdf
+Retrieved: 2026-09-23
+Note: PDF saved via WebFetch (script got 403), text extracted with pdftotext
+
+                           Table of Contents
+
+
+State/Territory Name: Kansas
+State Plan Amendment (SPA) #: 21-0016
+This file contains the following documents in the order listed:
+   1) Approval Letter
+   2) CMS Form 179
+   3) Approved SPA Pages
+                                  KANSAS MEDICAID STATE PLAN
+
+                                                                                           Attachment 4.17-A
+                                                                                                      Page 5
+
+
+       Estate Recovery recovers medical care costs from the assets or estates of certain Medicaid
+       consumers. Under federal law, the Estate Recovery Unit (ERU) is allowed to establish a claim for
+       Medicaid on a member who received assistance prior to their death, was 55 years of age or older at
+       the time of receipt of services or was an inpatient in a long-term care institutional facility (and was
+       determined permanently institutionalized) where Medicaid paid a portion of the cost (regardless of
+       the age at the time of receipt of services).
+
+       The probate claim is normally filed against the member’s estate; however, if there is a surviving
+       spouse, no claim is filed. Upon the death of the surviving spouse, a claim is filed against that
+       spouse’s estate, with the exception of the existence of a surviving child that is under 21 years of
+       age, blind or permanently disabled according to the criteria used by the Social Security
+       Administration.
+
+
+       Pre - litigation:
+       If the State elects to initiate an action in court, a pre-filing letter will be sent to the recipient, if
+       alive, or to the family or representative of the deceased recipient. This pre - filing letter is an
+       accepted practice in collection matters in Kansas. The pre - filing letter contains the information
+       from the general post - death letter noted above and the further advise to the impacted party of the
+       nature of the litigation action (probate action, quiet title, etc.) and the date by which the state
+       anticipates filing the action. Once filed, any subsequent notices will be governed by Kansas
+       civil code and procedure, probate code and procedure and statutes and caselaw specific to the area
+       of law.
+
+
+       Lien Notice:
+       If the State elects to initiate a lien recovery, a notice will be sent that complies with the procedure
+       and criteria noted above.
+
+
+
+
+                            10/22/2021
+KS-21-0016 Approval Date:__________________ Effective Date: 8/20/2021 Supersedes TN#: 04-09
+                              KANSAS MEDICAID STATE PLAN
+
+                                                                                Attachment 4.22-A
+                                                                                           Page 1
+
+
+                             Requirements for Third Party Liability -
+                                  Identifying Liable Resources
+
+(b) (1) Data exchanges pursuant to 42 CFR 433.138 (d)(1), (d)(3) and (d)(4) and (e) are
+        conducted periodically as described below.
+
+The Deficit Reductions Act of 1984 (DRA) required states to match Medicaid eligible individuals
+against the files of several agencies. Therefore, State Income and Eligibility Verification System
+was initiated. This is an unduplicated match of Medicaid-eligible individuals utilizing social
+security number and date of birth. The Kansas Department of Health and Environment (KDHE)
+Division of Health Care Finance (DHCF) matches its Medicaid-eligible files against the
+employment security crossmatch, Bendex and the IRS unearned income files. This data is then
+utilized to meet 42 CFR 433.138 (g)(1)(i) by furnishing monthly printouts to eligibility staff to
+investigate, to resolve 80 percent of all matches, to document in the case file, and to update the
+TPR data base within 30 calendar days of receipt. Pursuant to 42 CFR 433.138 (g)(2)(i),
+information about third party resources is also obtained during the application for eligibility and
+the redetermination processes. Information is loaded into the KMMIS TPR data base within 30
+days by eligibility staff. Data matches are also performed monthly with Workers’ Compensation
+files and routinely and timely with the Kansas Department of Revenues Drivers’ License
+Accident file. Any new TPR information is loaded into the data base within 60 days by the fiscal
+agent staff. Data matches are also performed by the Department of Children and Families (DCF)
+and KDHE-DHCF staff for wage and employment information. Child Support Services (CSS)
+staff secures and verifies the health insurance information received from absent parents and
+employers in order to pursue medical support.
+The State will exercise the flexibility to make payments without regard to potential TPL for up
+to 100 days for claims related to child support enforcement beneficiaries.
+Pursuant to 42 CFR 433.138 (d)(4)(ii), a state motor vehicle accident report file date exchange is
+presently being performed routinely and timely.
+
+Pursuant to 42 CFR 433 (e), diagnosis and trauma code edits are performed on codes 800 through
+999, excepting 994.6 (per federal direction). During the weekly claims processing cycle, claims
+are identified relating to these diagnoses. For single claims in the amount of $1,000.00, or more or
+for $1,00.00 accumulations of smaller amounts for the multiple trauma diagnoses of 800 through
+999, a questionnaire is mailed to the member. KDHE-DHCF then pursues TPR recovery through
+its legal staff to recover funds. Information discovered during this process is added to the TPR file
+if is not already present. This process take place within 60 days.
+
+
+
+
+KS-21-0016 Approval Date:_______________
+                           10/22/2021    Effective Date: 8/20/2021 Supersedes: MS-90-41
+                                   KANSAS MEDICAID STATE PLAN
+
+
+                                                                                          Attachment 4.22-B
+                                                                                                     Page 1
+
+                                  Requirements for Third Party Liability -
+                                           Payment of Claims
+
+
+The threshold amount used in determining whether to seek reimbursement from a liable third-party health
+insurer is $5.00. No accumulation is performed.
+
+The threshold amount used for trauma-related cases from the fiscal agent is presently $1,000.00.
+Accumulation is performed on all claim types.
+
+This threshold was determined by a study performed by the State. From a population of 1243 casualty cases
+closed in FY 89, a sample of 243 cases (19.5%) were reviewed. Of those cases reviewed, 116 had total
+medical expenditures between $500 and $1,000. Of these 116 cases, 112 had no recovery and the other 4
+cases had a recovery amount totaling $2,286.56. The agency estimates that the cost per case for the 116
+cases of $86.56, and subtracting the recovery amount of $2,286.56, and then dividing that result by the 116
+cases indicates that it costs $66.85 more than is recovered on the average to process cases between $500
+and $1000.
+
+The liability of third parties is identified through the claim’s adjudication process. Billers are required to
+indicate either TPL payment or a denial indicator on a claim submission. The Claims History file interfaces
+with the MMIS TPL file to determine whether other insurance coverage is applicable and primary to
+Medicaid payment.
+
+Providers are not required to bill liable third parties when services covered under the Plan are furnished to
+an individual on whose behalf child support enforcement is being carried out by the Kansas Department of
+Children and Families (DCF). A mechanism has been devised to eliminate printing the TPL information on
+the medical identification card. The fiscal agent manually designates a post pay bill status upon notification
+from DCF for all services rendered to IV-D children in accordance with their TPL coverage.
+
+
+
+
+                          10/22/2021
+KS-21-0016 Approval Date________________ Effective Date 08/20/2021 Supersedes TN No. MS-90-41
+                                      KANSAS MEDICAID STATE PLAN
+
+
+                                                                                         Attachment 4.22-B
+                                                                                                    Page 2
+
+                                 Requirements for Third Party Liability -
+                                       Payment of Claims (cont.)
+
+
+The process for the post-payment recovery of claims is that, monthly, the system searches the member third
+party liability file. Claims history is reviewed for these members and paid claims over $5.00 that were paid
+within the last month generate a post-pay bill automatically. At the time post-pay bills are produced; an
+accounts receivable record is established in the system and the claims are sent monthly to the applicable
+insurance carriers as a request for payment up to the Medicaid payment amount. All replies (payments,
+denials and requests for more information) to these billings are delivered to the TPL Accounts Receivable
+Clerk. The Clerk determines the correct disposition action to the response received and reconciles the
+accounts receivable or provides additional information to the insurance carrier.
+
+The state will use standard coordination of benefits cost avoidance process when adjudicating claims for
+prenatal services which includes labor, delivery and postpartum care claims. If it is determined that a third
+party is likely liable for a prenatal claim, the claim will be rejected, but not denied and the claim will be
+returned back to the provider noting the third party that Medicaid believes to be legally responsible for
+payment. If, after the provider bills the liable third party and a balance remains or the claim is denied
+payment for a substantive reason, the provider can submit a claim to the state for payment of the balance,
+up to the maximum Medicaid payment amount established for the service.
+
+The state will make payments without regard to third party liability for pediatric preventive services unless
+the state has made a determination related to cost-effectiveness and access to care that warrants cost
+avoidance for 90 days.
+
+
+
+
+                          10/22/2021
+KS-21-0016 Approval Date_________________ Effective Date 8/20/2021 Supersedes TN No. MS-90-41
+

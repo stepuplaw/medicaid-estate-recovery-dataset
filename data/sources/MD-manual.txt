@@ -1,0 +1,1678 @@
+Source URL: https://health.maryland.gov/mmcp/Medicaid%20Manual/Section%201500%20-Liens.pdf
+Retrieved: 2026-09-23
+
+COMAR 10.09.24.15
+
+
+
+
+Section 1500 Table of Contents
+Liens, Adjustment and Recoveries
+1500.1 Introduction-Liens, Adjustment and Recoveries
+
+1500.2 Court Order
+
+1500.3Benefits Paid Pending Appeal Decision
+
+1500.4 Liability
+
+1500.5 Estates
+
+1500.6 Voluntary Reimbursement
+
+1500.7 Health Insurance
+      (a)Enrollment in Cost-Effective Group Health Plans
+
+1500.8 Lien, Institutionalized Persons
+      (a)Applicability
+      (b)Explanation of Lien
+      (c)When Home Maybe Subject to a Lien
+
+1500.9 Restrictions on the Imposition of a Lien
+      (a)LDSS Lien Procedures
+      (b)Resources Evaluation
+      (c)Lien Procedures
+      (d)Objection to Lien
+
+1500.10 Explanation of the Medical Review Process
+
+1500.11 Appeal of the Medical Review Process
+        (a)Administrative Review
+        (b)Appeal Hearing
+        (c)Summary
+
+1500. 12 MACA, Division of Recoveries Activity
+
+1500.13 Termination of a Lien Based on Discharge from a Long Term Care Facility (LTCF)
+
+1500.14 Treatment of Home and Other Real Property upon Discharge from an Institution
+
+1500.15 Medical Assistance Forms and Notices
+        Attachment A Insurance Reporting Form- DHMH 2583
+
+
+                                              1500
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+           Attachment B Note of Potential MA Payment Recovery-DHMH 1169
+           Attachment C Referral for Investigation-DHMH 4243
+           Attachment D Explanation of Lien-DHMH 4244
+           Attachment E Physician Report-DHMH 4245 (LTC)
+           Attachment F Lien Worksheet-DHMH 1159C (LTC)
+           Attachment G Lien Memorandum- DHMH 4242 (LTC)
+           Attachment H Home Exclusion-Statement of Intent DHMH 4255 (LTC)
+           Attachment I Notice of Medical Review Decision-Home Property-DHMH 4255
+
+1500.16 Lien Process Flow Chart for Institutionalized Persons
+
+Frequently Asked Questions (FAQs) and Answers
+
+Objectives for Section 1500
+
+1. Define Liens, Adjustments and Recoveries;
+2. Provide in detail Restrictions on the Imposition of a Lien;
+3. Explain the Medical Review Process.
+
+
+
+
+                                              1501
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+
+1500.1 Introduction- Liens, Adjustment and Recoveries
+
+The Department has the right to make a claim against a recipient‟s income and/or resources
+under several circumstances. These circumstances are:
+
+          A court order exists which permits the Department to take such action.
+          MA benefits have been paid pending an appeal hearing.
+          A third party may be responsible for medical expenses as a result of a lawsuit or other
+          legal action.
+          The recipient is deceased and received MA benefits at 55 or over.
+          A recipient voluntarily reimburses the Program for expenditures.
+          Health insurance coverage is available to cover expenses paid by the Department.
+          An institutionalized person owns real property against which a lien may be placed.
+
+The Department may not seek recovery from the estate of the deceased individual for
+Medical Assistance payments of Medicare premiums, co-payments, or deductibles as a
+Qualified Medicare Beneficiary (QMB) or Specified Low Income Medicare Beneficiary
+(SLMB).
+
+Claims against a recipient‟s income and/or resources are made by the Division of Recoveries
+and Financial Services (Recoveries). This unit is responsible for carrying out all activities to
+make claims and recoveries on behalf of the Department; however, the activities of
+Recoveries must be coordinated with those of the LDSS. The LDSS is responsible for
+reporting complete information to Recoveries to enable that unit to pursue claims and
+recoveries. The extent to which claims and recoveries are made and the appropriateness of
+certain legal actions are the responsibility of Recoveries.
+
+Address:
+
+Medical Care Compliance Administration, Division of Medical Assistance Recoveries,
+201 West Preston Street
+Rm 204
+Baltimore, MD 21201
+
+Phone number: 410-767-6614
+
+1500.2 Court Order
+
+
+
+
+                                                1502
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+A court order permitting recovery may exist because of a determination that the Program has
+paid benefits on behalf of a person that should not have been paid or would have been paid in
+a lesser amount had the A/R or representative accurately provided required information and
+reported changes in a timely manner.
+
+It is the responsibility of the LDSS to report any incident in which income, resources or other
+factors that could affect eligibility have been:
+         unreported,
+         reported in an untimely manner, or
+         Erroneously reported.
+
+The LDSS must report such incidents on the DHMH 4243, Referral for Investigation. The
+DHMH Office of the Inspector General (OIG) will decide what action is appropriate based
+on its findings. Criminal or Civil action may be indicated, or an agreement may be reached
+between the Department and the recipient for reimbursement of incorrectly paid funds. The
+OIG may also decide that no action is warranted. However, prompt reporting on the DHMH
+4243, and clear, accurate, complete case records are essential for the effectiveness of
+recoveries by the OIG.
+
+The LDSS should also report any suspected provider fraud or abuse, or recipient abuse of the
+card to OIG for appropriate action. These may be reported by telephone call or memo to the
+OIG.
+
+1500.3 Benefits Paid Pending Appeal Decision
+
+Regulations require that each case of a person receiving extended benefits pending a hearing
+decision be referred to the MACA Division of Recoveries via form DHMH 1169 if the
+hearing officer upholds the decision of the LDSS.
+
+The Division of Recoveries will initiate steps to recover the cost of expenditures made on
+behalf of the recipient during the appeal process. Exempt from this provision is a person
+who requests a hearing with a bona fide belief that the LDSS‟ action to cancel Medical
+Assistance benefits was incorrectly based; for example, on the misapplication of policy, an
+error in the amount of income and/or resources considered incorrect application of disregards
+or exclusions, or an otherwise incorrect calculation. The basis for the appeal should be
+indicated on the DHMH form letter or other written notice requesting appeal.
+
+The Division of Recoveries will decide, on the basis of the stated factors, if the exemption is
+applicable.
+
+1500.4 Liability
+
+The MA Program will obtain reimbursement in any case in which a MA recipient has a
+cause of action against another party if the Program has paid out benefits for medical care
+
+
+                                              1503
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+for which the other party was responsible. In any case where a third party may be liable for
+medical expenses, complete an 1169 reporting such a situation to the Division of Recoveries.
+
+Liability cases may involve personal injuries resulting from automobile accidents,
+malpractice suits, lead paint poisonings, or accidental injuries sustained on the premises of
+another individual. The Legal Liabilities Section will contact the recipient, his attorney, and
+the insurance company to request reimbursement from any settlement funds. The amount of
+reimbursement requested will not exceed the amount of the accident related services paid by
+the MA Program.
+
+Workmen‟s Compensation cases are a specialized type of Liability case in which an injury
+has occurred as a result of the person‟s job or at his place of employment. If the MA
+Program has paid for the cost of treatment for any work related injuries, the Legal Liabilities
+Section will seek to recover the pertinent costs from the Workmen‟s Compensation insurance
+carrier or the self- insured employer.
+
+If a recipient has been criminally assaulted by another person, the Legal Liabilities Section
+will attempt to recover for the Program the cost of all assault related treatment from the
+involved third party, i.e., the defendant.
+
+The LDSS must report any cases involving legal liability, lawsuits, paternity, support orders,
+Workmen‟s Compensation, assault or accidental injuries to the Division of Recoveries via
+the DHMH 1169. It is essential to supply complete and accurate information on the 1169,
+and it is the responsibility of the A/R to provide this information to the LDSS. The cases
+involving lawsuits and potential settlements must be flagged for review as appropriate, and
+the results of the review reported to the Division of Recoveries.
+
+1500.5 Estates
+
+The Division of Recoveries will pursue recovery from the estates of decreased recipients
+when legally possible. Recovery is usually pursued by filing a claim against the open estate
+of the decreased. For MA recipients, the Division of Recoveries will seek to recover all
+payments made on behalf of the recipient after the recipient became age 65, unless the
+recipient is survived by:
+
+          A spouse (even if separated);
+          A unmarried child under 21; or
+          A blind or disabled child of any age.
+
+The Division may waive its right to recover in “hardship” cases.
+
+If there are recoverable resources, the LDSS must refer the case to the Division of Recoveries
+via Form 1169. Recoverable resources include the $2,500 resources limit or any portion,
+thereof for an individual‟s if left in an estate and not used for other purposes. If is not
+
+
+                                                  1504
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+necessary for the LDSS to complete a Form 1169 for the sole purpose of reporting a death.
+This information is now provided to the Division of Recoveries by means of a monthly
+computer list from the Division of Vital Statistics.
+
+Note: No recovery for recipients of QMB, SLMB only effective 03/03.
+
+1500.6 Voluntary Reimbursement
+
+The Program will accept any reimbursement when voluntarily offered by a current or former
+recipient or someone acting on the recipient‟s behalf for correct and incorrect payments made
+on a person‟s behalf.
+
+Voluntary reimbursements are often made in order to properly reduce excess resources. If a
+recipient is found to have excess resources, timely notice of the case closing must be given.
+During the timely notice period, the person may reduce resources by voluntarily reimbursing
+the program and eligibility may continue uninterrupted. Case closing may not be delayed
+beyond the timely notice period to allow for reimbursement.
+
+In addition to excess resource situations, voluntary reimbursement may be made to the
+Program for services covered during a period of ineligibility. This situation may occur as a
+result of either client or agency error.
+
+Voluntary reimbursements may not be regarded as an eligibility requirement. A recipient‟s
+intent to make voluntary reimbursement does not change the requirement that the LDSS take
+appropriate action, e.g. closing, notification of ineligibility, referral to OIG, or Division of
+Recoveries, etc. In the case of excess resources, verification that the reimbursement has been
+made must be received in order to prevent the case closing or to reopen the case at
+reapplication.
+
+1500.7 Health Insurance
+
+(CM) need to aware of the possibility of health insurance through a place of employment, a
+union or trade association, a separated spouse or an absent parent. The coverage may be
+carried by a non-assistance unit member.
+
+Health insurance information is collected by the LDSS and reported on CARES. By
+signature on the application, an applicant agrees to assign to the Program all health insurance
+or other third party payments to the extent that the Program will pay for his/her medical
+services. Eligibility may not be denied to an eligible person who cannot legally assign his
+own rights when the person who can legally assign his rights refuses to make any assignment
+of benefits to the Program. The Insurance Recovery section of MACA is responsible for
+maintaining health insurance coverage information on MA recipients and assuring payments
+by insurance before program payments are made.
+
+
+
+                                              1505
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+When an applicant applies for Medical Assistance, the CM must ascertain whether there is
+any insurance which may be used to cover any medical services. (This includes any potential
+insurance from a former employer within the last 2 months prior to the month of application.)
+Information on insurance should be ascertained and referred to the Division of Medical
+Assistance Recoveries via the Form 2583.
+
+1500.8 Lien, Institutionalized Persons
+
+(a) Applicability
+
+   This section and the following sections apply to:
+
+     1. An institutionalized person who owns excluded home property and has met all other
+        factors of eligibility, including resource eligibility, but who has not been certified;
+        and
+     2. A current institutionalized recipient (including and SSI recipient) who owns excluded
+        home property which has not been evaluated base on the revised definition of “home”
+        and the home exclusion provision, (Regulation.08 B, G, H, and H-1), or in terms of
+        the lien provision, Regulation 15.
+
+     This section and the sections which follow do not apply to a person who is not eligible
+     for MA, including one who has excess resources.
+
+(b) Explanation of Lien
+
+Under certain circumstances, the Department may impose a lien on the excluded home and
+other real property of an institutionalized person including that which is located out of State.
+(Refer to Chapter 8, Policy Alert, and Evaluation of the Home Property of the
+Institutionalized Person). A lien is a claim on the property of a person as security for the
+payment of a debt. The lien enables the Program to recover Program expenditures for
+medical expenses paid on behalf of the person when property is sold.
+
+The lien provision applies to excluded home property of an eligible institutionalized person.
+If a lien applies to the home property, it also applies to the following other real properties:
+
+     1. Other real property which meets the $6,000/6% equity value exclusion;
+     2. Non-excluded real property the value of which, together with other countable
+        resources, is within the applicable resources standard; and
+     3. Real property which is deeded as Tenancy by the Entireties. Tenancy by the Entireties
+        means:
+
+               o Each owner has an undivided, one- half share of the property;
+               o Only the entire interest may be transferred to a third party;
+
+
+
+                                               1506
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+               o The co-owners are husband and wife (Tenancy by the Entireties lasts only so
+                 long as the co owners are married); and
+               o When one co-owner dies, the co owner‟s interest passes automatically to his
+                 or her spouse.
+
+If the resource evaluation, based on Regulation .08, revealed that the institutionalized person
+owns no home property, the lien provision does not apply and no further action is required
+under this section. Neither does the lien provision apply to home property which is not
+excluded.
+
+(c)When Home Property May be Subject to a Lien
+
+The circumstances under which a lien may be imposed on the home property of an
+institutionalized person are as follows:
+
+     1. The person is a patient in an Long Term Care Facility( LTCF);
+     2. The person owns excluded home property;
+     3. The person has been determined eligible for Medical Assistance, including resources
+        eligibility, with countable and excluded real property within the specified limits; and
+     4. The Department has determined, after notice and opportunity for a hearing, that there
+        is no reasonable expectation that the person can be discharged from the LTCF and
+        return to live in his home property. (The fact that the person‟s home property has
+        been excluded for eligibility purposes based on his/her expressed intent to return to it
+        does not preclude the imposition of a lien if the requirements of the lien provision are
+        met.)
+
+The LDSS must refer to MACA via DHMH Form 1159C, Lien Worksheet, all cases of
+persons meeting all of the conditions indicated above. Complete LDSS referral procedures
+are included in this chapter.
+
+1500.9 Restrictions on the Imposition of a Lien
+
+There are some restrictions on imposing a lien on the excluded home of an institutionalized
+person. The Department may not impose a lien on the home of an institutionalized person if
+any of the following relatives reside in the home with the permission of the owner (or, if
+under guardianship, the permission of the owner‟s legal guardian). For purposes of the lien
+procedures, these relatives are referred to as “specified relatives”:
+
+          The person‟s spouse;
+          The person‟s unmarried child younger than 21 years old;
+          The person‟s son or daughter who is blind or disabled (as determined by the Social
+          Security Administration (SSA), or State Review Team(SRT) as a part of an MA
+          eligibility determination process); or
+
+
+
+                                               1507
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+
+          The person‟s sibling (full, half, step, or adoptive), who has an equity interest in the
+          home and who was residing in the home for a period of at least one year immediately
+          before the date of the institutionalized person‟s admission to a LTCF. (Equity interest
+          in the home means co-ownership of the home which is not the result of a transfer of
+          the property for less than the fair market value within two years prior to the person‟s
+          institutionalization).
+
+(a) LDSS Lien Procedures
+
+     This section describes the procedures for determining if the Program may impose a lien
+     on a person‟s home property and/or other real property. The procedures apply to all
+     eligible persons residing in a LTCF who own an excluded home. The lien
+     implementation process (if applicable) takes place after the eligibility determination
+     process has been completed. The person must have been determined eligible for MA and
+     own excluded home property in order for the CM to apply the lien procedures.
+     Certification of the eligible person is discussed in STEP 6 of this section.
+
+(b) Resource Evaluation
+
+     Property which meets the definition of “home” must be identified to determine if the lien
+     provision applies. Others residing in the person‟s home property must be identified to
+     determine if the Program is restricted from imposing a lien on the home property because
+     of its occupancy by a “specified relative.” If the institutionalized person‟s home property
+     is subject to a lien, then the person‟s other real property is also subject to a lien. If the
+     home property is not subject to a lien, then the person‟s other real property is not subject
+     to a lien either.
+
+The LDSS must refer all lien cases including those with out-of-State property to MACA.
+
+(c) Lien Procedures
+
+     When the resource evaluation revealed that the eligible institutionalized person owns
+     excluded home property, follow the procedures detailed below:
+
+STEP 1
+  Complete Part 1 of DHMH Form 1159C, Lien Worksheet. On the worksheet, classify all
+  real property that the person owns as either “home property” or “other real property”.
+
+STEP 2
+  Complete DHMH Form 4244 (LTC), Explanation of Lien. Give the original copy of the
+  form to the person or the person‟s representative. An additional copy is provided as
+  needed. Explain the following points:
+
+
+
+
+                                               1508
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+
+               That a lien is a claim against a person‟s property as security for payment of a
+               debt. For MA recipients, this means, when the property is sold, the Program will
+               be entitled to an amount up to that which has been expended on recipient‟s behalf.
+               That a lien does not affect ownership interest in a property until it is sold, at
+               which time the Program will be entitled to reimbursement for expenditures paid
+               on behalf of the recipient.
+               That if the home is occupied by a “specified relative”, the lien will not be
+               imposed. (Refer to Restriction on the Imposition of a Lien).
+
+               NOTE: The fact that a “dependent relative” lives in the home which may result in
+               the exclusion of the home as a resource, does not preclude imposition of a lien.
+               (Refer to Chapter 8, Evaluation of the Home Property of an Institutionalized
+               Person for a listing of “dependent relatives).
+
+               That a medical review will be conducted to determine if there is a reasonable
+               expectation that the person will be able to return to live in his/her home property.
+               If the person is expected to return, the lien will not be imposed. If the person is
+               not expected to return, the lien will be imposed.
+               That if a lien is imposed and the person is discharged from the LTCF and resumes
+               living in his/her home property, the lien will be lifted. If the person is discharged
+               but does not resume living in the home property, the lien may not be lifted.
+               That disposal of the home property for less than fair market value within 60
+               months prior to or subsequent to the month of application may result in
+               ineligibility. This applies even if the institutionalized person was living in the
+               home at the time of disposal. Transfer of the home to the spouse, unmarried child
+               under 21, or a blind or disabled son or daughter of any age will not affect
+               eligibility. (Refer to Chapter 8, Disposal of Resources).
+
+STEP 3
+
+     Determine if the home property is occupied by the person‟s spouse, unmarried child
+     under 21, blind or disabled son or daughter of any age, or brother or sister, who satisfy
+     the conditions specified under the section Restrictions on the Imposition of a Lien.
+            a. If the home is occupied by anyone of these “specified relatives listed above,
+                 the lien will not be imposed. Inform the representative that any change in
+                 occupancy must be reported. GO TO STEP 4a
+            b. If the home is not occupied by anyone of these “specified relatives”, the home
+                 and other real property may be subject to a lien. GO TO STEP 4b
+
+STEP 4
+
+Is the Physician Report (DHMH Form 4245 LTC) required?
+     a. The Physician Report is not required when the home is occupied by “specified
+        relatives”, (Step 3 a). File the Explanation of Lien and Lien Worksheet in the case
+
+                                                 1509
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+        record and complete the case. Certify the eligible person. COMPLETE OTHER
+        CASE ACTIVITY.
+     b. The Physician Report is required when there are no restrictions on the imposition of a
+        lien on the home property (Step 3 b). Compete Part I of the Physician Report and
+        give the Report to the representative to have the person„s attending physician
+        complete Part II. Require return of the completed Physician Report within an
+        adequate period of time to allow for timely Medical Review. GO TO STEP 5
+
+STEP 5
+
+Upon receipt of the completed Physician Report, forward the original of the report to UCA.
+   a. If there is no objection to the imposition of the lien, complete the case. Certify the
+      eligible person. Once MA has been accepted, the person no longer has the option of
+      objecting to the imposition of the lien, GO TO STEP 6
+
+     b. If there is objection to the imposition of the lien, delay certification until the Medical
+        Review decision has been received. GO TO STEP 6
+
+STEP 6
+
+Upon receipt of the Medical Review decision (DHMH Form 4246 (LTC) - Notice of Medical
+Review Decision Home Property) from UCA, take the appropriate actions:
+
+     a. If, based on the Medical Review decision, discharge from the institution and returning
+        to live in the home property can be reasonably expected, no lien will be imposed.
+        Complete the following activities:
+
+                    Complete and file the Lien Worksheet and the Notice of Medical Review
+                    Decision- Home Property in the case record.
+                    If certification was delayed under step 5b, complete the case.
+                    Certify the eligible person.
+                    If the person has already been certified under step 5b, complete the case.
+                    COMPLETE OTHER CASE ACTIVITY.
+
+     b. If, based on the medical review decision, discharge from the institution and returning
+        to live in the home property cannot be reasonably expected, the Program will impose
+        a lien on the home property and other real property. Complete the following
+        activities:
+
+          No Objection to Lien
+          For the person who does not object to the imposition of a lien:
+
+
+
+
+                                                  1510
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+                 Complete the Lien Worksheet and forward the original and copies of the
+             deed(s) and tax assessment(s) for the home property to MACA, Division of
+             Recoveries. File copy of the Lien Worksheet and the Notice of Medical Review
+             Decision-Home Property in the case record.
+                 Certify the eligible applicant or continue certification for the eligible recipient.
+              COMPLETE OTHER CASE ACTIVITY.
+
+     Objection to Lien
+
+ A person who objects to the imposition of a lien is ineligible for MA. Ineligibility is based
+ on the person‟s objection to the imposition of the lien, which impedes the Program‟s ability
+ to implement its lien requirements. The basis for this action is COMAR 10.09.24.15A-3(l).
+ The specific reason to be stated on the ineligibility or termination notice is: “You did not
+ wish to subject your home property to the lien requirements of the Program.”
+        Deny eligibility to an applicant.
+        In the case of a recipient, immediate action (termination) in accordance with timely
+        and adequate notice requirements, Regulation .13, is required to avoid erroneous
+        payments
+     Complete the Lien Worksheet and file it and the Notice Medical Review Decision Home
+     Property in the case record.
+     COMPLETE OTHER CASE ACTIVITY.
+
+1500.10 Explanation of the Medical Review Process
+
+To determine if the program will impose a lien on home property, a Medical Review is
+required. This process is called the “Medical Review” and is conducted for the Program by
+the Utilization Control Agent (UCA). Through this process, UCA determines if there is a
+reasonable expectation that the person can be discharged from the institution and resume
+living in his/her home property. If reasonable expectation is not determined to exist, a lien
+will be imposed on the home property irrespective of the person‟s expressed intent to return.
+
+The LDSS completes Part I of the Physician Report and gives it to the representative to have
+the attending physician complete Part II. The physician will return the report to the
+representative, who in turn will forward it to the LDSS.
+
+The LDSS will forward the Physician Report to UCA. UCA, using the medical information
+provided on the Level of Care Determination (on file with UCA) and the Physician Report,
+will complete a Medical Review to determine if there is any reasonable expectation that the
+person will be discharged from the LTCF and resume living in the home property. UCA will
+notify the person of the decision and his/her right to an appeal hearing via DHMH Form 4246
+(LTC), Notice of Medical Review Decision- Home Property. The LDSS will receive a copy
+of this notice.
+
+1500.11 Appeal of the Medical Review Decision
+
+
+                                                  1511
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+
+A person has a right to appeal the Medical Review decision made by a UCA within 90 days
+of the date of the notice of the decision.
+
+(a)Administrative Review
+
+   If an appeal is filed, the first step of the appeal process involves an administrative review
+   of UCA‟s decision by MACA, Division of Long Term Care. MACA may affirm or
+   reverse UCA‟s decision. MACA will notify the person, the person‟s representative, UCA,
+   the Office of Hearings, the LDSS, and the Division of Recoveries of the result of the
+   administrative review.
+
+   If the Administrative Review affirms UCA‟s decision, MACA will forward the case to the
+   Office of Hearings for an appeal hearing. If the Administrative Review reverses UCA‟s
+   decision, that there is a reasonable expectation the person can resume living in his/her
+   home, the lien, if already imposed, will be lifted. If not yet imposed, it will not be
+   imposed.
+
+(b)Appeal Hearing
+
+   If the case is forwarded to the Office of Hearings by MACA, an appeal hearing will be
+   held and a decision rendered concerning the Medical Review decision made by UCA and
+   MACA. When the appeal decision is rendered, the Office of Hearings will notify the
+   person, the person‟s representative, the LDSS, the Division of Recoveries, and UCA of the
+   decision.
+
+   If the Hearing Officer reverses the Medical Review decision made by UCA and MACA,
+   that there is a reasonable expectation that the person can resume living in his home, the
+   lien, if already imposed, will be lifted. If not yet imposed, it will not be imposed.
+
+(c) Summary
+
+   Although the administrative review or appeal hearing decision does not affect MA
+   eligibility, they do affect applicability of the lien provision.
+
+   If the administrative review or the appeal hearing determined that a lien will not be
+   imposed on the institutionalized person‟s home property and a lien was imposed, the
+   LDSS must notify MACA, Division of Recoveries, via the DHMH Form 4242, Lien
+   Memorandum, to lift the lien. The memorandum must include the date of hearing or
+   administrative review.
+
+1500.12 MACA, Division of Recoveries Activity
+
+
+
+
+                                              1512
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+The Division of Recoveries will take the appropriate action to impose a lien on home
+property, including out of State property, and notify the person (or representative) and the
+LDSS using DHMH Form 4249 (LTC), Notice of Lien Imposition, of the action.
+
+In addition, via DHMH Form 4242, Lien Memorandum, the Division of Recoveries will
+notify the LDSS of the details of the sale of a property on which a lien has been imposed,
+including the amount recovered, and the amount remaining, if any, so that the LDSS can
+make a determination of continued eligibility.
+
+
+1500.13 Termination of a Lien Based on Discharge from a Long Term Care Facility
+(LTCF)
+
+Any lien imposed against a person‟s property must lift if the person is discharged from a
+LTCF and returns to his/her home property. The LDSS must determine that the person has in
+fact returned to his/her home property. This applies only to a person who has been
+discharged from an LTCF and who returns to his/her property for permanent residence.
+
+The LDSS must notify MACA, Division of Recoveries, via the DHMH Form 4242, Lien
+Memorandum, when an institutionalized person has been discharged from a LTCF and
+resumes permanent residence in his/her home property. The memorandum must include the
+person‟s date of discharge, the home address and telephone number and the name, address,
+and telephone number of a contact person. The Division of Recoveries will process
+termination of the lien. If the person is discharged to a residence other than his/her home
+property, the lien will not be lifted.
+
+1500.14 Treatment of Home and Other Real Property upon Discharge from an
+Institution
+
+When a person is permanently discharged from an LTCF, a redetermination of eligibility is
+required. As part of that redetermination, the LDSS must reevaluate the home property in
+relation to the person‟s non-institutional status, (Regulation .08) and make a complete
+determination relative to the person‟s continued eligibility.
+
+In relation to the lien provision, if the former institutionalized person did not resume living in
+the home property, the lien will not be lifted. If the person did resume living in the home
+property, the lien will be lifted.
+
+
+
+
+                                              1513
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+Appendix A: Medical Assistance Forms and Notices
+
+The following forms and notices are used in activities associated with liens, adjustments and
+recoveries. Some of the notices are used only for institutional (LTC) cases and are identified
+by the abbreviation- “LTC” following the form number. Others are used for both
+institutional and non institutional cases.
+
+For the purpose of explaining the usage of these forms, the term “recipient” includes persons
+who have been determined eligible but the card has not yet been authorized.
+
+(a)Notice of Potential MA Payment Recovery- DHMH 1169
+   This form is completed by the LDSS to report to MACA, Division of Recoveries, all
+   potential third party recoveries for recipients in areas including:
+
+         Liability (e.g., an automobile accident, malpractice suit, or an accidental injury
+         sustained on the premises of another individual);
+         Workmen‟s Compensation;
+         Assault;
+         Recoverable Resources;
+         Paternity;
+         Child Support;
+         Estates; and
+         Improper payments due to LDSS error.
+
+(b)Referral for Investigation-DHMH 4243
+   This form is completed by the LDSS to refer to MACA, Division of Field Investigation,
+   for investigation of all cases involving client or representative error associated with not
+   reporting, delayed reporting, or erroneous reporting of information that may have resulted
+   in improper Program payments.
+
+(c)Explanation of Lien-DHMH 4244 (LTC)
+   The LDSS completes and provides this notice to all institutionalized recipients who own
+   home property. It explains the meaning of a lien and the circumstances under which the
+   Program will impose a lien on the home and other real property.
+
+(d)Physician Report- DHMH 4245 (LTC)
+   This is a two purpose form which is used to request medical information required for a
+   Medical Review to determine an institutionalized person‟s ability to resume living in
+   his/her home property. The CM completes Part I and gives the form to the representative
+   to have Part II completed by the person‟s attending physician. The representative must
+   return this form to the LDSS. Upon receipt, the LDSS forwards the original to the UCA
+   for a Medical Review.
+
+
+
+
+                                                1514
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+     NOTE: It is also used to obtain a physician‟s statement as to the person‟s ability to be
+     discharged from an LTC facility within 6 months from the month of admission and,
+     therefore, to determine the person‟s entitlement to a residential maintenance allowance.
+     UCA review is not required for determining entitlement to this allowance.
+
+     (e)Lien Worksheet- DHMH 1159c (LTC)
+      The LDSS completes this form only for institutionalized recipients who own home
+     property to determine if the Program may impose a lien. The DHMH 1159B (LTC),
+     Worksheet for Institutionalized Persons, makes this point clear. If the lien worksheet
+     (Part II) indicates the lien provision is not applicable, file it in the MA case record. If the
+     worksheet (Part IV) indicates the lien provision is applicable, forward a copy of the
+     worksheet to MCCA, Division of Recoveries, for appropriate action relating to the
+     imposition of a lien.
+
+     (f)Lien Memorandum-DHMH 4242 (LTC)
+     This is a multi-purpose memorandum that is used to transmit and exchange information,
+     documents, and forms associated with the lien and recovery process between the LDSS
+     and MACA and its various divisions. Included in its uses are those of MACA, Division
+     of Recoveries, informing the LDSS when the lien has been imposed, when property has
+     been sold and of the proceeds from the sale, and the remaining resource, if any, after the
+     recovery requirement has been satisfied.
+
+     (g)Home Exclusion- Statement of Intent -DHMH 4255 (LTC)
+      This form is used by the LDSS to obtain a statement of an institutionalized person‟s
+     intent to resume or not to resume living in his/her home property to determine if the home
+     property is an excludable resource. (Refer to Regulation .24, Chapter .08, Policy Alert
+     08-3, and Evaluation of the Home Property of an Institutionalized Person).
+
+
+
+
+                                                1515
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+       COMAR 10.09.24.15
+
+
+
+Attachment A
+
+The Insurance Reporting Form- DHMH 2583 (NO longer used- Use the TPL Screen in CARES)
+
+
+
+
+                                                                  1516
+
+       State of Maryland Medical Assistance Manual
+       Revised July 2012
+                            COMAR 10.09.24.15
+
+
+
+Attachment B Notice of Potential MA Payment Recovery
+
+                         STATE OF MARYLAND DIVISION OF MEDICAL ASSISTANCE RECOVERIESP.O. BOX 13045 BALTIMORE,
+    SECTION I HEADING
+
+
+
+
+                         MARYLAND 21203
+                         NOTICE OF POTENTIAL MA PAYMENT RECOVERYDATE:(USE DHMH 2583 INSURANCE REPORTING
+                         FORM TO REPORT HEALTH INSURANCE COVERAGE)
+                         RECIPIENT LAST NAMEFIRST MIDDLE         REPRESENTATIVE LAST NAMEFIRST MIDDLE
+                         APT. NO. - STREETADDRESS - P.O. BOX                    APT. NO. - STREETADDRESS - P.O. BOX
+                         CITYSTATE ZIP CODE                                     CITYSTATE ZIP CODE
+                         MA NUMBER          SOCIALSECURITY NUMBER               RELATIONSHIP TO            TELEPHONE NUMBER
+                                                                                RECIPIENT
+ REASON
+
+
+
+
+                         (INJURY)
+  SEC. 2
+
+
+
+
+  COMPLETE THE APPLICABLE SECTIONS
+      PROPERTY OWNED (ATTACH PHOTOCOPY OF DEED, IF DECEASED)
+                                                                                                                 APPROX.
+                         DESCRIPTION                     ADDRESS
+                                                                                                                 VALUE
+
+
+
+                         BANK ACCOUNTS OWNED
+                                                                          INSTITUTION AND
+                         TYPE                   OWNER (S)                                          ACCT. NO.     VALUE
+                                                                          LOCATION
+
+
+
+
+                         JOINT
+  SECTION III - ASSETS
+
+
+
+
+                         JOINT
+                         LIFE INSURANCE OWNED
+                                                                                                        NAMED
+                         COMPANY                           ADDRESS                          POLICYNO.   BENEFI   VALUE
+                                                                                                        CIARY?
+                                                                                                        YES NO   FACE
+                                                                                                                 C.V.
+                                                                                                        YES NO   FACE
+                                                                                                                 C.V.
+                         STOCKS / BONDS OWNED
+                                                                                                   SERIAL NO.
+                         TYPE                   DESCRIPTION          OWNER (S)          QUAN.                    VALUE
+                                                                                                   (S)
+
+
+
+
+                         CASH AND OTHER ASSETS OWNED
+                         DESCRIPTION                                      OWNER (S)                              VALUE
+
+
+
+                         SOURCE + EXPLANATION
+OME
+SEC
+
+INC
+IV -
+
+
+
+
+                         DATE REPORTED        DATE OF INCOME                                       MONTHLY       TOTAL
+                                                                                                   AMOUNT        AMNOUNT
+
+
+
+
+                                                                                       1517
+
+                            State of Maryland Medical Assistance Manual
+                            Revised July 2012
+                        COMAR 10.09.24.15
+SECT. V - ACCIDENT
+
+
+
+                     DATE OF INJURY    LOCATION OF OCCURRENCE          HOSPITAL AND PHYSICIAN PROVIDING
+                                       (ADDRESS)                       TREATMENT
+    /ASSUALT
+
+
+
+                     COMPLETE THE FOLLOWING SECTIONS, AS APPLICABLE
+                     VEHICLE DRIVER NAME               VEHICLE DRIVER ADDRESS                VEHICLE DRIVER
+                                                                                             LIC. #
+                     VEHICLE OWNER NAME                VEHICLE OWNER ADDRESS                 VEHICLE OWNER
+                                                                                             LIC.#
+                     INSURANCE COMPANYNAME ADDRESS                         POLICY NO.        CLAIM NO.
+                                                 ATTORNEYNAME, ADDRESS, TELEPHONE
+
+
+
+
+                                                                      1518
+
+                        State of Maryland Medical Assistance Manual
+                        Revised July 2012
+                          COMAR 10.09.24.15
+
+SECTION VI COMMENTS
+
+
+
+
+                      To: DHMH Medicaid Program Integrity               From:
+                      Recipient Fraud and Abuse Unit 201 West           DSS
+                      Preston Street, Room 520
+                      Baltimore, Maryland 21201                         Case Manager:
+                      FAX: 410-333-5326                                 .
+                            410-333-7194
+                                                                        Telephone:
+                                                                        .
+
+                      Re: ___________________________________________                   Case Status:
+
+
+
+
+                      Case #/Category:_________________________________
+
+                      Representative/Address:__________________________________________________________________________
+
+
+                      A. Request for an investigation involving an unreported or untimely reporting of:
+
+                                                                                                                            A Change in
+                      Circumstance
+                                               -Excluded Resources for Less than Fair Market Value
+
+
+                      ____________________________________________________________________________________________________
+                      ____
+                      B. (Complete if known) Had the information now known been reported in a timely manner, the recipient would have been :
+
+
+                                with Spend-Down amount from $______________ to ________________ beginning______________ to
+                      _______________.
+                      Total Due State: $ ____________________________________
+
+                      from $ ______________ to $ ______________ beginning _________________ to ___________________.
+                      from $ ______________ to $ ______________ beginning _________________ to ___________________.
+
+                      Total Due State: $ _____________________________________
+
+                      C.Comments:_________________________________________________________________________________________
+                      ____________________________________________________________________________________________________
+                      ____________________________________________________________________________________________________
+                      ____________________________________________________________________________________________________
+                      ____________________________________________________________________________________________________
+                      ___________________
+
+                                                NOTE: Attach one copy of all documents relevant to the referral.
+
+                      D. Checklist for Completion: Ensure the following are completed before sending this form.
+
+                      _____ Completed Referral signed by a supervisor citing the case circumstance as well as suspected period of ineligibility.
+                      _____ Copy of application for eligibility period of suspected fraud.
+                      _____ Copy of all other pertinent documents (i.e. bank statements, life insurance policies, etc.) relevant to suspected fraud.
+
+
+
+                      _______________                       ________________                     _____________               __________________
+                      Supervisor‟s Name                        Signature                             Date                     Telephone Number
+
+
+
+
+                                                                                               1519
+
+                          State of Maryland Medical Assistance Manual
+                          Revised July 2012
+        COMAR 10.09.24.15
+
+
+
+DEPT. OF SOCIAL SERVICES NAME                         CASE MANAGER          TELEPHONE
+                                                                            NUMBER
+
+
+
+
+                                                                     1520
+
+        State of Maryland Medical Assistance Manual
+        Revised July 2012
+COMAR 10.09.24.15
+
+
+
+Attachment C- Referral for Investigation
+
+MARYLAND MEDICAL ASSISTANCE PROGRAM
+INVESTIGATION REFERRAL
+
+DHMH 4243 (REVISED 10/06)
+WHITE- INVESTIGATOR COPY                                                                                      YELLOW-CASE RECORD
+COPY
+
+
+
+                                                                                                   Attachment D Explanation of Lien
+
+                                           MARYLAND MEDICAL ASSISTANCE PROGRAM
+                                                  EXPLANATION OF LIEN
+
+                                                                             Date:
+
+Re
+                      Name                                                                 Case Number
+
+Dear ______________________________,
+
+This is to notify you that, based on the application filed on                                        , the above named person owns home
+and other real property(ies) against which the Medical Assistance Program may place a lien. This is based on COMAR 10.09.24.15A2(2).
+The real property on which a lien may be placed is:
+
+
+
+                                                       ADDRESS OR DESCRIPTION
+
+
+                                                                    ADDRESS OR DESCRIPTION
+
+A lien is a claim on the property of a person as security for the payment of a just debt. Its purpose in the Medical Assistance Program is to
+recover Program expenditures paid on behalf of the person while he/she is residing in a Long Term Care Facility. A lien may be placed on
+the person‟s home and other real property:
+
+           When the person must pay all but a minimal amount of his/her income for his/her medical care, including Long Term Care; and
+           When the Program has determined, based on a Medical Review, that there is no reasonable expectation that the person will be
+           discharged from the Long Term Care Facility and resume living in his/her home property.
+
+        When a lien is imposed on the person‟s home and other real property, the person retains ownership and control of the property to
+        the extent of his/her ownership interest in the property. The lien is imposed on his/her ownership interest and will dissolve if and
+        when the person is discharged from the Long Term Care Facility and resumes permanent residence in his/her property.
+
+        Please read the reverse side of this notice for additional information concerning liens.
+
+        Specific questions concerning the impact of a lien on the person‟s real property may be directed to The Medical Care Compliance
+        Administration, Division of Medical Assistance Recoveries, P.O. Box 13045, Baltimore, Maryland 21203 or call:
+
+
+
+
+                                                                                                 Sincerely,
+
+
+                                                                                                 Case Manager
+
+                                                                                                 Department of Social Services
+
+                                                                                                 Telephone Number
+
+
+
+
+                                                                    1521
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+
+DHMH 4244 (LTC) Revised 12/08
+                           Additional Information Concerning Liens
+
+The Medical Review is completed by the MA Program‟s UCA. The decision of the UCA is based on medical information provided by the
+person‟s attending physician and the Long Term Care Facility. You will receive notice of the medical review decision and you will be
+given the opportunity for a hearing if you do not agree with that decision.
+
+Selling, giving away or otherwise disposing of the home for less than fair market value may cause a person to be ineligible for
+Medical Assistance.
+
+No lien may be imposed on the person‟s home property when it is occupied by the person‟s spouse, or child under 21, or blind or disabled
+child of any age, or a brother or sister who has at least one immediately before the date of the person‟s admission to a Long Term Care
+Facility. A lien will only be imposed on the person‟s other real property if he owns home property subject to a lien.
+
+
+
+
+                                                                  1522
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+Attachment E Physician Report
+
+                         MARYLAND MEDICAL ASSISTANCE PROGRAM
+           PHYSICIAN REPORT
+
+                                                                                                                Date:__________________
+PART I. INSTITUTIONALIZED PERSON’S IDENTIFICATION
+         (To be completed by the Local Department of Social Services)
+
+
+1.   _____________________________________                                                           ______________________
+                  Name                                                                                        CID#
+
+2. _____________________________________                                                           _______________________
+               Name of Facility                                                                        Telephone Number
+
+
+
+                                                           Address
+
+3. ______________________________________                                                               _______________________
+          Representative Name                                                                              Telephone Number
+
+
+
+                                                           Address
+
+4. ________________________                  _____________________                                         ________________________
+     Case Manager                           Department of Social Services                                      Telephone Number
+
+________________________________________________________________________________________________
+                                         Address
+
+PART II. STATEMENT BY ATTENDING PHYSICIAN
+
+1.   The anticipated length of stay in a Long Term Care Facility for the above named patient is:
+     (check the appropriate box)
+
+     �Remainder of Life                 *�Six Months or Less                                             *�More Than Six Months
+
+                                 * (give expected month and year of discharge_____________)
+
+2.         The medical reasons for this expectation are:
+
+
+
+
+                                 (use back for additional space)
+
+3.         This person‟s ability to resume community (non-institutional) living requires the following support systems:
+
+�Medical Day Care �Home Health Care �Personal Care
+
+�Other________________________ �No support system(s) will be needed
+                 Specify
+
+I certify that I am the attending physician of the above name person and that the statements I have made concerning this person are based on
+my professional assessment of his/her medical condition and are supported by the person‟s medical record.
+_____________________                           _______________________                                         _____________________
+Signature of Physician                          Printed Name of Physician                                                   Date
+
+_____________________________________
+Address
+
+Notice to Medicaid Applicants
+
+
+
+
+                                                                     1523
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+You are providing personal information (Name, Address, Date of Birth, Income History, Employment History, etc.) in this application for
+Medicaid benefits.
+The purpose of requesting this personal information is to determine your eligibility for Medicaid. If you do not provide this personal
+information, the Medicaid Program may deny your application for benefits. You have a right to inspect, amend, or correct this personal
+information. The Medicaid Program will not permit inspection of your personal information, or make it available to others, except as
+permitted by federal and state law.
+DHMH 4245 Revised 7/02
+
+
+
+
+                                                                 1524
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+Attachment F- Lien Worksheet
+
+                                      MARYLAND MEDICAL ASSISTANCE PROGRAM
+                                                LIEN WORKSHEET
+                         NOTE: COMPLETE THIS FORM ONLY IF THE PERSON OWNS HOME PROPERTY.
+
+PART I. INSTITUTIONALIZED PERSON’S IDENTIFICATION
+
+           Name                                                        Case Number                               Date
+
+
+Representative Name                                                 Representative Telephone Number
+
+
+
+                                                           Representative Address
+
+PART II. INSTITUTIONALIZED PERSON’S REAL PROPERTY
+
+
+
+                                                HOME PROPERTY Address or Description
+
+
+                                                                    Owner(s)
+
+
+                      OTHER REAL PROPERTY (Within Eligibility Limits) Address or Description
+
+
+                                                                     Owner(s)
+Is the home property, listed above, occupied by the institutionalized person‟s:
+a. Spouse?     Yes      No         b. Child under 21? Yes         No
+c. Blind or Disabled son or daughter?     Yes       No
+d. Brother or sister who has an equity interest in the home property and who has lived in the property at least one year?   Yes     No
+
+     -     If any response is YES, the lien provision is not applicable to the institutionalized person‟s real property. File form in case
+           record.
+     -     If all responses are NO, the medical review process is applicable to the institutionalized person. Go to Part III and Follow the
+           instructions.
+
+
+PART III. MEDICAL REVIEW PROCESS
+The following actions are taken when the medical review process is applicable to the institutionalized person.
+
+     1.    Complete Part I of form DHMH 4245 (LTC), Physician Report.
+     2.    Give the Report to the person or his/her representative to have the person‟s attending physician complete Part II.
+     3.    The attending physician completes Part II and returns the Report to the person or representative.
+     4.    The person or representative returns the Report to the Local Department of Social Services (LDSS).
+     5.    The LDSS submits the Report to the Utilization Control Agent for a Medical Review.
+     6.    The Utilization Control Agent will notify the LDSS of the Medical Review decision by form DHMH 4246 (LTC), Notice of
+           Medical Review Decision.
+     7.    When the Notice of Medical Review Decision is received by the LDSS, proceed to Part IV.
+
+
+PART IV. LIEN APPLICABLITY
+Complete the following when the Notice of Medical Review Decision is received by the LDSS.
+Based on the form DHMH 4246 (LTC), is the person expected to be able to resume living in his home property?
+
+     Yes. The lien provision is not applicable to the person‟s real property. File this worksheet and Medical Review Decision in the case
+       record. Instruct the representative to report any changes in home occupancy.
+     No. The lien provision is applicable to the person‟s real property. Submit the original of this form, the Deed(s). and tax assessment(s)
+       for the property(ies) to: Medical Care Compliance Administration, Division of Recoveries, P.O. Box 13045, Baltimore, Maryland
+       21203.
+
+
+
+
+                                                                    1525
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+
+Signature - Eligibility Technician                                                  Local Department of Social Services
+
+
+
+Printed Name - Case Manager                                                         Telephone Number         Date
+
+
+
+Signature- Supervisor                                                               Telephone Number         Date
+
+
+
+
+DHMH 1159C (LTC) Revised 03/09
+White-Division of Recoveries Copy                                                Yellow-Case Record Copy
+                                                                           Attachment G Lien Memorandum
+
+
+                                     MARYLAND MEDICAL ASSISTANCE PROGRAM
+                                           LIEN MEMORANDUM
+                                                                                    Date:
+
+TO:                                                              FROM:
+
+SUBJECT:
+
+
+
+
+                                                         1526
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+
+DHMH 4242 (LTC)
+Attachment H Home Exclusion
+
+
+
+                                       MARYLAND MEDICAL ASSISTANCE PROGRAM
+
+                                       HOME EXCLUSION - STATEMENT OF INTENT
+Date: ____________________________________
+
+PART I. INSTITUTIONALIZED PERSON‟S IDENTIFICATION
+(To be completed by the Local Department of Social Services)
+
+1. __________________________________________                       ____________________________________
+          Name                                                                             Client ID
+2. __________________________________________                     ____________________________________
+          Name of Facility                                                            Telephone Number
+
+
+                                                       Address
+3. ___________________________________________                      ____________________________________
+        Representative‟s Name                                                Telephone Number
+
+
+                                                     Address
+
+4.
+          Case Manager                    Department of Social Services          Telephone Number
+
+
+
+                                                               1527
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+
+                                                        Address
+
+PART II. STATEMENT OF INTENT TO RESUME LIVING IN HOME PROPERTY
+
+           Read this entire section before answering the question below. The person‟s representative may answer the question.
+
+            If “no” is checked, the equity value of the person‟s home may be a countable resource which could cause the person to be
+ineligible for Medical Assistance. If “yes” is checked, the person‟s home property will not be a countable resource; however, the State may
+place a lien on the home and other real property.
+
+         Does the institutionalized person ever intend to live in his/her home property located at
+___________________________________________________________________________________ again?
+
+
+
+
+Signature of Applicant
+or Representative _____________________________________________ Date ___________
+
+
+
+
+                                                                   1528
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+
+DHMH 4255 (LTC) Revised 12/08
+Attachment I- Notice of Medical Review
+
+                                          MARYLAND MEDICAL ASSISTANCE PROGRAM
+
+
+
+
+                                     NOTICE OF MEDICAL REVIEW DECISION - HOME PROPERTY
+
+
+
+                                                                                            Date:
+
+                                                                                            Re:
+
+                                                                                                            Name
+
+                                                                                                        Case Number
+
+Dear                                                                :
+
+
+            This is to inform you that a medical review was held on to decide if there is reasonable expectation that the above named person
+will be able to resume living in his/her home property. The review was based on medical information provided by his/her attending
+physician and the Long Term Care Facility. The decision is checked below:
+
+
+                          discharged from the Long Term Care Facility to resume living in
+                          his/her home property.
+
+                                                                         expected to be discharged from the Long Term Care Facility
+                        to resume living in his/her home property. The Division of Medical Assistance Recoveries will contact you
+               concerning the placing of a lien on this person‟s real property.
+
+                   The person‟s medical condition will be reviewed every six months or when a change is indicated, and you will be notified
+       if the above decision is changed. The Medical Assistance Program‟s authority to make this decision is based on COMAR
+       10.09.24.15A-2(2). If you do not agree with the medical review decision, you have the right to request a hearing. The procedures for
+       requesting a hearing are on the back of this letter.
+
+                                                                                                     Sincerely,
+
+
+                                                                                                     Utilization Control Agent
+
+
+
+                                                                                                     Telephone Number
+
+
+
+
+cc: Recipient
+Division of Medical Assistance-Recoveries
+
+
+
+
+Local Department of Social Services
+
+
+
+
+                                                                    1529
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+
+DHMH 4246 (LTC) Revised 12/08
+White-Authorized Representative Yellow-Division of Recoveries Pink-Case Record Blue-Applicant/Recipient
+
+
+
+
+                                                              1530
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+                                  HOW TO HAVE A HEARING IF YOU THINK WE ARE WRONG
+
+What do I do if I think your decision is wrong?
+          Call the telephone number on the other side of this notice to ask for a conference.
+          Request a hearing by:
+          Calling 1-800-332-6347 or the telephone number on the other side of this notice and requesting a hearing; or
+          Visiting your local department office and requesting a hearing; or
+          Mailing or giving a request for a hearing in writing to:
+          Your local department office; or
+          The following address:
+
+                                                       DHMH Docketing - Unit A
+                                                   Office of Administrative Hearings
+                                                          11101 Gilroy Road
+                                                  Hunt Valley, Maryland 21031-1301
+           If you don’t want to fill out the form to request the hearing:
+           Come to your local department office. We will help you.
+           Call your case manager at the telephone number on this notice or call 1-800-332-6347.
+
+How long do I have to request a hearing?
+
+           You must ask for a hearing no later than 90 days after the date of this notice.
+
+How long can I still get my benefits while I wait for my hearing?
+
+           If you ask for a hearing no later than 10 days after the date of this notice and you were getting benefits, you can continue to get
+           your benefits while you wait.
+
+Will I owe any money if I get my benefits while I wait?
+
+           If the judge agrees with us and you lose your appeal, you may have to pay back benefits. This might not be required if it is
+           determined that your request for a hearing resulted from a bona fide belief that the department‟s decision was in error.
+
+When and where will the hearing be?
+
+           The Office of Administrative Hearings will send you a notice telling you the time and place of your hearing.
+
+Do I have to come to the hearing?
+
+           Yes. You will lose if you do not come. If you can‟t come, tell the Office of Administrative Hearings and they will reschedule
+           your hearing.
+
+
+Can I bring someone to help me or speak for me?
+
+           Yes. You can bring a lawyer, friend, or relative. If you want free legal help, call your local department or call Legal Aid at 1-
+           800-999-8904. To see if you qualify for free legal representation, call the Maryland Volunteer Lawyer Services at 1-800-510-
+           0050.
+
+How can I prepare for the hearing?
+
+           You can see your file, including your computer file, at your local department and talk with us about this decision. Please call the
+           telephone number on the other page to make an appointment. We will send you our reasons for the decision that you are
+           appealing, at least 6 days before your hearing.
+
+
+
+
+                                                                    1531
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+Lien Process Flow Chart for Institutionalized Persons
+                                               Does the recipient own home property?
+
+
+                                                                     Yes
+
+
+                                                Give 4244 Explanation of Lien, to representative
+                                                                         &
+                                                                Complete 1159C
+                                                                 Lien Worksheet
+  Is the home occupied by the recipient‟s spouse, child under 21, blind or disabled son or                        daughter, or brother or
+            sister with equity interest and living in the property at least one                      year (specified relatives)?
+
+                                                                                                         Yes
+                                                            No                                           Stop
+
+
+                                                  Give 4245, Physician Report to Representative f
+                                      or completion and return to LDSS.
+
+
+                                 Forward Physician Report to UCA for
+                                              Medical Review
+
+
+                         UCA notifies LDSS of Medical Review Decision,
+                                               Form 4246
+
+
+                      Recipient is                                             Recipient is not
+                      expected to return home                       expected to return home
+
+
+              File Lien Worksheet,                                  Send Lien Worksheet,
+              1159C, in case record                                 1159C, to Recoveries
+
+
+
+
+NOTE: If a lien is applicable to the home property, it is also applicable to other real property listed on DHMH Form 1159C.
+
+
+
+
+                                                                   1532
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+COMAR 10.09.24.15
+
+
+
+                  Section 1500 Frequently Asked Questions (FAQs) and Answers
+                                Liens, Adjustment and Recoveries
+
+1. Claim against a recipient‟s income and/or resources are made by what division of DHMH?
+
+   The claim is made by the Division of Recoveries and Financial Services (Recoveries).
+
+2.If any incident in which income, resources or other factor that could affect eligible have
+  been unreported, reported in an untimely manner or erroneously reported, which form is
+  used to report such incidents?
+
+  The Case Manager must report such incidents on the DHMH 4243, DHMH Office of the
+  Inspector General (OIG).
+
+3.What are the circumstances which the department has the right to make a claim against
+  income and/or resources?
+   As followed:
+       A court order exists which permits the department to take such action.MA benefits
+       have been paid pending an appeal hearing.
+       A third party may be responsible for medical expenses as a result of a lawsuit or other
+       legal action.
+       The recipient is deceased and received MA benefits at 55 or over.
+       A recipient voluntarily reimburses the Program for expenditures.
+       Health insurance coverage is available to cover expenses paid by the Department.
+       An institutionalized person owns real property against which a lien may be placed.
+
+4. Should the Department impose a lien on the home of an institutionalized person if any of
+   the following relatives reside in the home with the permission of the owner (or, if under
+   guardianship, the permission of the owner‟s legal guardian)?
+
+   No, the department may not impose a lien in this situation.
+
+5. Who should the LDSS refer all lien cases including those with out-of-State property to?
+
+    MACA
+
+
+
+
+                                              1533
+
+State of Maryland Medical Assistance Manual
+Revised July 2012
+

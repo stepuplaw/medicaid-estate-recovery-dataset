@@ -1,0 +1,655 @@
+Source URL: https://web.archive.org/web/20250322184842id_/https://www.dhcs.ca.gov/formsandpubs/laws/Documents/16-030_ApvPkg.pdf
+Retrieved: 2026-09-23
+
+DEPARTMENT OF HEALTH & HUMAN SERVICES
+Centers for Medicare & Medicaid Services
+San Francisco Regional Office
+90 Seventh Street, Suite 5-300 (5W)
+San Francisco, CA 94103-6706
+
+DIVISION OF MEDICAID & CHILDREN’S HEALTH OPERATIONS
+
+                                                             March 24, 2017
+
+Mari Cantwell
+Chief Deputy Director, Health Care Programs
+California Department of Health Care Services
+P.O. Box 997413, MS 0000
+Sacramento, CA 95899-7413
+
+Dear Ms. Cantwell:
+
+Enclosed is an approved copy of California State Plan Amendment (SPA) CA 16-030, which
+was submitted to the Centers for Medicare & Medicaid Services (CMS) on December 29,
+2016. This amendment makes various changes to the Medi-Cal program's estate recovery
+program, including limiting estate recovery to probated estates for only federally-mandated
+services; adding a hardship waiver criterion for a "homestead of modest value;" eliminating
+recovery from surviving spouses and registered domestic partners; and updating the interest
+rate for voluntary liens.
+
+The effective date of this SPA is January 1, 2017. Enclosed are the following approved
+SPA pages that should be incorporated into your approved state plan:
+
+      •   Section 4.17, page 53a and 53c
+      •   Attachment 4.17-A, pages 1, 2, 2a, 3, 4, 5 and 6
+If you have any questions, please contact Cheryl Young at 415-744-3598 or via email at
+Cheryl.Young@cms.hhs.gov.
+
+                                        Sincerely,
+
+
+
+                                        Henrietta Sam-Louie
+                                        Associate Regional Administrator
+                                        Division of Medicaid & Children’s Health Operations
+
+
+cc:       Lindsey Wilson, California Department of Health Care Services (DHCS)
+          Nathaniel Emery, DHCS
+          Wendy Ly, DHCS
+DEPARTMENT OF HEALTH AND HUMAN SERVICES                                                                                       FORM APPROVED
+CENTERS FOR MEDICARE & MEDICAID SERVICES                                                                                     0MB No. 0938-0193
+
+                                                                      1.1. TRANSMITTAL
+                                                                           TRANSMITTAL NUMBER                   2. STATE
+    TRANSMITTAL AND NOTICE OF APPROVAL OF
+             STATE PLAN MATERIAL
+                                                                      NUMBER:
+                                                                            --
+                                                                            1  6  16-030
+                                                                                   -0
+                                                                                       --- 3  0                  California
+    FOR: CENTERS FOR MEDICARE & MEDICAID SERVICES                      3. PROGRAM IDENTIFICATION: TITLE XIX OF THE SOCIAL
+                                                                          SECURITY ACT (MEDICA ID)
+
+ TO: REGIONAL ADMINISTRATOR                                            4. PROPOSED EFFECTIVE DATE
+     CENTERS FOR MEDICARE & MEDICA ID SERVICES
+     DEPARTMENT OF HEALTH AND HUMAN SERVICES                           01/01/2017
+5.5. TYPE
+     TYPE OF PLAN MATERIAL (Check One)
+              OF PLAN MATERIAL (Check One): selected response-amendment
+      0 NEW STATE PLAN                O AMENDMENT TO BE CONSIDERED AS NEW PLAN                            liJ AMENDMENT
+                   COMPLETE BLOCKS 6 THAU 10 IF THIS IS AN AMENDMENT (Separate transmittal for each amendment)
+  6. FEDERAL STATUTE/REGULATION CITATION                              7.7. FEDERAL
+                                                                           FEDERAL BUDGET        IMPACT
+                                                                                                                        l'i 5.2..4    S.(O CV"-1
+                                                                            a. FFY 20,s-2011
+                                                                                          BUDGET     IMPACT a. FFY           2016-2017:
+                                                                                                        $�                .1       '          .;
+ 1917(b) of the Social Security Act                                                                     $.:lll,B1s.see-
+                                                                            b. FFY 2011.201sb. FFY 2017-2018:
+                                                                      $14,524,850                                       3.:?, �.2.S.., ODO U
+                                                                                                                   $32,525,000
+  8. PAGE NUMBER OF THE PLAN SECTION OR ATTACHMENT                     9. PAGE NUMBER OF THE SUPERSEDED PLAN SECTION
+                                                                          OR ATTACHMENT (If Applicable)
+ Section 4.17 page 53a, 53c, Attachment 4. 17-A pages
+ 1,2,2a,3,4,5,6                                                         Section 4. 17 page 53a,53c, Attachment 4. 17-A
+                                                                        pages 1-6 *
+
+
+
+ 10. SUBJECT OF AMENDMENT
+ Limit estate recovery to probated estates for only federally mandated services, add hardship waiver criterion for a "homestead of
+ modest value," eliminate recovery from surviving spouses and registered domestic partners, and update the interest rate for
+ voluntary liens.
+ 11. GOVERNOR'S REVIEW (Check One)
+11   GOVERNOR'S REVIEW (Check one): selected response: Other, as specified:
+      0 GOVERNOR'S OFFICE REPORTED NO COMMENT               X OTHER, AS SPECIFIED: The Governor's Office does
+the governor's     office   does    not  wish
+      0 COMMENTS OF GOVERNOR'S OFFICE ENCLOSED to  review the
+                                                            notstate
+                                                               wish toplan
+                                                                       reviewamendment
+                                                                              the State Plan Amendment.
+      0 NO REPLY RECEIVED WITHIN 45 DAYS OF SUBMITTAL
+ORIGINAL SIGNED
+
+
+
+
+ FORM CMS-179 (07/92)                                   Instructions on Back
+                                                    53a
+
+ Revision: HCFA-PM-95-3 (MB)
+           MAY 1995
+
+                     STATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+
+                                       State/Territory: California
+
+
+                                 (b) Adjustments or Recoveries
+
+                                    The State complies with the requirements of section 1917(b) of the Act
+                                    and regulations at 42 CFR 433.36(h) - (i).
+
+                                    Adjustments or recoveries for Medicaid claims correctly paid are as
+                                    follows:
+
+                                    (1) For individuals permanently residing in an institution, adjustments or
+                                        recoveries are made from the individual’s estate or upon sale of the
+                                        property subject to a lien imposed because of medical assistance paid
+                                        on behalf of the individual for services provided in a nursing facility,
+                                        ICF/MR, or other medical institution.
+
+                                        _ __ Adjustments or recoveries are made for all other medical
+                                               assistance paid on behalf of the individual.
+
+                                    (2)
+                                     (2) The  State
+                                          _____ Thedetermines      “an individual
+                                                      State determines             permanently
+                                                                         “an individual            residing
+                                                                                         permanently          in in
+                                                                                                       residing  anan
+                                                institution status” of individuals under   the age of 55 other
+                                    institution status” of individuals under the age of 55 other than those     than
+                                                those with respect to whom it imposes liens on real property
+                                    with respect   to whom
+                                                under         it 1917(a)(1)(B)
+                                                        section  imposes liens(even
+                                                                                 on real
+                                                                                      if it property  under those
+                                                                                            does not impose
+                                    section 1917(a)(1)(B)
+                                                liens).       (even if it does not impose those liens).
+
+                                    (3) For any individual who received medical assistance at age 55 or
+                                        older, adjustments or recoveries of payments are made from the
+                                        individual’s estate for nursing facility services, home and community-
+                                        based services, and related hospital and prescription drug services.
+
+                                        (response
+                                        __X__ In selected)     In adjustment
+                                                     addition to  addition to adjustment
+                                                                               or recoveryorofrecovery of payments
+                                                                                                payments              for
+                                                                                                            for services
+                                        serviceslisted
+                                                  listed above,
+                                                         above, payments
+                                                                 payments areare adjusted
+                                                                                 adjustedororrecovered
+                                                                                               recoveredforforother
+                                                                                                                other
+                                        servicesservices
+                                                  under theunder
+                                                             Statethe  State
+                                                                    plan      planbelow:
+                                                                         as listed  as listed below:
+
+                                                For individuals who die prior to January 1, 2017, all services
+                                                included in State plan for recipients age 55 and over except
+                                                those payments made for personal care services provided
+                                                under In-Home Support Services, and all Medicare cost
+                                                sharing as identified in section 4.17(b)(3)
+
+                                                For individuals who die on or after January 1, 2017, the State
+                                                will recover only for the services required by the State
+                                                Medicaid Manual, Section 3810(A)(2) (Continued).
+
+
+ __________________________________________________________________________________
+TN No. 16-030
+ TN No. 16-030
+Supersedes TN No.
+ Supersedes
+10-009
+                         Approval Date: March 24, 2017                  Effective Date January 1, 2017
+ TN No. 10-009
+                                                     Page 53c
+
+Revision: HCFA-PM-95-3 (MB)
+         May 1995
+
+                               STATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+
+                                             State/Territory: California
+
+                                               (c)   Adjustments or Recoveries: Limitations
+
+                                                     The State complies with the requirements of section
+                                                     1917 (b) (2) of the Act and regulations at 42 CFR
+                                                     section 433.36 (h) - (i)
+                                                     (1) Adjustment or recovery of medical assistance correctly paid
+                                                         will be made only after the death of the individual's surviving
+                                                         spouse, and only when the individual has no surviving child
+                                                         who is either under age 21, blind, or disabled.
+
+                                                          (a) For individuals who die on or after January 1, 2017, no
+                                                              claim will be made for their predeceased spouse.
+
+                                                     (2) With respect to liens on the home of any individual who the
+                                                         State determines is permanently residing in an institution and
+                                                         who must as a condition of receiving services in the institution
+                                                         apply their income to the cost of care, the State will not seek
+                                                         adjustment or recovery of medical assistance correctly paid on
+                                                         behalf of the individual until such time as none of the following
+                                                         individuals are residing in the individual's home:
+
+                                                          (a) a sibling of the individual (who was residing in the
+                                                              individual's home for at least one year immediately
+                                                              before the date the individual was institutionalized), or
+
+                                                          (b) a child of the individual (who was residing in the
+                                                              individual's home for at least two years immediately
+                                                              before the date that the individual was institutionalized)
+                                                              who establishes to the satisfaction of the State that the
+                                                              care the child provided permitted the individual to reside
+                                                              at home rather than become institutionalized.
+
+                                                     (3) No money payments under another program are reduced as a
+                                                         means of adjusting or recovering Medicaid claims incorrectly
+                                                         paid.
+
+
+
+
+TN No.: 16-030
+Supersedes                    Approval Date: March 24, 2017        Effective Date: January 1, 2017
+TN No.: 94-031
+                                                                                                                         Attachment 4.17-A
+                                                                                                                         Page 1
+                                              STATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+
+                                                               State/Territory: California
+1. The State uses the following process for determining that individual who is residing in an institution cannot
+reasonably be expected to be discharged from the medical institution and return home:
+
+   The beneficiary or his or her representative declare that the beneficiary residing in an institution cannot
+   reasonably be expected to be discharged and return home. The beneficiary has been given a 30-day notice of the
+   Department of Health Services' intent to impose a lien and has an opportunity for a hearing in accordance with
+   state established hearing procedures. The notice to the beneficiary must include an explanation of the proposed
+   lien and the effect on an individual's ownership interest.
+
+2. The following criteria are used for establishing that an individual permanently residing in an institution’s son or
+   daughter provided care as specified under regulations at 42 CFR §433.36(f):
+
+   A son or daughter of the individual residing in the home, who has resided there for at least two years immediately
+   before the date of the individual's admission to the institution, has resided there on a continuous basis since that
+   time, and can establish to the agency's satisfaction that he or she has been providing care which permitted the
+   individual to reside at home rather than in an institution. (A statement from a licensed health care provider(s)
+   clearly indicating that the level and duration of care provided prevented or delayed the decedent from being
+   placed in a medical or long-term care institution will satisfy this provision.)
+
+3. The State defines the terms below as follows:
+
+   • estate- For individuals who die on or after January 1, 2017, “estate” is defined as all real and personal property
+     and other assets in the individual’s probate estate that are required to be subject to a claim for recovery
+     pursuant to Section 1396p(d)(4)(a) of Title 42 of the United States Code. For individuals who die on or after
+     October 1, 1993 and prior to January 1, 2017, and for payments made on or after October 1, 1993, "estate” is
+     defined as a real and personal property and other assets in which the decedent had any legal title or interest
+     at the time of death (to the extent of such interest), including assets conveyed to a dependent, heir, survivor,
+     or assignee of the decedent through joint tenancy, tenancy in common, survivorship, life estate, living trust,
+     annuities purchased on or after September 1, 2004, life insurance policy that names the estate as the
+     beneficiary or reverts to the estate, or any retirement account that names the estate as the beneficiary or
+     reverts to the estate.
+
+   • individual's home - An individual's principal domicile.
+
+   • equity interest in the home - The fair market value of the property to which the decedent held legal title or
+     interest at the time of death (to the extent of such interest), less the amount owed in deeds of trust,
+     mortgages, and liens on record at the time of death.
+
+   • residing in the home for at least one or two years on a continuous basis - To live in the beneficiary's principal
+     domicile, for an extended or prolonged period and without interruption or cessation, for one year in the case
+     of a sibling and two years for a son or daughter.
+
+   • discharge from the medical institution and return home - To leave a medical facility and return to the
+     individual's principal residence.
+      lawfully residing - To live in a place for an extended
+      or permanent period of time with the authorization of
+TN No.: 16-030
+      the owner(s), and within the bounds of law or public
+      policy.
+Supersedes                                         Approval Date: March 24, 2017             Effective Date: January 1, 2016
+TN No.: 06-011
+                                                                                                       Attachment 4.17-A
+                                                                                                       Page 2
+                              STATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+
+                                              State/Territory: California
+   • lawfully residing - To live in a place for an extended or permanent period of time with the authorization of the
+     owner(s), and within the bounds of law or public policy.
+
+4. The state defines substantial hardship as follows: A. An applicant can demonstrate through submission of a
+   written application or, if applicable, at an estate hearing, that enforcement of the of the Department's claim
+   would result in a substantial hardship to the applicant based on the factors listed below. B. A substantial hardship
+   does not exist when the decedent or applicant created the hardship by using estate planning methods to divert or
+   shelter assets in order to avoid estate recovery. C. To the extent that there currently is, or later becomes any
+   conflict between the following criteria and the standards that may be specified by the Secretary of the
+   Department of Health and Human Services, the federal standards shall prevail.
+
+   The following standards and procedures are used by the State for waiving estate recoveries when recovery would
+   cause a substantial hardship.
+
+   In determining the existence of a substantial hardship, the Department shall waive an applicant’s proportionate
+   share of the claim if one of more of the following factors apply:
+
+       •   When allowing the applicant to receive the inheritance from the estate would enable the applicant
+           to discontinue eligibility for public assistance payments and/or medical assistance programs; or,
+
+
+       •   When an aged, blind, or disabled applicant has continuously lived in the decedent's home for at least one
+           year prior to the decedent's death and continues to reside there, and is unable to obtain financing to
+           repay the State. The applicant shall apply to obtain financing, for an amount not to exceed his or her
+           proportionate share of the claim, from a financial institution as defined in Probate Code Section 40. The
+           applicant shall provide the Department with a denial letter(s) from the financial institution; or,
+
+       •   When the applicant provided care to the decedent for two or more years that prevented or delayed the
+           decedent's admission to a medical or long-term care institution. The applicant must have resided in the
+           decedent's home during the period care was provided and continue to reside in the decedent's home.
+           The applicant must provide written medical substantiation from a licensed health care provider(s), which
+           clearly indicates that the level and duration of care provided prevented or delayed the decedent from
+           being placed in a medical or long-term care institution; or,
+
+       •   When the applicant transferred the property to the decedent for no consideration; or,
+
+       •   When equity in the real property is needed by the applicant to make the property habitable; or,
+
+       •   When equity in the real property is needed to acquire the necessities of life, such as food, clothing,
+           shelter or medical care.
+
+
+
+
+TN No.: 16-030
+Supersedes                        Approval Date: March 24, 2017             Effective Date: January 1, 2017
+TN No.: 06-011
+                                                                                                         Attachment 4.17-A
+                                                                                                        Page 2a
+                               STATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+
+                                               State/Territory: California
+
+
+Additionally, the Department shall waive its collection on an estate property, if one or more of the following factors
+applies:
+
+     •    When the estate property is part of an income-producing business, including a working farm or ranch, and
+          recovery of medical assistance expenditures would result in the applicant losing his or her primary source
+          of income; or,
+
+     •    When the estate is a homestead of modest value and the deceased individual against whose estate the claim
+          exists, died on or after January 1, 2017. A homestead of modest value is defined as a home whose fair market
+          value is 50 percent or less of the median price of homes in the county where the homestead is located, as of
+          the date of the decedent’s death. If a decedent owns multiple homes, this waiver shall only be granted for the
+          decedent’s principal residence.
+
+The Department will waive its claim in its entirety:
+
+    •    When the decedent is survived by a registered domestic partner.
+
+
+
+
+TN No.: 16-030
+Supersedes                         Approval Date: March 24, 2017             Effective Date: January 1, 2017
+TN No.: N/A
+                                                                                                                                                             Attachment 4.17-A
+                                                                                                                                                             Page 3
+                                            STATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+
+                                                                      State/Territory: California
+      The Department shall provide written notification to the applicant of its decision regarding the hardship
+      waiver application within 90 days of the applicant's submission. If an application for hardship waiver is denied,
+      the Department shall provide the applicant with notice of the right, the address, and the timeframe to request
+      an estate hearing, at the time it provides notice of its decision. The Department shall issue its decision on an
+      applicant's hardship waiver application prior to and independent of its consideration of a voluntary post death
+      lien.
+
+      If it is determined that enforcement of the State's claim would result in a substantial hardship to one or more
+      of the dependents, heirs, or survivors of the individual against whose estate the claim exists, the Department
+      shall waive the proportionate share of its claim against any applicant who qualifies for a waiver due to a
+      substantial hardship, as specified in Section 50963(a). The Department shall not enforce collection of the
+      proportionate share of an estate claim for any applicant who is awaiting the resolution of a hardship waiver
+      request or an estate hearing. However, the Department shall enforce collection of its claim from the remaining
+      dependent(s), heir(s), or survivor(s) for his or her proportionate share of the claim.
+
+
+5. The State defines cost-effective as follows (include methodology/thresholds used to determine cost
+   effectiveness):
+
+   Because of the volume of cases and limited availability of resources, the Department has determined that it is not
+   cost-effective to pursue continued collection or litigation after a claim/lien is filed if the potential net collection
+   amount is under $5,000. However, when the administrative costs to process a case and continue recovery are
+   very low, usually with cases handled by public administrators/guardians and formal probates, the Department
+   may file and pursue continued collection or litigation for any amount. Additionally, in certain circumstances when
+   the debtor has excessive allowable expenses or obligations or when the heir(s) lives out of state and is not
+   responsive to collection efforts, etc., the Department may determine that it is not cost-effective to litigate or
+   otherwise pursue recoveries, even though the net assets are over the normal $5,000 threshold.
+
+6. The State uses the following collection procedures (include specific elements contained in the advance notice
+   requirement, the method for applying for a waiver, hearing and appeals procedures, and time frames involved):
+
+   A. Advance Notice Procedure
+
+       Beneficiaries are notified of the Medi-Cal Estate Recovery program, during their initial application process
+      Beneficiaries are notified of the Medi-Cal Estate Recovery program, during their initial application process and during annual redetermination, via the Rights and
+      Responsibilities form (MC219), Statement of Facts (MC210), or other forms, which they read and sign. Our program also sends beneficiaries notices annually, informing
+       and during annual redetermination, via the Rights and Responsibilities form (MC219), Statement of Facts
+      them of the program, including any updates or changes in laws/procedures affecting estate recoveries. In addition, the Department publishes a Medi-Cal Pamphlet and
+
+       (MC210), or other forms, which they read and sign. Our program also sends beneficiaries notices annually,
+      places the form on the Department’s webpage which explains the circumstances Medi-Cal may bill the estate of a deceased beneficiary. Heirs, or their representatives, are
+      notified any time the Department intends to claim against a deceased beneficiary's estate or place a lien against a beneficiary residing in an institution’s real property (if
+       informing them of the program, including any updates or changes in laws/procedures affecting estate
+      beneficiary or personal representative has indicated no intent to return home), are informed of our legal authority to do so, and are given the opportunity to apply for a
+      hardship waiver or otherwise appeal our decision.
+       recoveries. In addition, the Department publishes a Medi-Cal Pamphlet and places the form
+
+
+
+
+TN No.: 16-030
+Supersedes                                        Approval Date: March 24, 2017                                 Effective Date: January 1, 2017
+TN No.: 14-030
+                                                                                                         Attachment 4.17-A
+                                                                                                         Page 4
+                              STATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+
+                                               State/Territory: California
+      on the Department’s webpage which explains the circumstances Medi-Cal may bill the estate of a deceased
+      beneficiary. Heirs, or their representatives, are notified any time the Department intends to claim against a
+      deceased beneficiary's estate or place a lien against a beneficiary residing in an institution’s real property (if
+      beneficiary or personal representative has indicated no intent to return home), are informed of our legal
+      authority to do so, and are given the opportunity to apply for a hardship waiver or otherwise appeal our
+      decision.
+
+  B. Collection Procedures
+
+      The Department may be notified of a Medi-Cal beneficiary's death in several different ways. California
+      Probate Code Sections 215, 9202, and 19202 require the estate attorney or personal representative of a
+      deceased Medi-Cal beneficiary to notify the Department within 90 days of the date of death. Notice must be
+      provided in writing to the Director of the Department of Health Services at his or her Sacramento office, or,
+      Estate Recovery Unit, Mail Stop 4720, P.O. Box 997425, Sacramento, CA 95899-7425 or submit notice
+      electronically through the Department’s website at dhcs.ca.gov/ER. The Department also receives referrals of
+      the death of a person who may have been receiving Medi-Cal benefits from various other private and public
+      sources. The Department also completes a monthly data search of the Medi-Cal Eligibility System to check the
+      eligibility status codes on each Medi-Cal beneficiary's file. If the eligibility status shows that the beneficiary
+      was terminated by reason of death, a system generated questionnaire may be sent to the estate, at the last
+      known address.
+
+      When notice of a Medi-Cal client's death is received by the Department, research is necessary to verify the
+      Medi-Cal eligibility periods, the beneficiary's assets at the time of death, and that the case meets the criteria
+      of law to pursue recovery. Cases which pass this screening are established on the program's Automated
+      Collection Management System (ACMS), claim details are requested and an itemized list of payments to
+      providers, health plans, etc., is prepared. This itemization is used to file a claim in formal probate with the
+      county court and/or with the person responsible for the decedent's estate.
+
+      Once a case is established, and accounts receivable (AR) entered into the ACMS, cases are monitored
+      quarterly. Status requests may be sent to the responsible party(ies) and case notes track the progress of the
+      claim. Payments received are deposited daily and the ACMS AR adjusted (making sure that the correct
+      amount was paid). Failure of payments to be made, claims honored, attorneys (or other responsible party)
+      cooperating in closing probate, etc., may result in collection action against the heir(s), attorney, or other
+      responsible persons, by litigating in small claims court, or referring to the Attorney General's Office for filing a
+      complaint with the courts.
+
+  C. Collection Procedures -Voluntary Post Death Liens
+
+      Voluntary post death liens may be utilized to secure and satisfy the Department's claim when one or more of
+      the dependents, heirs, or survivors of the deceased Medi-Cal client are living in and not willing to sell the real
+      property, are unable to pay the State's claim in full, and can demonstrate that they are unable to obtain
+      financing to pay off the claim. A voluntary post death lien is only utilized as a means to secure the
+      Department's claim and is voluntary in nature.
+
+
+TN No.: 16-030
+Supersedes                       Approval Date: March 24, 2017               Effective Date: January 1, 2017
+TN No.: 06-011
+                                                                                                                                                Attachment 4.17-A
+                                                                                                                                                Page 5
+                                     STATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+
+                                                           State/Territory: California
+
+      If a hardship waiver has been requested, a decision will be issued on the waiver request prior to and independent of
+      the Department introducing a voluntary post death lien.
+
+      Once it has been determined that one or more of the dependent(s), heir(s), or survivor(s) are unable to pay or obtain
+      financing to pay their proportionate share of the estate claim, the Department may offer to accept a voluntary post
+      death lien. The dependent(s), heir(s), or survivor(s) must provide the Department with a letter(s) from a financial
+      institution defined in Probate Code Section 40, which denies financing for an amount not to exceed the dependent(s),
+      heir(s), or survivor(s) proportionate share of the claim.
+
+      The Department may request monthly payments, based on the dependent(s), heir(s), or survivor(s) financial ability to
+      pay, in addition to the placement of a lien on the estate property. These payments would be based on the
+      dependent(s), heir(s), or survivor(s) financial ability to pay, and be adjusted as needed. Monthly payments would
+      continue until the lien amount owed to the Department by the lienee, plus interest, is paid in full.
+
+      For estate claims where the individual dies prior to January 1, 2017 the lien will accrue simple interest at the rate of
+      seven percent per annum. For estate claims where the individual dies on or after January 1, 2017, the lien will accrue
+      at the rate equal to the annual average rate earned on investments in the Surplus Money Investment Fund in the
+      calendar year preceding the year in which the decedent died, or simple interest at 7 percent per annum, whichever is
+      lower. Liens becomes due and payable, including all interest accrued, upon: 1) the death of the dependent(s), heir(s),
+      or survivor(s): or 2) the sale, refinance, transfer, or change in title to the real property; or 3) escrow funding: and/or 4)
+      default in payments.
+
+      In the event of a transfer of an interest in, or title to, real property subject to the voluntary post death lien without
+      payment of the lien, the lienee shall provide notification of the transfer, with the identity and address of the new
+      titleholder(s), by mail to the Department, within 30 days of the transfer. The lienee shall notify the new titleholder(s)
+      of the voluntary post death lien prior to the transfer of title, and the obligation to satisfy the lien. The new titleholder
+      must make arrangements for full satisfaction of the Department's lien with the Estate Recovery Program.
+
+      When the dependent(s), heir(s), or survivor(s) agree to a voluntary post death lien, the Department will prepare and
+      mail the lien documents to the dependent(s), heir(s), or survivor(s) for notarized signature(s). Once the lien documents
+      are returned to the Department, the Department forwards the documents on to the County Recorder's Office where
+      the property is located for recording of the lien. The Department will issue a release of lien to the County Recorder's
+      Office after full payment of the lien with accrued interest is received.
+
+  D. Collection Procedures - Imposing liens Against the Real Property of Beneficiaries who are Residing in an Institution
+
+      Atthe
+     At   thetime
+               time of of
+                        their  initial
+                            their      application
+                                    initial            for Medi-Cal
+                                             application              benefits
+                                                             for Medi-Cal    benefits     and their
+                                                                                 and during     duringannual
+                                                                                                         theirredetermination
+                                                                                                                annual redetermination            process, who are
+                                                                                                                                      process, individuals
+     residing   in an   institution    who    own   real property   are  asked   if they  intend  to return   home
+      individuals who are residing in an institution who own real property are asked if they intend to return home   to  live  in  that real property   at any  timein
+                                                                                                                                                             to live  in
+     the  future.  If the   beneficiary    or   personal    representative   indicates    no  intent to  return  home    (and
+      that real property at any time in the future. If the beneficiary or personal representative indicates no intent to return  if there is no spouse     or dependent
+     relative
+      home (andresiding     in theishome),
+                       if there       no spousethe County     Department
+                                                      or dependent          of Social
+                                                                        relative         Services
+                                                                                    residing        may
+                                                                                               in the      send a
+                                                                                                       home),    theNotice
+                                                                                                                       County of Action   (NOA) tofthe
+                                                                                                                                    Department             beneficiary
+                                                                                                                                                       Social  Services
+     residing
+      may send  in an   institution.
+                     a Notice          The NOA
+                                  of Action          informs
+                                                 (NOA)         beneficiaries
+                                                          to the  beneficiary  that  if the property
+                                                                                  residing             is listed forThe
+                                                                                              in an institution.      saleNOA                  eligibility is that if
+                                                                                                                                     Medi-Calbeneficiaries
+                                                                                                                             (andinforms
+     established
+      the property   or continues),
+                          is listed forasalelien (and
+                                                  will beMedi-Cal
+                                                           recordedeligibility
+                                                                      against the    property to cover
+                                                                                  is established            the cost of amedical
+                                                                                                     or continues),         lien willcare  received under
+                                                                                                                                        be recorded           thethe
+                                                                                                                                                        against
+     Medi-Cal    program.       The   notice   also   advises   the clients of  their  right to request    further  county
+      property to cover the cost of medical care received under the Medi-Cal program. The notice also advises the clients     review    and/or a  state  hearing,  within
+                                                                                                                                                                      of
+     30  days   of the   date   of  the  notice,
+      their right to request further county review in order   to present  additional    information/evidence       for consideration.      No  action  is taken   during
+     this 30-day period or pending further review and/or a hearing.
+
+
+
+TN No.: 16-030
+Supersedes                                Approval Date: March 24, 2017                       Effective Date: January 1, 2017
+TN No.: 06-011
+                                                                                                       Attachment 4.17-A
+                                                                                                       Page 6
+                             STATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+
+                                             State/Territory: California
+      and/or a state hearing, within 30 days of the date of the notice, in order to present additional
+      information/evidence for consideration. No action is taken during this 30-day period or pending further
+      review and/or a hearing.
+
+      If, after the 30 days has elapsed, the Department will research the referral from the county to determine if
+      the case meets the criteria of law to impose a lien against the property. That is, there is no surviving spouse,
+      child under age 21, blind or disabled child, or a sibling with an interest in the home, living in the home. Cases
+      that pass this screening are established on the program's ACMS, claims details are requested, and an itemized
+      list of payments made thus far to providers, health plans, etc., is prepared to determine the preliminary
+      amount of the lien. The Department then sends a lien to the appropriate county recorder's office and a copy
+      to the beneficiary. The transmittal letter, which accompanies the beneficiary's copy of the lien, gives the
+      preliminary amount of the lien, informs that the lien amount may increase monthly (as services are paid), and
+      provides the name of the person to contact if an escrow is ready to close or a sale is finalized for the final
+      balance due.
+
+      Once a case is established and an accounts receivable is entered onto ACMS, cases are monitored quarterly.
+      Status requests may be sent to the beneficiary and case notes track the progress of the pending sale/lien. If at
+      any time prior to the sale of the property, the Medi-Cal beneficiary is discharged from the medical institution
+      and resumes use of the property as principal residence, the lien is removed. If and when the property is sold,
+      the amount of the lien will be recovered from the proceeds of the sale.
+
+  E. Procedures for Waiver of a Claim Based Upon Substantial Hardship
+
+      California law and regulations require the Department to waive a dependent(s), heir(s), or survivor(s)
+      (applicant) proportionate share of its claim against the estate of a deceased Medi-Cal beneficiary, when the
+      Department determines that enforcement of the Department's claim would result in a substantial hardship to
+      the applicant. The Department provides written notice informing the person handling the decedent's estate
+      of the right to seek a waiver of or to contest the Department's claim. The notice and attachments include the
+      basis for the estate claim; the specific statutes and regulations supporting the claim; the right to seek a
+      waiver of the Department's claim; the right to contest the Department's claim; the right to request an estate
+      hearing if dissatisfied with the waiver decision; the timeframes for requesting a waiver or estate hearing; and
+      the basis for the applicant to seek a waiver or estate hearing due to substantial hardship. The Department
+      shall attach to the notice a copy of the itemized Medi-Cal payments that constitute the basis for the claim. In
+      addition, the Department shall provide an Application for Hardship Waiver, form DHCS 6195. The person
+      handling the estate of the decedent shall notify all dependents, heirs, or survivors of the Department's claim
+      and their right to seek a waiver of or to contest the Department's claim against the estate. An applicant has
+      60 days from the date stated on the Department's notice in which to submit an application for waiver due to
+      substantial hardship.
+
+      The actual criteria used in determining substantial hardship are listed in (4) above. An applicant may
+      challenge the Department's hardship waiver decision by submitting a written request for an estate hearing to
+      the Director of the department through his or her designee, the Office of Administrative Hearings and
+      Appeals, within 60 days of the date of the Department's decision
+
+
+TN No.: 06-030
+Supersedes                       Approval Date: March 24, 2017             Effective Date: January 1, 2017
+TN No.: 06-011
+

@@ -1,0 +1,264 @@
+Source URL: https://web.archive.org/web/20260613062132id_/https://codes.ohio.gov/ohio-administrative-code/rule-5160:1-3-05.17
+Retrieved: 2026-09-23
+
+Rule 5160:1-3-05.17 - Ohio Administrative Code | Ohio Laws 
+
+ Skip to main content 
+
+ Administrative Code Keywords 
+
+ Rule Number 
+
+ Go To Rule 
+
+ Laws
+
+ Ohio Constitution 
+
+ Ohio Revised Code 
+
+ Ohio Administrative Code 
+
+ About
+
+ About 
+
+ Contact
+
+ Contact 
+
+ Related Sites
+
+ Related Sites 
+
+ Back To Top 
+ Top
+
+ Home
+
+ Laws
+
+ Ohio Constitution 
+
+ Ohio Revised Code 
+
+ Ohio Administrative Code 
+
+ About
+
+ Contact
+
+ Related Sites
+
+ Go To
+
+ Administrative Code Number 
+
+ Go 
+
+ Administrative Code Keywords 
+
+ This website publishes administrative rules on their effective dates, as designated by the adopting state agencies, colleges, and
+ universities.
+
+ Rule 5160:1-3-05.17 | Medicaid: life estates.
+
+ Ohio Administrative Code 
+
+ /
+
+ 5160:1 
+
+ /
+
+ Chapter 5160:1-3 | Medicaid for the Aged Blind and Disabled 
+
+ Effective:
+
+ February 1, 2024
+
+ Promulgated Under:
+
+ 111.15 
+
+ PDF:
+
+ Download Authenticated PDF 
+
+ (A) This rule describes the treatment of life estates for the purposes of determining eligibility for medical assistance.
+ (B) Definitions.
+ (1) "Date of signature" is the date on which an individual with authority to transfer the physical property actually signed the life estate instrument.
+ (2) "Individual," for the purpose of this rule, has the same meaning as in rule 5160:1-1-01 of the Administrative Code.
+ (3) "Life estate" means an ownership interest in physical property wherein one person holds the right to possess, use, and obtain profits from the physical property for the extent of the person's lifetime, while another person holds the actual ownership interest in the physical property.
+ (a) A life estate is a form of legal ownership.
+ (b) A life estate is usually created through an instrument, such as a deed, a will, or by operation of law.
+ (c) A life estate instrument often identifies remaindermen who will take possession of the physical property upon the expiration of the life estate.
+ (d) A life estate owner, also known as a life tenant, owns a life estate property only for the duration of time specified in the life estate instrument. Only the individual who owns the life estate can sell interest in the life estate. The life estate owner cannot take any action concerning the interest of the remainderman.
+ (4) "Recording date" means the date that the life estate deed is recorded with the county auditor, county recorder, or other appropriate government agency charged with the responsibility for recording real estate transfers and titles.
+ (5) A "remainderman" is a person who inherits or is entitled to inherit physical property in a life estate. A remainderman has an ownership interest in the physical property but normally does not have the right to possess and use the property until the expiration of the life estate.
+ (C) Unless specifically prohibited by the instrument establishing the life estate or remainder interest:
+ (1) The life estate owner has the right to possess, use, and obtain profits from the physical property and to sell his or her life estate interest.
+ (2) The remainderman has the right to sell his or her interest in the physical property even before the life estate interest expires, but the life estate owner still retains rights to use the physical property until the expiration of the life estate.
+ (D) Categories of life estates.
+ (1) Life estates established with the individual's property. 
+ (a) A life estate held by an individual falls within this category when the life estate is established with property in which the individual held an ownership interest.
+ (b) When the individual has the right to transfer or sell the life estate, the life estate's fair market value is considered a countable resource unless it qualifies as an excluded resource as described in rule 5160:1-3-05.14 of the Administrative Code.
+ (2) Life estates not established by the individual.
+ (a) A life estate held by an individual falls within this category when the life estate is established with physical property that the individual did not hold an ownership interest in at the time of the establishment of the life estate.
+ (b) When the individual has the right to transfer or sell the life estate, the life estate's fair market value is considered a countable resource unless it qualifies as an excluded resource as described in rule 5160:1-3-05.14 of the Administrative Code.
+ (E) When the life estate is the individual's principal place of residence, as described in rule 5160:1-3-05.13 of the Administrative Code, the fair market value of the life estate is excluded as a resource.
+ (F) Effective date of the creation of a life estate.
+ (1) For life estates that are recorded within six months after the date of signature, the date of signature is the date of transfer.
+ (2) When a life estate is recorded more than six months after the date of signature, the individual must produce documentation from other sources verifying that the transfer occurred on the date of signature rather than the date of recording.
+ (a) Such documentation may consist of financial records from lending institutions, tax records from governmental agencies, or records from other agencies or private or public institutions.
+ (b) The individual may provide statements of persons holding a remainder interest, or other persons who participated in the creation of the life estate.
+ (G) Calculating the fair market value of a life estate.
+ (1) The administrative agency must first determine the fair market value of the physical property as established by the county auditor. When a valuation by a county auditor is unavailable, the value shall be based upon a valuation by the appropriate governmental agency charged with the responsibility for valuation of real property.
+ (2) The administrative agency must deduct from the fair market value of the physical property all liens and encumbrances that have been placed against the property.
+ (3) The administrative agency must deduct from the fair market value of the physical property all liens and encumbrances that have been placed against the life estate.
+ (4) After deductions, the balance is the equity value of the physical property.
+ (5) The administrative agency must multiply the equity value of the physical property by the product that corresponds to the life estate owner's age at the time of determination for medical assistance on the following life estate table:
+ AGE LIFE ESTATE REMAINDER 
+ 0 .97188 .02812 
+ 1 .98988 .01012 
+ 2 .99017 .00983 
+ 3 .99008 .00992 
+ 4 .98981 .01019 
+ 5 .98938 .01062 
+ 6 .98884 .01116 
+ 7 .98822 .01178 
+ 8 .98748 .01252 
+ 9 .98663 .01337 
+ 10 .98565 .01435 
+ 11 .98453 .01547 
+ 12 .98329 .01671 
+ 13 .98198 .01802 
+ 14 .98066 .01934 
+ 15 .97937 .02063 
+ 16 .97815 .02185 
+ 17 .97700 .02300 
+ 18 .97590 .02410 
+ 19 .97480 .02520 
+ 20 .97365 .02635 
+ 21 .97245 .02755 
+ 22 .97120 .02880 
+ 23 .96986 .03014 
+ 24 .96841 .03159 
+ 25 .96678 .03322 
+ 26 .96495 .03505 
+ 27 .96290 .03710 
+ 28 .96062 .03938 
+ 29 .95813 .04187 
+ 30 .95543 .04457 
+ 31 .95254 .04746 
+ 32 .94942 .05058 
+ 33 .94608 .05392 
+ 34 .94250 .05750 
+ 35 .93868 .06132 
+ 36 .93460 .06540 
+ 37 .93026 .06974 
+ 38 .92567 .07433 
+ 39 .92083 .07917 
+ 40 .91571 .08429 
+ 41 .91030 .08970 
+ 42 .90457 .09543 
+ 43 .89855 .10145 
+ 44 .89221 .10779 
+ 45 .88558 .11442 
+ 46 .87863 .12137 
+ 47 .87137 .12863 
+ 48 .86374 .13626 
+ 49 .85578 .14422 
+ 50 .84743 .15257 
+ 51 .83674 .16126 
+ 52 .82969 .17031 
+ 53 .82028 .17972 
+ 54 .81054 .18946 
+ 55 .80046 .19954 
+ 56 .79006 .20994 
+ 57 .77931 .22069 
+ 58 .76822 .23178 
+ 59 .75675 .24325 
+ 60 .74491 .25509 
+ 61 .73267 .26733 
+ 62 .72002 .27998 
+ 63 .70696 .29304 
+ 64 .69352 .30648 
+ 65 .67970 .32030 
+ 66 .66551 .33449 
+ 67 .65098 .34902 
+ 68 .63610 .36390 
+ 69 .62086 .37914 
+ 70 .60522 .39478 
+ 71 .58914 .41086 
+ 72 .57261 .42739 
+ 73 .55571 .44429 
+ 74 .53862 .46138 
+ 75 .52149 .47851 
+ 76 .50441 .49559 
+ 77 .48742 .51258 
+ 78 .47049 .52951 
+ 79 .45357 .54643 
+ 80 .43659 .56341 
+ 81 .41967 .58033 
+ 82 .40295 .59705 
+ 83 .38642 .61358 
+ 84 .36998 .63002 
+ 85 .35359 .64641 
+ 86 .33764 .66236 
+ 87 .32262 .67738 
+ 88 .30859 .69141 
+ 89 .29526 .70474 
+ 90 .28221 .71779 
+ 91 .26955 .73045 
+ 92 .25771 .74229 
+ 93 .24692 .75308 
+ 94 .23728 .76272 
+ 95 .22887 .77113 
+ 96 .22181 .77819 
+ 97 .21550 .78450 
+ 98 .21000 .79000 
+ 99 .20486 .79514 
+ 100 .19975 .80025 
+ 101 .19532 .80468 
+ 102 .19054 .80946 
+ 103 .18437 .81563 
+ 104 .17856 .82144 
+ 105 .16962 .83038 
+ 106 .15488 .84512 
+ 107 .13409 .86591 
+ 108 .10068 .89932 
+ 109 .04545 .95455 
+ (H) When the individual disagrees with the county auditor's determination of the fair market value of the physical property as described in paragraph (G)(1) of this rule, the individual may have a licensed real estate broker perform an appraisal of the property's value, which may be substituted as the fair market value of the physical property in paragraph (G)(1) of this rule. Such appraisal services may be provided through the use of administrative funds when the individual is unable to obtain an appraisal due to insufficient personal funds.
+ (I) Administrative agency responsibilities. The administrative agency shall:
+ (1) Determine the effective date of the creation of a life estate.
+ (2) Accept the statements of persons holding a remainder interest, or other persons who participated in the creation of the life estate, only upon a finding that their statements are corroborated and credible.
+ (3) Use the date of recording as the effective date of the creation of the life estate when the individual fails to produce documentation verifying that the transfer occurred on the date of signature.
+ (4) When the life estate has not been recorded, the administrative agency shall request that the individual verify transfer by recording the life estate and, unless the life estate was created within the prior six months, provide documentation as required in paragraph (F)(2) of this rule. When the individual does not provide documentation that the life estate has been recorded, disregard the life estate and consider the entire property as an available resource to the individual.
+
+ Last updated June 25, 2025 at 5:53 PM
+
+ Supplemental Information
+
+ Authorized By: 
+ 5160.02 , 5163.02 
+
+ Amplifies: 
+ 5160.02 , 5163.02 
+
+ Current Five Year Review Date: -->
+ -->
+
+ Five Year Review Date: 
+ 2/1/2029 
+
+ Prior Effective Dates: 
+ 9/3/1977, 2/1/1979, 10/1/1979, 1/3/1980, 7/1/1988 (Emer.), 9/1/1988, 1/1/1990 (Emer.), 4/1/1990, 4/1/1991 (Emer.), 6/17/1991, 9/1/1994, 11/7/2002, 10/1/2006, 11/1/2013, 11/2/2014, 9/1/2017 
+
+ Disclaimer 
+ Contact 
+ About 
+
+ -->
+
+-->

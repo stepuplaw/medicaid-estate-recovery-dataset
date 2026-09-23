@@ -1,0 +1,1547 @@
+Source URL: https://www.courts.michigan.gov/49f49a/siteassets/case-documents/opinions-orders/msc-term-opinions-(manually-curated)/16-17/153356.pdf
+Retrieved: 2026-09-23
+
+                                                                                     Michigan Supreme Court
+                                                                                           Lansing, Michigan
+
+
+
+
+Syllabus
+                                                                Chief Justice:       Justices:
+                                                                Stephen J. Markman   Brian K. Zahra
+                                                                                     Bridget M. McCormack
+                                                                                     David F. Viviano
+                                                                                     Richard H. Bernstein
+                                                                                     Joan L. Larsen
+                                                                                     Kurtis T. Wilder
+This syllabus constitutes no part of the opinion of the Court but has been           Reporter of Decisions:
+prepared by the Reporter of Decisions for the convenience of the reader.             Kathryn L. Loomis
+
+
+
+                                             In re RASMER ESTATE
+                                             In re GORNEY ESTATE
+                                             In re FRENCH ESTATE
+                                            In re KETCHUM ESTATE
+
+              Docket Nos. 153356, 153370, 153371, 153372, and 153373. Argued January 12, 2017
+       (Calendar No. 2). Decided July 31, 2017.
+
+               The Department of Health and Human Services (DHHS) brought separate actions in the
+       Bay County Probate Court, the Huron County Probate Court, the Calhoun County Probate Court,
+       and the Clinton County Probate Court, seeking to recover under the Michigan Medicaid estate-
+       recovery program (MMERP), MCL 400.112g et seq., an amount equivalent to the Medicaid
+       benefits paid on behalf of the decedents. The Bay County Probate Court, Dawn A. Klida, J.; the
+       Calhoun County Probate Court, Michael L. Jaconette, J.; and the Clinton County Probate Court,
+       Lisa Sullivan, J., granted summary disposition in favor, respectively, of Richard Rasmer,
+       personal representative of the estate of Olive Rasmer, Daniel Gene French, personal
+       representative of the estate of William French, and the estate of Wilma Ketchum. Regarding the
+       estate of Irene Gorney, the Huron County Probate Court, David L. Clabuesch, J., dismissed
+       plaintiff’s claim and entered a judgment in favor of the estate after a bench trial. DHHS
+       appealed in each case, and the Court of Appeals consolidated the cases. The Court of Appeals,
+       GLEICHER, J., and CAVANAGH, J. (JANSEN, P.J., concurring in part and dissenting in part),
+       affirmed in part, reversed in part, and remanded the cases to the respective probate courts,
+       concluding that DHHS could pursue its claims for the amounts paid by Medicaid on behalf of the
+       decedents from MMERP’s implementation date, July 1, 2011, but not for the amounts paid from
+       the program’s effective date, July 1, 2010, to the July 1, 2011 implementation date. In re Gorney
+       Estate, 314 Mich App 281 (2016). Relying on In re Keyes Estate, 310 Mich App 266 (2015), the
+       Court of Appeals rejected the estates’ due-process challenge premised on a lack of notice of
+       estate recovery at the time each decedent enrolled in Medicaid. Finally, the Court of Appeals
+       rejected the Ketchum estate’s alternative argument that DHHS’s estate-recovery effort violated
+       MCL 400.112g(4), which precludes DHHS from seeking Medicaid recovery if the costs of
+       recovery exceed the amount of recovery available or if the recovery is not in the best economic
+       interest of the state, and remanded to the Clinton County Probate Court for further proceedings.
+       The Supreme Court granted the Rasmer estate’s and DHHS’s respective applications for leave to
+       appeal. In re Rasmer Estate, 499 Mich 975 (2016).
+       In a unanimous opinion by Justice LARSEN, the Supreme Court held:
+
+        DHHS did not violate the statutory or constitutional rights of the decedents or their
+estates by seeking estate recovery under 2007 PA 74 (the MMERP Act). In each case, DHHS
+was permitted to pursue estate recovery for Medicaid benefits paid on behalf of the decedents
+after MMERP’s July 1, 2010 implementation date.
+
+        1. In 1993, Congress required states to implement Medicaid estate-recovery programs; in
+2007, the Michigan Legislature responded by passing the MMERP Act, which empowered
+DHHS to establish and operate MMERP. MCL 400.112g(5) of the Act required federal approval
+of the program before MMERP could be implemented, and MCL 400.112k made it clear that
+MMERP applied to all persons who began receiving Medicaid long-term care services after
+September 30, 2007, the date the MMERP Act was enacted and became effective. But
+MCL 400.112h(a) limits DHHS’s estate recovery to property and other assets included within an
+individual’s estate subject to probate administration. The federal Centers for Medicare and
+Medicaid Services (CMS) approved Michigan’s program in May 2011, and DHHS implemented
+the plan on July 1, 2011. Each decedent began receiving Medicaid benefits after passage of the
+MMERP Act, but the initial Medicaid applications filed by the decedents, or by their personal
+representatives, did not contain any information about estate recovery. After MMERP’s
+implementation, the decedents’ personal representatives submitted, as part of the annual
+Medicaid redetermination process, form DHS-4574, which contained an acknowledgement
+provision advising Medicaid applicants that DHHS could seek recovery from the decedents’
+estates for services paid by Medicaid. Following each decedent’s death, plaintiff sought to
+recover an amount equivalent to the Medicaid benefits paid on each decedent’s behalf for long-
+term care services since July 1, 2010, the date CMS deemed the effective date of MMERP.
+
+        2. MCL 400.112g(3)(e) provides that when an individual enrolls in Medicaid for long-
+term care services, DHHS must provide the individual written materials explaining the process
+for a waiver from estate recovery due to hardship. In addition, MCL 400.112g(7) requires
+DHHS to provide written information to individuals seeking Medicaid eligibility for long-term
+care services describing MMERP and including a statement that some or all of their estates may
+be recovered. In Keyes, 310 Mich App 266, the Court of Appeals held that MCL 400.112g(3)(e)
+does not require DHHS to provide notice regarding estate recovery when an individual enrolls in
+Medicaid because that provision is part of the larger MCL 400.112g(3), which requires DHHS to
+seek approval from the federal government regarding certain listed items and the estate had not
+asserted that DHHS had failed to seek federal approval of the timing provision. Keyes
+accordingly concluded that MCL 400.112g(3)(e) did not require DHHS to provide written
+materials or timely notice of MMERP. Keyes also concluded that MCL 400.112g(7) did not
+require DHHS to provide written information about MMERP at enrollment in Medicaid because
+the provision refers to “eligibility” rather “enrollment.” Keyes erred by severing “eligibility”
+from “enrollment”; in certain cases MCL 400.112g(7) may require DHHS to provide written
+information not only when a beneficiary seeks a redetermination of eligibility after enrollment
+but, contrary to Keyes, also just before enrollment, when eligibility initially is sought. But
+DHHS was not required to notify the decedents or their personal representatives of MMERP at
+the time they initially applied for Medicaid long-term care services because, under
+MCL 400.112g(5), MMERP could not be implemented until the program was approved by the
+federal government. With regard to the Rasmer estate’s appeal, DHHS had no duty under
+MCL 400.112g(7) to provide written information to Ms. Rasmer or her personal representative
+about MMERP until the program was approved and implemented. Further, the written
+acknowledgment provided by DHHS to Ms. Rasmer in 2013, which informed her of the
+possibility of estate recovery, complied with the MCL 400.112g(7) requirement to provide
+written information to individuals seeking Medicaid eligibility for long-term care services
+describing MMERP and including a statement that some or all of their estates may be recovered.
+
+        3. The Court of Appeals erred by concluding that DHHS implemented MMERP before it
+had federal approval because DHHS did not implement MMERP until after federal approval of
+the program. The Court of Appeals further erred by analyzing the implementation question as a
+due-process issue when its conclusion rested on its view that DHHS had failed to comply with
+the MCL 400.112g(5) restriction. Under federal law, the effective date of changes to a Medicaid
+state plan may predate approval. Accordingly, the MMERP-related state-plan amendments were
+lawfully given effect as of the July 1, 2010 effective date, even though that effective date
+occurred before the July 1, 2011 implementation date. In this case, DHHS complied with both
+the federal effective date (July 1, 2010) and the state implementation date (July 1, 2011) when it
+sought to recover the amount disbursed by Medicaid on behalf of Ms. Rasmer from the
+July 1, 2010 effective date; DHHS did not violate the MMERP Act when it pursued estate
+recovery in each of these cases.
+
+         4. The Fourteenth Amendment of the United States Constitution and Article 1, § 17 of
+Michigan’s 1963 Constitution provide that the state shall not deprive a person of life, liberty, or
+property without due process of law. When a person faces deprivation of a protected property
+interest, due process generally requires notice and an opportunity to be heard. But it is presumed
+that citizens know of changes in the law affecting property rights as long as the Legislature has
+enacted and published the law and afforded citizens a reasonable opportunity to become familiar
+with its terms; under Mullane v Central Hanover Bank & Trust Co, 339 US 306 (1950), the due-
+process requirements of notice and an opportunity to be heard apply to an adjudication to be
+accorded finality. Participants in a benefits program, like other persons, have no due-process
+right to individualized notice of a legislative change. Moreover, MCL 400.112k, which provides
+that the recovery program applies exclusively to medical assistance recipients who began
+receiving Medicaid long-term care services after September 30, 2007, and MCL 400.112h(a),
+which provides that the recovery program is limited to property subject to probate, provided
+constitutionally adequate notice to beneficiaries that their estates could be encumbered by
+MMERP.
+
+        5. According to the Rasmer estate, Ms. Rasmer was deprived of the right to plan during
+her lifetime for the disposition of her property after death because she lacked notice that her
+estate would be encumbered by DHHS’s creditor claim. Even if that interest is protected, the
+estate did not demonstrate any harm to Ms. Rasmer’s asserted right to engage in lawful planning
+to avoid probate administration and so her due-process argument failed.
+
+       6. Legislation is retroactive when it applies to events antedating its enactment. The
+MMERP Act was prospective, not retroactive, legislation because MCL 400.112k specifically
+provides that the Act applies only to events that postdate its September 2007 enactment.
+       7. The Court of Appeals erred by addressing the Ketchum estate’s argument that DHHS
+was barred from seeking estate recovery by MCL 400.112g(4), which prohibits DHHS from
+seeking estate recovery if the costs of recovery exceed the amount of recovery available or if the
+recovery is not in the best economic interest of the state. Although the Ketchum estate asserted
+MCL 400.112g(4) as a defense to DHHS’s creditor claim, the Clinton County Probate Court
+disposed of the claim on other grounds. Accordingly, the Court of Appeals unnecessarily
+addressed the issue rather than leaving it for the probate court to address on remand.
+
+       In Docket Nos. 153356, 153370, 153371, 153372, and 153373, Court of Appeals
+judgment affirmed insofar as it held that DHHS did not violate the statutory or constitutional
+rights of the decedents or their estates by seeking estate recovery from the MMERP
+implementation date, July 1, 2011, forward. Court of Appeals judgment reversed insofar as it
+held DHHS violated the constitutional rights of the decedents or their estates by seeking estate
+recovery from the July 1, 2010 MMERP effective date to the July 1, 2011 implementation date.
+Cases remanded to the respective probate courts.
+
+       In Docket No. 153372, Court of Appeals discussion regarding MCL 400.112g(4) vacated.
+
+
+
+
+                                    ©2017 State of Michigan
+                                                                    Michigan Supreme Court
+                                                                          Lansing, Michigan
+
+
+
+
+OPINION
+                                               Chief Justice:         Justices:
+                                               Stephen J. Markman     Brian K. Zahra
+                                                                      Bridget M. McCormack
+                                                                      David F. Viviano
+                                                                      Richard H. Bernstein
+                                                                      Joan L. Larsen
+                                                                      Kurtis T. Wilder
+
+                                                                FILED July 31, 2017
+
+
+
+                        S T AT E O F M IC H I G A N
+
+                                    SUPREME COURT
+
+
+
+
+ In re ESTATE OF OLIVE RASMER.
+
+
+ DEPARTMENT OF HEALTH AND
+ HUMAN SERVICES,
+
+              Plaintiff-Appellee,
+
+ v                                                   No. 153356
+ RICHARD RASMER, personal
+ representative of the estate of OLIVE
+ RASMER,
+
+              Defendant-Appellant.
+In re ESTATE OF IRENE GORNEY.
+
+
+DEPARTMENT OF HEALTH AND
+HUMAN SERVICES,
+
+             Plaintiff-Appellant,
+                                              No. 153370
+v
+
+ESTATE OF IRENE GORNEY,
+
+             Defendant-Appellee.
+
+
+In re ESTATE OF WILLIAM B.
+FRENCH.
+
+
+DEPARTMENT OF HEALTH AND
+HUMAN SERVICES,
+
+             Plaintiff-Appellant,
+
+v
+                                              No. 153371
+DANIEL GENE FRENCH, personal
+representative of the estate of WILLIAM
+B. FRENCH,
+
+             Defendant-Appellee.
+
+
+
+
+                                          2
+ In re ESTATE OF WILMA KETCHUM.
+
+
+ DEPARTMENT OF HEALTH AND
+ HUMAN SERVICES,
+
+               Plaintiff-Appellant,
+                                                          No. 153372
+ v
+
+ ESTATE OF WILMA KETCHUM,
+
+               Defendant-Appellee.
+
+
+ In re ESTATE OF OLIVE RASMER.
+
+
+ DEPARTMENT OF HEALTH AND
+ HUMAN SERVICES,
+
+               Plaintiff-Appellant,
+
+ v                                                        No. 153373
+
+ RICHARD RASMER, personal
+ representative of the estate of OLIVE
+ RASMER,
+
+               Defendant-Appellee.
+
+
+BEFORE THE ENTIRE BENCH
+
+LARSEN, J.
+       At issue in these companion cases is whether the Michigan Department of Health
+
+and Human Services (DHHS) may recover from beneficiaries’ estates an amount
+
+equivalent to certain Medicaid benefits paid to, or on behalf of, those beneficiaries during
+
+
+
+                                             3
+their lifetimes. Pursuant to the Michigan Medicaid estate-recovery program (MMERP),
+
+DHHS asserted creditor claims in the amount of those benefits against the estates of four
+
+deceased beneficiaries: Ms. Olive Rasmer, Ms. Irene Gorney, Mr. William B. French,
+
+and Ms. Wilma Ketchum. In each case, the estate prevailed in the probate court and
+
+DHHS appealed. The Court of Appeals consolidated the appeals and reversed in part,
+
+concluding that DHHS could pursue its claims for amounts paid after MMERP’s July 1,
+
+2011 implementation date, but not for amounts paid between that date and the program’s
+
+effective date, July 1, 2010. One estate applied to this Court for leave to appeal, asserting
+
+that due process barred DHHS from recovering any amount paid before 2013, when the
+
+agency had directly notified the estate’s decedent of MMERP. DHHS applied for leave
+
+to appeal in all four cases, arguing that the Court of Appeals had erred in concluding that
+
+the agency was not entitled to recover the amounts paid between July 1, 2010, and July 1,
+
+2011. We granted leave in both applications. Having considered the parties’ written and
+
+oral arguments, we conclude that DHHS is not barred from pursuing estate recovery for
+
+amounts paid after July 1, 2010. We, therefore, affirm in part, reverse in part, and
+
+remand the cases to the probate courts for further proceedings.
+
+           I. FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+
+       In 1965, Congress created the Medicaid insurance program, 1 which provides
+
+“federal financial assistance to States that choose to reimburse certain costs of medical
+
+treatment for needy persons.” Schweiker v Gray Panthers, 453 US 34, 36; 101 S Ct
+
+1
+ See Social Security Amendments of 1965, PL 89-97, tit XIX, 79 Stat 343 (codified as
+amended at 42 USC 1396 et seq.).
+
+
+
+                                             4
+2633; 69 L Ed 2d 460 (1981) (quotation marks omitted). States that choose to participate
+
+in Medicaid “must comply with [federal] requirements.” Id. at 37. In 1993, Congress
+
+required states to enact and carry out estate-recovery programs that would seek to recover
+
+the costs of certain Medicaid benefits from the beneficiaries’ estates. See 42 USC
+
+1396p(b)(1). 2   In 2007, the Michigan Legislature responded by enacting MMERP’s
+
+enabling legislation, MCL 400.112g to MCL 400.112k, as enacted by 2007 PA 74 (the
+
+MMERP Act). The MMERP Act required DHHS 3 to seek the federal government’s
+
+approval of certain aspects of MMERP, see MCL 400.112g(3); only after getting that
+
+approval could DHHS “implement” the program, MCL 400.112g(5). DHHS sought
+
+federal approval in September 2010. The federal Centers for Medicare and Medicaid
+
+Services (CMS) granted approval in May 2011 and, in accordance with federal
+
+regulations, gave the amendments an “effective date” of July 1, 2010. 4
+
+2
+    See Omnibus Budget Reconciliation Act of 1993, PL 103-66, § 13612, 107 Stat 627.
+3
+  MCL 400.112g(1) charges the state Department of Community Health (DCH) with
+administering MMERP. In 2015, Governor Snyder created DHHS by executive order
+and transferred to it the “authority, powers, duties, functions, [and] responsibilities . . . of
+[DCH].” See Executive Order No. 2015-4. This opinion describes some agency conduct
+predating the executive order and thus undertaken by DCH; for the sake of simplicity we
+ascribe that conduct to DHHS in this opinion.
+4
+  See Letter from CMS to DCH, May 23, 2011, available at
+<http://www.michigan.gov/documents/mdch/SPA_10_018_Approved_355355_7.pdf>
+(accessed June 21, 2017) [https://perma.cc/UW9J-GA7E]. We observe that, under
+federal regulations, a plan amendment’s effective date is governed by one of two
+standards. First, if a plan amendment expands benefits or “changes the State’s payment
+method and standards,” the effective date may be no “earlier than the first day of the
+quarter in which” the amendment is submitted for federal approval. 42 CFR 430.20(a)(1)
+and (b)(2). Second, “[f]or other plan amendments, the effective date may be a date
+requested by the State if CMS approves it.” 42 CFR 430.20(b)(3). The July 1, 2010
+effective date satisfies either standard: July 1, 2010, is the “first day of the quarter”
+
+
+                                               5
+       DHHS began estate-recovery efforts on July 1, 2011, explaining in a June 1, 2011
+
+bulletin that federal law required it to “implement” MMERP. 5 The bulletin explained
+
+that, in accordance with MMERP, DHHS would “attempt to recover the expenses paid on
+
+behalf of a Medicaid beneficiary from their estate.” It further detailed which estates and
+
+property would be subject to recovery:
+
+              Medicaid beneficiaries who receive nursing facility care, MI Choice
+       home and community based waiver services, home health, home help, and
+       hospital or prescription drug services on or after July 1, 2010, and after they
+       have reached the age of 55 years, will be subject to recovery upon their
+       death or the death of a spouse.
+
+               Funds will be recovered from the beneficiary’s estate which is
+       defined as including all property and assets which are subject to probate,
+       with several exceptions. The state will attempt to recover the estate when
+       the beneficiary dies, if they were single, or when the surviving spouse dies,
+       if they had a qualifying spouse.
+
+       The five appeals here stem from DHHS’s implementing MMERP by seeking to
+
+recover from four estates. The agency’s efforts were rejected in the probate courts. On
+
+appeal, the Court of Appeals reversed the probate courts in part and affirmed in part,
+
+holding that DHHS could recover from the estates but only for Medicaid benefits paid
+
+after MMERP’s implementation date, July 1, 2011. In re Gorney Estate, 314 Mich App
+
+281, 300; 886 NW2d 894 (2016). Although DHHS has appealed in this Court in all four
+
+cases, the estate of Ms. Olive Rasmer is the only estate to have appealed in this Court.
+
+
+containing September 2010, and it was the “proposed effective date” in the approval
+request.
+5
+  See Medical Services Administration, Bulletin No. MSA 11-20, June 1, 2011, available
+at <https://www.michigan.gov/documents/mdch/MSA_11-20_354432_7.pdf> (accessed
+June 21, 2017) [https://perma.cc/7Q6A-HSWA].
+
+
+
+                                             6
+       Ms. Rasmer applied for Medicaid benefits in October 2008 and began receiving
+
+them in 2009. As with all applicants for Medicaid benefits, Ms. Rasmer was required to
+
+submit an eligibility determination form, DHS-4574, both when she applied and
+
+periodically thereafter to redetermine benefits eligibility. When she applied in 2008,
+
+form DHS-4574 said nothing about estate recovery or MMERP. In September 2013,
+
+when her patient representative sought a redetermination of Ms. Rasmer’s eligibility, the
+
+form contained the following acknowledgment about MMERP:
+
+              12. Estate Recovery. I understand that upon my death, [DHHS] has
+       the legal right to seek recovery from my estate for services paid by
+       Medicaid. [DHHS] will not make a claim against the estate while there is a
+       legal surviving spouse or a legal surviving child who is under the age of 21,
+       blind, or disabled living in the home. An estate consists of real and
+       personal property. Estate Recovery only applies to certain Medicaid
+       recipients who received Medicaid services after the implementation date of
+       the program. [DHHS] may agree not to pursue recovery if an undue
+       hardship exists. For further information regarding Estate Recovery, call
+       1-877-791-0435.
+
+       Ms. Rasmer began receiving benefits in 2009 and received them until she died, on
+
+March 16, 2014. DHHS sought to recover from her estate an amount equal to the
+
+benefits paid by Medicaid on her behalf from July 1, 2010, until her death, but Ms.
+
+Rasmer’s estate rejected the claim. DHHS then sued the estate in the Bay County
+
+Probate Court, asserting a right to collect the amount of medical benefits paid on Ms.
+
+Rasmer’s behalf. The estate asserted, as an affirmative defense, that it was not subject to
+
+MMERP because Ms. Rasmer had not been notified of the program when she initially
+
+applied for benefits in 2008 and because recovery would violate due process.
+
+       Both parties moved for summary disposition under MCR 2.116(C)(10).              The
+
+probate court granted the estate’s motion and denied DHHS’s motion, reasoning that
+
+
+                                            7
+DHHS could not recover from the estate because, in its view, the agency had not given
+
+Ms. Rasmer notice of the program in accordance with MCL 400.112g. The probate court
+
+also denied DHHS’s motion for reconsideration. DHHS appealed, arguing that Ms.
+
+Rasmer had received all the notice and process to which she was entitled.
+
+      As in Ms. Rasmer’s case, in each of the other three cases, the decedent “began
+
+receiving medicaid long-term care services after [September 30, 2007],” MCL 400.112k,
+
+when the Legislature enacted the MMERP Act. After DHHS implemented MMERP in
+
+July 2011, the decedent’s patient representative signed a statement acknowledging an
+
+understanding of DHHS’s “legal right to seek recovery from [the decedent’s] estate for
+
+services paid by Medicaid.” After the decedent’s death, DHHS sought recovery from the
+
+decedent’s estate for amounts disbursed after the July 1, 2010 effective date of the plan.
+
+The estate rejected the claim, and DHHS sued in probate court. After DHHS’s claim was
+
+dismissed, DHHS appealed, arguing that the estate had received sufficient notice to
+
+satisfy both the governing statute, MCL 400.112g(7), and due process.
+
+       On DHHS’s motion, the Court of Appeals consolidated the four cases for oral
+
+argument, and, in a split decision, affirmed in part, reversed in part, and remanded to the
+
+four probate courts for further proceedings. See Gorney, 314 Mich App at 300. The
+
+panel majority determined that it was bound by In re Keyes Estate, 310 Mich App 266;
+
+871 NW2d 388 (2015), which had concluded that the acknowledgment signed by the
+
+patient representative met the requirement of MCL 400.112g(7) to “provide written
+
+information” and that the probate proceedings complied with due process. Gorney, 314
+
+Mich App at 294-295. But Keyes had not addressed whether DHHS could “recover costs
+
+expended between July 1, 2010 and plan implementation [i.e., July 1, 2011],” and the
+
+
+                                            8
+Court of Appeals determined that DHHS could not do so without “violat[ing] the
+
+decedents’ rights to due process.” Id. at 300. It further determined that the Ketchum
+
+estate could argue on remand that DHHS, by pursuing estate recovery, had violated MCL
+
+400.112g(4), which provides that DHHS “shall not seek Medicaid estate recovery if the
+
+costs of recovery exceed the amount of recovery available or if the recovery is not in the
+
+best economic interest of the state.” 6 See id. at 293-294.
+
+         DHHS applied for leave to appeal in all four cases in this Court. Ms. Rasmer’s
+
+estate also applied. This Court granted leave in both applications. See In re Rasmer
+
+Estate, 499 Mich 975 (2016). For the reasons that follow, we affirm in part, reverse in
+
+part, and remand for further proceedings consistent with this opinion.
+
+                                II. STANDARD OF REVIEW
+
+         A trial court’s grant of summary disposition is reviewed de novo. See Bernardoni
+
+v Saginaw, 499 Mich 470, 472; 886 NW2d 109 (2016).                We also review de novo
+
+questions of constitutional and statutory interpretation.        See Associated Builders &
+
+Contractors v Lansing, 499 Mich 177, 183; 880 NW2d 765 (2016); Rock v Crocker, 499
+
+Mich 247, 260; 884 NW2d 227 (2016).
+
+                                       III. ANALYSIS
+
+                              A. STATUTORY COMPLIANCE
+
+         Ms. Rasmer’s estate argues that two provisions of the MMERP Act, MCL
+
+400.112g(3)(e) and (7), required DHHS to give Ms. Rasmer certain “written materials”
+
+
+6
+    The Ketchum estate was the only party to raise this issue.
+
+
+
+                                               9
+and “written information” when she first applied for Medicaid benefits in 2008 and that
+
+DHHS’s failure to have done so precludes it from recovering against her estate. The
+
+estate also argues that when DHHS gave her written information about MMERP in 2013,
+
+that information was not detailed enough to comply with the statute. For the reasons
+
+explained below, we conclude that DHHS was not required by statute to notify Ms.
+
+Rasmer of MMERP in 2008 and that the written information provided to her in 2013
+
+complied with the statute.
+
+      1. DHHS’S DUTY TO GIVE WRITTEN INFORMATION AT ENROLLMENT
+
+         The Rasmer estate asserts that MCL 400.112g(3)(e) and (7), read together, bar
+
+DHHS from recovering from a beneficiary’s estate unless DHHS had provided the
+
+beneficiary with certain written information when he or she first enrolled in Medicaid.
+
+MCL 400.112g(3)(e) is part of a subsection, MCL 400.112g(3), requiring DHHS to “seek
+
+[federal] approval” of several items.       The estate relies on subsection (3)(e), which
+
+concerns exemptions for hardship. 7 It states in relevant part:
+
+                 [DHHS] shall seek appropriate changes to the Michigan medicaid
+         state plan and shall apply for any necessary waivers and approvals from the
+         federal centers for medicare and medicaid services to implement the
+         Michigan medicaid estate recovery program. [DHHS] shall seek approval
+         from the federal centers for medicare and medicaid regarding all of the
+         following:
+                                            * * *
+
+                (e) Under what circumstances the estates of medical assistance
+         recipients will be exempt from the Michigan medicaid estate recovery
+         program because of a hardship. At the time an individual enrolls in
+         medicaid for long-term care services, [DHHS] shall provide to the
+
+7
+    The Rasmer estate does not argue that it was entitled a hardship waiver.
+
+
+
+                                              10
+       individual written materials explaining the process for applying for a
+       waiver from estate recovery due to hardship. [DHHS] shall develop a
+       definition of hardship according to section 1917(b)(3) of title XIX that
+       includes, but is not limited to, [certain enumerated factors.] [Emphasis
+       added.]
+
+The estate also relies on subsection (7), which requires DHHS to provide “written
+
+information” to certain individuals:
+
+               [DHHS] shall provide written information to individuals seeking
+       medicaid eligibility for long-term care services describing the provisions of
+       the Michigan medicaid estate recovery program, including, but not limited
+       to, a statement that some or all of their estate may be recovered. [Emphasis
+       added.]
+
+       The estate argues that Ms. Rasmer should have been provided the “written
+
+information” described in subsection (7) when she applied for Medicaid benefits in 2008.
+
+Its argument takes two forms that lead to the same place. It first argues as follows:
+
+Subsection (3)(e) requires DHHS, “[a]t the time an individual enrolls in medicaid,” to
+
+provide to that individual “written materials explaining the process for applying for a
+
+waiver from estate recovery due to hardship.” But because an explanation of a hardship
+
+waiver is incomplete without a full explanation of MMERP’s provisions, subsection
+
+(3)(e) presupposes that DHHS already has complied with subsection (7). In other words,
+
+subsection (7) implicitly requires that “written information . . . describing the provisions
+
+of [MMERP]” be provided “[a]t the time an individual enrolls in medicaid.”
+
+Alternatively, the estate argues, since one must seek eligibility before initially enrolling
+
+in Medicaid, DHHS must comply with subsection (7) when someone first applies to the
+
+program. Either way, the estate concludes, DHHS violated subsection (7) because Ms.
+
+Rasmer received no written information about MMERP when she originally applied for
+
+Medicaid benefits in 2008.
+
+
+                                            11
+        The Court of Appeals rejected similar arguments in Keyes. Keyes reasoned “that
+
+the timing provision of MCL 400.112g(3)(e) does not apply” because that provision “is
+
+part of the larger Subsection (3), which requires [DHHS] to seek approval from the
+
+federal government regarding the [listed] items,” and the estate had asserted no failure by
+
+DHHS to seek federal approval about the timing provision. Keyes, 310 Mich App at 272.
+
+Keyes thus concluded that subsection (3)(e) had no bearing on DHHS’s duty to provide
+
+written materials or timely notice. See id. at 272-273. The Court went on to analyze
+
+subsection (7), concluding that because the provision refers to eligibility rather than
+
+enrollment, it did not require DHHS to provide written information at enrollment. See
+
+id. 8
+
+        We agree with the estate that the Court of Appeals erred in Keyes when it divorced
+
+“eligibility” from “enrollment.” Yet we cannot conclude that DHHS had a duty to give
+
+Ms. Rasmer “written information . . . describing the provisions of” MMERP when she
+
+8
+  We are not sure that we agree with Keyes’s interpretation of MCL 400.112g(3)(e). As
+explained above, Keyes observed that the provision requiring DHHS to provide “written
+materials” at enrollment was embedded in one of a list of items for which DHHS had to
+seek federal approval. If context and placement in the statute are given great weight, this
+provision might be read, consistent with Keyes, to impose on DHHS only a duty to seek
+federal approval of various items. DHHS certainly was bound under subsection (3)(e) to
+seek federal approval of the “circumstances [under which] the estates of medical
+assistance recipients will be exempt from [MMERP] because of a hardship.” Subsection
+(3)(e) might also be read, awkwardly, to have required DHHS to seek federal approval of
+both its “definition of hardship” and its plan to provide “written materials explaining the
+process for applying for a [hardship] waiver” “[a]t the time an individual enrolls in
+medicaid.” But if these two commands were not embedded in this list of items for
+federal approval, we would read them to impose duties on DHHS, namely, to
+“provide . . . written materials” and to “develop a definition of hardship.” We need not
+work through this confounding puzzle of text and context, however, because we conclude
+that the proper interpretation of subsection (7) does not depend on subsection (3)(e).
+
+
+
+                                            12
+applied for Medicaid benefits in 2008. Subsection (7) states that DHHS “shall provide
+
+written information to individuals seeking medicaid eligibility for long-term care services
+
+describing the provisions of [MMERP] . . . .” Unlike subsection (3)(e), which requires
+
+the provision of written materials “[a]t the time an individual enrolls,” subsection (7)
+
+imposes a duty whenever “individuals seek[] medicaid eligibility for long-term care
+
+services . . . .”   Under federal law, DHHS determines eligibility when someone first
+
+applies for Medicaid benefits and must also periodically redetermine eligibility. See 42
+
+CFR 435.907, 435.911, and 435.916. And so, in certain cases, DHHS may be required to
+
+provide written information not only when a beneficiary seeks a redetermination of
+
+eligibility after enrollment, but also, contrary to Keyes, just before enrollment, when
+
+eligibility initially is sought.
+
+        Ms. Rasmer applied for Medicaid benefits in 2008, which we assume made her an
+
+individual “seeking medicaid eligibility.” According to the estate’s theory, her 2008
+
+application triggered DHHS’s duty to “provide written information . . . describing the
+
+provisions of [MMERP] . . . .” MCL 400.112g(7). But under MCL 400.112g(5), DHHS
+
+could “not implement [MMERP] until approval by the federal government [was]
+
+obtained.” Although the MMERP Act clearly required DHHS to “establish an estate
+
+recovery program” whose activities would include, among other things, “[a]ctions
+
+necessary to collect amounts subject to estate recovery,” MCL 400.112g(2), without
+
+federal approval, MMERP itself did not exist in final form. So it is neither surprising nor
+
+unlawful that DHHS provided no information “describing the provisions of” MMERP in
+
+2008. MMERP was not approved by the federal government until 2011; only then did
+
+DHHS know what “the provisions of” the program would actually be, and only then
+
+
+                                            13
+could DHHS have complied with the statute by “provid[ing] written information” about
+
+those provisions. MCL 400.112g(7).
+
+      The estate concedes that to accept its reading would be to ask DHHS to do the
+
+impossible. 9 That suggests to us that the estate’s reading is wrong. The estate maintains
+
+instead that the MMERP Act intended the impossibility of performance to bar DHHS
+
+from ever recovering against the estates of decedents who had enrolled in Medicaid
+
+before MMERP was federally approved in May 2011. In other words, the estate argues,
+
+the Legislature intended to “grandfather” into the old Medicaid regime all persons who
+
+began receiving Medicaid before MMERP’s approval or implementation in 2011. The
+
+statutory scheme reflects no such intent. By its terms, the Act expressly grandfathers into
+
+the old Medicaid regime only one group of Medicaid recipients: those “who began
+
+receiving medicaid long-term care services” before the Act’s September 30, 2007
+
+effective date. MCL 400.112k. In light of that explicit grandfathering provision, we
+
+have a hard time concluding that the statute is best read to have implicitly created
+
+another, by mandating the impossible.      To the contrary, we think the Act is more
+
+reasonably read as follows: MCL 400.112k made clear (to DHHS and Medicaid
+
+
+9
+  The estate writes in its leave application: “DHHS could not, at any time before approval
+of its [estate-plan amendments] on July 1, 2011, advise Ms. Rasmer, or any applicant or
+person receiving Medicaid for that matter, of what estate recovery would entail.” The
+estate continued in its brief: “Because no estate recovery program was in effect at the
+time Olive Rasmer applied for enrollment in Medicaid, the DHHS’ predecessor, the
+Department of Community Health, could not have complied with MCL 400.112g by
+providing the statutorily-required written information to her describing the provisions of
+the estate recovery program and what actions may be taken against her estate at the time
+that she applied for enrollment in Medicaid.”
+
+
+
+                                            14
+recipients alike) that all persons who “began receiving medicaid long-term care services”
+
+after September 30, 2007, could be subject to estate recovery for the services they would
+
+receive; MCL 400.112g(7) then required DHHS to “provide written information” about
+
+that recovery only when it became possible to do so-once “the provisions of” the
+
+recovery program had been approved by the federal government and could, in fact, be
+
+“describ[ed].” 10 We conclude that DHHS had no duty to “provide written information”
+
+under MCL 400.112g(7) before MMERP was federally approved in May 2011 or
+
+implemented on July 1, 2011, and so DHHS did not violate subsection (7) when it did not
+
+“provide written information” about MMERP to Ms. Rasmer when she applied for
+
+Medicaid in 2008. 11
+
+
+
+10
+   This analysis also forecloses the argument that the statute itself required DHHS to
+provide written information regarding MMERP at its “effective date,” July 1, 2010.
+Because MMERP did not exist in final form before it was federally approved, it could not
+have been accurately described before mid-2011.
+11
+   The estate argues that in addition to violating MCL 400.112g(7), DHHS also violated
+the following federal guidance: “[DHHS] should provide notice to individuals at the time
+of application for Medicaid that explains the estate recovery program in your State.”
+CMS           State    Medicaid        Manual       § 3810(G)(1),      available       at
+<https://www.cms.gov/Regulations-and-Guidance/guidance/Manuals/Paper-Based-
+Manuals-Items/CMS021927.html> (accessed June 23, 2017) [https://perma.cc/N6M5-
+FLNR]. The estate failed to raise this argument in the Court of Appeals and so it is not
+properly before us. But we observe, consistent with further federal guidance, that the
+provision relied on by the estate is not stated in mandatory terms. See U.S. Department
+of Health and Human Services, Medicaid Estate Recovery (April 1, 2005) at n 25 (“Note
+that this section [of the State Medicaid Manual] describes what states ‘should’ do, not
+what they ‘must’ do.”), available at <https://aspe.hhs.gov/basic-report/medicaid-estate-
+recovery#note25> (accessed June 23, 2017) [https://perma.cc/6USC-LZAF]. And,
+indeed, the estate concedes that “the CMS’ State Medicaid Manual is not binding law as
+such . . . .”
+
+
+
+                                           15
+           2. THE SUFFICIENCY OF DHHS’S WRITTEN INFORMATION
+
+       The estate further argues that when Ms. Rasmer received information about the
+
+estate-recovery program in September 2013, that information fell short of the
+
+requirements of MCL 400.112g(7). DHHS sought to comply with subsection (7) by
+
+including the following statement in the acknowledgment section of its eligibility
+
+application:
+
+              12. Estate Recovery. I understand that upon my death [DHHS] has
+       the legal right to seek recovery from my estate for services paid by
+       Medicaid. [DHHS] will not make a claim against the estate while there is a
+       legal surviving spouse or a legal surviving child who is under the age of 21,
+       blind, or disabled living in the home. An estate consists of real and
+       personal property. Estate Recovery only applies to certain Medicaid
+       recipients who received Medicaid services after the implementation date of
+       the program. [DHHS] may agree not to pursue recovery if an undue
+       hardship exists. For further information regarding Estate Recovery, call
+       1-877-791-0435.
+
+According to the estate, this statement failed to give Ms. Rasmer enough information to
+
+put her on notice of “the particular actions that may be taken against her estate upon her
+
+death. In particular, the statement lacks any specificity as to the nature and scope of the
+
+estate recovery program and was clearly insufficient to make her aware of the potential
+
+financial consequences of estate recovery to her estate after her death.”
+
+       DHHS’s statement could have provided greater detail about MMERP-and
+
+perhaps, as a matter of best practices, it should have done so. But it is not clear that the
+
+MMERP Act required so much of DHHS. As noted above, MCL 400.112k apprised
+
+persons like Ms. Rasmer that their participation in Medicaid would come with the
+
+possibility of estate recovery, and MCL 400.112g(7) required only that DHHS, after
+
+federal approval of MMERP and after it was otherwise ready to carry out such recovery,
+
+
+
+                                            16
+“provide written information to individuals seeking medicaid eligibility for long-term
+
+care services describing the provisions of [MMERP], including, but not limited to, a
+
+statement that some or all of their estate may be recovered.” As it concerns the content of
+
+this “written information,” subsection (7) is, by its plain language, open-ended and not
+
+particularly exacting.   DHHS’s statement was sufficient to meet the letter of the
+
+requirement, and we do not see a statutory violation in DHHS’s failure to do more. Even
+
+accepting the estate’s characterization of the statute’s requirements, however, DHHS’s
+
+statement sufficed. The statement’s lead sentence, cast in the first person (“I,” “my
+
+death,” “my estate”), highlights that the individual seeking benefits falls within the
+
+“scope” of MMERP. The statement further mentions “recovery” or “estate recovery”
+
+five times and thus conveys that the “nature” of MMERP is to seek reimbursement from
+
+the individual’s estate “for services paid by Medicaid.” Finally, the statement speaks of a
+
+“claim” against an estate, thereby signaling the actions that may be taken against an
+
+estate-namely, a claim against the estate for the cost of the services paid by Medicaid
+
+and the potential for adjudication of the claim in probate court.       We conclude that
+
+DHHS’s statement meets the challenge posed by Ms. Rasmer’s estate and complies with
+
+subsection (7).
+
+                         3. PREMATURE IMPLEMENTATION
+
+       The Court of Appeals held that DHHS impermissibly sought to recover Medicaid
+
+disbursements made between MMERP’s effective date (July 1, 2010) and its
+
+implementation date (July 1, 2011).      Although the panel majority cast the issue as
+
+
+
+
+                                            17
+sounding in due process, we analyze it as statutory because the Court’s conclusion rested
+
+on its view that DHHS had failed to comply with a statutory restriction. 12
+
+       The Court of Appeals looked to MCL 400.112g(5), which forbade DHHS to
+
+“implement [MMERP] until approval by the federal government [was] obtained.” See
+
+Gorney, 314 Mich App at 297.         It observed that “implement” means “carry out,”
+
+“accomplish,” and especially “give practical effect to and ensure of actual fulfillment by
+
+concrete measures . . . .” Id., quoting Merriam-Webster’s Collegiate Dictionary (11th ed)
+
+(capitalization and quotation marks omitted). It then reasoned as follows:
+
+       The DHHS did not implement the MMERP until it circulated instructions
+       to its employees to begin seeking recovery from estates. This occurred on
+       July 1, 2011, after the CMS approved the plan. However, the DHHS could
+       not “implement” the MMERP before the federal government approved it.
+       The DHHS sought to give practical effect to its recovery plan by making it
+       “effective” July 1, 2010. This violated MCL 400.112g(5). [Gorney, 314
+       Mich App at 297.]
+
+       We are not convinced by this reasoning. The Court recognized that “DHHS did
+
+not implement the MMERP until it circulated instructions to its employees” on July 1,
+
+
+12
+   The Court of Appeals’ view that MMERP had been unconstitutionally applied to
+recover Medicaid disbursements made between MMERP’s effective date and its
+implementation date rested on its conclusion that DHHS had contravened the statute by
+“implementing,” i.e., giving “practical effect to,” the estate-recovery plan before federal
+approval. Gorney, 314 Mich App at 297. But not every government action taken in
+excess of statutory authority constitutes a due-process violation. Cf. Amsden v Moran,
+904 F2d 748, 757 (CA 1, 1990) (“[A] regulatory board does not transgress constitutional
+due process requirements merely . . . by making demands which arguably exceed its
+authority under the relevant state statutes.”) (quotation marks omitted); Smith v Picayune,
+795 F2d 482, 488 (CA 5, 1986) (“Converting alleged violations of state law into
+federal . . . due process claims improperly bootstraps state law into the Constitution.”)
+(quotation marks omitted). Moreover, for the reasons discussed, we disagree that DHHS
+violated the statute.
+
+
+
+                                            18
+2011, id., from which it should have concluded that DHHS had not “implement[ed]
+
+MMERP until [after] approval by the federal government [was] obtained,” MCL
+
+400.112g(5), in May 2011. Yet the Court curiously concluded that subsection (5)’s ban
+
+on preapproval “implementation” had been violated because DHHS, in accordance with
+
+federal authorization, “sought to give practical effect to [i.e., implemented] its recovery
+
+plan by making it ‘effective’ July 1, 2010.” Gorney, 314 Mich App at 297. In other
+
+words, the Court of Appeals concluded, MMERP was both not implemented until July 1,
+
+2011, and implemented on July 1, 2010. On the present record we have no trouble
+
+concluding that DHHS did not “implement” MMERP before getting federal approval of
+
+the amendments in May 2011. The record reflects that, until then, DHHS’s MMERP-
+
+related conduct was limited to “seek[ing] appropriate changes to the Michigan medicaid
+
+state plan and . . . apply[ing] for any necessary waivers and approvals from the federal
+
+[CMS] to implement [MMERP] . . . .” MCL 400.112g(3) (emphasis added). 13
+
+      We emphasize that in seeking to recover the amount disbursed back to the July 1,
+
+2010 effective date, DHHS complied with both the federal effective date and the state
+
+
+13
+   In finding a statutory violation in DHHS’s recovery efforts, it seems the Court of
+Appeals may have believed that, by limiting when DHHS could “implement” MMERP,
+MCL 400.112g(5) also limited the extent to which DHHS could seek recovery under that
+program; that is, DHHS could not seek to recover the amounts disbursed before the
+program received federal approval because to do so would be to “implement” the
+program too early. As discussed above, however, when the Legislature enacted MCL
+400.112k, it made clear that individuals who “began receiving medicaid long-term care
+services” after September 30, 2007, could be subject to estate recovery for those services.
+We do not read subsection (5) to have imposed a separate limitation on the extent of the
+recovery otherwise authorized under the MMERP Act; it simply required that DHHS not
+seek to carry out that recovery before federal approval had been received.
+
+
+
+                                            19
+implementation date.     As noted above, the MMERP Act required DHHS to “seek
+
+appropriate changes to the Michigan medicaid state plan . . . .” MCL 400.112g(3). That
+
+plan “is a comprehensive written statement . . . describing the nature and scope of”
+
+Michigan’s Medicaid program, 42 CFR 430.10, and setting forth the “policies in effect
+
+under” that program. 14 An amendment to a state plan must be submitted to the federal
+
+government for approval, see 42 CFR 430.12(c)(2), and federal law contemplates that an
+
+amendment’s effective date may predate its submission date (and a fortiori its approval
+
+date), see 42 CFR 430.12; see also note 4 above. The MMERP Act says nothing about
+
+the effective date of the MMERP-related amendments to the state plan, but it does bar
+
+DHHS from implementing MMERP before federal approval. See MCL 400.112g(5).
+
+Because an effective date may predate approval and because implementation must be
+
+contemporaneous with or postdate approval, it follows that the MMERP-related state-
+
+plan amendments could lawfully be given effect as of a date before implementation.
+
+Indeed, the record here leaves no doubt that the federal government gave the state-plan
+
+amendments an effective date of July 1, 2010, and that DHHS implemented MMERP no
+
+earlier than May 2011. So DHHS did not violate the MMERP Act when in July 2011 it
+
+implemented the program by seeking to recover from the estates those amounts disbursed
+
+after July 2010.
+
+       For the reasons above, we conclude that DHHS was not barred by statute from
+
+pursuing estate recovery in these cases.
+
+14
+   Michigan Medicaid State Plan, p 1, available at <http://www.mdch.state.mi.us/dch-
+medicaid/manuals/michiganstateplan/michiganstateplan.pdf> (accessed June 26, 2017)
+[https://perma.cc/P3VG-SA3B].
+
+
+
+                                           20
+                                   B. DUE PROCESS
+
+        The Court of Appeals held that DHHS could recover against the estates for
+
+benefits paid after MMERP’s July 1, 2011 implementation date but that DHHS’s efforts
+
+to recover “retroactively” to July 1, 2010, violated the estates’ due-process rights. 15
+
+DHHS challenges the Court of Appeals’ constitutional determination as to that one-year
+
+period. Ms. Rasmer’s estate 16 argues that the Court of Appeals’ holding did not go far
+
+enough. It contends that DHHS cannot recover against the estate at all because Ms.
+
+Rasmer was not given constitutionally timely and sufficient notice of MMERP and
+
+because MMERP was “retroactively” applied to her. We address these arguments in
+
+turn.
+
+                  1. DEPRIVATION OF A PROTECTED INTEREST
+
+        Both the state and federal constitutions protect persons from deprivations by the
+
+government of “life, liberty or property, without due process of law.” 17 Const 1963, art
+
+
+
+15
+    As discussed above, we think this argument is better characterized as alleging
+statutory, rather than constitutional, shortcomings.
+16
+   The estates of Ms. Gorney, Mr. French, and Ms. Ketchum purport to challenge in this
+Court the Court of Appeals’ determination that DHHS could recover for benefits paid
+after July 1, 2011. We note that none of those estates applied for leave to appeal that
+decision in this Court. Their due-process challenges to recovery after this period are,
+therefore, waived. See MCR 7.305(C)(2) (governing timeliness of applications for leave
+to appeal in this Court). We note, however, that their arguments mirror those of Ms.
+Rasmer’s estate, which we consider and ultimately reject.
+17
+  Although Michigan’s due-process clause “may, in particular circumstances, afford
+protections greater than or distinct from” its federal counterpart, the estates have not
+urged separate interpretations, “so we will not seek to determine otherwise.” AFT Mich v
+Michigan, 497 Mich 197, 245; 866 NW2d 782 (2015).
+
+
+
+                                           21
+1, § 17; accord US Const, Am XIV, § 1. A threshold inquiry thus is “whether the interest
+
+allegedly infringed by the challenged government action . . . comes within the definition
+
+of ‘life, liberty or property.’ ” Bonner v Brighton, 495 Mich 209, 225; 848 NW2d 380
+
+(2014). Consistent with traditional notions of property ownership, we have recognized a
+
+“right to dispose of . . . property.” Olson v Rasmussen, 304 Mich 639, 650; 8 NW2d 668
+
+(1943). And the United States Supreme Court has determined that statutory entitlements
+
+to benefits, such as those offered by the Medicaid program, also “are appropriately
+
+treated as a form of ‘property’ protected by the Due Process Clause.” Atkins v Parker,
+
+472 US 115, 128; 105 S Ct 2520; 86 L Ed 2d 81 (1985).
+
+      The estates do not contend, however, that their decedents were improperly
+
+deprived of Medicaid benefits. Instead, they argue that the decedents were deprived of
+
+the right to plan during their lifetimes for the disposition of their property after death
+
+because they lacked notice that their estates would be encumbered by DHHS’s creditor
+
+claim. We need not decide today whether the right articulated by the estates is an interest
+
+protected by the Constitution because, as we explain below, even if a due-process right is
+
+at stake, no due-process violation has been committed.
+
+                       2. TIMELY AND SUFFICIENT NOTICE
+
+       The Rasmer estate argues that DHHS violated Ms. Rasmer’s due-process rights by
+
+failing to give her “timely and sufficient” notice of MMERP and its consequences.
+
+Echoing the statutory arguments we rejected above, the estate argues that for notice of
+
+MMERP to have been constitutionally timely, DHHS would have needed to provide that
+
+notice when Ms. Rasmer first enrolled in the Medicaid program in 2009. Alternatively,
+
+
+
+
+                                            22
+the estate argues that, at a minimum, DHHS was constitutionally required to provide such
+
+notice before it could pursue estate recovery. These claims fail, however, because the
+
+estate cannot demonstrate any harm to the alleged interest, namely, Ms. Rasmer’s right
+
+“to engage in lawful planning to avoid probate administration.”
+
+       The recovery program limits its reach to “property and other assets included
+
+within an individual’s estate that is subject to probate administration . . . .”       MCL
+
+400.112h(a). Thus, avoiding probate will also avoid the recovery program. But the
+
+estate gives no indication of how additional notice from DHHS would have changed Ms.
+
+Rasmer’s approach to disposing of her property upon her death. Although the estate’s
+
+brief identifies means to avoid probate-trusts, Lady Bird deeds, 18 and the like-it does
+
+not argue that or how Ms. Rasmer would have employed any of those means if she had
+
+received earlier written notice of MMERP. Nor does it explain how she was prevented
+
+from pursuing those estate-planning measures given the notice she received. Tellingly,
+
+the estate offers no suggestion that Ms. Rasmer sought to protect her estate from probate
+
+even after she acknowledged, through her personal representative, in September 2013, the
+
+existence of MMERP and the possibility of recovery against her estate.
+
+       The estate’s failure to demonstrate harm to the alleged interest also defeats its
+
+constitutional challenge to the notice’s sufficiency. But this insufficient-notice argument
+
+
+18
+  See Black’s Law Dictionary (10th ed), p 503 (“[A Lady Bird deed is a] deed that allows
+a property owner to transfer ownership of the property to another while retaining the right
+to hold and occupy the property and use it as if the transferor were still the sole owner.
+This type of deed is used in a few states as an estate-planning tool to avoid probate.”); see
+also Bill & Dena Brown Trust v Garcia, 312 Mich App 684, 687 n 2; 880 NW2d 269
+(2015) (describing a Lady Bird deed).
+
+
+
+                                             23
+fails for another reason as well.    The estate argues that to provide constitutionally
+
+adequate notice, DHHS would need to “provide an individual with written materials
+
+clearly describing the provisions of [MMERP] and what actions may be taken against the
+
+estate at the time the individual applies for enrollment in [MMERP].” In other words, the
+
+estate contends that Ms. Rasmer was entitled to individualized notice of a burdensome
+
+legislative program. But we presume that the citizenry “know[s] the law,” Mudge v
+
+Macomb Co, 458 Mich 87, 109 n 22; 580 NW2d 845 (1998), as long as the Legislature
+
+has “enact[ed] and publish[ed] the law, and afford[ed] the citizenry a reasonable
+
+opportunity to familiarize itself with its terms,” Texaco, Inc v Short, 454 US 516, 532;
+
+102 S Ct 781; 70 L Ed 2d 738 (1982); accord Kentwood v Sommerdyke Estate, 458 Mich
+
+642, 664; 581 NW2d 670 (1998), citing Texaco, 454 US at 530. This is true even when
+
+the government makes changes in the law affecting property rights. See Texaco, 454 US
+
+at 536. And “participants in [a benefits] program [have] no greater right to advance
+
+notice of [a] legislative change . . . than [do] any other voters.” Atkins, 472 US at 130.
+
+The estate points to no defect in the enactment or publication of the MMERP Act; and
+
+while it does argue that Ms. Rasmer lacked a reasonable opportunity to understand that
+
+enrollment in the Medicaid program would subject her estate to recovery, as we explain
+
+below, this argument misunderstands the Supreme Court’s due-process jurisprudence.
+
+      Relying on Mullane v Central Hanover Bank & Trust Co, 339 US 306; 70 S Ct
+
+652; 94 L Ed 865 (1950), and mirroring its statutory argument rejected above, the estate
+
+argues that neither the notice provided by the MMERP Act itself nor the “general and
+
+vague” individualized notice provided in the redetermination application was
+
+“ ‘reasonably calculated’ to apprise a Medicaid applicant of the financial consequences of
+
+
+                                           24
+the estate recovery program.” But the Supreme Court has made clear that the “due
+
+process standards of Mullane apply to an ‘adjudication’ that is ‘to be accorded finality.’ ”
+
+Texaco, 454 US at 535, quoting Mullane, 339 US at 314. Here, that adjudication came in
+
+the form of the probate proceedings below, 19 and the estate does not allege that it lacked
+
+notice or an opportunity to be heard there. Nor could it have done so since the record
+
+reflects the estate’s appearance in the matter and successful prosecution of a motion for
+
+summary disposition. The estate also appeared and defended itself before the Court of
+
+Appeals and was granted leave in and appeared before this Court. The estate charges
+
+DHHS with taking “legally unconstrained collection efforts,” but it does not explain how,
+
+if at all, those efforts overcame the procedural safeguards present in these judicial
+
+proceedings, which indisputably complied with Mullane. 20 We, therefore, have little
+
+trouble concluding that the estate’s opportunity to challenge DHHS’s recovery efforts in
+
+our state’s judicial system, before any estate recovery took place, met this aspect of due
+
+process. 21
+
+19
+  In MCL 400.112g(3)(d), the Legislature directed DHHS to seek federal approval of the
+“actions [that] may be taken to obtain funds from the estates of recipients subject to
+recovery . . . , including notice and hearing procedures that may be pursued to contest
+actions taken under [MMERP].” DHHS sought and obtained approval to pursue
+collection through the probate courts. See Letter from CMS to DCH at 12-14.
+20
+   We recognize that the gist of the estate’s Mullane argument is that Ms. Rasmer was
+deprived of notice that would have enabled her to avoid the probate proceedings in the
+first instance-and that being subject to such proceedings is not the “process” to which
+the estate believes it was entitled. But as explained below, insofar as Ms. Rasmer was
+entitled to notice sufficient to allow her to protect her estate from probate, we conclude
+that state and federal law provided that notice.
+21
+  Cf. United States v James Daniel Good Real Prop, 510 US 43, 53; 114 S Ct 492; 126 L
+Ed 2d 490 (1993) (“The right to prior notice and a hearing is central to the Constitution’s
+
+
+                                            25
+       That leaves the estate with the argument that specific and individualized notice
+
+was constitutionally required to apprise Ms. Rasmer of the law. The Supreme Court has
+
+rejected that notion: “it has never been suggested that each citizen must in some way be
+
+given specific notice of the impact of a new statute on his property before that law may
+
+affect his property rights.” Texaco, 454 US at 536. Rather, as stated above, “a legislature
+
+need do nothing more than enact and publish the law, and afford the citizenry a
+
+reasonable opportunity to familiarize itself with its terms and to comply.” Id. at 532. In
+
+1993, Congress required states participating in Medicaid to “seek adjustment or recovery
+
+of any medical assistance correctly paid on behalf of an individual under the State plan,”
+
+42 USC 1396p(b)(1); see also note 2 above, with recovery to take place “from the
+
+individual’s estate,” 42 USC 1396p(b)(1)(A), (B), and (C).        The MMERP Act was
+
+enacted in 2007 and directed DHHS to “establish and operate [MMERP] to comply with”
+
+the federal statute. MCL 400.112g(1). To that end, the Act required DHHS to “seek
+
+appropriate changes to the Michigan medicaid state plan,” MCL 400.112g(3), the
+
+“comprehensive written statement . . . describing the nature and scope of” Michigan’s
+
+Medicaid program, 42 CFR 430.10. The MMERP Act expressly noted that its provisions
+
+would apply exclusively “to medical assistance recipients who began receiving medicaid
+
+long-term care services after” September 30, 2007, MCL 400.112k, and that the recovery
+
+
+command of due process.”); Zinermon v Burch, 494 US 113, 132; 110 S Ct 975; 108 L
+Ed 2d 100 (1990) (“In situations where the State feasibly can provide a predeprivation
+hearing before taking property, it generally must do so . . . .”); Mudge, 458 Mich at 99,
+quoting Zinermon, 494 US at 132. Although we conclude that the predeprivation
+procedures provided in our state courts met the requirements of due process, we should
+not be understood to have decided that due process required those procedures.
+
+
+
+                                            26
+program would be limited to property subject to probate, see MCL 400.112h(a). 22 Taken
+
+together, those statutes were sufficient to provide constitutionally adequate notice to
+
+Medicaid beneficiaries that their estates could be encumbered by MMERP.
+
+       We, therefore, conclude that due process did not require DHHS to provide Ms.
+
+Rasmer with individualized notice of MMERP either when she enrolled in Medicaid or as
+
+a condition precedent to recovering disbursed funds.
+
+                            3. RETROACTIVE RECOVERY
+
+       Ms. Rasmer’s estate also suggests that the MMERP Act constitutes retroactive
+
+legislation, but the estate provides little by way of argument that the MMERP Act is
+
+retroactive, i.e., that it “appl[ies] to events antedating its enactment.” Frank W Lynch &
+
+Co v Flex Technologies, Inc, 463 Mich 578, 585; 624 NW2d 180 (2001), quoting
+
+Landgraf v USI Film Prods, 511 US 244, 282; 114 S Ct 1483; 128 L Ed 2d 229 (1994).
+
+In any event, the MMERP Act appears plainly prospective. It was approved by the
+
+Governor on September 30, 2007, and given “immediate effect.” 2007 PA 74. Its effect
+
+was limited “to medical assistance recipients who began receiving medicaid long-term
+
+care services after the effective date [i.e., September 30, 2007] of the amendatory act that
+
+added this section [i.e., 2007 PA 74].” MCL 400.112k (emphasis added). The law on its
+
+
+
+22
+  Moreover, 2007 PA 73, approved by the Governor on the same day as the MMERP Act
+(2007 PA 74), amended MCL 700.3805(1)(f) to include certain debts, including “medical
+assistance payments that are subject to adjustment or recovery from an estate,” in the
+priority scheme for payment of claims against an estate. Public Act 73 thus further
+underscored that property and other assets in Ms. Rasmer’s estate would be subject to
+recovery under MMERP.
+
+
+
+                                            27
+face, therefore, applies only to events postdating its enactment. 23 For these reasons, we
+
+conclude that the MMERP Act is not retroactive legislation.
+
+      The estates urge, alternatively, that DHHS violated their due-process rights by
+
+enforcing MMERP “retroactively.” By this, they do not mean that DHHS attempted to
+
+apply MMERP to the estates of those who began receiving Medicaid benefits before the
+
+MMERP Act’s effective date. Instead, two different retroactivity theories are advanced.
+
+First is the theory embraced by the Court of Appeals, that DHHS violated due process
+
+when it implemented MMERP on July 1, 2011, and sought to recover amounts disbursed
+
+back to the federally authorized effective date, July 1, 2010. We rejected that theory
+
+above, noting parenthetically that it seems best understood to assert a statutory, rather
+
+than constitutional, violation. Second is the theory that DHHS violated due process by
+
+seeking to recover from estates the amount of those Medicaid benefits disbursed before
+
+the estates’ decedents were provided with individualized written information about
+
+MMERP’s provisions. As explained above, the estates received the notice to which they
+
+were entitled under due process, and the estates’ decedents were not constitutionally
+
+
+23
+   As the Supreme Court explained in Landgraf, a “statute does not operate
+‘retrospectively’ merely because it is applied in a case arising from conduct antedating
+the statute’s enactment or upsets expectations based in prior law.” 511 US at 269
+(citation omitted). The Court elaborated in a footnote: “Even uncontroversially
+prospective statutes may unsettle expectations and impose burdens on past conduct: a
+new property tax or zoning regulation may upset the reasonable expectations that
+prompted those affected to acquire property; a new law banning gambling harms the
+person who had begun to construct a casino before the law’s enactment or spent his life
+learning to count cards.” Id. at 269 n 24. Here, by contrast, the MMERP Act’s effective-
+date provision, MCL 400.112k, ensured that the law would take effect before any person
+to which it applied had received Medicaid benefits.
+
+
+
+                                           28
+entitled to “individualized notice of a burdensome legislative program.”             These
+
+“retroactivity” theories must also fail for the additional reason, elaborated above, that no
+
+estate has demonstrated any harm to its alleged interest. For these reasons, we conclude
+
+that due process does not bar DHHS’s recovery efforts in these cases. We thus reverse
+
+the Court of Appeals’ conclusion that DHHS could not recover for benefits paid from
+
+July 1, 2010, to July 1, 2011, and affirm its conclusion that due process does not
+
+otherwise bar estate recovery.
+
+                                 C. JUDICIAL REVIEW
+
+       Ms. Ketchum’s estate argued in the courts below that DHHS was forbidden to
+
+pursue recovery against it by MCL 400.112g(4), which states as follows:
+
+               [DHHS] shall not seek medicaid estate recovery if the costs of
+       recovery exceed the amount of recovery available or if the recovery is not
+       in the best economic interest of the state.
+
+DHHS argues here that subsection (4) provides no judicially enforceable barrier to estate
+
+recovery even “if the costs of recovery exceed the amount of recovery available or if the
+
+recovery is not in the best economic interest of the state.” Although Ms. Ketchum’s
+
+estate interposed subsection (4) as a defense to DHHS’s creditor claim, the probate court
+
+disposed of the claim on other grounds. The estate revived the defense in the Court of
+
+Appeals, as an alternative basis to affirm the probate court. Although the Court of
+
+Appeals noted “that the probate court did not consider this issue on the record and [that]
+
+the estate’s appellate argument is cursory,” Gorney, 314 Mich App at 293, that Court
+
+nonetheless waded in. But it had no need to reach this issue. Neither do we. We,
+
+
+
+
+                                            29
+therefore, vacate the Court of Appeals’ discussion of this issue so that the probate court
+
+on remand may, if appropriate, address it on a blank slate.
+
+                                   IV. CONCLUSION
+
+       As explained above, DHHS did not violate the statutory or constitutional rights of
+
+Ms. Rasmer, Ms. Gorney, Mr. French, Ms. Ketchum, or any of their estates. We thus
+
+affirm in part and reverse in part the Court of Appeals’ judgment and remand these cases
+
+to the probate courts for proceedings consistent with this opinion.
+
+
+                                                        Joan L. Larsen
+                                                        Stephen J. Markman
+                                                        Brian K. Zahra
+                                                        Bridget M. McCormack
+                                                        David F. Viviano
+                                                        Richard H. Bernstein
+                                                        Kurtis T. Wilder
+
+
+
+
+                                            30
+

@@ -1,0 +1,178 @@
+Source URL: https://www.legis.iowa.gov/docs/iac/rule/441.75.28.pdf
+Retrieved: 2026-09-23
+
+IAC                                                                                                Ch 75, p.1
+
+
+441-75.28(249A) Recovery.
+     75.28(1) Definitions. For the purposes of this rule, the following definitions apply:
+     “Administrative overpayment” means medical assistance incorrectly paid to or for the client because of
+continuing assistance during the appeal process or allowing a deduction for the Medicare Part B premium
+in determining client participation while the department arranges to pay the Medicare premium directly.
+     “Agency error” means medical assistance incorrectly paid to or for the client because of action
+attributed to the department as the result of one or more of the following circumstances:
+     1. Misfiling or loss of forms or documents.
+     2. Errors in typing or copying.
+     3. Computer input errors.
+     4. Mathematical errors.
+     5. Failure to determine eligibility correctly or to certify assistance in the correct amount when all
+essential information was available to the department.
+     6. Failure to make prompt revisions in medical payment following changes in policies requiring the
+changes as of a specific date.
+     “Client” means a current or former Medicaid member.
+     “Client error” means medical assistance incorrectly paid to or for the client because the client or
+client’s representative failed to disclose information or gave false or misleading statements, oral or written,
+regarding the client’s income, resources, or other eligibility and benefit factors. “Client error” also means
+assistance incorrectly paid to or for the client because of failure by the client or client’s representative to
+timely report as defined in rule 441-76.15(249A).
+     “Premiums paid for medical assistance” means monthly premiums assessed to a member or household
+for Medicaid or IHAWP coverage.
+     75.28(2) Amount subject to recovery. The department will recover from a client all Medicaid funds
+incorrectly expended to or on behalf of the client and all unpaid premiums assessed by the department for
+medical assistance. The incorrect expenditures or unpaid premiums may result from client or agency error
+or administrative overpayment.
+     75.28(3) Notification. All clients will be promptly notified when it is determined that assistance was
+incorrectly expended or when assessed premiums are unpaid.
+     a. Notification of incorrect expenditures will include:
+     (1) The person for whom assistance was paid;
+     (2) The period during which assistance was incorrectly paid;
+     (3) The amount of assistance subject to recovery; and
+     (4) The reason for the incorrect expenditure.
+     b. Notification of unpaid premiums will include:
+     (1) The amount of the premium; and
+     (2) The month covered by the medical assistance premium.
+     75.28(4) Source of recovery. Recovery will be made from the client or from parents of children under
+the age of 21 when the parents completed the application and had responsibility for reporting changes.
+Recovery may come from income, resources, the estate, income tax refunds, and lottery winnings of the
+client.
+     75.28(5) Repayment. The repayment of incorrectly expended Medicaid funds shall be made to the
+department. However, repayment of funds incorrectly paid to a nursing facility, a Medicare-certified skilled
+nursing facility, a psychiatric medical institution for children, an ICF-ID, or a mental health institute
+enrolled as an inpatient psychiatric facility may be made by the client to the facility. The department will
+then recover the funds from the facility through a vendor adjustment.
+     75.28(6) Appeals. The client shall have the right to appeal the amount of funds subject to recovery
+under the provisions of 441-Chapter 2506.
+     75.28(7) Estate recovery. Medical assistance, including the amount the state paid to a managed care
+organization (MCO) for provision of medical services, also called capitation fees, is subject to recovery
+from the estate of a Medicaid member, of the member’s surviving spouse, or of the member’s surviving
+child as provided in this subrule. Effective January 1, 2010, medical assistance that has been paid for
+Ch 75, p.2                                                                                                 IAC
+
+
+Medicare cost sharing or for benefits described in Section 1902(a)(10)(E) of the Act is not subject to
+recovery. All assets included in the estate of the member, the surviving spouse, or the surviving child are
+subject to probate for the purposes of medical assistance estate recovery pursuant to Iowa Code section
+249A.53(2)“d.” The classification of the debt is defined in Iowa Code section 633.425(7).
+    a. Definitions. In addition to the definitions in subrule 75.28(1), the following definitions apply:
+    “Capitated payment/rate” means a monthly payment to the contractor on behalf of each member for
+the provision of health services under the contract. Payment is made regardless of whether the member
+receives services during the month.
+    “Estate.” For the purpose of this subrule, the “estate” of a Medicaid member, a surviving spouse, or a
+surviving child shall include all real property, personal property, or any other asset in which the member,
+spouse, or surviving child had any legal title or interest at the time of death, or at the time a child reaches
+the age of 21, to the extent of that interest. An estate includes but is not limited to interest in jointly held
+property, retained life estates, and interests in trusts.
+    “Managed care organization” or “MCO” means an entity that:
+    1. Is under contract with the department to provide services to Medicaid recipients, and
+    2. Meets the definition of “health maintenance organization” in Iowa Code section 514B.1.
+    b. Debt due for member 55 years of age or older. Receipt of medical assistance when a member is
+55 years of age or older creates a debt due to the department from the member’s estate upon the member’s
+death for all medical assistance provided on the member’s behalf on or after July 1, 1994.
+    c. Debt due for member under the age of 55 in a medical institution.
+    (1) Receipt of medical assistance creates a debt due to the department from the member’s estate upon
+the member’s death for all medical assistance provided on the member’s behalf on or after July 1, 1994,
+when the member:
+    1. Is under the age of 55;
+    2. Is a resident of a nursing facility, an ICF-ID, or a mental health institute; and
+    3. Cannot reasonably be expected to be discharged and return home.
+    (2) If the member is discharged from the facility and returns home before staying six consecutive
+months, no debt will be assessed for medical assistance payments made on the member’s behalf for the
+time in the institution.
+    (3) If the member remains in the facility for six consecutive months or longer or dies before staying
+six consecutive months, the department will presume that the member cannot or could not reasonably be
+expected to be discharged and return home and a debt due will be established. The department will notify
+the member of the presumption and the establishment of a debt due.
+    d. Request for a determination of ability to return home. Upon receipt of a notice of the establishment
+of a debt due based on the presumption that the member cannot return home, the member or someone
+acting on the member’s behalf may request that the department determine whether the member can or could
+reasonably have been expected to return home.
+    (1) When a written request is made within 30 days of the notice that a debt due will be established,
+no debt due will be established until the department has made a decision on the member’s ability to return
+home. If the determination is that there is or was no ability to return home, a debt due will be established
+for all medical assistance as of the date of entry into the institution.
+    (2) When a written request is made more than 30 days after the notice that a debt due will be
+established, a debt due will be established for medical assistance provided before the request even if the
+determination is that the member can or could have returned home.
+    e. Determination of ability to return home. When the member or someone acting on the member’s
+behalf requests a determination, the department will determine if the member can or could have returned
+home.
+    (1) The department cannot make a determination until the member has been in an institution at least
+six months or after the death of the member, whichever is earlier. The department will notify the member or
+the member’s representative and the department of the determination.
+    (2) If the determination is that the member can or could return home, Iowa Medicaid will establish the
+date the return is expected or could have been expected to occur.
+IAC                                                                                               Ch 75, p.3
+
+
+    (3) If the determination is that the member cannot or could not return home, a debt due will be
+established unless the member or the member’s representative asks for a reconsideration of the decision.
+The department will notify the member or the member’s representative of the reconsideration decision.
+    (4) If the reconsideration decision is that the member cannot or could not return home, a debt due
+will be established against the member unless the decision is appealed pursuant to 441-Chapter 2506. The
+appeal decision will determine the final outcome for the establishment of a debt due and the period when
+the debt is established.
+    f. Debt collection.
+    (1) A nursing facility participating in the medical assistance program shall notify the department upon
+the death of a member residing in the facility by submitting a form prescribed by the department.
+    (2) Upon receipt of the form or a report of a member’s death through other means, the department will
+request a statement of the member’s assets from the member’s personal representative. The representative
+shall sign and return a form prescribed by the department indicating whether assets remain and, if so, what
+the assets are and what higher priority expenses exist.
+    Exception: The procedures in this subparagraph are not necessary when a probate estate has been
+opened because those procedures provide for an inventory, an accounting, and a final report of the estate.
+    g. Waiving the collection of debt.
+    (1) The department will waive the collection of the debt created under this subrule from the estate of
+the member to the extent that collection of the debt would result in either of the following:
+    1. Reduction in the amount received from the member’s estate by a surviving spouse or by a
+surviving child who is under the age of 21, blind, or permanently and totally disabled at the time of the
+member’s death.
+    2. Creation of an undue hardship for the person seeking a waiver of estate recovery. Undue hardship
+exists when total household income is less than 200 percent of the FPL for a household of the same
+size; total household resources do not exceed $10,000; and application of estate recovery would result in
+deprivation of food, clothing, shelter, or medical care such that life or health would be endangered. For this
+purpose, “income” and “resources” will be defined as being under FIP.
+    (2) To apply for a waiver of estate recovery due to undue hardship, the person shall provide a written
+statement and supporting verification to the department within 30 days of the notice of estate recovery
+pursuant to Iowa Code section 249A.53(2).
+    (3) The department will determine whether undue hardship exists on a case-by-case basis. Appeals
+of adverse decisions regarding an undue hardship determination may be filed in accordance with
+441-Chapter 2506.
+    h. Amount waived. If collection of all or part of a debt is waived pursuant to paragraph 75.28(7)“g,”
+to the extent that the person received the member’s estate, the amount waived will be a debt due from the
+following:
+    (1) The estate of the member’s surviving spouse, upon the death of the spouse.
+    (2) The estate of the member’s surviving child who is blind or has a disability, upon the death of the
+child.
+    (3) A surviving child who was under 21 years of age at the time of the member’s death, when the
+child reaches the age of 21.
+    (4) The estate of a surviving child who was under 21 years of age at the time of the member’s death, if
+the child dies before reaching the age of 21.
+    (5) The hardship waiver recipient, when the hardship no longer exists.
+    (6) The estate of the recipient of the undue hardship waiver, at the time of death of the hardship
+waiver recipient.
+    i. Impact of asset disregard on debt due. The estate of a member who is eligible for Medicaid under
+subrule 75.82(5) will not be subject to a claim for Medicaid paid on the member’s behalf up to the amount
+of the assets disregarded by asset disregard. Medicaid paid on behalf of the member before these conditions
+will be recovered from the estate, regardless of the member’s having purchased precertified or approved
+insurance.
+Ch 75, p.4                                                                                          IAC
+
+
+    j. Interest on debt. Interest will accrue on a debt due under this subrule in accordance with Iowa
+Code section 249A.53(2)“e.”
+    k. Reimbursement to a county. If a county reimburses the department for medical assistance provided
+under this subrule and the amount of medical assistance is subsequently repaid through a medical
+assistance income trust or a medical assistance special needs trust as defined in Iowa Code chapter 633C,
+the department will reimburse the county on a proportionate basis.
+[ARC 9763C, IAB 11/26/25, effective 1/1/26; Editorial change: IAC Supplement 6/10/26]
+

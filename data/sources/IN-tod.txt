@@ -1,0 +1,20 @@
+Source URLs: https://codes.findlaw.com/in/title-32-property/in-code-sect-32-17-14-11/ ; https://codes.findlaw.com/in/title-32-property/in-code-sect-32-17-14-29/
+Retrieved: 2026-09-23
+Note: WebFetch extraction, not verbatim (asked for exact text). FindLaw currency: "Current as of January 01, 2026". No history note shown.
+
+Indiana Code Sec. 32-17-14-11 (Transfer on death deeds), subsections (a) to (c):
+(a) "A transfer on death deed transfers the interest provided to the beneficiary if the transfer on death deed is: (1) executed by the owner or owner's legal representative; and (2) recorded with the recorder of deeds in the county in which the real property is situated before the death of the owner."
+(b) "A transfer on death deed is void if it is not recorded with the recorder of deeds in the county in which the real property is situated before the death of the owner."
+(c) "A transfer on death deed is not required to be supported by consideration or delivered to the grantee beneficiary."
+
+Indiana Code Sec. 32-17-14-29:
+"(a) This chapter does not limit the rights of an owner's creditors against beneficiaries and other transferees that may be available under any other applicable Indiana law.
+(b) The liability of a beneficiary for creditor claims and statutory allowances is determined under IC 32-17-13."
+
+Effective date of the Transfer on Death Property Act (IC 32-17-14): a web search summary (secondary) says in force since July 1, 2009; Justia hosts the chapter in its 2010 Indiana Code edition (https://law.justia.com/codes/indiana/2010/title32/ar17/ch14.html, not read: 403). Session law not read.
+
+Source URL: https://codes.findlaw.com/in/title-32-property/in-code-sect-32-17-14-2/
+Retrieved: 2026-09-23
+Note: WebFetch extraction, not verbatim.
+Indiana Code Sec. 32-17-14-1: "This chapter may be cited as the Transfer on Death Property Act."
+Indiana Code Sec. 32-17-14-2(a): "Except as provided elsewhere in this chapter, this chapter applies to a transfer on death security, transfer on death securities account, and pay on death account created before July 1, 2009, unless the application of this chapter would: (1) adversely affect a right given to an owner or beneficiary; ..." (f): provisions on per stirpes distributions "apply to a transfer on death or payable on death transfer created before July 1, 2009."

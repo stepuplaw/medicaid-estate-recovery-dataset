@@ -1,0 +1,33 @@
+Source URL: https://www.medicaid.gov/medicaid/spa/downloads/SC-25-0008.pdf
+Retrieved: 2026-09-23
+Note: WebFetch download (scripts get 403); text transcribed from the rendered PDF pages, not a verbatim machine extraction. SPA index page: https://www.medicaid.gov/medicaid-spa/2025-09-26/185211
+
+CMS approval letter, September 26, 2025: South Carolina Medicaid SPA TN 25-0008, "to address the undue hardship waiver requirements for Estate Recovery", approved September 26, 2025, effective August 1, 2025.
+Form CMS-179: page affected "Attachment 4.17-A, page 3" (supersedes Attachment 4.17-A, page 3); federal citation 42 CFR 433.36; submitted August 18, 2025.
+
+Attachment 4.17-A, Page 3 (Revision HCFA-PM-95-3 (MB) May 1995)
+STATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+State/Territory: South Carolina
+LIENS AND ADJUSTMENTS OR RECOVERIES
+
+4. An undue hardship waiver may be granted to an Immediate Family Member of the decedent. The individual requesting the waiver must be residing in the homestead prior to the recipient's death, the homestead must be their legal residence and without the homestead they would not have a place to live. Instructions for filing a hardship are enclosed in the claims packages. Below are a list of the different waivers and the documentation needed to grant the waiver.
+
+Decedent's Brother or Sister
+They must have an equity interest in the property with the decedent and have lived in the home for at least one year prior to the date the decedent went into the nursing home or began receiving community long-term care services.
+- an affidavit provided by the person for whom the waiver is to be granted, stating their relationship to the decedent, and that they are residing in the decedent's home.
+- a copy of the deed showing that the brother or sister owns a portion (equity interest) of the home, and
+- documentation to show the date that the decedent entered the nursing home or the date that the Community Long Term Care services began; and
+- documentation to show the date that the brother or sister began residing in the home (i.e., tax returns, benefits statement (received from Social Security), an affidavit from a neighbor)
+
+Decedent's Mother, Father, Sister, Brother, Son, Daughter, or Grandchild
+They must have lived in the home for at least two years before the decedent went into the nursing home or began receiving community long-term care services. If so, they must provide the following documents:
+- an affidavit provided by the person for whom the waiver is to be granted, and
+- documentation to show the date that the decedent entered the nursing home or the date that the Community Long Term Care services began.
+- benefits statement documentation to show the date that the family member began residing in the home (i.e., tax returns, a benefits statement (received from Social Security), an affidavit from a neighbor).
+
+Definitions:
+Immediate Family Member - mother, father, sister, brother, son, daughter, (son or daughter who is over the age of twenty one and who is not blind or disabled as defined in Section 1614 of the Social Security Act) or grandchild of the decedent.
+Residing - must have been actually living in the home for the last two consecutive years without interruption and it is your permanent address and you currently live in the home at the time you make your request for an undue hardship.
+Child - is the legal minor son or daughter of the Medicaid recipient who is under the age of 18 or under the age of 22 and a full time student
+
+TN No.: 25-0008  Supersedes TN No.: 06-009  Approval Date: 09/26/25  Effective Date: 08/01/25

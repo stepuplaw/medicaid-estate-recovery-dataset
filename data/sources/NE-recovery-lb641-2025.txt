@@ -1,0 +1,201 @@
+Source URL: http://web.archive.org/web/20260109104040id_/https://www.nebraskalegislature.gov/FloorDocs/109/PDF/Slip/LB641.pdf
+Retrieved: 2026-09-23
+
+LB641                                                                     LB641
+2025                                                                       2025
+
+
+                     LEGISLATIVE BILL 641
+                     Approved by the Governor May 20, 2025
+
+
+Introduced by Bostar, 29.
+
+
+A BILL FOR AN ACT relating to the medical assistance program; to amend section
+     68-919, Revised Statutes Cumulative Supplement, 2024; to change provisions
+     relating to medicaid estate recovery by the Department of Health and Human
+     Services; and to repeal the original section.
+Be it enacted by the people of the State of Nebraska,
+
+     Section 1. Section 68-919, Revised Statutes Cumulative Supplement, 2024,
+is amended to read:
+     68-919 (1) The recipient of medical assistance under the medical
+assistance program shall be indebted to the department for the total amount
+paid for medical assistance on behalf of the recipient if:
+     (a) The recipient was fifty-five years of age or older at the time the
+medical assistance was provided; or
+     (b) The recipient resided in a medical institution and, at the time of
+institutionalization or application for medical assistance, whichever is later,
+the department determines that the recipient could not have reasonably been
+expected to be discharged and resume living at home. For purposes of this
+section, medical institution means a nursing facility, an intermediate care
+facility for persons with developmental disabilities, an assisted living
+facility, or an inpatient hospital.
+     (2)(a) (2) The debt accruing under subsection (1) of this section arises
+during the life of the recipient but shall be held in abeyance until the death
+of the recipient. Any such debt to the department that exists when the
+recipient dies shall be recovered only after the death of the recipient's
+spouse, if any, and only after the recipient is not survived by a child who
+either is under twenty-one years of age or is blind or totally and permanently
+disabled as defined by the Supplemental Security Income criteria. In recovering
+such debt, the department shall not foreclose on a lien on the home of the
+recipient (i) (a) if a sibling of the recipient with an equity interest in the
+home has lawfully resided in the home for at least one year before the
+recipient's admission and has lived there continuously since the date of the
+recipient's admission or (ii) (b) while the home is the residence of an adult
+child who has lived in the recipient's home for at least two years immediately
+before the recipient was institutionalized, has lived there continuously since
+that time, and can establish to the satisfaction of the department that he or
+she provided care that delayed the recipient's admission. Such care may be
+reimbursed or unreimbursed.
+     (b) A written attestation by a physician stating that a sibling or an
+adult child of a recipient provided care that delayed the recipient's admission
+to a medical institution shall be sufficient documentation for the department
+to avoid foreclosure on the lien described in this subsection.
+     (3) The debt shall include the total amount of medical assistance provided
+when the recipient was fifty-five years of age or older or during a period of
+institutionalization as described in subsection (1) of this section and shall
+not include interest.
+     (4)(a) It is the intent of the Legislature that the debt specified in
+subsection (1) of this section be collected by the department before any
+portion of the estate of a recipient of medical assistance is enjoyed by or
+transferred to a person not specified in subsection (2) of this section as a
+result of the death of such recipient. The debt may be recovered from the
+estate of a recipient of medical assistance. The department shall undertake all
+reasonable and cost-effective measures to enforce recovery under the Medical
+Assistance Act. All persons specified in subsections (2) and (4) of this
+section shall cooperate with the department in the enforcement of recovery
+under the act.
+     (b) For purposes of this section:
+     (i) Estate of a recipient of medical assistance means any real estate,
+personal property, or other asset in which the recipient had any legal title or
+interest at or immediately preceding the time of the recipient's death, to the
+extent of such interests. In furtherance and not in limitation of the
+foregoing, the estate of a recipient of medical assistance also includes:
+     (A) Assets to be transferred to a beneficiary described in section 77-2004
+or 77-2005 in relation to the recipient through a revocable trust or other
+similar arrangement which has become irrevocable by reason of the recipient's
+death; and
+     (B) Notwithstanding anything to the contrary in subdivision (3) or (4) of
+section 68-923, assets conveyed or otherwise transferred to a survivor, an
+heir, an assignee, a beneficiary, or a devisee of the recipient of medical
+assistance through joint tenancy, tenancy in common, transfer on death deed,
+survivorship, conveyance of a remainder interest, retention of a life estate or
+of an estate for a period of time, living trust, or other arrangement by which
+value or possession is transferred to or realized by the beneficiary of the
+conveyance or transfer at or as a result of the recipient's death. Such other
+                                       -1-
+LB641                                                                     LB641
+2025                                                                       2025
+arrangements include insurance policies or annuities in which the recipient of
+medical assistance had at the time of death any incidents of ownership of the
+policy or annuity or the power to designate beneficiaries and any pension
+rights or completed retirement plans or accounts of the recipient. A completed
+retirement plan or account is one which because of the death of the recipient
+of medical assistance ceases to have elements of retirement relating to such
+recipient and under which one or more beneficiaries exist after such
+recipient's death; and
+     (ii) Notwithstanding anything to the contrary in subdivision (4)(b) of
+this section, estate of a recipient of medical assistance does not include:
+     (A) Insurance proceeds, any trust account subject to the Burial Pre-Need
+Sale Act, or any limited lines funeral insurance policy to the extent used to
+pay for funeral, burial, or cremation expenses of the recipient of medical
+assistance;
+     (B) Conveyances of real estate made prior to August 24, 2017, that are
+subject to the grantor's retention of a life estate or an estate for a period
+of time;
+     (C) Life estate interests in real estate after sixty months from the date
+of recording a deed with retention of a life estate by the recipient of medical
+assistance; and
+     (D) Any pension rights or completed retirement plans to the extent that
+such rights or plans are exempt from claims for reimbursement of medical
+assistance under federal law; and .
+     (E) Life estate interests in real estate after twelve months from the
+recording of a deed with retention of a life estate by the recipient of medical
+assistance if a relative resides solely and continuously with the recipient and
+establishes to the satisfaction of the department that the relative provided
+care that delayed the recipient's admission to a medical institution. A written
+attestation by a physician stating that the relative of the recipient provided
+care that delayed the recipient's admission to a medical institution shall be
+sufficient documentation to exclude the life estate interest from the
+recipient's estate under this subdivision.
+     (c) The department, upon application of the personal representative of an
+estate, any person or entity otherwise authorized under the Nebraska Probate
+Code to act on behalf of a decedent, any person or entity having an interest in
+assets of the decedent which are subject to this subsection, a successor
+trustee of a revocable trust or other similar arrangement which has become
+irrevocable by reason of the decedent's death, or any other person or entity
+holding assets of the decedent described in this subsection, shall timely
+certify to the applicant, that as of a designated date, whether medical
+assistance reimbursement is due or an application for medical assistance was
+pending that may result in medical assistance reimbursement due. An application
+for a certificate under this subdivision shall be provided to the department in
+a delivery manner and at an address designated by the department, which manner
+may include email. The department shall post the acceptable manner of delivery
+on its website. Any application that fails to conform with such manner is void.
+Notwithstanding the lack of an order by a court designating the applicant as a
+person or entity who may receive information protected by applicable privacy
+laws, the applicant shall have the authority of a personal representative for
+the limited purpose of seeking and obtaining from the department this
+certification. If, in response to a certification request, the department
+certifies that reimbursement for medical assistance is due, the department may
+release some or all of the property of a decedent from the provisions of this
+subsection.
+     (d) An action for recovery of the debt created under subsection (1) of
+this section may be brought by the department against the estate of a recipient
+of medical assistance as defined in subdivision (4)(b) of this section at any
+time before five years after the last of the following events:
+     (i) The death of the recipient of medical assistance;
+     (ii) The death of the recipient's spouse, if applicable;
+     (iii) The attainment of the age of twenty-one years by the youngest of the
+recipient's minor children, if applicable; or
+     (iv) A determination that any adult child of the recipient is no longer
+blind or totally and permanently disabled as defined by the Supplemental
+Security Income criteria, if applicable.
+     (5) In any probate proceedings in which the department has filed a claim
+under this section, no additional evidence of foundation shall be required for
+the admission of the department's payment record supporting its claim if the
+payment record bears the seal of the department, is certified as a true copy,
+and bears the signature of an authorized representative of the department.
+     (6) The department may waive or compromise its claim, in whole or in part,
+if the department determines that enforcement of the claim would not be in the
+best interests of the state or would result in undue hardship as provided in
+rules and regulations of the department.
+     (7)(a) Whenever the department has provided medical assistance because of
+sickness or injury to any person resulting from a third party's wrongful act or
+negligence and the person has recovered damages from such third party, the
+department shall have the right to recover the medical assistance it paid from
+any amounts that the person has received as follows:
+     (i) In those cases in which the person is fully compensated by the
+recovery, the department shall be fully reimbursed subject to its contribution
+to attorney's fees and costs as provided in subdivision (b) of this subsection;
+or
+                                      -2-
+LB641                                                                     LB641
+2025                                                                       2025
+     (ii) In those cases in which the person is not fully compensated by the
+recovery, the department shall be reimbursed that portion of the recovery that
+represents the same proportionate reduction of medical expenses paid that the
+recovery amount bears to full compensation of the person subject to its
+contributions to attorney's fees and costs as provided in subdivision (b) of
+this subsection.
+     (b) When an action or claim is brought by the person and the person incurs
+or will incur a personal liability to pay attorney's fees and costs of
+litigation or costs incurred in pursuit of a claim, the department's claim for
+reimbursement of the medical assistance provided to the person shall be reduced
+by an amount that represents the department's reasonable pro rata share of
+attorney's fees and costs of litigation or the costs incurred in pursuit of a
+claim.
+     (8) The department may adopt and promulgate rules and regulations to carry
+out this section.
+     (9) The changes made to this section by Laws 2019, LB593, shall apply
+retroactively to August 30, 2015.
+     Sec. 2. Original section 68-919, Revised Statutes Cumulative Supplement,
+2024, is repealed.
+
+
+
+
+                                      -3-
+

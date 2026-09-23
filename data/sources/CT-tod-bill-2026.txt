@@ -1,0 +1,415 @@
+Source URL: https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&which_year=2026&bill_num=5266
+Retrieved: 2026-09-23
+Note: fetched with curl, converted with tools/fetch.py to_text
+
+C G A - Connecticut General Assembly 
+
+ or --> 
+
+ Connecticut General Assembly 
+ State Capitol | Hartford, Connecticut 06106-1562 
+
+ Quick Bill Search 
+
+ Employment 
+
+ Search Index 
+
+ Search Index 
+
+ Glossary 
+
+ Representation ▼ 
+
+ Find Your Legislators 
+
+ Congressional Representation 
+
+ House 
+
+ House Members List 
+
+ House Democratic Caucus 
+
+ House Republican Caucus 
+
+ House Clerk 
+
+ Senate 
+
+ Senate Members List 
+
+ Senate Democratic Caucus 
+
+ Senate Republican Caucus 
+
+ Senate Clerk 
+
+ Committees ▼ 
+
+ A - E
+
+ Aging 
+
+ Appropriations 
+
+ Banking 
+
+ Children 
+
+ Commerce 
+
+ Education 
+
+ Energy and Technology 
+
+ Environment 
+
+ Executive and Legislative Nominations 
+
+ F - J
+
+ Finance, Revenue and Bonding 
+
+ General Law 
+
+ Government Administration and Elections 
+
+ Government Oversight 
+
+ Higher Education and Employment 
+
+ Housing 
+
+ Human Services 
+
+ Insurance and Real Estate 
+
+ Internship 
+
+ Judiciary 
+
+ L - V
+
+ Labor and Public Employees 
+
+ Legislative Management 
+
+ Planning and Development 
+
+ Public Health 
+
+ Public Safety and Security 
+
+ Reapportionment Commission 
+
+ Regulation Review 
+
+ Transportation 
+
+ Veterans' and Military Affairs 
+
+ Offices ▼ 
+
+ Fiscal Analysis 
+
+ Information Technology Services 
+
+ Legislative Commissioners 
+
+ Legislative Internship Program 
+
+ Legislative Library 
+
+ Legislative Management 
+
+ Legislative Research 
+
+ State Capitol Police 
+
+ Commissions ▼ 
+
+ Commission on Racial Equity in Public Health 
+
+ Commission on Women, Children, Seniors, Equity & Opportunity 
+
+ Commission On Uniform Legislation 
+
+ Session Items ▼ 
+
+ General
+
+ Bill Box Application (pdf) 
+
+ Bulletins 
+
+ Legislation Effective Dates 
+
+ Legislative Info Download 
+
+ Leadership and Reference 
+
+ Major Issues 
+
+ Session Rules 
+
+ Session Schedule 
+
+ Committee
+
+ Assignments 
+
+ Deadlines 
+
+ Archived Committees 
+
+ House
+
+ Calendars 
+
+ Journals 
+
+ List of Bills 
+
+ Transcripts 
+
+ Go Lists 
+
+ Senate
+
+ Calendars 
+
+ Journals 
+
+ List of Bills 
+
+ Transcripts 
+
+ Session
+
+ Fiscal Note Compilation 
+
+ Major Public Acts 
+
+ Statutes ▼ 
+
+ Indexes / Reference Tables
+
+ Statute Index 
+
+ Supplement Index 
+
+ Reference Tables 
+
+ Browse / Search
+
+ Browse Statutes 
+
+ Browse 2026 Supplement 
+
+ Search Statutes 
+
+ Constitutions / Historical References 
+
+ About CT Statutes 
+
+ Bill Info ▼ 
+
+ Find
+
+ Bill Information Search 
+
+ Quick Bill Search (by number) 
+
+ Bills by Subject 
+
+ Bill Tracking 
+
+ List
+
+ File Copies 
+
+ Public and Special Acts 
+
+ Search
+
+ Advanced Bill and Document Search 
+
+ Basic Bill and Document Search 
+
+ Associated ▼ 
+
+ Public Health Emergency Committee 
+
+ 2021 Redistricting Project 
+
+ Connecticut State Library 
+
+ Capitol Child Development Center 
+
+ State Capitol Preservation 
+
+ State Regulations 
+
+ Connecticut Network (CT-N) 
+
+ Connecticut's Old State House 
+
+ Connecticut Hall of Fame 
+
+ State Auditors ► 
+
+ Accessibility ▼ 
+
+ Planning Your Visit 
+
+ Request Assistance 
+
+ Improvement Projects 
+
+ Mobile Web Apps ▼ 
+
+ CGA Mobile Web Apps 
+
+ Bill Quick Search 
+
+ Find Your Legislator 
+
+ Schedule of Events 
+
+ Statute Search 
+
+ C G A 
+
+ Bill Status
+
+ Raised H.B. No. 5266 
+Session Year 2026
+
+ AN ACT ADOPTING THE UNIFORM REAL PROPERTY TRANSFER ON DEATH ACT.
+
+ To adopt the Uniform Real Property Transfer on Death Act.
+
+ Introduced by: 
+
+ Judiciary Committee 
+
+   New today 
+   2-4 days old 
+   5 days & older 
+
+     Text of Bill 
+
+   Raised Bill [doc] 
+
+                 Add to My Bills 
+
+   View or Add Notes to HB-5266 
+
+ Add Notes to HB-5266
+
+ Save 
+ Delete 
+ Clear 
+
+ Go To My Bills
+
+ This bill is in My Bills.
+
+ Do you wish to go to My Bills?
+
+ OK 
+ Close 
+
+ *NOTE: Add to My Bills and Add Notes are cookie-based functions. If device cookies are cleaned, this information will be lost.
+
+ *NOTE: Add to My Bills and Add Notes are cookie-based functions. Browser must accept cookies from cga.ct.gov to function. If browser cookies are cleaned, bills will be lost.
+
+ --> 
+
+        Bills Similar to HB-5266   
+
+ Public Hearing Testimony   
+
+ Co-sponsors for Amendment LCO: 
+
+ Bill History
+
+   Date   Action Taken 
+
+   2/23/2026 Public Hearing 02/27 
+
+   2/19/2026 Referred to Joint Committee on Judiciary 
+
+ NOTE: Please direct all inquiries regarding the status of bills to the Office of the House Clerk and/or 
+ Senate Clerks' Office .
+
+ Connecticut General Assembly
+
+ State Capitol | Hartford, CT 06106
+
+ State Capitol | 210 Capitol Avenue | Hartford, CT 06106 
+
+ (860)-240-0100 
+
+ Legislative Office Building | 300 Capitol Avenue | Hartford, CT 06106 
+
+ House Members List 
+
+ Senate Members List 
+
+ Find Your Legislators 
+
+ Employment 
+
+ State Capitol Tours 
+
+ State Capitol Police 
+
+ Directions to the Capitol 
+
+ © Connecticut General Assembly 
+
+ Site Map 
+
+ Disclaimer 
+
+ Privacy Policy 
+
+ Links 
+
+ Webmaster 
+
+ We are processing your request. Please be patient.
+
+--> 
+
+ Bill Search 
+
+ Quick Bill Search 
+
+ Add to home screen 
+
+ × 
+
+ Bill type 
+
+ Bill 
+ House Cal 
+ Senate Cal 
+ File Copy 
+ LCO 
+ Public Act 
+ Special Act 
+ Resolution Act 
+
+ Year 
+
+ 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002 2001 2000 1999 1998 1997 1996 1995 1994 1993 1992 1991 
+
+ No. 
+ Bill number 
+
+ Bill number 
+
+ Go

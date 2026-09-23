@@ -1,0 +1,208 @@
+{
+  "title": "Medicaid Estate Recovery and Home Deeds, 2026",
+  "subtitle": "Whether the state can reach the house after a Medicaid recipient dies",
+  "id": "stepuplaw/medicaid-estate-recovery-2026",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "law",
+    "government",
+    "health",
+    "united states",
+    "finance"
+  ],
+  "description": "For each of the 50 US states and the District of Columbia, this dataset records how far Medicaid estate recovery reaches, and whether recovery can reach a house that passes at the recipient's death by a traditional life estate, a lady bird deed (an enhanced life estate deed), a transfer on death deed, joint tenancy or a revocable living trust. It also records which states have a transfer on death deed statute, with the effective date, and which states recognize the lady bird deed and on what authority.\n\nTwenty seven jurisdictions limit recovery to the probate estate, 21 states reach property outside probate, and 3 reach some non-probate property but not all. Probate-only does not mean safe. In 13 probate-only jurisdictions a house in a revocable living trust is still reachable through the state's trust code.\n\nEvery classification cites the statute, regulation, Medicaid manual or State Plan text it rests on. All rows were verified on September 23, 2026. Column definitions and allowed values are in schema.json.\n\nCanonical page and citation: https://stepuplaw.com/data/medicaid-estate-recovery/\nSource repository with the saved text of every source: https://github.com/stepuplaw/medicaid-estate-recovery-dataset\nAuthor: Kevin D. Klagge, Klagge Law, PLLC, ORCID https://orcid.org/0009-0002-1385-8498\n\nThis is reference data, not legal advice. Read the cited source before relying on any cell.",
+  "resources": [
+    {
+      "path": "states.csv",
+      "description": "One row per jurisdiction, 51 rows",
+      "schema": {
+        "fields": [
+          {
+            "name": "code",
+            "description": "Two-letter postal code",
+            "type": "string"
+          },
+          {
+            "name": "name",
+            "description": "State or District name",
+            "type": "string"
+          },
+          {
+            "name": "recovery_scope",
+            "description": "How far Medicaid estate recovery reaches. probate_only means the probate estate only; expanded means the state adopted the optional expanded estate of 42 U.S.C. 1396p(b)(4)(B); expanded_partial means some non-probate assets but not all",
+            "type": "string"
+          },
+          {
+            "name": "recovery_scope_note",
+            "description": "How the scope was determined, plus liens, recovery from a surviving spouse's estate and service limits",
+            "type": "string"
+          },
+          {
+            "name": "recovery_statute",
+            "description": "Governing statute or rule citation",
+            "type": "string"
+          },
+          {
+            "name": "recovery_statute_url",
+            "description": "Official URL of the governing statute or rule",
+            "type": "string"
+          },
+          {
+            "name": "state_plan_4_17_a_url",
+            "description": "Medicaid State Plan Attachment 4.17-A or the agency manual section on estate recovery, where found; blank if not found",
+            "type": "string"
+          },
+          {
+            "name": "life_estate",
+            "description": "Whether Medicaid estate recovery can reach a house passing at the recipient's death by a traditional life estate. n/a means the method is not recognized in the state",
+            "type": "string"
+          },
+          {
+            "name": "life_estate_note",
+            "description": "Plain-English reason for the life_estate classification",
+            "type": "string"
+          },
+          {
+            "name": "life_estate_cite",
+            "description": "Section relied on for the life_estate classification",
+            "type": "string"
+          },
+          {
+            "name": "lady_bird_deed",
+            "description": "Whether Medicaid estate recovery can reach a house passing at the recipient's death by a lady bird (enhanced life estate) deed. n/a means the method is not recognized in the state",
+            "type": "string"
+          },
+          {
+            "name": "lady_bird_deed_note",
+            "description": "Plain-English reason for the lady_bird_deed classification",
+            "type": "string"
+          },
+          {
+            "name": "lady_bird_deed_cite",
+            "description": "Section relied on for the lady_bird_deed classification",
+            "type": "string"
+          },
+          {
+            "name": "tod_deed",
+            "description": "Whether Medicaid estate recovery can reach a house passing at the recipient's death by a transfer on death deed. n/a means the method is not recognized in the state",
+            "type": "string"
+          },
+          {
+            "name": "tod_deed_note",
+            "description": "Plain-English reason for the tod_deed classification",
+            "type": "string"
+          },
+          {
+            "name": "tod_deed_cite",
+            "description": "Section relied on for the tod_deed classification",
+            "type": "string"
+          },
+          {
+            "name": "joint_tenancy",
+            "description": "Whether Medicaid estate recovery can reach a house passing at the recipient's death by joint tenancy with right of survivorship. n/a means the method is not recognized in the state",
+            "type": "string"
+          },
+          {
+            "name": "joint_tenancy_note",
+            "description": "Plain-English reason for the joint_tenancy classification",
+            "type": "string"
+          },
+          {
+            "name": "joint_tenancy_cite",
+            "description": "Section relied on for the joint_tenancy classification",
+            "type": "string"
+          },
+          {
+            "name": "revocable_trust",
+            "description": "Whether Medicaid estate recovery can reach a house passing at the recipient's death by a revocable living trust. n/a means the method is not recognized in the state",
+            "type": "string"
+          },
+          {
+            "name": "revocable_trust_note",
+            "description": "Plain-English reason for the revocable_trust classification",
+            "type": "string"
+          },
+          {
+            "name": "revocable_trust_cite",
+            "description": "Section relied on for the revocable_trust classification",
+            "type": "string"
+          },
+          {
+            "name": "tod_deed_recognized",
+            "description": "yes if the state has a statutory transfer on death or beneficiary deed for real property (Maryland counted, effective 2026-10-01)",
+            "type": "string"
+          },
+          {
+            "name": "tod_deed_statute",
+            "description": "Transfer on death deed statute",
+            "type": "string"
+          },
+          {
+            "name": "tod_deed_effective",
+            "description": "Date the transfer on death deed act took effect (YYYY-MM-DD, or a year where only the year is established)",
+            "type": "string"
+          },
+          {
+            "name": "tod_deed_uniform_act",
+            "description": "yes if based on the Uniform Real Property Transfer on Death Act",
+            "type": "string"
+          },
+          {
+            "name": "lady_bird_deed_recognized",
+            "description": "yes only where a statute, reported case or state Medicaid rule recognizes a life estate deed with a retained power to sell without the remainder beneficiaries' consent",
+            "type": "string"
+          },
+          {
+            "name": "lady_bird_authority_type",
+            "description": "Kind of authority recognizing the lady bird deed",
+            "type": "string"
+          },
+          {
+            "name": "lady_bird_authority",
+            "description": "Citation for the lady bird deed authority, or what was searched",
+            "type": "string"
+          },
+          {
+            "name": "hardship_waiver_home",
+            "description": "State hardship or deferral rules tied to the home, with citation",
+            "type": "string"
+          },
+          {
+            "name": "recovery_exemptions_note",
+            "description": "State additions beyond the federal floor of 42 U.S.C. 1396p(b)(2)",
+            "type": "string"
+          },
+          {
+            "name": "karp_2005_scope",
+            "description": "Classification in Karp, Sabatino and Wood, AARP Public Policy Institute (2005)",
+            "type": "string"
+          },
+          {
+            "name": "last_verified",
+            "description": "Date the row was checked",
+            "type": "datetime"
+          },
+          {
+            "name": "sources",
+            "description": "Semicolon-separated list of URLs actually read",
+            "type": "string"
+          },
+          {
+            "name": "confidence",
+            "description": "high means the operative text was read on an official government site; medium means a mirror, agency manual or State Plan; low means secondary sources only",
+            "type": "string"
+          },
+          {
+            "name": "flags",
+            "description": "Uncertainties, conflicts between statute and manual, recent amendments, and what could not be read",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}

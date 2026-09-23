@@ -1,0 +1,133 @@
+Source URL: https://law.onecle.com/arkansas/title-18/18-12-608.html
+Retrieved: 2026-09-23
+Note: fetched with curl (browser headers) because the Python fetcher got 403 or a TLS error
+
+Arkansas Code § 18-12-608 - Beneficiary Deeds -- Terms -- Recording Required - Legal Research 
+
+ one cle 
+
+ Home 
+
+ Business Contracts 
+
+ Laws 
+
+ Incorporation 
+
+ Lawyer Directory 
+
+ Home 
+
+ Federal and State Laws 
+
+ Arkansas Code 
+ Title 18 - Property 
+ Arkansas Code § 18-12-608 - Beneficiary Deeds -- Terms -- Recording Required
+
+ Arkansas Code § 18-12-608 - Beneficiary Deeds -- Terms -- Recording Required
+
+ (a) (1) (A) A beneficiary deed is a deed without current tangible consideration that conveys upon the death of the owner an ownership interest in real property other than a leasehold or lien interest to a grantee designated by the owner and that expressly states that the deed is not to take effect until the death of the owner.
+ (B) (i) A beneficiary deed transfers the interest to the designated grantee effective upon the death of the owner, subject to:
+ (a) All conveyances, assignments, contracts, leases, mortgages, deeds of trust, liens, security pledges, oil, gas, or mineral leases, and other encumbrances made by the owner or to which the real property was subject at the time of the owner's death, whether or not the conveyance or encumbrance was created before or after the execution of the beneficiary deed; and
+ (b) A claim for reimbursement of federal or state benefits by the Department of Human Services from the estate of the grantor or the interest acquired by a grantee of the beneficiary deed under § 20-76-436.
+ (ii) No legal or equitable interest shall vest in the grantee until the death of the owner prior to revocation of the beneficiary deed.
+ (2) (A) The owner may designate multiple grantees under a beneficiary deed.
+ (B) Multiple grantees may be joint tenants with right of survivorship, tenants in common, holders of a tenancy by the entirety, or any other tenancy that is otherwise valid under the laws of this state.
+ (3) (A) The owner may designate one (1) or more successor grantees, including one (1) or more unnamed heirs of the original grantee or grantees, under a beneficiary deed.
+ (B) The condition upon which the interest of a successor grantee vests, such as the failure of the original grantee to survive the grantor, shall be included in the beneficiary deed.
+ (b) (1) If real property is owned as a tenancy by the entirety or as a joint tenancy with the right of survivorship, a beneficiary deed that conveys an interest in the real property to a grantee designated by all of the then surviving owners and that expressly states the beneficiary deed is not to take effect until the death of the last surviving owner transfers the interest to the designated grantee effective upon the death of the last surviving owner.
+ (2) (A) If a beneficiary deed is executed by fewer than all of the owners of real property owned as a tenancy by the entirety or as joint tenants with right of survivorship, the beneficiary deed is valid if the last surviving owner is a person who executed the beneficiary deed.
+ (B) If the last surviving owner did not execute the beneficiary deed, the beneficiary deed is invalid.
+ (c) (1) A beneficiary deed is valid only if the beneficiary deed is recorded before the death of the owner or the last surviving owner as provided by law in the office of the county recorder of the county in which the real property is located.
+ (2) A beneficiary deed may be used to transfer an interest in real property to a trustee of a trust estate even if the trust is revocable and may include one (1) or more unnamed successor trustees as successor grantees.
+ (d) (1) A beneficiary deed may be revoked at any time by the owner or, if there is more than one (1) owner, by any of the owners who executed the beneficiary deed.
+ (2) To be effective, the revocation shall be:
+ (A) Executed before the death of the owner who executes the revocation; and
+ (B) Recorded in the office of the county recorder of the county in which the real property is located before the death of the owner as provided by law.
+ (3) If the revocation is not executed by all the owners, the revocation is not effective unless executed by the last surviving owner and recorded before the death of the last surviving owner.
+ (4) A beneficiary deed that complies with this section may not be revoked, altered, or amended by the provisions of the owner's will.
+ (e) If an owner executes more than one (1) beneficiary deed concerning the same real property, the recorded beneficiary deed that is last signed before the owner's death is the effective beneficiary deed, regardless of the sequence of recording.
+ (f) (1) This section does not prohibit other methods of conveying real property that are permitted by law and that have the effect of postponing enjoyment of an interest in real property until the death of the owner.
+ (2) This section does not invalidate any deed otherwise effective by law to convey title to the interests and estates provided in the deed that is not recorded until after the death of the owner.
+ (g) A beneficiary deed is sufficient if it complies with other applicable laws and if it is in substantially the following form:
+ "Beneficiary Deed
+ (h) The instrument of revocation shall be sufficient if it complies with other applicable laws and is in substantially the following form:
+ "Revocation of Beneficiary Deed
+ Section: Previous   18-12-602   18-12-603   18-12-604   18-12-605   18-12-606   18-12-607  18-12-608   18-12-609     Next 
+ Last modified: November 15, 2016 
+
+ State Laws
+
+ Alabama 
+
+ Alaska 
+
+ Arizona 
+
+ California 
+
+ Florida 
+
+ Georgia 
+
+ Illinois 
+
+ Indiana 
+
+ Massachusetts 
+
+ Michigan 
+
+ Nevada 
+
+ New Jersey 
+
+ New York 
+
+ North Carolina 
+
+ Ohio 
+
+ Oregon 
+
+ Pennsylvania 
+
+ Texas 
+
+ Virginia 
+
+ Washington 
+
+ Court Opinions
+
+ US Supreme Court 
+
+ US Tax Court 
+
+ Board of Patent Appeals 
+
+ Federal Laws
+
+ US Code 
+
+ US Constitution 
+
+ Preamble 
+
+ Art. I - Legislative 
+
+ Art. II - Executive 
+
+ Art. III - Judicial 
+
+ Art. IV - States' Relations 
+
+ Art. V - Mode of Amendment 
+
+ Art. VI - Prior Debts 
+
+ Art VII - Ratification 
+
+ Law Blog 
+
+ Terms of Service | Privacy Policy

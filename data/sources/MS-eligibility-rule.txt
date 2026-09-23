@@ -1,0 +1,3260 @@
+Source URL: https://medicaid.ms.gov/wp-content/uploads/2026/07/Title-23-Part-102-Non-Financial-Requirements-eff.-8.1.26.pdf
+Retrieved: 2026-09-23
+
+Title 23: Medicaid
+
+
+
+
+                     Administrative Code
+
+                   Title 23: Medicaid
+                         Part 102
+               Non-Financial Requirements
+TABLE OF CONTENTS
+
+TABLE OF CONTENTS ................................................................................................................ 1
+Title 23: Division of Medicaid........................................................................................................ 1
+  Part 102: Non-Financial Requirements ....................................................................................... 1
+     Chapter 1: Residency ............................................................................................................... 1
+        Rule 1.1: State Residency ..................................................................................................... 1
+        Rule 1.2: Residency Requirements ....................................................................................... 1
+        Rule 1.3: No Permanent Mississippi Address ...................................................................... 1
+        Rule 1.4: Residing in Another State and Out-of-State Mailing Addresses........................... 1
+        Rule 1.5: Stating Intent to Reside ......................................................................................... 2
+        Rule 1.6: Specific Residency Prohibitions............................................................................ 2
+        Rule 1.7: Temporary Absence From the State ...................................................................... 2
+        Rule 1.8: Individuals Receiving a State Supplementary Payment ........................................ 3
+        Rule 1.9: Individuals Receiving a Title IV-E Payment ........................................................ 3
+        Rule 1.10: Determination of Residency (Under Age 21) ..................................................... 3
+        Rule 1.11: Determination of Residency (Age Twenty-One (21) and Older) ........................ 4
+        Rule 1.12: State Placement in an Out-of-State Institution .................................................... 5
+        Rule 1.13: Out-of-State Placements ...................................................................................... 6
+        Rule 1.14: Recipients Moving to Mississippi From Another State ...................................... 6
+        Rule 1.15: Migrant and Seasonal Agriculture Workers ........................................................ 7
+        Rule 1.16: Data Matching ..................................................................................................... 8
+     Chapter 2: United States Citizens............................................................................................ 8
+        Rule 2.1: Eligible Individuals ............................................................................................... 8
+        Rule 2.2: Child Citizenship Act of 2000............................................................................... 9
+        Rule 2.3: Establishing Citizenship and Identity................................................................... 9
+        Rule 2.4: Exemptions from Citizenship/Identity Requirements ......................................... 10
+        Rule 2.5: Electronic Verification of U.S. Citizenship ........................................................ 11
+        Rule 2.6: Documentary Evidences of U.S. Citizenship ...................................................... 11
+        Rule 2.7: Evidences of Identity........................................................................................... 16
+        Rule 2.8: Establishing a Non-Applicant’s Identity ............................................................. 18
+     Chapter 3: Non-Citizens ........................................................................................................ 18
+        Rule 3.1: General Information ............................................................................................ 18
+        Rule 3.2: Qualified Non-Citizens ....................................................................................... 18
+        Rule 3.3: Non-Qualified Non-Citizens ............................................................................... 19
+  Rule 3.4: Grandfathered Non-Citizens ............................................................................... 19
+  Rule 3.5: Classifications of Qualified Non-Citizens........................................................... 20
+  Rule 3.6: Five-Year Disqualification Period ..................................................................... 21
+  Rule 3.7: Classifications Subject to Five-Year Ban............................................................ 21
+  Rule 3.8: Classifications Subject to a Seven-Year Limit on Eligibility ............................ 22
+  Rule 3.9: Qualified Non-Citizens Not Subject to Eligibility Restrictions .......................... 23
+  Rule 3.10: Requirement for Forty (40) Qualifying Quarters .............................................. 24
+  Rule 3.11: Forty (40) Qualifying Quarters of Earnings ...................................................... 24
+  Rule 3.12: Receipt of Means-Tested Benefits .................................................................... 25
+  Rule 3.13: Electronic Verification of Qualified Non-Citizen Status .................................. 25
+  Rule 3.14: Verification for Victims of Trafficking ............................................................ 26
+  Rule 3.15: Verification for Battered Non-Citizens ............................................................ 26
+  Rule 3.16: Veterans, Active Duty Military and Family Member Requirements ............... 26
+  Rule 3.17: Non-Qualified Non-Citizens ............................................................................. 27
+  Rule 3.18: Undocumented Non-Citizens ............................................................................ 28
+  Rule 3.19: Ineligible Non-Citizens ..................................................................................... 28
+  Rule 3.20: Other Non-Citizens ........................................................................................... 29
+  Rule 3.21: Immigration Reporting ...................................................................................... 29
+  Rule 3.22: Criteria for Approval of Emergency Services ................................................... 30
+  Rule 3.23: Processing Eligibility for Emergency Medicaid Services ................................. 30
+  Rule 3.24: Determining Eligibility for Emergency Medicaid Services .............................. 31
+  Rule 3.25: Citizen Children of Non-Qualified Alien(s)...................................................... 31
+  Rule 3.26: Public Charge .................................................................................................... 31
+Chapter 4: Enumeration ........................................................................................................ 32
+  Rule 4.1: Social Security Number (SSN) ........................................................................... 32
+  Rule 4.2: Exceptions to the Enumeration for Applicants ................................................... 33
+  Rule 4.3: Non-Applicants and Enumeration ....................................................................... 33
+  Rule 4.4: Use of Social Security Numbers ......................................................................... 33
+  Rule 4.5: Verification of the Social Security Number ........................................................ 34
+Chapter 5: Categorical Eligibility ......................................................................................... 34
+  Rule 5.1: Categorical Eligibility. ........................................................................................ 34
+  Rule 5.2: Aged .................................................................................................................... 35
+  Rule 5.3: Blindness and Disability...................................................................................... 35
+  Rule 5.4: Children Under Age 19 ....................................................................................... 35
+  Rule 5.5: Pregnant Women ................................................................................................. 35
+  Rule 5.6: Parents and Caretaker Relatives of Dependent Children .................................... 36
+Chapter 6: General Eligibility Requirements ........................................................................ 36
+  Rule 6.1: Basic Eligibility Requirements............................................................................ 36
+  Rule 6.2: Eligible Individuals - Aged, Blind and Disabled (ABD) Programs ................... 37
+  Rule 6.3: Eligible Individuals - Modified Adjusted Gross Income (Modified Adjusted
+  Gross Income) Programs..................................................................................................... 37
+  Rule 6.4: Verification of Age.............................................................................................. 38
+  Rule 6.5: Marital Relationships - Aged, Blind and Disabled (ABD) Programs ................ 38
+  Rule 6.6: Termination of a Marital Relationship - Aged, Blind and Disabled (ABD)
+  Programs ............................................................................................................................. 39
+  Rule 6.7: Verification of a Marital Relationship - Aged, Blind and Disabled (ABD)
+  Programs ............................................................................................................................. 40
+  Rule 6.8: Changes in Marital Status - Aged, Blind and Disabled (ABD) Programs. ........ 40
+  Rule 6.9: Marital Relationships - Modified Adjusted Gross Income Programs. ............... 41
+  Rule 6.10: Termination of a Marital Relationship -Modified Adjusted Gross Income
+  Programs ............................................................................................................................. 41
+  Rule 6.11: Changes in Marital Relationship - Applications, Modified Adjusted Gross
+  Income Programs ................................................................................................................ 41
+  Rule 6.12: Changes in Marital Relationship - Active Cases, Modified Adjusted Gross
+  Income Programs ................................................................................................................ 42
+  Rule 6.13: Definition of a Child - Aged, Blind and Disabled (ABD) Programs ............... 42
+  Rule 6.14: Termination of Child Status- Aged, Blind and Disabled (ABD) Programs ..... 42
+  Rule 6.15: Student Status as an Eligibility Requirement Aged, Blind and Disabled (ABD)
+  Programs ............................................................................................................................. 43
+  Rule 6.16: Definition of a Child - Modified Adjusted Gross Income Programs ............... 44
+  Rule 6.17: Emancipated Children - Modified Adjusted Gross Income Programs ............. 44
+  Rule 6.18: Minor Parents - Modified Adjusted Gross Income Programs .......................... 44
+  Rule 6.19: Minor Heads of Household - Modified Adjusted Gross Income Programs ..... 45
+  Rule 6.20: Medicare Entitlement ........................................................................................ 45
+  Rule 6.21: [Reserved] ......................................................................................................... 46
+  Rule 6.22: [Reserved] ......................................................................................................... 46
+  Rule 6.23: [Reserved] ......................................................................................................... 46
+  Rule 6.24: [Reserved] ......................................................................................................... 46
+  Rule 6.25: [Reserved] ......................................................................................................... 46
+  Rule 6.26: [Reserved] ......................................................................................................... 46
+ Rule 6.27: [Reserved] ......................................................................................................... 46
+ Rule 6.28: [Reserved] ......................................................................................................... 47
+ Rule 6.29: [Reserved] ......................................................................................................... 47
+ Rule 6.30: [Reserved] ......................................................................................................... 47
+ Rule 6.31: Assignment of Third-Party Rights .................................................................... 47
+ Rule 6.32: Failure to Cooperate With Third-Party Assignment ......................................... 47
+ Rule 6.33: Children’s Health Insurance Program (CHIP) and Other Insurance Coverage -
+ Modified Adjusted Gross Income Programs....................................................................... 48
+ Rule 6.34: Child Support Requirements in General ........................................................... 49
+ Rule 6.35: Child Support Requirements for Parents and Caretaker Relatives. .................. 49
+ Rule 6.36: Non-Cooperation and Good Cause Determinations .......................................... 49
+Chapter 7: Non-Financial Requirements - Aged, Blind and Disabled (ABD) Programs ..... 50
+ Rule 7.1: Definition of Adult Disability ............................................................................. 50
+ Rule 7.2: Definition of Childhood Disability ..................................................................... 50
+ Rule 7.3: Definition of Blindness ....................................................................................... 51
+ Rule 7.4: Disability Determination Process ........................................................................ 51
+ Rule 7.5: Independent Disability Determinations............................................................... 51
+ Rule 7.6: Exceptions to Obtaining Disability Approvals.................................................... 52
+ Rule 7.7: Situations Not Requiring a Separate Disability Determination Services (DDS)
+ Decision .............................................................................................................................. 52
+ Rule 7.8: Separate Disability Decisions.............................................................................. 53
+ Rule 7.9: Temporary Social Security Income Closures ..................................................... 54
+ Rule 7.10: Refer to Miss. Admin. Code Part 306, Rule 1.8................................................ 54
+ Rule 7.11: Refer to Miss. Admin. Code Part 306, Rule 1.8................................................ 54
+ Rule 7.12: Refer to Miss. Admin. Code Part 306, Rule 1.8................................................ 54
+ Rule 7.13: Refer to Miss. Admin. Code Part 306, Rule 1.8................................................ 54
+Chapter 8: Non-Financial Requirements - Modified Adjusted Gross Income Programs ...... 54
+ Rule 8.1: Deprivation .......................................................................................................... 54
+ Rule 8.2: Legally Responsible Parents ............................................................................... 55
+ Rule 8.3: Legal Father......................................................................................................... 55
+ Rule 8.4: Continued Absence ............................................................................................. 56
+ Rule 8.5: Incapacity ............................................................................................................ 56
+ Rule 8.6: Under/Unemployment ......................................................................................... 56
+ Rule 8.7: Temporary Absence from the Home ................................................................... 57
+ Rule 8.8: Relationship......................................................................................................... 57
+Chapter 9: Residents of an Institution .................................................................................... 59
+  Rule 9.1: Residents of an Institution ................................................................................... 59
+  Rule 9.2: Institutions for Mental Diseases ......................................................................... 59
+  Rule 9.3: Institutions ........................................................................................................... 60
+  Rule 9.4: Inmate Status ....................................................................................................... 61
+  Rule 9.5: Inmates Potentially Eligible for Medicaid .......................................................... 62
+  Rule 9.6: Special Considerations ........................................................................................ 62
+  Rule 9.7: Verification of Inmate Status .............................................................................. 63
+  Rule 9.8: Inmate Application Process ................................................................................. 63
+  Rule 9.9 State Residency of Inmates .................................................................................. 64
+Title 23: Division of Medicaid
+
+Part 102: Non-Financial Requirements
+
+Chapter 1: Residency
+
+Rule 1.1: State Residency
+
+A. Medicaid must be available to eligible residents of the state.
+
+B. A resident is someone who voluntarily lives in Mississippi with the intention to remain
+   permanently or for an indefinite period of time, or someone living in Mississippi, having
+   entered with a job commitment or for the purpose of seeking employment, whether or not the
+   individual is currently employed.
+
+Source: 42 C.F.R. § 435.403.
+
+History: Revised eff. 08/01/2020.
+
+Rule 1.2: Residency Requirements
+
+A. The individual must live in Mississippi and meet all other eligibility requirements in order to
+   receive Medicaid benefits.
+
+B. A spouse and children living in the same household with the individual are also considered
+   Mississippi residents.
+
+Source: 42 C.F.R. § 435.403.
+
+History: Revised eff. 08/01/2020.
+
+Rule 1.3: No Permanent Mississippi Address
+
+An individual, including someone with no permanent or fixed address, is a resident of
+Mississippi if living in the state and capable of stating and does state intent to remain here
+permanently or for an indefinite period of time.
+
+Source: 42 C.F.R. § 435.403
+
+History: Revised eff. 08/01/2020.
+
+Rule 1.4: Residing in Another State and Out-of-State Mailing Addresses
+
+A. An individual who claims to be a resident of Mississippi, but is residing in another state,
+   must show an established address or place of residence in Mississippi before that individual
+   can be considered temporarily absent from Mississippi for Medicaid purposes.
+
+
+                                                 1
+B. All out-of-state mailing addresses must be resolved by reasonable explanation or
+   documentary verification of Mississippi residency.
+
+Source: 42 C.F.R. § 435.403.
+
+History: Revised eff. 08/01/2020.
+
+Rule 1.5: Stating Intent to Reside
+
+A person is considered capable of stating intent to reside unless that person has an IQ of forty-
+nine (49) or less or has a mental age of seven (7) or less based on tests acceptable to the
+Department of Mental Health; or is judged legally incompetent; or is found incapable of
+indicating intent based on medical documentation obtained from a physician, psychologist or
+other individual licensed by the state in the field of intellectual disability.
+
+Source: 42 C.F.R. § 435.403.
+
+History: Revised eff. 08/01/2020.
+
+Rule 1.6: Specific Residency Prohibitions
+
+A. An individual cannot be denied Medicaid because that individual has not resided in
+   Mississippi for a specified period of time. There is no durational requirement for residency.
+
+B. An individual cannot be denied benefits because that individual is temporarily absent from
+   Mississippi and intends to return when the purpose of the absence has been accomplished.
+   However, if another state has accepted that individual as a resident for Medicaid purposes,
+   the individual cannot be considered a Mississippi resident.
+
+Source: 42 C.F.R. § 435.403.
+
+History: Revised eff. 08/01/2020.
+
+Rule 1.7: Temporary Absence From the State
+
+A. The recipient is responsible for reporting a temporary absence from Mississippi and for
+   giving information regarding purpose of absence, plans and dates of departure and return.
+   The recipient’s eligibility must be reviewed every three (3) months to determine the
+   recipient’s continued intent to reside in Mississippi.
+
+B. No limit is placed on the length of the out-of-state visit; however, if it is determined that an
+   individual has left the state with no declared intention to return, the individual will be
+   deemed to have given up Mississippi residency and the individual’s eligibility will be
+   terminated.
+
+
+
+                                                2
+Source: 42 C.F.R. § 435.403.
+
+History: Revised eff. 08/01/2020.
+
+Rule 1.8: Individuals Receiving a State Supplementary Payment
+
+An individual receiving a state supplementary payment (optional or mandatory), such as state
+adoption assistance or state foster care payment, is a resident of the state making the
+supplementary payment. If the state making the adoption assistance or state foster care payment
+is a member of the Interstate Compact on Adoption and Medical Assistance and an agreement is
+in effect, the child is a resident of the state in which the child is living. The placing state must
+coordinate Medicaid eligibility with the Mississippi Department of Child Protection Services
+(CPS).
+
+Source: 42 C.F.R. § 435.403.
+
+History: Revised eff. 08/01/2020.
+
+Rule 1.9: Individuals Receiving a Title IV-E Payment
+
+An individual receiving a Title IV-E foster care or adoption assistance payment is a resident of
+the state in which the child associated with the assistance payment is currently residing.
+
+Source: 42 C.F.R. § 435.403.
+
+History: Revised eff. 08/01/2020.
+
+Rule 1.10: Determination of Residency (Under Age 21)
+
+A. If a non-institutionalized individual under age twenty-one (21) is an emancipated minor or is
+   married and capable of stating intent, the state of residence is where the individual is living
+   with the intent to remain permanently or for an indefinite period.
+
+B. A non-institutionalized individual under age twenty-one (21) whose eligibility is based on
+   blindness or disability is a resident of the state where the individual is actually living.
+
+C. Others under twenty-one (21) Not Living in an Institution
+
+   1. The state of residence is the state where the individual resides, with or without a fixed
+      address; or
+
+   2. The state of residency of the parent, caretaker or guardian with whom the individual
+      resides.
+
+D. Under twenty-one (21), in an Institution and Under Parental Care and Control
+
+
+
+                                                 3
+   1. The state of residence is the custodial parents’ (or custodial parent's) state of residence at
+      the time of placement. However, if a legal guardian has been appointed and parental
+      rights have been terminated, the state of residence of the guardian is used instead of the
+      parent’s or parents’; or
+
+   2. The state of residence is the current state of residence of the parent who files the
+      application, if the individual is residing in an institution in that state. However, if a legal
+      guardian has been appointed and parental rights have been terminated, the state of
+      residence of the guardian is used instead of the parent’s or parents’; or
+
+   3. The state of residence is the state of residence of the party that files an application if the
+      institutionalized individual:
+
+       a) Has been abandoned by the individual’s parent(s),
+
+       b) Does not have a legal guardian, and
+
+       c) Is residing in an institution in that state.
+
+Source: 42 C.F.R. § 435.403.
+
+History: Revised eff. 08/01/2020.
+
+Rule 1.11: Determination of Residency (Age Twenty-One (21) and Older)
+
+A. Not in an Institution
+
+   The state of residence for a non-institutionalized individual is where the individual is living
+   and intends to reside, including without a fixed address; or the state the individual has
+   entered, either with a job commitment or searching for employment, regardless of whether
+   the individual is currently employed. If the individual is incapable of stating intent, the state
+   of residence is where the individual is living.
+
+B. The state of residence for an institutionalized individual who became incapable of stating
+   intent before age twenty-one (21) is:
+
+   1. The state of residence of the parent who is applying for Medicaid on the individual’s
+      behalf. If a legal guardian has been appointed and parental rights have been terminated,
+      the state of residence of the legal guardian is used instead.
+
+   2. The state of residence of the parent at the time of placement. If the legal guardian has
+      been appointed and parental rights have been terminated, the state of residence of the
+      guardian is used instead.
+
+   3. The current state of residence of the parent or legal guardian who files the application, if
+      the individual is residing in an institution in that state. If a legal guardian has been
+
+
+                                                   4
+       appointed and parental rights have been terminated, the state residence of the guardian is
+       used instead.
+
+   4. The state of residence of the party that files an application if the individual:
+
+       a) Has been abandoned by the individual’s parent(s),
+
+       b) Does not have a legal guardian, and
+
+       c) Is residing in an institution in that state.
+
+C. In an Institution and Became Incapable of Stating Intent at or After Twenty-One (21). The
+   state of residence is where the individual is physically present, except in instances where
+   another state made the placement.
+
+D. Any Other Individual in an Institution
+
+   1. The state of residence is where the individual is living and intends to reside.
+
+   2   When a competent individual leaves a facility in which the individual was placed,
+       residence becomes the state where the individual is physically located.
+
+Source: 42 C.F.R. § 435.403.
+
+History: Revised eff. 08/01/2020.
+
+Rule 1.12: State Placement in an Out-of-State Institution
+
+A. If a state agency, or an entity under contract with the state, arranges for an individual to be
+   placed in an institution in another state, the state arranging or making the placement is the
+   individual's state of residence.
+
+B. For purposes of state placement, the term “institution” also includes licensed foster care
+   homes that provide food, shelter, and supportive services for one or more individuals
+   unrelated to the proprietor. The following actions are not considered state placement:
+
+   1. Providing basic information to individuals about another state’s Medicaid program and
+      information about healthcare services and facilities in another state, or
+
+   2. Providing information regarding institutions in another state if the individual is capable of
+      indicating intent and decides to move.
+
+Source: 42 C.F.R. § 435.403.
+
+History: Revised eff. 08/01/2020.
+
+
+
+                                                   5
+Rule 1.13: Out-of-State Placements
+
+There are three circumstances under which Mississippi will pay for placement in an out-of-state
+nursing facility.
+
+A. If the agency has a part in the placement or otherwise approves or authorizes an out-of-state
+   placement, regional offices will be notified on an individual case basis.
+
+B. When a Mississippi resident moves to a nursing facility in another state, only the partial
+   month of the move can be paid if the facility enrolls as a Mississippi provider. The individual
+   is considered a resident of the new state effective with the first full month of residence and
+   has to qualify for Medicaid eligibility and the per diem payment in the new state.
+
+C. A provider supplying a service not available in Mississippi to a Mississippi Medicaid
+   beneficiary who has retained Mississippi residency may file a claim for payment.
+
+Source: 42 C.F.R. § 435.403, Miss. Code Ann. § 43-13-121.
+
+History: Revised eff. 08/01/2020.
+
+Rule 1.14: Recipients Moving to Mississippi From Another State
+
+A. Termination of Benefits in the Former State of Residence.
+
+   1. An individual coming to Mississippi from another state may be considered a resident of
+      Mississippi in the month of the move, provided the individual intends to reside in
+      Mississippi.
+
+   2. Individuals are not entitled to duplication of Medicaid services from both the former state
+      and Mississippi. When a Medicaid recipient moves from one state to another, the former
+      state initiates the change effective the first month in which it can administratively
+      terminate the case in accordance with timely and adequate notice regulations.
+
+B. Request for Mississippi Medicaid Prior to Termination in Former State.
+
+   1. There will be occasions when a recipient requests that eligibility in Mississippi begin
+      prior to the effective date of closure in the former state. Neither state can deny coverage
+      because of administrative requirements or time constraints needed to take action to
+      terminate benefits in the former state.
+
+   2. When an individual is no longer a resident of a state, that state is not required to pay for
+      any services incurred in Mississippi.
+
+       a) If the former state will pay out-of-state claims or the partial and subsequent months
+          for a nursing home recipient, Mississippi cannot approve eligibility until the former
+          state has terminated services.
+
+
+                                                6
+       b) If the former state will not pay out-of-state claims, duplication of services is not an
+          issue, and Medicaid eligibility in Mississippi can potentially begin with the month of
+          the move.
+
+C. If an institutionalized individual moves to Mississippi, that individual must apply for benefits
+   in Mississippi and must meet all eligibility requirements. If the individual is transferred
+   directly from one medical facility to another, the time spent in the out-of-state facility can be
+   used to meet the thirty (30) consecutive day requirement.
+
+D. When two (2) or more states cannot agree on residence, the state where the individual is
+   physically located is the individual’s residence. Coordination efforts should ensure that an
+   eligible person does not experience a discontinuation of benefits.
+
+Source: 42 C.F.R. § 435.403.
+
+History: Revised eff. 08/01/2020.
+
+Rule 1.15: Migrant and Seasonal Agriculture Workers
+
+A. The Division of Medicaid defines:
+
+   1. Migrant agricultural farm worker as an individual who is employed in agricultural
+      employment of a seasonal or other temporary nature and is required to be absent from the
+      worker’s permanent place of residence when employed on a farm or ranch performing
+      field work such as planting, cultivating, or harvesting operations, or when employed in
+      canning, packing ginning, seed conditioning or related research, or processing operations,
+      and transported, or caused to be transported, to or from the place of employment by
+      means of a day-haul operation. This term does not include:
+
+       a) Any immediate family member of an agricultural employer or a farm labor
+          contractor, or
+
+       b) Any temporary nonimmigrant noncitizen who is authorized to work in agricultural
+          employment in the U.S. under sections 1101(a)(15)(H)(ii)(a) and 1184(c) of Title 8 of
+          the United States Code.
+
+   2. Seasonal agricultural worker as an individual who is employed in agricultural
+      employment of a seasonal or other temporary nature and is not required to be absent
+      overnight from the worker’s permanent place of residence when employed on a farm or
+      ranch performing field work related to planting, cultivating, or harvesting operations, or
+      when employed in canning, packing, ginning, seed conditioning or related research, or
+      processing, operations, and transported, or caused to be transported, to or from the place
+      of employment by means of a day-haul operation. This term does not include:
+
+       a) Any migrant agricultural worker,
+
+
+                                                 7
+       b) Any immediate family member of an agricultural employer of a farm labor
+          contractor, or
+
+       c) Any temporary nonimmigrant noncitizen who is authorized to work in agricultural
+          employment in the U.S. under sections 1101(a)(15)(H)(ii)(a) and 1184(c) of Title 8 of
+          the United States Code.
+
+B. An individual involved in work of a transient nature or someone who goes to another state
+   seeking employment as a migrant or seasonal agricultural worker can choose to either
+   establish residence in the state where that individual is employed or seeking employment or
+   claim one state as the individual’s domicile or state of residence.
+
+Source: 29 U.S.C. § 1802; 42 C.F.R. § 435.403; Miss. Code Ann. § 43-13-121.
+
+History: Revised eff. 08/01/2020.
+
+Rule 1.16: Data Matching
+
+Data matches are performed quarterly, comparing the eligibility files of active Medicaid
+beneficiaries in Mississippi with the eligibility files of all other states for the purpose of detecting
+duplicate participation. Verification of residency is required for individuals identified as active in
+another state unless the data has previously been reported and action is in process to terminate
+the individual’s Mississippi Medicaid enrollment.
+
+Source: 42 C.F.R. §§ 435.403 and 435.945.
+
+History: Revised eff. 08/01/2020.
+
+Chapter 2: United States Citizens
+
+Rule 2.1: Eligible Individuals.
+
+A. An eligible individual must either be a citizen of the United States or a qualified non-citizen
+   as defined by 8 U.S.C. § 1641.
+
+B. Most United States citizens are natural-born citizens, meaning they were born in the United
+   States or were born to United States citizens overseas. Individuals born in the United States,
+   which includes the fifty (50) states, the District of Columbia, Puerto Rico, Guam, the U.S.
+   Virgin Islands, the Northern Mariana Islands and the Panama Canal Zone before it was
+   returned to Panama, are U.S. citizens at birth (unless born to foreign diplomatic staff),
+   regardless of the citizenship or nationality of the parents.
+
+C. United States Nationals from American Samoa or Swain’s Island are treated as citizens for
+   Medicaid eligibility purposes.
+
+
+
+                                                   8
+Source: 8 U.S.C. §1641, 42 C.F.R. § 435.406.
+
+History: Revised eff. 08/01/2020.
+
+Rule 2.2: Child Citizenship Act of 2000
+
+The Child Citizenship Act of 2000, enacted February 21, 2001, amended the Immigration and
+Naturalization Act to provide automatic acquisition of U.S. citizenship by operation of law to
+certain foreign born children, including orphans with a full and final adoption by U.S. citizens,
+either abroad or in the U.S., and the biological or legitimated children of U.S. citizens. A child
+automatically acquires U.S. citizenship on the date the child meets all of the requirements of the
+law.
+
+Source: 8 U.S.C. § 1431, 42 CFR § 435.407.
+
+History: Revised eff. 08/01/2020.
+
+Rule 2.3: Establishing Citizenship and Identity
+
+A. The citizenship and identity of applicants and recipients declaring to be U.S. citizens must be
+   verified unless an exemption applies. Verification of citizenship and identity is required and
+   must be obtained electronically, if available. If unavailable or discrepant data exists,
+   citizenship and identity must be verified by means of documentary evidence. Verification is a
+   one-time requirement completed at the time of application unless there is a valid reason to
+   question the accuracy of the initial determination.
+
+B. Documentary evidences of citizenship are divided into a hierarchy of primary, secondary,
+   third-level and fourth-level documents. Primary evidence has the highest reliability and
+   conclusively establishes both a person’s citizenship and identity. When the individual has
+   secondary, third- or fourth-level documentation of citizenship, additional verification must be
+   provided to establish identity. The evidences of identity are not prioritized.
+
+C. The highest level of verification must be used if it is available. “Available” means the
+   document exists and can be obtained within the time period allowed for providing
+   information, i.e., thirty (30), forty-five (45) and ninety (90) days, based on application type.
+   When a higher-level document is not available, it is permissible to use a lower-level
+   document.
+
+D. It is generally the individual’s responsibility to provide required documents and pay
+   associated fees to obtain them. However, when individuals are economically disadvantaged
+   and unable to pay fees associated with obtaining necessary documents, lower-level evidences
+   of citizenship and identity will be accepted.
+
+E. Assistance must be provided when an applicant or beneficiary does not have the required
+   verifications and is homeless, an amnesia victim, or mentally impaired or physically
+   incapacitated and lacks someone to act for them. Contact must be attempted and assistance
+
+
+                                                  9
+   provided to any applicant or recipient who is known to be deaf, hard of hearing, blind,
+   mentally or visually impaired, physically incapacitated or otherwise disabled, illiterate,
+   homeless, has limited English proficiency and/or requires communication assistance with
+   reading agency notices and other written correspondence prior to the denial or termination of
+   the individual’s case.
+
+   1. Eligibility will not be denied or terminated until all avenues of verification have been
+      exhausted.
+
+   2. When the individual has been given a reasonable period to provide the information and
+      all avenues of assistance have been exhausted and documented, eligibility must be denied
+      or terminated if needed information is not provided.
+
+F. Non-citizens applying for Emergency Medicaid services only are not required to provide
+   information about citizenship, immigration status or Social Security Number.
+
+G. Verification must be either an original document or copy certified by the issuing agency. A
+   photocopy or faxed or scanned copy will be accepted unless information on the copy
+   submitted is inconsistent with other available information or there is reason to question the
+   validity of, or the information in, the document.
+
+Source: 42 C.F.R. §§ 435.407.
+
+History: Revised eff. 08/01/2020.
+
+Rule 2.4: Exemptions from Citizenship/Identity Requirements
+
+Individuals declaring U.S. citizenship are exempt from citizenship and identity documentation
+requirements if they are in one of the following categories:
+
+A. Medicare recipients entitled to, or enrolled in, Medicare under any claim number are exempt
+   from the verification requirements.
+
+B. Individuals receiving Social Security disability benefits based on their own disability are
+   exempt from the verification requirements. The individual must be a current recipient of
+   Social Security Disability. Prior receipt of disability does not qualify an individual for this
+   exemption. In addition, this exemption does not apply to individuals receiving early
+   retirement or to dependents drawing off the disabled individual’s record.
+
+C. Individuals receiving Supplemental Security Income (SSI) benefits are exempt. The
+   individual must be a current SSI recipient. Prior receipt of SSI does not qualify a person for
+   this exemption. Former SSI recipients applying for Medicaid must provide evidence of
+   citizenship and identity. Current SSI recipients applying only for retroactive coverage are
+   exempt.
+
+D. Children in receipt of Title IV-B services or Title IV-E Adoption Assistance or foster care
+
+
+                                               10
+   payments are exempt.
+
+E. Deemed eligible children are exempt from citizenship and identity verification requirements
+   until the end of the deemed year. All eligibility factors, including documentation of
+   citizenship and identity, must be met for eligibility to continue beyond the first year.
+
+Source: 42 C.F.R. § 435.406.
+
+History: Revised eff. 08/01/2020.
+
+Rule 2.5: Electronic Verification of U.S. Citizenship
+
+A. The Division of Medicaid attempts to verify U.S. citizenship or immigration status through
+   electronic services including but not limited to:
+
+   1. The Social Security Administration (SSA),
+
+   2. Federal Agencies,
+
+   3. Department of Treasury, and
+
+   4. Department of Homeland Security.
+
+B. If the Division of Medicaid is unable to verify status through electronic services, then the
+   Division of Medicaid attempts to verify U.S. citizenship or immigration status in accordance
+   with Miss. Admin. Code, Title 23, Part 102, Rule 2.6.
+
+C. If the Division of Medicaid is unable to verify U.S. citizenship or immigration status through
+   either method, but the applicant is otherwise eligible, the applicant will be approved for
+   benefits for up to ninety (90) days as a reasonable period to provide acceptable documentary
+   evidence of U.S. citizenship and identity. The ninety (90) day period does not include
+   approval for any retroactive month(s).
+
+Source: 42 C.F.R. §§ 435.949, 435.956, and 435.1008.
+
+History: Revised eff. 11/01/2025; Revised eff. 08/01/2020.
+
+Rule 2.6: Documentary Evidences of U.S. Citizenship
+
+A. Applicants declaring to be U.S. citizens whose citizenship cannot be verified by means of
+   electronic verification must provide acceptable evidence(s) of citizenship and identity.
+
+B. Primary Evidence has the highest reliability. If provided, no further verification is needed to
+   verify citizenship and identity. If any other level of evidence is used to verify U.S.
+   citizenship, a second document verifying identity must be obtained. The following
+   documents are accepted as primary evidence:
+
+
+                                                11
+1. U.S. Passport. A U.S. Passport does not have to be currently valid to be accepted as
+   evidence of U.S. citizenship as long as it was originally issued without limitation. On an
+   emergency basis, the passport office will issue a U.S. passport without proof of
+   citizenship. In this instance, the passport is issued with the limitation that is valid for one
+   (1) year rather than the usual five (5) or ten (10) years. When the holder of a passport
+   with limitation returns to the country, the holder has to provide proof of citizenship to
+   have the passport reissued without limitation. To determine if a passport was issued with
+   limitation, compare the issuance date with the expiration date. If the expiration date is
+   less than five (5) years from the issuance date, the passport was issued with limitation and
+   cannot be used as proof of citizenship. Each passport must be examined closely to
+   determine whether or not the passport was issued with limitation. Spouses and children
+   were sometimes included on one passport through 1980. U.S. passports issued after 1980
+   show only one person. The citizenship and identity of the included person can be
+   established when one of these passports is presented. Passports issued with a limitation
+   cannot be accepted as evidence of U.S. citizenship. However, such a passport may be
+   used as proof of identity.
+
+2. Certificate of Naturalization (N-550 or N-570). Issued by Department of Homeland
+   Security (DHS) for Naturalization.
+
+3. Certificate of Citizenship (N-560 or N-561). Issued by DHS to individuals who derive
+   citizenship through a parent.
+
+4. A valid state-issued driver’s license, if the state issuing the license requires proof of U.S.
+   citizenship or obtains and verifies a Social Security Number from the applicant who is a
+   citizen before issuing such license.
+
+5. Documentary evidence issued by a federally-recognized Indian Tribe, including Tribes
+   located in a state that has an international border, which:
+
+   a) Identifies the federal- recognized Indian Tribe that issued the document,
+
+   b) Identifies the individual by name, and
+
+   c) Confirms the individual’s membership, enrollment or affiliation with the Tribe, such
+      as:
+
+       1) A Tribal enrollment card,
+
+       2) A Certificate of Degree of Indian Blood,
+
+       3) A Tribal census document, or
+
+       4) Other document on Tribal letterhead issued under the signature of the appropriate
+          Tribal official that identifies the individual’s name and confirms the individual’s
+
+
+                                             12
+             membership, enrollment or affiliation with the federally-recognized Indian Tribe.
+
+       d) An updated listing of federally-recognized Indian Tribes is published annually in the
+          Federal Register by the Bureau of Indian Affairs within the U.S. Department of the
+          Interior.
+
+   6. A data match with the Social Security Administration (SSA).
+
+C. Secondary Evidence of citizenship is documentary evidence of satisfactory reliability that is
+   used when primary evidence of citizenship is not available within the reasonable opportunity
+   period. In addition, a second document establishing identity must be presented. The
+   following documents are accepted as secondary evidence of citizenship:
+
+   1. A U.S. public birth record. A birth certificate may be issued by a state, commonwealth,
+      territory, or local jurisdiction showing birth in one of the following:
+
+       a) One of the fifty (50) U.S. States;
+
+       b) District of Columbia;
+
+       c) American Samoa;
+
+       d) Swain’s Island;
+
+       e) Puerto Rico (if born on or after January 13, 1941);
+
+       f) U.S. Virgin Islands (on or after January 17, 1917);
+
+       g) Northern Mariana Islands (after November 4, 1986, NMI local time); Guam (on or
+          after April 10, 1899).
+
+   2. Verification through the Department of Homeland Security’s Systematic Alien
+      Verification for Entitlements (SAVE) database to verify U.S. citizenship for a naturalized
+      citizen when original naturalization papers are not available.
+
+   3. When a child derives U.S. citizenship from a parent and meets the requirements of the
+      Child Citizenship Act of 2000, establish the parent’s U.S. citizenship and the child’s legal
+      immigration status, if applicable, through SAVE to verify the child’s citizenship. Primary
+      verification through a Certificate of Citizenship should be available if child was issued a
+      visa rather than a permanent resident alien card upon entry into the country.
+
+   4. Certification of Report of Birth Abroad (FS-1350). The U.S. Department of State issues a
+      DS-1350 to U.S. citizens who were born outside the U.S. and acquired citizenship at
+      birth, as verified by the information recorded on the FS-240, Consular Report of Birth
+      Abroad. When the birth was recorded on the FS-240, certified copies of the Certification
+      of Report of Birth Abroad can be obtained from the U.S. Department of State. The DS-
+
+
+                                               13
+   1350 contains the same information as recorded on the current version of the Consular
+   Report of Birth FS-240. The DS-1350 is not issued overseas and can be obtained from the
+   U.S. Department of State in Washington, D.C.
+
+5. Consular Report of Birth Abroad of a Citizen of the United States of America (FS-240).
+   The Department of State consular office prepares and issues this document. A Consular
+   Report of Birth can only be prepared at an American consular office overseas, while the
+   child is under eighteen (18). While original FS-240s are not issued within the U.S., lost or
+   mutilated documents can be replaced through the U.S. Department of State in
+   Washington, D.C. Children born to military personal are usually issued an FS-240.
+
+6. Certification of Birth Abroad (FS-545). Before November 1, 1990, the U.S. Department
+   of State consulates also issued Form FS-545 along with the prior version of FS-240. In
+   1990, U.S. consulates ceased to issue Form-545. A FS-545 is the equivalent of a DS-1350
+   for Medicaid eligibility purposes.
+
+7. Certificate of Birth in the U.S. This is the form created by the birthing hospital that is sent
+   to Vital Records and used to create an official birth certificate.
+
+8. U.S. Citizen ID Card (I-197) or prior version I-179. The former Immigration and
+   Naturalization Service (INS) issued the I-179 from 1960 until 1973. It revised the form
+   and renumbered it as form I-197. INS issued the I-197 from 1973 to April 7, 1983. INS
+   issued the form I-179 and I-197 to naturalized U.S. citizens living near the Canadian or
+   Mexican Border who needed it for frequent border crossings. Although neither form is
+   currently issued, either form that was previously issued is still valid.
+
+9. Northern Mariana Card. INS issued the I-873 to a collectively naturalized citizen of the
+   U.S. who was born in the NMI before November 4, 1986. The card is no longer issued,
+   but those previously issued are still valid.
+
+10. Final adoption decree. The adoption decree must show the child’s name and U.S. place of
+    birth. In situations where an adoption is not finalized and the state in which the child was
+    born will not release a birth certificate prior to final adoption, a statement from a state-
+    approved adoption agency that shows the child’s name and U.S. place of birth is
+    acceptable. The adoption agency must state in the certification that the source of the place
+    of birth information is an original birth certificate.
+
+11. Evidence of civil service employment by the U.S. government. The document must show
+    employment by the U.S. government before June 1, 1976.
+
+12. Official military record of service. The document must show a U.S. place of birth (for
+    example a DD-214 or similar official document showing a U.S. place of birth).
+
+13. Verification with a State vital statistics agency documenting record of birth.
+
+
+
+
+                                             14
+D. Third-Level Evidence of citizenship is documentary evidence of satisfactory reliability that is
+   used when primary or secondary evidence of citizenship is not available. Third-level
+   evidence may only be used when primary and secondary evidence does not exist or cannot be
+   obtained and the applicant/beneficiary alleges being born in the U.S. In addition, a second
+   document establishing identity must be obtained. The following are third-level evidences of
+   citizenship:
+
+   1. Medical records, including but not limited to, hospital, clinic or doctor records or
+      admission papers from a nursing facility or other institution that indicates a U.S. place of
+      birth. Souvenir “birth certificates” issued by a hospital are not acceptable evidence.
+
+   2. Life or health or other insurance record that shows a U.S. place of birth.
+
+   3. Official religious record recorded in the U.S. showing that the birth occurred in the U.S.
+      The record must be an official record with a religious organization. In questionable cases,
+      e.g., a religious document recorded near an international border, the religious record must
+      be verified and/or verify that the mother was in the U.S. at the time of birth. Entries in a
+      family Bible are not considered religious records.
+
+   4. School records, including pre-school, Head Start and daycare, showing a U.S. place of
+      birth. The record must show the name of the child, the date of admission to the school,
+      the date of birth (or age at the time record was created), and a U.S. place of birth.
+
+E. Fourth-Level Evidence of citizenship is of lowest reliability and is used in the rarest of
+   circumstances. It is used when primary evidence is not available, both secondary and third-
+   level evidence do not exist or cannot be obtained within the reasonable opportunity period
+   and the applicant alleges a U.S. place of birth. In addition, a second document establishing
+   identity must be obtained. Accept any of the following documents as fourth-level evidence of
+   U.S. citizenship if the document meets the listed criteria, the applicant/beneficiary alleges
+   U.S. citizenship and there is nothing indicating the person is not a U.S. citizen or lost U.S.
+   citizenship. Fourth-level evidence consists of documents established for a reason other than
+   to establish U.S. citizenship and showing a U.S. place of birth. The U.S. place of birth on the
+   document and documented place of birth on the application must agree. The written affidavit
+   may be used only when the specialist is unable to secure evidence of citizenship in any other
+   chart. The following are fourth-level verifications:
+
+   1. Federal or state census record showing U.S. citizenship or a place of birth (generally for
+      persons born 1900 through 1950). The census record must also show the applicant’s age.
+      Census records from 1900 to 1950 contain certain citizenship information. To secure this
+      information for the applicant, beneficiary, or state, complete Form BC-600, Application
+      for Census records for Proof of Age, place the note, “U.S. Citizenship data requested,” in
+      the remarks portion of the form, and indicate that the purpose is for Medicaid eligibility.
+      This form requires a fee.
+
+
+
+
+                                               15
+   2. Written Affidavit. An affidavit signed by another individual under penalty of perjury who
+      can reasonably attest to the applicant’s citizenship can be submitted with the applicant’s
+      name, date of birth and place of U.S. birth. The affidavit does not have to be notarized.
+
+F. If the document used to verify U.S. citizenship indicates the individual was born in Puerto
+   Rico, the Virgin Islands of the U.S., or the Northern Mariana Islands before these areas
+   became part of the U.S., the individual may be a collectively naturalized citizen. Collective
+   naturalization occurred on certain dates listed for each territory.
+
+   1. Puerto Rico. Evidence of birth in Puerto Rico on or after April 11, 1899, and the
+      applicant/beneficiary’s statement that the applicant/beneficiary was residing in the U.S.
+      possession of Puerto Rico on January 13, 1941, or evidence that the applicant/beneficiary
+      was a Puerto Rican citizen and the applicant/beneficiary’s statement that the
+      applicant/beneficiary did not take an oath of allegiance to Spain.
+
+   2. U.S. Virgin Islands. Evidence of birth in the U.S. Virgin Islands and the
+      applicant/beneficiary’s statement of residence in the U.S., a U.S. possession or the U.S.
+      Virgin Islands on February 25, 1927. The applicant/beneficiary’s statement indicating
+      resident in the U.S. Virgin Islands as a Danish citizen on January 17, 1917, and residence
+      in the U.S., a possession or the U.S. Virgin Islands on February 25, 1927, and that the
+      applicant/beneficiary did not make a declaration to maintain Danish citizenship; or
+      evidence of birth in the U.S. Virgin Islands and the applicant/beneficiary’s statement
+      indicating residence in the U.S., a U.S. possession or territory or the Canal Zone on June
+      28, 1932.
+
+   3. Northern Mariana Islands (NMI), formerly part of the trust territory of the Pacific Islands
+      (TTPI). Evidence of birth in the NMI, the U.S., or a U.S. territory or possession on
+      November 3, 1986 (NMI local time) and the applicant/beneficiary’s statement that the
+      applicant/beneficiary did not owe allegiance to a foreign state on November 4, 1986,
+      (NMI local time); evidence of TTPI citizenship, continuous residence in the NMI since
+      before November 3, 1981 (NMI local time), voter registration prior to January 1, 1975,
+      and the applicant/beneficiary’s statement that the applicant/beneficiary did not owe
+      allegiance to a foreign state on November 4, 1986 (NMI l local time); or evidence of
+      continuous domicile in the NMI since before January 1, 1974, and the
+      applicant/beneficiary’s statement that the applicant/beneficiary did not owe allegiance to
+      a foreign state on November 4, 1986 (NMI local time). If a person entered the NMI as a
+      nonimmigrant and lived in the NMI since January 1, 1974, this does not constitute
+      continuous domicile, and the individual is not a U.S. citizen.
+
+Source: 42 C.F.R. § 435.407; 8 U.S.C. 1403.
+
+History: Revised eff. 11/01/2025; Revised eff. 08/01/2020.
+
+Rule 2.7: Evidences of Identity
+
+
+
+
+                                              16
+A. Proof of identity is required when primary evidence of citizenship cannot be obtained and a
+   secondary, third or fourth-level evidence is used.
+
+B. The identity of all applicants and beneficiaries must be verified as a one-time verification
+   requirement. Documents submitted as proof of identity must have a photograph or other
+   identifying information sufficient to establish identity, including but not limited to name, age,
+   sex, height, weight, eye color or address.
+
+C. Acceptable documents that may be used to verify the identity of an applicant or beneficiary
+   are listed below. Documents may be recently expired provided there is no reason to believe
+   the document does not match the individual.
+
+   1. A current driver’s license issued by a state or territory.
+
+   2. A school identification card.
+
+   3. U.S. military card or draft record.
+
+   4. Identification card issued by the federal, state, or local government.
+
+   5. Military dependent’s identification card.
+
+   6. U.S. Coast Guard Merchant Mariner card.
+
+   7. For children under age nineteen (19), a clinic, doctor, hospital or school record, including
+      preschool or day care records.
+
+   8. Two (2) other documents containing consistent information that corroborates an
+      applicant’s identity. Such documents include, but are not limited to marriage licenses,
+      divorce decrees, high school diplomas (including general education or equivalency
+      diplomas), employer ID cards, property deeds/titles or other similar types of documents
+      issued by local or state governmental entities.
+
+   9. A finding of identity from a Federal or State governmental agency, including but not
+      limited to a public assistance, law enforcement, internal revenue or tax bureau, or
+      corrections agency, if the agency has verified and certified the identity of the individual.
+
+   10. If the applicant does not have any of the above documents, accept an affidavit signed,
+       under penalty of perjury, by a person other than the applicant who can reasonably attest
+       to the applicant’s identity. The affidavit must contain the applicant’s name and other
+       identifying information establishing identity (name, age, sex, race, height, weight, eye
+       color, address). The affidavit does not have to be notarized.
+
+D. Citizenship and/or identity do not have to be verified if the applicant is not otherwise eligible.
+
+Source: 42 C.F.R. § 435.407
+
+
+                                                 17
+History: Revised eff. 11/01/2025; Revised eff. 08/01/2020.
+
+Rule 2.8: Establishing a Non-Applicant’s Identity
+
+A. The identity of the responsible person who is a non-applicant filing an application for others
+   must be verified. The responsible person is defined as a non-applicant parent, relative, non-
+   relative or an authorized representative filing the application on behalf of others. Non-
+   applicants are not asked to provide any document that discloses their own citizenship,
+   immigration status or Social Security Number; however, such documents may be provided
+   voluntarily.
+
+B. A good cause determination for non-applicants can be made to waive or reduce the
+   requirement if it is determined the non-applicant head of household or authorized
+   representative cannot meet the identity verification requirement.
+
+Source: 42 C.F.R. § 435.407, Miss. Code Ann. § 43-13-121.
+
+History: Revised eff. 08/01/2020.
+
+Chapter 3: Non-Citizens
+
+Rule 3.1: General Information
+
+In general, eligibility and level of coverage is based on the non-citizen’s date of entry into the
+U.S., the date qualified non-citizen status was obtained and/or the non-citizen’s immigration
+status.
+
+Source: 42 C.F.R. § 435.406.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.2: Qualified Non-Citizens
+
+   A. Individuals living in the United States who are not citizens by birth or acquisition and are
+      not U.S. Nationals are non-citizens.
+
+   B. For Medicaid purposes, certain non-citizens are referred to as “qualified,” meaning they
+      are potentially eligible for full Medicaid services just like U.S. citizens.
+
+   C. Each applicant declaring to be a qualified non-citizen is responsible to provide, or
+      cooperate in obtaining, documentation of non-citizen status.
+
+   D. Applicants declaring to be qualified non-citizens who are otherwise eligible except for
+      resolution of qualified non-citizen status will be approved for benefits for up to ninety
+
+
+
+                                               18
+       (90) days as a reasonable period to provide acceptable documentary evidence of qualified
+       non-citizen status.
+
+Source: 42 C.F.R. § 435.406 and 435.956.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.3: Non-Qualified Non-Citizens
+
+A. “Non-qualified non-citizens” are non-citizens potentially eligible only for Emergency
+   Medicaid services.
+
+B. Non-citizens applying for Emergency Medicaid services are not required to disclose
+   information regarding citizenship, non-citizen status or enumeration, and should not be asked
+   to do so.
+
+C. All applicable program requirements must be met before a non-citizen is eligible for either
+   full Medicaid or Emergency Medicaid services.
+
+Source: 42 C.F.R. § 435.406.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.4: Grandfathered Non-Citizens
+
+A. Effective August 22, 1996, the Personal Responsibility and Work Opportunity Reconciliation
+   Act of 1996 (PRWORA) limited non-citizen eligibility for Medicaid and other federal
+   programs. Mississippi elected to “grandfather in” non-citizens who were receiving and
+   eligible for Medicaid on that date. This means a grandfathered non-citizen who is lawfully
+   residing in the U.S. has the right to have eligibility continue under the non-citizen rule in
+   effect prior to August 22, 1996. The non-citizen also retains grandfathered rights if benefits
+   are terminated and eligibility is later reestablished. If the non-citizen was receiving Medicaid
+   on August 22, 1996, but was subsequently determined to be ineligible, the non-citizen’s
+   status as a qualified non-citizen must be determined for full Medicaid coverage. If the non-
+   citizen is not a qualified non-citizen, the non-citizen may be eligible for Emergency Medicaid
+   services.
+
+B. Non-citizens who entered the U.S. prior to August 22, 1996 and obtained qualified status
+   prior to that date are considered to be qualified non-citizens if otherwise eligible.
+
+C. Non-citizens who entered the U.S. prior to August 22, 1996 and obtained qualified status on
+   or after that date and have remained continuously present in the U.S. since their last date of
+   entry into the U.S. prior to August 22, 1996 until becoming a qualified non-citizen are
+   considered to be qualified non-citizens. There must have been no single absence from the
+   U.S. of more than thirty (30) days and no total of aggregate absences of more than ninety
+
+
+
+                                                19
+   (90) days. If not continuously present, these non-citizens are considered to have entered the
+   U. S. on or after August 22, 1996 and are evaluated according to their non-citizen status.”
+
+Source: 8 U.S.C. § 1612.
+
+History: Revised eff. 11/01/2025; Revised eff. 08/01/2020.
+
+Rule 3.5: Classifications of Qualified Non-Citizens
+
+A. There are eleven (11) classifications of qualified non-citizens. Nine (9) are based on
+   Immigration and Naturalization Service (INS) non-citizen status, one (1) is based on battery
+   or extreme cruelty and INS non-citizen status, and one (1) is based on severe forms of
+   trafficking and certification by U.S. Health and Human Services.
+
+B. The eleven (11) classifications of qualified non-citizens are:
+
+   1. A Non-Citizen Lawfully Admitted for Permanent Residence (LPR). Under the
+      Immigration and Nationality Act (INA),
+
+   2. A refugee. Admitted under Section 207 of the INA,
+
+   3. A Non-Citizen granted Asylum. Under Section 208 of the INA,
+
+   4. A Cuban and Haitian Entrant. As defined in Section 501(e) of the Refugee Education
+      Assistance Act of 1980,
+
+   5. A Non-Citizen Granted Parole For At Least One (1) Year. Under Section 212(d)(5) of the
+      INA,
+
+   6. A Non-Citizen Whose Deportation Is Being Withheld. Under (1) Section 243(h) of the
+      INA as in effect prior to April 1, 1997; or (2) Section 241(b)(3) of the INA, as amended,
+
+   7. A Non-Citizen Granted Conditional Entry. Under Section 203(a)(7) of the INA in effect
+      before April 1, 1980,
+
+   8. A Battered Non-Citizen. A qualified non-citizen includes an individual who has been
+      battered or subjected to extreme cruelty in the U.S. by a spouse or a parent or by a
+      member of the spouse or parent’s family residing in the same household as the non-
+      citizen. The non-citizen must be either the person battered, the parent of a child who is
+      battered or a child whose parent has been battered. The battered non-citizen must not be
+      residing in the same household with the person responsible for the battery or extreme
+      cruelty at the time of application for coverage. A battered non-citizen must meet the
+      condition set forth in Section 431(c) of PRWORA, as added by Section 501 of the Illegal
+      Immigration Reform and Immigrant Responsibility Act of 1996 Pub. L. 104-
+      208(IIRIRA), and amended Section 5571 Balanced Budget Act of 1997, Pub. L.105-
+
+
+
+                                                20
+       33(BBA) and Section 1508 of the Violence Against Women Act of 2000, PRWORA as
+       amended, is codified at 8 U.S.C. § 1641(e), or
+
+   9. A Victim of a Severe Form of Trafficking. In accordance with Section 107(b)(1) of the
+      trafficking Victims Protection Act of 2000, Pub. L. 106-86. A non-citizen who is a victim
+      of trafficking is eligible to the same extent as a non-citizen admitted to the U.S. as a
+      refugee under section 207 of the INA.
+
+   10. American Indians born in Canada are considered qualified non-citizens if:
+
+       a) They are at least one-half American Indian blood, and
+
+       b) Have established and maintained residence in the US since entry.
+
+   11. Citizens of the Freely Associated (COFA) States of Micronesia, the Republic of the
+       Marshall Islands, and the Republic of Palau.
+
+Source: 8 U.S.C. §§ 1101 et seq. and § 1641; Pub. L. 96-422; Pub. L. 106-86; and Pub. L. 116-
+        260.
+
+History: Revised eff. 11/01/2025; Revised eff. 08/01/2020.
+
+Rule 3.6: Five-Year Disqualification Period
+
+A. Unless an exemption is met, qualified non-citizens admitted to the U.S. on or after August
+   22, 1996, are disqualified from receiving public benefits for:
+
+   1. The first five (5) years from the date they entered the country, or
+
+   2. The first five (5) years from the day they obtained qualified non-citizen status, whichever
+      is later.
+
+B. During this five (5) year-ban or disqualification period, these non-citizens are eligible only
+   for emergency services if they meet all other eligibility requirements.
+
+Source: 42 C.F.R. § 435.406; 8 U.S.C. § 1613.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.7: Classifications Subject to Five-Year Ban
+
+A. Non-exempt non-citizens in the following classifications, admitted to the U.S. on or after
+   August 22, 1996, are subject to the five (5) year disqualification.
+
+   1. Lawful Permanent Resident (LPR) Non-Citizens,
+
+
+
+                                               21
+   2. Non-Citizens Granted Parole for at Least One Year, and
+
+   3. Battered Non-Citizens.
+
+   4. Non-Citizens granted conditional entry under Section 203(a)(7) of the INA in effect
+      before April 1, 1980, are not exempt from the five (5) year disqualification per se;
+      however, as a practical matter the disqualification will never apply since by definition,
+      they entered the United States and obtain qualified non-citizen status prior to August 22,
+      1996.
+
+B. During the disqualification period these non-citizens are potentially eligible only for
+   Emergency Medicaid services.
+
+Source: 8 U.S.C. § 1613.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.8: Classifications Subject to a Seven-Year Limit on Eligibility
+
+A. The following non-citizen classifications are exempt from the five (5) year ban but are
+   subject to a seven (7) year eligibility limit, if otherwise eligible:
+
+   1. Refugees, including Iraqi and Afghan Special Immigrants, may qualify until seven (7)
+      years after date of entry into the U.S.,
+
+   2. Asylees may qualify until seven (7) years after the grant of asylum,
+
+   3. Amerasian immigrants may qualify for seven (7) years after date of entry in the U.S.,
+
+   4. Cuban/Haitian entrants may qualify until seven (7) years after grant of that status,
+
+   5. Non-Citizens who have been granted withholding of deportation may qualify the first
+      seven (7) years after grant of deportation withholding, and
+
+   6. Victims of trafficking and their derivative beneficiaries may qualify during the first seven
+      (7) years after obtaining that status.
+
+B. The seven (7) year period is a point in time in which the non-citizen may qualify for benefits
+   if otherwise eligible and an application is timely filed. The seven (7) year period begins with
+   either the date of entry into the U.S. or the date status is granted.
+
+C. Eligibility must terminate the month following the end of the seven (7) year period unless the
+   non-citizen’s status changes to a status that is not subject to the seven (7) year limit.
+
+
+
+
+                                               22
+D. When the non-citizen’s status adjusts to LPR during the seven (7) year period, the non-citizen
+   can continue to be eligible for the remainder of the seven (7) year period, provided the non-
+   citizen is otherwise eligible.
+
+E. To continue eligibility beyond the seven (7) year period, the non-citizen must be credited
+   with forty (40) qualifying quarters of coverage or meet an exemption. Otherwise, the non-
+   citizen’s eligibility ends the first month after the seven (7) year period ends.
+
+Source: 8 U.S.C. §§ 1613, 7105.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.9: Qualified Non-Citizens Not Subject to Eligibility Restrictions
+
+A. The following groups of qualified non-citizens are exempt from both the five (5) year
+   disqualification and the seven (7) year eligibility time limit, and if otherwise eligible, qualify
+   for full Medicaid:
+
+   1. Any qualified non-citizen who is also
+
+       a) An honorably discharged veteran, or
+
+       b) On active duty in the U.S. military, or
+
+       c) The spouse of an non-citizen honorably discharged veteran or non-citizen on active
+          duty in the U.S. military (including a surviving spouse who has not remarried), or
+
+       d) An unmarried dependent child of an honorably discharged veteran or
+          individual on active duty in the military;
+
+   2. Grandfathered non-citizens, i.e., those eligible for and receiving Medicaid on August 22,
+      1996,
+
+   3. Non-citizens who entered the U.S. and obtained qualified status prior to August 22, 1996,
+      or
+
+   4. Non-citizens who entered the U.S. prior to August 22, 1996, but obtained qualified status
+      on or after that date, and remained “continuously present” in the U.S. from their last entry
+      date into the country prior to August 22, 1996, until becoming a qualified non-citizen.
+      Refer to Rule 3.4, infra, for the definition of “continuously present.”
+
+   5. Ukrainian nationals paroled into the US on or between February 24, 2022, and September
+      30, 2024, are qualified non-citizens eligible to the same extent as refugees. Ukrainian
+      nationals paroled after September 30, 2023, who are the spouse or child of the parolee
+      above or are the parent, legal guardian or primary caregiver for the parolee above who
+      entered as an unaccompanied minor are also eligible to the same extent as refugees.
+
+
+                                                 23
+       However, this special group is not subject to the five (5) year bar and not limited to seven
+       (7) years of eligibility.
+
+   6. Qualified American Indians born in Canada are regarded to have lawful permanent
+      resident status, but are not in the lawfully admitted for permanent residence (LPR)
+      classification.
+
+   7. Citizens of the Freely Associated (COFA) States of Micronesia, the Republic of the
+      Marshall Islands, and the Republic of Palau.
+
+B. Non-citizens filing an application for Emergency Medicaid services only are not subject to
+   either the five (5) year disqualification or seven (7) year time limit.
+
+Source: 8 U.S.C. § 1612; Pub. L. 82-414, Pub. L. 116-260; Pub. L. 117-128; and Pub. L. 118-
+        50.
+
+History: Revised eff. 11/01/2025; Revised eff. 08/01/2020.
+
+Rule 3.10: Requirement for Forty (40) Qualifying Quarters
+
+A. At the end of the five (5) year disqualification period, a non-citizen classified as lawfully
+   admitted for permanent residence (LPR) is potentially eligible for full Medicaid benefits only
+   if the non-citizen has forty (40) qualifying quarters (QQs) of earnings covered by Social
+   Security or can be credited with forty (40) QQs that satisfy the requirement.
+
+B. If forty (40) QQs cannot be credited, the LPR remains potentially eligible for Emergency
+   Medicaid only. Non-citizens who are subject to the mandatory five (5) year disqualification
+   period are not eligible for full Medicaid for the first five (5) years, even if they can be
+   credited with forty (40) qualifying quarters prior to or during the five (5) year disqualification
+   period.
+
+C. The disqualification period must be imposed before an assessment of eligibility based on the
+   forty (40) quarter requirement.
+
+D. Non-citizens classified as granted parole for at least one year, battered non-citizens and non-
+   citizens granted conditional entry are not required to have forty (40) QQ.
+
+Source: 42 C.F.R. §§ 435.406 and 435.956.
+
+History: Revised eff. 08/01/2020, Revised to correspond with SPA 2013-0023 (eff. 01/01/2014),
+         eff. 09/01/2014.
+
+Rule 3.11: Forty (40) Qualifying Quarters of Earnings
+
+A “qualifying quarter” (QQ) is a quarter of coverage as defined under Title II of the Social
+Security Act that is worked by the non-citizen, and/or:
+
+
+                                                 24
+A. All the qualifying quarters worked by the spouse of the non-citizen during their marriage,
+   provided the non-citizen remains married to the spouse or the marriage ended by death, and
+
+B. All of the qualifying quarters worked by a parent of a non-citizen while the non-citizen was
+   under age eighteen (18). The non-citizen does not have to be under eighteen (18) at the time
+   of the application.
+
+C. Subject to the limitations above, the non-citizen’s own QQ’s can possibly be combined with
+   those of the non-citizen’s parent(s) and/or spouse to attain the required forty (40) quarters.
+
+Source: 8 U.S.C. § 1645.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.12: Receipt of Means-Tested Benefits
+
+After December 31, 1996, any quarter in which any of these individuals, i.e., the non-citizen , the
+non-citizen’s parent(s) and/or spouse, received Federal means-tested benefits, such as Temporary
+Assistance to Needy Families, Supplemental Security Income and Medicaid, cannot be credited
+to meet the forty (40) quarter requirement.
+
+Source: 8 U.S.C. § 1645.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.13: Electronic Verification of Qualified Non-Citizen Status
+
+A. The primary data source for verifying non-citizen status is the Verify Lawful Presence
+   function through the Federal Data Services Hub.
+
+B. The secondary electronic data source is the Systematic Alien Verification for Entitlement
+   (SAVE) process.
+
+C. Both data sources are used to verify:
+
+   1. The authenticity of the non-citizen’s USCIS (U.S. Citizenship and Immigration Service)
+      documents,
+
+   2. The date of the non-citizen’s admission to the U.S., and
+
+   3. The current immigration status of the non-citizen.
+
+D. Non-citizens in a grandfathered status dependent on continuous presence in the U.S. requires
+   additional proof provided by the non-citizen to document continuous presence.
+
+
+
+                                                25
+E. Non-citizen status is not re-verified unless status is subject to change.
+
+F. Non-citizens applying for Emergency Medicaid services only are not subject to electronic
+   verification of status.
+
+Source: 42 C.F.R. §§ 435.406, 435.949.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.14: Verification for Victims of Trafficking
+
+The Federal Data Services Hub (FDSH) may verify the lawful presence of a trafficking victim, in
+which case no further verification is needed. It is not possible to verify victims of trafficking
+using the Department of Homeland Security’s Systematic Alien Verification for Entitlements
+(SAVE) database. If electronic verification is not possible, the Office of Refugee Resettlement
+(ORR) issues a certification letter for an adult who has been subjected to a severe form of
+trafficking and meets statutory certification requirements. The ORR also issues a similar
+eligibility letter for children. Other agencies may issue letters or documents to victims of severe
+forms of trafficking; however, the ORR letter is the acceptable verification. Victims of
+trafficking are not required to provide immigration documents.
+
+Source: 22 U.S.C. § 7105.
+
+History: Revised eff. 11/01/2025; Revised eff. 08/01/2020.
+
+Rule 3.15: Verification for Battered Non-Citizens
+
+Electronic verification of lawful presence through the Federal Data Services Hub or the
+Systematic Alien Verification for Entitlement (SAVE) is used to verify status if possible. If not,
+available immigration documents will be used to submit to SAVE for verification purposes. The
+non-citizen must also be able to show a substantial connection between the battery or extreme
+cruelty and the need for Medicaid, such as to obtain medical attention or mental health
+counseling caused by abuse or to replace medical coverage lost when the individual separated
+from the abuser. If the battered non-citizen resumes living with the one who is responsible for
+the battery or extreme cruelty, the battered non-citizen’s eligibility ends the month after the
+month of reconciliation.
+
+Source: 8 U.S.C. § 1641.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.16: Veterans, Active Duty Military and Family Member Requirements
+
+A. To be eligible as a veteran, the qualified non-citizen must have been honorably discharged,
+   not based on non-citizen status, and must have fulfilled minimum active duty service
+   requirements. A qualified non-citizen who is an active duty member of the Armed Forces,
+
+
+                                                 26
+   but not on active duty for training purposes only, can also be eligible. A qualified non-citizen
+   who is the spouse of a veteran or active duty service member may be eligible. The veteran’s
+   exemption also includes the unmarried surviving spouse of a veteran or active duty military
+   person.
+
+B. To qualify as a surviving spouse, at least one (1) of the following conditions must be met:
+
+   1. The spouse must have been married to the veteran for at least one (1) year,
+
+   2. The spouse must have had a child with the veteran, or
+
+   3. The veteran’s death must have been due to an injury or illness incurred during military
+      service, and the marriage must have been in existence sometime within fifteen (15) years
+      after the period of service in which the injury or disease was incurred or aggravated.
+
+C. Surviving spouses who remarry lose the benefit of this exemption the month after the month
+   of the remarriage. Spouses whose marriage ended in divorce lose the benefit of this
+   exemption the month after the month of divorce.
+
+D. To qualify as a child of a veteran or active duty U.S. military person, the biological, adopted
+   or stepchild must be:
+
+   1. Unmarried and claimable as a dependent on the military person’s tax return and under
+      age eighteen (18) years of age or under age twenty-two (22) and a student regularly
+      attending school,
+
+   2. A child with disabilities who is over age eighteen (18) if the child had a disability and
+      was a dependent of the veteran or active duty military member before the child’s
+      eighteenth (18th) birthday, or
+
+   3. A surviving unmarried minor child of a veteran or person killed in active duty and
+      dependent on the veteran at the time of the veteran’s death.
+
+Source: 8 U.S.C. § 1612.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.17: Non-Qualified Non-Citizens
+
+A. A non-citizen who does not meet the specific requirements of a qualified non-citizen is a
+   non-qualified non-citizen for Medicaid purposes. A non-qualified non-citizen who meets
+   Mississippi residency requirements and other applicable eligibility factors can receive
+   Medicaid Emergency Services only.
+
+B. An applicant for Emergency Medicaid services is not required to provide information
+   regarding citizenship, immigration or enumeration and should not be asked to do so.
+
+
+                                               27
+Source: 42 C.F.R. §§ 435.139 and 440.255.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.18: Undocumented Non-Citizens
+
+A. Undocumented non-citizens are non-qualified non-citizens. This group of individuals
+   includes:
+
+   1. Undocumented non-citizens who entered illegally without knowledge of USCIS, or
+
+   2. Non-citizens who were admitted for a limited period of time and did not leave the U.S.
+      when the period of time expired.
+
+B. These individuals, if they meet all eligibility criteria except citizenship/non-citizen status, are
+   entitled to Medicaid only for treatment of an emergency medical condition. The Division of
+   Medicaid must accept the applicant’s statement if they say they have no documentation and
+   assess the non-citizen for emergency services only. Undocumented and unauthorized non-
+   citizens do not have to provide a Social Security Number or provide information regarding
+   citizenship or immigration status. The non-citizen status of an undocumented or unauthorized
+   non-citizen is not verified through electronic verification processes.
+
+Source: 42 C.F.R. § 440.255.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.19: Ineligible Non-Citizens
+
+A. Ineligible non-citizens may be lawfully admitted to the U.S., but only for a temporary or
+   specified period of time. These non-citizens are never qualified non-citizens. Because of the
+   temporary nature of their admission status, most ineligible non-citizens are not entitled to any
+   Medicaid benefits, including emergency services.
+
+B. In some instances, a non-citizen in a currently valid non-immigration status may meet state
+   residency requirements, such as intent to reside in Mississippi for purpose of employment. If
+   state residency requirements are met, the non-citizen is potentially eligible for Emergency
+   Medicaid services only.
+
+C. Examples of ineligible non-citizens who are lawfully admitted:
+
+   1. Foreign Students,
+
+   2. Visitors,
+
+   3. Tourists,
+
+
+                                                 28
+   4. Foreign government representatives and their families and servants,
+
+   5. Crewmen on shore leave,
+
+   6. International organization representatives and their families and servants,
+
+   7. Temporary workers (individuals allowed entry temporarily for employment purposes),
+
+   8. Members of the foreign press, radio, film, etc., and their families, and
+
+   9. Short term parolees.
+
+D. Ineligible non-citizens who are admitted lawfully must possess one of the following:
+
+   1. Visa, Passport, or Form I-766,
+
+   2. Form I-94, Arrival/Departure Record annotated with A-M, or
+
+   3. Form I-688 Temporary resident Card annotated with Section 210 or 245 A.
+
+Source: 42 C.F.R. § 440.255.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.20: Other Non-Citizens
+
+Non-citizens who are admitted legally to the U.S. but do not fall into one of the specific
+categories of qualified non-citizens are non-qualified non-citizens. These individuals may
+include Legal Temporary Residents (LTRs), as well as individuals who are given temporary
+administrative statuses, i.e., a stay of deportation or voluntary departure until they can formalize
+permanent status, or individuals who are paroled for less than one year or non-citizens under
+deportation procedures.
+
+Source: 42 C.F.R. § 440.255.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.21: Immigration Reporting
+
+A. Applicants who are found to be in the U.S. illegally through the application process are not
+   subject to immigration reporting requirements. Persons who apply for benefits on behalf of
+   others, i.e., a mother applying for her children, are not subject to immigration reporting
+   requirements.
+
+
+
+
+                                                29
+B. Declining to provide documentation of immigration status is not a valid reason to report a
+   non-citizen to immigration. The non-citizen applicant who declines to present documentation
+   of qualified non-citizen status will only be able to receive Emergency Medicaid if otherwise
+   eligible. In this instance, there is no reason to seek further verification of non-citizen status
+   beyond interviewing the applicant.
+
+C. All rules of confidentiality must be applied to an individual’s non-alien status.
+
+Source: 42 C.F.R. §§ 435.139 and 440.255.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.22: Criteria for Approval of Emergency Services
+
+A. Non-citizens who are not entitled to full Medicaid benefits may be eligible for emergency
+   services only, if the following conditions exist:
+
+   1. All other eligibility requirements are met except satisfactory immigration status.
+
+   2. Care and services needed are not related to an organ transplant procedure or routine
+      prenatal or postpartum care.
+
+   3. The non-citizen has, after sudden onset, a medical condition manifesting itself by acute
+      symptoms of sufficient severity (including severe pain) such that the absence of
+      immediate medical attention could reasonably be expected to result in:
+
+       a) Placing the patient’s health in serious jeopardy,
+
+       b) Serious impairment to bodily functions,
+
+       c) Serious dysfunction of any bodily organ or part, or
+
+       d) The patient requires services for labor and delivery.
+
+B. The services provided in this situation must relate to the injury, illness, or delivery causing
+   the emergency. Services that are not directly related to the injury, illness, or delivery are not
+   compensated by Medicaid. Once the medical condition is stabilized, even if it remains
+   serious or results in death, it is no longer an emergency.
+
+Source: 42 C.F.R. §§ 435.139 and 440.255.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.23: Processing Eligibility for Emergency Medicaid Services
+
+
+
+
+                                                30
+At the point of application, the applicant, who is a non-qualified non-citizen or a qualified non-
+citizen subject to five (5) year disqualification, must be informed that if all applicable program
+eligibility requirements are met, Medicaid may reimburse for emergency services only (including
+labor and delivery) after the services have been received.
+
+Source: 42 C.F.R. §§ 435.139 and 440.255.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.24: Determining Eligibility for Emergency Medicaid Services
+
+A. When determining eligibility for Medicaid coverage for treatment of an emergency medical
+   condition only, information obtained must:
+
+   1. Establish eligibility based on emergency services criteria, such as copy of the hospital bill
+      or other documentation from the hospital including treatment or services received, dates
+      of service and the diagnosis for the individual’s condition, and
+
+   2. Establish eligibility on technical factors such as income and resource eligibility, as
+      appropriate.
+
+B. The non-citizen must meet all eligibility factors for the category of eligibility in which the
+   non-citizen qualifies except for citizenship, non-citizen status and enumeration requirements.
+
+Source: 42 C.F.R. §§ 435.139, 440.255.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.25: Citizen Children of Non-Qualified Alien(s)
+
+Children born in the United States to non-qualified non-citizen parent(s), may be eligible for full
+Medicaid. The parent(s) and any sibling(s) who are non-qualified non-citizens cannot be eligible
+for full Medicaid benefits; however, they may be assessed for Emergency Medicaid Services. A
+child born to a mother eligible for emergency services for labor and delivery is deemed eligible
+for Medicaid through the month of the child’s first birthday. When the child reaches the age of
+one, a review is required. Verifications postponed during the deemed eligible child’s first year
+must be provided.
+
+Source: 42 C.F.R. § 435.117.
+
+History: Revised eff. 08/01/2020.
+
+Rule 3.26: Public Charge
+
+A. Non-citizens who seek admission to the U.S. must establish that they will not become “public
+   charges.”
+
+
+                                                31
+B. A “public charge” is a non-citizen who has become (for deportation purposes), or who is
+   likely to become (for admission/adjustment purposes), solely dependent on government
+   assistance as demonstrated by receipt of the following:
+
+   1. Receipt of public cash assistance for income maintenance (including Temporary
+      Assistance for Needy Families or Supplemental Security Income).
+
+   2. Medicaid with the exceptions for emergency services, coverage or pregnant women and
+      coverage of children under age twenty-one (21).
+
+   3. Supplemental Nutrition Assistance Program.
+
+   4. Public Housing or Section 8 vouchers.
+
+C. The Public Charge rule does not apply to certain classes of non-citizens including refugees
+   and persons granted asylum or victims of trafficking or criminal activity or individuals
+   classified under the Violence Against Women Act or military service members and their
+   spouses and children.
+
+D. USCIS officials make a determination of public charge on a case-by-case basis. The
+   Division of Medicaid is not involved in this determination and Medicaid eligibility is based
+   on immigration status combined with all other Medicaid criteria in determining eligibility for
+   non-citizens.
+
+Source: Immigration and Nationality Act § 212(a)(4), 8 U.S.C. § 1182(a)(4).
+
+History: Revised eff. 08/01/2020.
+
+Chapter 4:    Enumeration
+
+Rule 4.1: Social Security Number (SSN)
+
+Enumeration is the process of assigning Social Security Numbers. In general, applicants for
+Medicaid must be enumerated as a condition of eligibility by either;
+
+A. Furnishing the Social Security Number (SSN). The applicant can verbally provide the SSN
+   when they do not have a card or other document with the number on it; or
+
+B. Providing verification of an application for a SSN when a number has not already been
+   assigned.
+
+Source: 42 C.F.R. § 435.910.
+
+History: Revised eff. 08/01/2020.
+
+
+
+                                               32
+Rule 4.2: Exceptions to the Enumeration for Applicants
+
+Exceptions to the enumeration requirement are limited to the following:
+
+A. Non-qualified non-citizens applying for Emergency Medicaid services only do not have to
+   provide a Social Security Number or provide proof of an application for a Social Security
+   Number (SSN) as a condition of eligibility for emergency benefits.
+
+B. The requirement is postponed for deemed eligible infants until the first redetermination.
+
+C. The Social Security Administration (SSA) does not issue SSNs to deceased individuals. The
+   enumeration requirement is applicable if the SSN was issued prior to death.
+
+D. The enumeration requirement may be waived for an applicant who, because of well-
+   established religious objections, refuses to obtain a SSN. A statement written by the applicant
+   including the applicant’s religious affiliation and reasons for objecting to the requirement
+   must be obtained. The agency will review the statement for compliance with the
+   requirements of 42 C.F.R. § 435.910 (h)(iii).
+
+E. Individuals not eligible to receive a SSN.
+
+F. An individual does not have a SSN and may only be issued one for a valid non-work reason.
+   These are non-citizens in a lawful immigration status in the U.S. that do not have Department
+   of Homeland Security work authorization.
+
+Source: 42 C.F.R. § 435.910.
+
+History: Revised eff. 08/01/2020.
+
+Rule 4.3: Non-Applicants and Enumeration.
+
+A. Non-applicants cannot be required to disclose their own SSN as a condition of an applicant’s
+   eligibility.
+
+B. Voluntary disclosure of the non-applicant’s SSN whose income is countable will enable the
+   agency to make a more accurate eligibility determination and ensure correct benefits. If the
+   non-applicant’s income is countable and is from a source usually verified using the SSN,
+   alternate verification must be provided.
+
+C. The application cannot be denied solely because a non-applicant’s SSN is not disclosed.
+
+Source: 42 C.F.R § 435.910.
+
+History: Revised eff. 08/01/2020.
+
+Rule 4.4: Use of Social Security Numbers
+
+
+                                                33
+Social Security Numbers will be matched with federal and state agencies at the time of
+application and renewal, as appropriate, to verify income and eligibility.
+
+Source: 42 C.F.R. § 435.940.
+
+History: Revised eff. 08/01/2020.
+
+Rule 4.5: Verification of the Social Security Number
+
+When the applicant provides a document with the Social Security Number (SSN) or provides the
+number verbally, the number must be electronically verified with the Social Security
+Administration (SSA).
+
+A. If the number originally submitted to the State Verification and Exchange System (SVES) is
+   not verified, the correct information must be obtained and re-submitted to SSA for
+   verification.
+
+B. If discrepancies exist, such as an applicant/beneficiary who has more than one SSN or has the
+   same SSN as another individual, the client must be referred to the Social Security
+   Administration office for resolution.
+
+Source: 42 C.F.R. § 435.910.
+
+History: Revised eff. 08/01/2020.
+
+Chapter 5:     Categorical Eligibility
+
+Rule 5.1: Categorical Eligibility.
+
+A. Eligibility for the Medicaid program is limited to certain groups of individuals authorized by
+   Congress.
+
+B. When authorizing a group, Congress also establishes specific requirements that must be met
+   to qualify as a member of that group.
+
+   1. Each designated group is assigned a category of assistance.
+
+   2. The requirements that must be met to fit into a group or category are known as
+      categorical requirements.
+
+   3. The Division of Medicaid is responsible for the following categories of assistance: aged,
+      blind, disabled, children under age nineteen (19), pregnant women and parents and
+      caretakers with dependent children. The Division of Medicaid also manages and has
+      oversight responsibility for former foster children to age twenty-six (26).
+
+
+
+                                               34
+Source: Miss. Code Ann. § 43-13-121.
+
+History: Revised eff. 08/01/2020
+
+Rule 5.2: Aged
+
+A. An individual categorically eligible as aged must be sixty (65) years of age or older.
+
+B. According to the Supplemental Security Income program, a given age is attained on the first
+   moment of the day preceding the anniversary of the individual’s birth. For example, a person
+   born on January 1, 1943, is considered to be age sixty (65) as of December 31, 2007, and
+   meets the definition of an aged individual in the month of December 2007. A person born
+   January 2, 1942, meets the definition of an aged individual in January 2008.
+
+Source: 42 C.F.R. § 435.520.
+
+History: Revised eff. 08/01/2020.
+
+Rule 5.3: Blindness and Disability
+
+To be categorically eligible for Medicaid as blind or disabled, an individual must, at a
+minimum, meet the Supplemental Security Income (SSI) definition of blindness or disability.
+The Disability Determination Service (DDS) makes all decisions relating to disability and
+blindness for the Division of Medicaid and the Social Security Administration (SSA).
+
+Source: 42 C.F.R. § 435.541.
+
+History: Revised eff. 08/01/2020.
+
+Rule 5.4: Children Under Age 19
+
+A. Children under the age of 19 are eligible for Medicaid or the Children’s Health Insurance
+   Program (CHIP), depending on the child’s age, household income and other factors of
+   eligibility.
+
+B. Children under age 19 have continuous eligibility for a twelve (12) month certification period
+   unless an “early-out” termination reason is met.
+
+Source: 42 C.F.R. §§ 435.118, 435.926, 457.310.
+
+History: Revised eff. 08/01/2020.
+
+Rule 5.5: Pregnant Women
+
+A. A pregnant woman of any age is categorically eligible. Other factors of eligibility must be
+   met.
+
+
+                                                35
+B. A pregnant woman’s eligibility includes a twelve (12) month postpartum period following
+   the month of delivery, miscarriage or other termination of pregnancy.
+
+Source: 42 C.F.R. § 435.116; Miss. Code Ann. § 43-13-115.
+
+History: Revised eff. 11/01/2025; Revised eff. 08/01/2020, Deleted Miss. Admin. Code Part
+         102, Rule 5.5.C.
+
+Rule 5.6: Parents and Caretaker Relatives of Dependent Children
+
+A. Low-income parent(s) or caretaker relatives with children under age eighteen (18) are
+   categorically eligible for Medicaid. Other factors of eligibility must be met.
+
+B. This group includes intact two (2) parent families and families in which the children are
+   deprived of one or both parents.
+
+C. A caretaker relative with whom a dependent child is living is related by blood, adoption
+   or marriage and assumes primary responsibility for the child’s care. The caretaker
+   relative must meet a specified degree of relationship to qualify. The spouse of the
+   caretaker relative is included for coverage, provided the spouses live together.
+
+D. A dependent child is under the age of eighteen (18) and is deprived of parental support by
+   reason of the death, absence from the home, physical or mental incapacity, or
+   unemployment (or underemployment) of at least one parent.
+
+Source: 42 C.F.R. § 435.110.
+
+History: Revised eff. 08/01/2020; Revised to correspond with the Patient Protection and
+         Affordable Care Act, 42 U.S.C. § 18001 et seq.(eff. 01/01/2014), eff. 04/01/2014.
+
+Chapter 6:    General Eligibility Requirements
+
+Rule 6.1: Basic Eligibility Requirements
+
+ A. An eligible individual must:
+
+   1. Be in one of the categories of assistance;
+
+   2. Be a citizen of the United States or a qualified non-citizen;
+
+   3. Be a resident of Mississippi;
+
+   4. Have income and resources, when applicable, within specified program limits; and
+
+   5. File an application.
+
+
+                                               36
+B. Notwithstanding the above, an individual is not eligible in any program if the person:
+
+   1. Fails to assign rights to any third-party medical support or cooperate with the Division of
+      Medicaid in obtaining third-party payments;
+
+   2. Is a resident of a public institution except under specified conditions; or
+
+   3. Refuses to accept vocational rehabilitation services (Aged, Blind and Disabled Programs).
+
+Source: 42 C.F.R. § 435 et. seq.
+
+History: Revised eff. 11/01/2025; Revised eff. 08/01/2020.
+
+Rule 6.2: Eligible Individuals - Aged, Blind and Disabled (ABD) Programs
+
+A. An eligible ABD adult or child is one who meets all basic program requirements.
+
+B. An eligible spouse is a person who:
+
+   1. Meets all of the basic program requirements,
+
+   2. Is the spouse of an eligible individual; and
+
+   3. Lives with the eligible individual.
+
+   4. This includes a couple who hold themselves out as married.
+
+   5. The individual and spouse must each apply and meet all of the basic program
+      requirements to establish eligibility as a couple.
+
+Source: 42 C.F.R. § 435 et. seq.
+
+History: Revised eff. 08/01/2020.
+
+Rule 6.3: Eligible Individuals - Modified Adjusted Gross Income (Modified Adjusted Gross
+Income) Programs
+
+A. Children under age nineteen (19), pregnant women of any age and parents or needy
+   caretakers, within the specified degree of relationship, are eligible individuals for the
+   Modified Adjusted Gross Income programs if they apply and meet program requirements.
+
+B. For adult coverage:
+
+       1. Parents must live together; have a biological, adopted or stepchild; apply; and
+          meet all of the basic program requirements.
+
+
+                                                37
+   2. A needy caretaker must be the primary caretaker of a child under age eighteen (18).
+      The caretaker’s spouse must live with the needy caretaker to gain coverage.
+
+Source: 42 C.F.R. § 435.110.
+
+History: Revised eff. 08/01/2020; Revised to correspond with the Patient Protection and
+         Affordable Care Act, 42 U.S.C. § 18001 et seq. (eff. 01/01/2014), eff. 04/01/2014.
+
+Rule 6.4: Verification of Age
+
+A. The age of an individual must be verified in the following situations:
+
+   1. The applicant is an adult or child applying for benefits that are based on age;
+
+   2. There are ineligible children in an Aged, Blind and Disabled (ABD) deeming
+      household;
+
+   3. A disabled or blind applicant under age twenty-one (21) applies for ABD and any of
+      the following conditions exist:
+
+       a) Deeming;
+
+       b) Student earned income exclusion; or
+
+       c) Support from absent parent exclusion.
+
+B. Age is verified by matching with electronic data sources. If age cannot be verified by
+   available data sources, the applicant will be required to provide acceptable verification of
+   age.
+
+Source: 42 C.F.R. §§ 435.601 and 435.603.
+
+History: Revised eff. 08/01/2020; Revised to correspond with the Patient Protection and
+         Affordable Care Act, 42 U.S.C. § 18001 et seq. (eff. 01/01/2014), eff. 04/01/2014.
+
+Rule 6.5: Marital Relationships - Aged, Blind and Disabled (ABD) Programs
+
+A marital relationship is one in which members of the couple are:
+
+A. Married under state law,
+
+B. Married under common law provided the couple began holding out themselves to the public
+   as married prior to April 1, 1956,
+
+
+
+
+                                               38
+C. Married for Title II purposes, meaning one member of the couple is entitled to spouse’s
+   benefits on the record of the other,
+
+D. Living in the same household in a “holding out” relationship as a married couple.
+
+   1. A couple who live in the same household are married for Supplemental Security
+      Income/Medicaid purposes if they hold themselves out to the community in which they
+      live as a married couple.
+
+   2. It is possible for a couple to live together and not be “holding out” as married, depending
+      on the economic and social circumstances. The only way to make a determination of
+      marital status is examine how the couple holds themselves out to the community. If the
+      couple is determined to be living separately and apart, each is treated as an individual.
+      However, when evidence does not support that a couple is living separately and apart,
+      couple rules and deeming applies.
+
+   3. When a couple lives together, but denies “holding out,” evidence must be obtained to
+      make a determination as to the couple’s relationship and living arrangement. Such
+      evidence may include mortgages; leases; rent receipts; property deeds; bank accounts; tax
+      returns; credit cards; information from other government programs (Social Security
+      Administration, public housing, food stamps, etc.); and statements from friends, relatives
+      and neighbors.
+
+Source: 42 C.F.R. § 435.601.
+
+History: Revised eff. 08/01/2020.
+
+Rule 6.6: Termination of a Marital Relationship - Aged, Blind and Disabled (ABD) Programs
+
+A. For ABD programs, the marital relationship no longer exists as of the date that:
+
+   1. Either individual dies,
+
+   2. A final decree of divorce or annulment is issued for the marriage (if a divorced couple
+      resumes living together, a holding out relationship determination must be made),
+
+   3. Either individual begins living with another person as their spouse;,
+
+   4. The couple is determined not to be married for Title II purposes if that was the basis for
+      considering the couple married, or
+
+   5. The couple begins living in separate households.
+
+       a) When a married couple claims to be living apart, evidence must be obtained to make
+          a determination regarding the couple’s relationship and living arrangement. Such
+          evidence may include mortgages; leases; rent receipts; property deeds; bank accounts;
+          tax returns; credit cards; information from government programs (Social Security
+
+                                               39
+           Administration, public housing, food stamps, etc.); and statements from friends,
+           relatives and neighbors.
+
+       b) If the couple is living apart, each person is treated as an individual.
+
+B. A couple who are still legally married and resume living together after having lived apart is a
+   married couple, regardless of the reason for having resumed living together.
+
+Source: 42 C.F.R. § 435.601.
+
+History: Revised eff. 08/01/2020.
+
+Rule 6.7: Verification of a Marital Relationship - Aged, Blind and Disabled (ABD) Programs
+
+A marital relationship is presumed for an ABD couple unless the client states otherwise and
+provides the types of evidence listed in previous rules in this Chapter, supra, that indicate the
+relationship does not exist or has terminated.
+
+Source: 42 C.F.R. § 435.601.
+
+History: Revised eff. 08/01/2020.
+
+Rule 6.8: Changes in Marital Status - Aged, Blind and Disabled (ABD) Programs.
+
+A. A couple are married for a month if they meet any of the criteria for a marital relationship
+   within the month.
+
+B. When a change occurs and an individual marries, resumes living with a spouse, enters a
+   “holding out” relationship, etc., couple budgeting is applicable beginning the month of the
+   change in relationship status.
+
+   1. An increase in benefits can be effective immediately if policy otherwise allows it.
+
+   2. Adverse action rules apply when ineligibility or a decrease in benefits results for a
+      recipient. Termination of marriage is effective the month after the month of a death,
+      divorce, annulment or separation.
+
+C. For spousal impoverishment purposes applicable to institutionalization, the couple must be
+   legally married under state law or in a common-law marriage that began prior to April 1,
+   1956. The spousal impoverishment provision is not applicable to couples in “holding-out”
+   situations that began on or after April 1, 1956.
+
+Source: 42 C.F.R. § 435.601.
+
+History: Revised eff. 08/01/2020.
+
+
+
+                                                40
+Rule 6.9: Marital Relationships - Modified Adjusted Gross Income Programs.
+
+A. A marital relationship is one in which members of the couple are:
+
+   1. Married under state law, and
+
+   2. Married under common law prior to April 1, 1956, as recognized by Mississippi.
+
+B. Couples in “holding out” situations are unrelated individuals for Modified Adjusted Gross
+   Income purposes.
+
+Source: 42 C.F.R. § 435. 603.
+
+History: Revised eff. 08/01/2020, Deleted Miss. Admin. Code Part 102, Rule 6.9 A(4).
+
+Rule 6.10: Termination of a Marital Relationship -Modified Adjusted Gross Income Programs
+
+A. The marital relationship no longer exists for Modified Adjusted Gross Income purposes as
+   of the date that:
+
+   1. Either individual dies,
+
+   2. A final decree of divorce or annulment is issued for the marriage, or
+
+   3. The married couple begins living in separate households.
+
+B. A legally married couple who resumes living together after having lived apart are treated
+   as a married couple, regardless of the reason for having resumed living together. If a
+   divorced couple resumes living together, the adults are unrelated.
+
+Source: 42 C.F.R. § 435.603.
+
+History: Revised eff. 08/01/2020, Revised to correspond with the Patient Protection and
+         Affordable Care Act, 42 U.S.C. § 18001 et seq. (eff. 01/01/2014), eff. 04/01/2014.
+
+Rule 6.11: Changes in Marital Relationship - Applications, Modified Adjusted Gross Income
+Programs
+
+A. Marriage or termination of marriage, including separation, is effective the month the
+   event occurs.
+
+B. In application situations, individuals must be in the home at least one day of the month to
+   be included in that month.
+
+Source: 42 C.F.R. § 435.603.
+
+
+
+                                               41
+History: Revised eff. 08/01/2020, Revised to correspond with the Patient Protection and
+         Affordable Care Act, 42 U.S.C. § 18001 et seq. (eff. 01/01/2014), eff. 04/01/2014.
+
+Rule 6.12: Changes in Marital Relationship - Active Cases, Modified Adjusted Gross Income
+Programs
+
+A. A change in marital status must be reported by eligible adult recipients in the
+   Parent/Caretaker Program.
+
+B. When an adult becomes ineligible due to a change in marital status, eligibility is terminated
+   after advance notice.
+
+C. Any changes resulting for the children will be handled at review.
+
+Source: 42 C.F.R. § 435.916.
+
+History: Revised eff. 08/01/2020.
+
+Rule 6.13: Definition of a Child - Aged, Blind and Disabled (ABD) Programs
+
+In ABD programs, a child is defined as someone who is:
+
+A. Neither married nor head of a household, and
+
+B. Either under age eighteen (18), or
+
+C. Under age twenty-two (22) and a student regularly attending school, college or training that
+   is designed to prepare that individual for a paying job.
+
+Source: 42 C.F.R. § 435.602.
+
+History: Revised eff. 08/01/2020.
+
+Rule 6.14: Termination of Child Status- Aged, Blind and Disabled (ABD) Programs
+
+Status as a child ends:
+
+A. Effective with the month the child becomes age eighteen (18), or age twenty-two (22) if a
+   student, or
+
+B. The month the individual last meets the definition of a child.
+
+Source: 42 C.F.R. § 435.602.
+
+History: Revised eff. 08/01/2020.
+
+
+
+                                               42
+Rule 6.15: Student Status as an Eligibility Requirement Aged, Blind and Disabled (ABD)
+Programs
+
+A. A child under age eighteen (18) who does not expect to earn over $65 in any month meets the
+   definition of a child without regard to student status.
+
+B. Student status must be explored whenever an applicant or recipient between the ages of
+   eighteen (18) and twenty-two (22) alleges being a student.
+
+   1. An individual meets the definition of a child for purposes of allocation and budgeting if
+      the individual is:
+
+       a) Under age twenty-two (22), and
+
+       b) Regularly attending school, college or training designed to prepare the individual for
+          a paying job.
+
+          1) Regular attendance means the individual takes one or more courses of study and
+             attends classes:
+
+              (a) In a college or university for at least eight (8) hours a week under a semester
+                  or quarter system;
+
+              (b) In grades seven to twelve (7-12) for at least twelve (12) hours a week; or
+
+              (c) In a course of training to prepare the individual for a paying job for at least
+                  fifteen (15) hours a week if the course involves shop practice or twelve (12)
+                  hours a week if it does not involve shop practice.
+
+              (d) This kind of training includes antipoverty programs, such as Job Corps and
+                  government-supported courses in self-improvement.
+
+          2) Attendance may be less than the time indicated above for reasons beyond the
+             student’s control if the circumstances justify the reduced credit load or attendance.
+
+
+          3) Student status is also granted to homebound students who have to stay home due
+             to a disability.
+
+          4) Student status is granted if the child studies courses given by a school (grades
+             seven to twelve (7-12), college, university or government agency and a home
+             visitor or tutor directs the study or training.
+
+          5) A child remains a student when classes end if he attends classes regularly prior to
+             school vacation and intends to return when school reopens.
+
+
+
+                                              43
+   2. A student between the ages of eighteen (18) through twenty-two (22) may qualify for the
+      student earned income exclusion, if applicable, or an ineligible child allocation, which
+      may reduce the amount of deemed income from an ineligible spouse or parent.
+
+Source: 42 C.F.R. § 435.601.
+
+History: Revised eff. 08/01/2020.
+
+Rule 6.16: Definition of a Child - Modified Adjusted Gross Income Programs
+
+A. To be categorically eligible as a child in the Modified Adjusted Gross Income programs,
+   the individual must be under the age of nineteen (19).
+
+B. Age is verified, primarily through electronic sources.
+
+C. An individual’s status as a child ends effective the month after the child turns age
+   nineteen (19).
+
+Source: 42 C.F.R. § 435.603.
+
+History: Revised eff. 08/01/2020.
+
+Rule 6.17: Emancipated Children - Modified Adjusted Gross Income Programs
+
+A. Most children are dependents of their parents or have another adult caretaker. However,
+   some children may be emancipated. An emancipated minor is authorized to act on the
+   emancipated minor’s own behalf. Though not a dependent child, an emancipated minor
+   under age nineteen (19) is a categorically eligible child for Modified Adjusted Gross
+   Income programs.
+
+B. Emancipation may occur by court-ordered emancipation, marriage or living
+   independently; however, how an emancipated child under age 19 is treated for Medicaid
+   or Children’s Health Insurance Program purposes depends on the living arrangement of
+   the child, the child’s tax dependent or tax filer status and/or whether the child must be
+   treated as an exception to tax filer rules or under non-filer rules, as described in budgeting
+   rules.
+
+Source: 42 C.F.R. § 435. 603.
+
+History: Revised eff. 08/01/2020, Revised to correspond with the Patient Protection and
+         Affordable Care Act, 42 U.S.C. § 18001 et seq. (eff. 01/01/2014), eff. 04/01/2014.
+
+Rule 6.18: Minor Parents - Modified Adjusted Gross Income Programs
+
+An unmarried parent under age nineteen (19) who resides in the home with the minor parent’s
+child or children and the minor parent’s parents (the child or children’s grandparents) retains
+
+
+                                                44
+individual eligibility determined using tax filer or exception rules. The minor’s children are
+dependent children of the minor parent for determining their eligibility.
+
+Source: 42 C.F.R. § 435. 603.
+
+History: Revised eff. 08/01/2020, Revised to correspond with the Patient Protection and
+         Affordable Care Act, 42 U.S.C. § 18001 et seq. (eff. 01/01/2014), eff. 04/01/2014.
+
+Rule 6.19: Minor Heads of Household - Modified Adjusted Gross Income Programs
+
+A. There are instances in which it is permissible for a child to be the head of household.
+
+   1. Children living independently, including those in group homes, orphanages and other
+      situations in which parents have relinquished or abandoned custody, often have
+      individuals filing on their behalf, such as a social worker, administrator or foster parent.
+
+   2. It is also permissible for the child to file the application when the child is capable of
+      doing so.
+
+B. In addition, a child living with parents can be the head of household, i.e., the person filing the
+   application, under certain circumstances:
+
+   1. A married minor living with a spouse can file an application as head of household,
+      independent of parents.
+
+   2. A pregnant minor can file an application as a pregnant woman, independent of parents.
+
+   3. A minor parent can file an application for the minor parent’s children as head of
+      household. However, a minor parent must have the minor parent’s own eligibility
+      determined with the minor parent’s parents.
+
+Source: Miss. Code Ann. § 43-13-121.
+
+History: Revised eff. 08/01/2020.
+
+Rule 6.20: Medicare Entitlement
+
+A. An applicant or recipient entitled to Medicare Part A (Hospital Insurance) and Part B
+   (Supplemental Medical Insurance) must apply and accept coverage under Parts A and B
+   provided the Division of Medicaid will pay all associated premiums and cost-sharing
+   expenses for persons in the category of eligibility under which the individual is applying or is
+   eligible.
+
+   1. An applicant or recipient entitled to Medicare Part A with no premium payable (through
+      work history of self or spouse), must apply and accept both Part A and Part B of
+      Medicare as a condition of eligibility.
+
+
+                                                 45
+   2. An applicant or recipient who is not eligible for free Medicare Part A is required to apply
+      and accept Medicare as follows:
+
+       a) If household income is equal to or less than the federal poverty level (100% FPL), the
+           individual must apply and accept Medicare Part A under conditional enrollment,
+           meaning Medicare will be accepted when Medicare is approved and Medicaid begins
+           payment of the Part A premium. The individual must also apply for Medicare Part B
+           at the same time.
+
+       b) If household income is greater than the federal poverty level (100% FPL), the
+          applicant/recipient will not be required to apply for Medicare Part A unless the only
+          category of eligibility in which the individual qualifies is that of Specified Low
+          Income Medicare Beneficiary (SLMB) or Qualifying Individual (QI). Both SLMB
+          and QI require active Medicare Part A as a condition of eligibility.
+
+       c) An applicant or recipient will not be required to apply for Medicare if the individual
+          has previously applied for Medicare Part A and/or Part B and coverage for both or
+          either parts of Medicare were refused, withdrawn or terminated due to non-payment
+          of premiums. The Division of Medicaid will take appropriate action to have Medicare
+          Part A and/or Part B reopened through the Medicare Buy-In process if household
+          income is equal to or less than the federal poverty level (100% FPL). An individual
+          whose household income is greater than the FPL will not be required to reapply for
+          Medicare unless the only category of eligibility in which the individual qualifies is
+          that of a Specified Low-Income Medicare Beneficiary (SLMB) or a Qualified
+          Individual (QI), in which case reapplication for Medicare Part A is required as a
+          condition of eligibility.
+
+Source: 42 C.F.R. § 431.625; Miss. Code Ann. § 43-13-121.
+
+History: Revised eff. 11/01/2025; Revised eff. 08/01/2020.
+
+Rule 6.21: [Reserved]
+
+Rule 6.22: [Reserved]
+
+Rule 6.23: [Reserved]
+
+Rule 6.24: [Reserved]
+
+Rule 6.25: [Reserved]
+
+Rule 6.26: [Reserved]
+
+Rule 6.27: [Reserved]
+
+
+
+                                              46
+Rule 6.28: [Reserved]
+
+Rule 6.29: [Reserved]
+
+Rule 6.30: [Reserved]
+
+Rule 6.31: Assignment of Third-Party Rights
+
+A. Federal law requires that all Medicaid and/or Children’s Health Insurance Program (CHIP)
+   applicants and recipients must cooperate with the Medicaid Agency in identifying, to the
+   extent they are able, potentially liable insurers and other third parties who may be liable to
+   pay for care and services covered by Medicaid and/or CHIP.
+
+B. As a condition of eligibility, each applicant/recipient must:
+
+   1. Disclose all potential third-party liability sources,
+
+   2. Assign to the Division of Medicaid the applicant’s/recipient’s individual rights to medical
+      support and other third-party payments, and such rights of any other eligible individuals
+      for whom the applicant/recipient has legal authority,
+
+   3. Cooperate in establishing paternity and obtaining medical support or payments, when
+      applicable, and
+
+   4. Cooperate in identifying and providing information to obtain third-party payments.
+
+C. By accepting Medicaid in Mississippi, each applicant/recipient is deemed to have made an
+   assignment to the Mississippi Medicaid Program of the applicant’s/recipient’s rights to
+   medical support or any third-party benefits, including hospitalization, accident, medical or
+   health benefits owed to the individual, as well as rights to such benefits owed by any third
+   party to the children or any other person for whom the applicant/recipient has legal authority
+   to execute such an assignment.
+
+D. The individual’s signature on the application form at initial application and each
+   redetermination of eligibility acknowledges the automatic assignment of all third-party
+   rights.
+
+Source: 42 C.F.R. § 435.610.
+
+History: Revised eff. 08/01/2020.
+
+Rule 6.32: Failure to Cooperate With Third-Party Assignment
+
+A. The Third-Party Recovery (TPR) Unit has the responsibility for determining if an individual
+   has failed, without good cause, to cooperate with assignment of third-party rights.
+
+
+
+                                                47
+B. If the TPR Unit determines there was good cause for failure to cooperate, the individual will
+   be exempted from the cooperation requirement.
+
+C. A determination of failure to assign rights or lack of cooperation in obtaining third-party
+   payments, without good cause, will result in denial or termination of Medicaid benefits after
+   affording the right to appeal.
+
+D. If the TPR Unit determines an individual has failed, without good cause, to cooperate with
+   third-party assignment, action may be taken to deny or terminate eligibility with advance
+   notice and state appeal rights.
+
+Source: Miss. Code Ann. § 43-13-121.
+
+History: Revised eff. 08/01/2020.
+
+Rule 6.33: Children’s Health Insurance Program (CHIP) and Other Insurance Coverage -
+Modified Adjusted Gross Income Programs
+
+A. Children who are covered by creditable third-party insurance at application are not eligible
+   for CHIP. This is true regardless of who pays the health insurance premiums. Geographical
+   access is taken into consideration when creditable coverage exists for a child. A CHIP child
+   with creditable coverage but no geographical access to the coverage network cannot be
+   denied CHIP.
+
+B. Creditable insurance coverage is full health insurance through a job-based health plan,
+   private health insurance, Medicare, Medicaid, CHIP, CHAMPUS, TRICARE and veterans’
+   health coverage through the VA or the Health Insurance Marketplace and any health plan
+   established or maintained by a state, the U.S. government or a foreign country or a state
+   health insurance risk pool.
+
+C. Children with limited scope coverage are not considered to have creditable coverage;
+   however, assignment of rights applies if CHIP pays for a benefit that is the legal liability of
+   the limited third-party coverage that includes: accident insurance, disability income
+   insurance, liability insurance, supplemental policies for liability insurance, worker’s
+   compensation, automobile medical payment insurance, credit-only insurance, coverage for
+   onsite medical clinics or limited-scope dental or vision or long-term care insurance.
+
+D. Termination of creditable coverage must be verified when the application indicates insurance
+   coverage will terminate within the thirty (30) day application processing period or terminated
+   within the six (6) months prior to the application.
+
+E. When creditable insurance coverage will terminate within the thirty (30) day application
+   processing period, an otherwise CHIP-eligible child is not denied.
+
+F. If all other factors of eligibility will be met, the application will be held and action taken to
+   approve the child after the insurance coverage has ended.
+
+
+                                                48
+Source: 45 C.F.R. § 457.310, Miss. Code Ann. § 43-13-121.
+
+History: Revised eff. 08/01/2020.
+
+Rule 6.34: Child Support Requirements in General
+
+A. State IV-D agencies are required to petition for medical support when health insurance is
+   available to the absent parent at a reasonable cost. In order for the IV-D agency to provide
+   the services required by law, the Division of Medicaid must refer the following children to
+   the Mississippi Department of Human Services (MDHS), Child Support Enforcement Office:
+
+   1. Disabled children in an Aged, Blind and Disabled program with an absent parent, and
+
+   2. Dependent children with an absent parent. Dependent children are those with a parent or
+      caretaker eligible for Medicaid in the Parent/Caretaker Modified Adjusted Gross Income
+      Medicaid program.
+
+B. State IV-D Cooperation is not required for the FPL programs; however, the client can
+   volunteer for the child support services for children in FPL Medicaid programs.
+
+Source: 45 C.F.R. § 233.90.
+
+History: Revised eff. 08/01/2020.
+
+Rule 6.35: Child Support Requirements for Parents and Caretaker Relatives.
+
+A. Referral to and cooperation with child support is required as a condition of the adult’s
+   eligibility if the deprivation reason for at least one child is continued absence.
+
+B. The parent or caretaker relative must cooperate with child support requirements and assist
+   the state by cooperating with enforcement of existing court orders or in obtaining at least
+   medical support from the absent parent.
+
+C. A referral to the State IV-D agency is made whether or not there is an existing court order
+   and regardless of whether child support is being paid by the absent parent.
+
+Source: 45 C.F.R. § 233.90, Miss. Code Ann. § 43-13-121.
+
+History: Revised to correspond with the Patient Protection and Affordable Care Act, 42 U.S.C. §
+         18001 et seq. (eff. 01/01/2014), eff. 04/01/2014.
+
+Rule 6.36: Non-Cooperation and Good Cause Determinations
+
+
+
+
+                                               49
+A. At time of application, if the parent or caretaker relative refuses to cooperate with child
+   support or is already in a non-compliance status with the child support agency, the adult’s
+   Medicaid eligibility will be denied.
+
+B. After a referral to the State IV-D agency, satisfactory cooperation, good cause for failure to
+   cooperate and satisfactory cooperation after a period of non-compliance are determined by
+   the State IV-D agency.
+
+   1. If a non-compliance decision is received from the State IV-D agency, the adult’s
+      eligibility will be terminated allowing adverse action notice.
+
+   2. The sanction can only be removed when the adult has complied fully with child support
+      requirements as required by the State IV-D agency.
+
+   3. The requirement to cooperate as a condition of eligibility impacts the eligibility of an
+      adult only. The eligibility of a child is not impacted.
+
+Source: 45 C.F.R. § 233.90, Miss. Code Ann. § 43-13-121.
+
+History: Revised eff. 08/01/2020.
+
+Chapter 7: Non-Financial Requirements - Aged, Blind and Disabled (ABD) Programs
+
+Rule 7.1: Definition of Adult Disability
+
+The law defines disability as the inability to do any substantial gainful activity by reason of any
+medically determinable physical or mental impairment that can be expected to result in death or
+that has lasted or can be expected to last for a continuous period of not less than twelve (12)
+months.
+
+A. This means the adult is unable to do the adult’s previous work or any other substantial
+   gainful activity that exists in the national economy.
+
+B. The adult’s residual functional capacity, age, education and work experience are considered
+   in the disability determination process.
+
+Source: 42 C.F.R. § 435.540.
+
+History: Revised eff. 08/01/2020.
+
+Rule 7.2: Definition of Childhood Disability
+
+A. An individual under the age of eighteen (18) is considered disabled under the Supplemental
+   Security Income program if that child has a medically determinable physical or mental
+   disability that results in marked and severe functional limitation and that can be expected to
+
+
+
+                                                50
+   result in death or that has lasted or can be expected to last for a continuous period of at least
+   twelve (12) months.
+
+B. No individual under the age of eighteen (18) who engages in substantial gainful activity may
+   be considered disabled.
+
+Source: 42 C.F.R. § 435.540.
+
+History: Revised eff. 08/01/2020.
+
+Rule 7.3: Definition of Blindness
+
+Statutory blindness is central visual acuity of 20/200 or less in the better eye with the use of a
+correcting lens. An eye that has a limitation in the field of vision so that the widest diameter of
+the visual field subtends an angle no greater than 20 degrees is considered to have a central
+visual acuity of 20/200 or less.
+
+A. An individual’s ability to work will not affect eligibility based on blindness.
+
+B. Throughout the remainder of this section, the term “disability” also refers to blindness.
+
+Source: 42 C.F.R. § 435.530.
+
+History: Revised eff. 08/01/2020.
+
+Rule 7.4: Disability Determination Process
+
+In Mississippi, an application for Supplemental Security Income (SSI) is also an application for
+Medicaid. If the only application for Medicaid is filed with the Social Security Administration
+(SSA) for SSI benefits, the applicant is required to wait until SSA makes the SSI determination
+to receive the Medicaid decision. The SSA disability determination is binding on the Division of
+Medicaid.
+
+Source: 42 C.F.R. § 435.541.
+
+History: Revised eff. 08/01/2020.
+
+Rule 7.5: Independent Disability Determinations.
+
+A. The Disability Determination Service (DDS) with the Department of Rehabilitation Services
+   is the agency that determines disability for both Supplemental Security Income-related
+   disability and blindness applications and Medicaid-only disability and blindness applications.
+   A disability approval is required for all Aged, Blind and Disabled applicants under the age of
+   sixty-five (65) applying for Medicaid on the basis of being disabled or blind. Throughout the
+   remainder of Rule 7, the term “disability” also refers to blindness.
+
+
+
+                                                51
+B. An independent disability determination is required when an individual applies for both SSI
+   benefits on the basis of disability or blindness and applies separately for Medicaid with the
+   Division of Medicaid for the same period of time. An independent disability determination
+   means that both the Social Security Administration (SSA) and the Division of Medicaid
+   submit a request to DDS to determine disability for the same individual for the same period
+   of time. The Medicaid application may also include a request for retroactive benefits.
+
+   1. If DDS has not ruled on the Supplemental Security Income (SSI) disability portion of an
+      application filed with both SSA for SSI benefits and the Division of Medicaid for
+      Medicaid-only benefits within ninety (90) days of the Medicaid-only request for a
+      disability decision, DDS will issue a 90-day denial of disability for Medicaid purposes
+      while the SSI disability decision remains pending. The Medicaid-only application must
+      be denied because disability requirements are not met. The denial notice will inform the
+      applicant to notify the Division of Medicaid if SSI benefits are approved by SSA.
+
+   2. If SSI is approved, the dates of SSI eligibility will be reviewed by the Division of
+      Medicaid to determine if Medicaid-only eligibility is needed for the retroactive period
+      and/or for any missing months of SSI eligibility.
+
+C. An independent disability decision utilizing DDS is required if an individual applies for
+   Medicaid-only and has not applied for SSI or has applied for SSI and been denied for a
+   reason other than disability. If SSI was denied due to disability, the Division of Medicaid will
+   take a separate application and request a DDS decision, but the prior DDS denial will prevail
+   unless there is new information, a new disabling condition exists or it has been more than
+   twelve (12) months since the last SSI denial.
+
+Source: 42 C.F.R. § 435.541.
+
+History: Revised eff. 08/01/2020.
+
+Rule 7.6: Exceptions to Obtaining Disability Approvals
+
+A. There may be instances when Disability Determination Services (DDS) has already
+   determined disability using Supplemental Security Income criteria for the same period of
+   time to be covered by a Medicaid application. If so, a separate Medicaid determination is not
+   needed.
+
+B. If the disability onset date, as established by the Social Security Administration, does not
+   include all months of requested Medicaid eligibility, a separate DDS decision is required.
+
+Source Miss. Code Ann. § 43-13-121.
+
+History: Revised eff. 08/01/2020.
+
+Rule 7.7: Situations Not Requiring a Separate Disability Determination Services (DDS) Decision
+
+
+
+                                                52
+A. In the following situations a separate blindness/disability determination for Medicaid is not
+   needed. The applicant/beneficiary is considered to be blind/disabled:
+
+   1. Applicant receives Title II Disability.
+
+       The applicant receives benefits on an ongoing basis based on the applicant’s own
+       disability, and the disability onset date is verified to include all months to be covered by
+       the Medicaid application, i.e., the month of application and any retroactive months.
+       Receipt of Title II disability must be re-verified at each redetermination.
+
+   2. Disability Decision Overturned by Administrative Law Judge (ALJ) Order.
+
+       An ALJ reverses a disability denial and establishes disability with a disability onset date
+       that covers all months of the Medicaid application. If the Medicaid applicant is otherwise
+       eligible, eligibility can be established as of the date of the onset of disability as
+       established by the ALJ order, but no earlier than:
+
+       a) The Medicaid application date, or
+
+       b) Three months before the Medicaid application date if retroactive benefits are an issue.
+
+   3. Deceased Applicants.
+
+       A verified death date establishes disability if a disability, due to any illness or accident
+       that resulted in death, existed in all months for which Medicaid eligibility was requested.
+
+   4. Disabled Adult Children.
+
+       Disability has been established by the Social Security Administration for an applicant
+       who is over eighteen (18), entitled to Medicare and receiving Title II benefits as a child
+       (C1-C9 beneficiary). The disability onset date must be determined.
+
+Source: 42 C.F.R. § 435.541.
+
+History: Revised eff. 08/01/2020.
+
+Rule 7.8: Separate Disability Decisions
+
+If there is no indication that any of the above exceptions apply, a separate disability decision
+must be obtained from Disability Determination Services when an applicant applies for Medicaid
+on the basis of disability or blindness.
+
+Source: 42 CFR § 435.541
+
+History: Revised eff. 08/01/2020.
+
+
+
+                                                53
+Rule 7.9: Temporary Social Security Income Closures
+
+A. Some cases that are Social Security Income (SSI)-eligible terminate once per quarter and are
+   reinstated by SSI after one or two (2) months of ineligibility.
+
+B. The usual cause of the temporary SSI closure is earned income in a five (5) week month.
+
+C. The individual whose SSI is temporarily terminated can apply for Medicaid coverage during
+   the missing SSI months by filing an application with the regional office, which, if approved,
+   is valid for twelve (12) months. Redeterminations that are approved are also valid for a
+   twelve (12) month period for temporary SSI closures.
+
+Source: Miss. Code Ann. § 43-13-121.
+
+History: Revised eff. 08/01/2020.
+
+Rule 7.10: Refer to Miss. Admin. Code Part 306, Rule 1.8.
+
+Rule 7.11: Refer to Miss. Admin. Code Part 306, Rule 1.8.
+
+Rule 7.12: Refer to Miss. Admin. Code Part 306, Rule 1.8.
+
+Rule 7.13: Refer to Miss. Admin. Code Part 306, Rule 1.8.
+
+Chapter 8: Non-Financial Requirements - Modified Adjusted Gross Income Programs
+
+Rule 8.1: Deprivation
+
+A. Deprivation is an eligibility factor for dependent children under age eighteen (18).
+   Deprivation must exist within the household in order for the parent(s) or caretaker relative
+   to obtain eligibility. The child’s eligibility is not tied to deprivation, but there must be a
+   dependent child under the age of eighteen (18) in the home in order for the adult to
+   qualify for coverage.
+
+B. A condition of deprivation is not applicable in any other Medicaid programs or the
+   Children’s Health Insurance Program.
+
+C. The deprivation factor means a dependent child is deprived of the support of one or both
+   of their parents for one of the following reasons:
+
+   1. Death,
+
+   2. Continued absence from the home,
+
+   3. Physical or mental incapacity (two (2) parent families only), and
+
+   4. Unemployment or Underemployment (two (2) parent families only).
+
+                                                54
+D. Deprivation is established for the dependent child in relation to the child’s legal and/or
+   natural parents.
+
+   1. The biological parent of a child who has been legally adopted is no longer a legally
+      responsible parent. Deprivation is determined only in regard to the adoptive parents.
+
+   2. Deprivation due to continued absence is always met in a single parent adoption.
+
+Source: 42 C.F.R. § 435.4.
+
+History: Revised eff. 08/01/2020, Revised to correspond with the Patient Protection and
+         Affordable Care Act, 42 U.S.C. § 18001 et seq. (eff. 01/01/2014), eff. 04/01/2014.
+
+Rule 8.2: Legally Responsible Parents
+
+The following are legally responsible parents:
+
+A. The child’s biological, adoptive or step-mother,
+
+B. The child’s biological, adoptive or step-father, or
+
+C. The adoptive parent who has been legally granted a final decree of adoption.
+
+Source: 42 C.F.R. § 435.603.
+
+History: Revised to correspond with the Patient Protection and Affordable Care Act, 42 U.S.C. §
+         18001 et seq. (eff. 01/01/2014), eff. 04/01/2014.
+
+Rule 8.3: Legal Father
+
+A. For the deprivation determination, a child’s legal father is one of the following:
+
+   1. A man whose name appears on the child’s birth certificate unless a court has
+      determined otherwise,
+
+   2. A man who has been declared to be the child’s father by a court order,
+
+   3. A man who has acknowledged paternity of the child in an Admission of Paternity if
+      there is no legal father either on the birth certificate or in a court order, or
+
+   4. A man who married the child’s mother subsequent to the birth and publicly
+      acknowledges that he is the father of the child when there is no legal father listed on
+      the child’s birth certificate and a paternity order has not been issued establishing a
+      different person as the father.
+
+
+
+                                                 55
+Source: 42 C.F.R. § 435.601, Miss. Code Ann. § 43-13-121.
+
+History: Revised to correspond with the Patient Protection and Affordable Care Act, 42 U.S.C. §
+         18001 et seq. (eff. 01/01/2014), eff. 04/01/2014.
+
+Rule 8.4: Continued Absence
+
+A. Continued absence exists when a parent does not live in the home with the child as the result
+   of divorce, legal separation, desertion, incarceration, long term hospitalization, institutional
+   care, court-ordered removal of the child from the home or because paternity has not been
+   established.
+
+B. Deprivation is also established if the parent is convicted of an offense and sentenced to
+   perform unpaid public work or community service during working hours and is allowed by
+   the court to live at home.
+
+C. However, deprivation does not exist when a parent lives at an address separate and apart
+   from the child, and:
+
+   1. The parent is out of the home solely to seek or accept employment, or
+
+   2. The parent is out of the home solely due to active duty in the uniformed service of the
+      United States.
+
+Source: 42 C.F.R. § 435.601.
+
+History: Revised eff. 08/01/2020.
+
+Rule 8.5: Incapacity
+
+A child who lives with biological, legal or adoptive parents is deprived of parental support or
+care if one (1) or both parents receive Social Security Disability or Supplemental Security
+Income.
+
+Source: 42 C.F.R. § 435.601.
+
+History: Revised eff. 08/01/2020.
+
+Rule 8.6: Under/Unemployment
+
+A child who lives with both of the child’s biological, legal or adoptive parents is deprived of
+parental support or care if the combined family income is equal to or below the
+parent/caretaker income limits for the appropriate family size.
+
+Source: 42 C.F.R. § 435.603.
+
+
+
+                                                56
+History: Revised eff. 08/01/2020, Revised to correspond with the Patient Protection and
+         Affordable Care Act, 42 U.S.C. § 18001 et seq.(eff. 01/01/2014), eff. 04/01/2014.
+
+Rule 8.7: Temporary Absence from the Home
+
+A. The temporary absence of the parent, other adult caretaker or the child from the home does
+   not affect the eligibility determination, provided the absent member does not establish a
+   home elsewhere and the reason(s) for the absence is temporary.
+
+B. The adult must retain legal responsibility for the child during the absence. The case must be
+   documented with the reason for separation, the approximate duration and plan for the child or
+   adult to return to the home.
+
+C. The following situations are considered temporary absences:
+
+   1. Either the adult or child is temporarily out of the home receiving care or treatment in a
+      medical facility, such as a hospital, a maternity home or drug treatment facility,
+
+   2. Either the adult or child is out of the home for a visit,
+
+   3. Either the adult or child is out of the home to attend school or training,
+
+   4. The adult works away from home and retains responsibility for the child, even though
+      day-to-day care is delegated to someone else,
+
+   5. The child is in a juvenile facility that is not a state institution and the qualified relative
+      retains legal responsibility for the child even though the facility has physical custody,
+
+   6. The child is in a Psychiatric Residential Treatment Facility (PRTF), or
+
+   7. Absence of parent(s) due to fulfilling a military obligation. A legal parent who is away
+      from home on military duty is considered part of the budget group unless there is
+      abandonment of the family. Benefits will not be authorized for the person away on
+      military duty.
+
+D. Any family member who is residing elsewhere permanently cannot be considered
+   temporarily absent.
+
+Source: 42 C.F.R. § 435.603.
+
+History: Revised eff. 08/01/2020.
+
+Rule 8.8: Relationship
+
+
+
+
+                                                 57
+A. The responsible adult may be a relative or a non-relative for children eligible in a
+   Modified Adjusted Gross Income-related FPL program, including the Children’s Health
+   Insurance Program (CHIP).
+
+B. To meet the requirement of relationship as a parent or caretaker relative, a child must live
+   in the home with a biological, adopted or step-parent or one of the following relatives
+   within the specified degree of relationship:
+
+   1. Grandfather or grandmother (extends to great, great-great and great-great-great),
+
+       a) A grandparent-in-law is within the required degree.
+
+       b) The relationship of grandparent-in-law occurs when one of the child’s
+          grandparents remarries.
+
+   2. Brother or sister (including half-brother and half-sister),
+
+   3. Uncle or aunt (extends to great and great-great),
+
+   4. First cousin, including first cousin once removed (child of a first cousin),
+
+   5. Nephew or niece (extends to great and great-great),
+
+   6. Step-father or step-mother, or
+
+   7. Step-brother or step-sister.
+
+C. Relationship extends to the legal spouse of the above-listed relatives even after the
+   marriage is terminated by death or divorce.
+
+D. The relationship requirement is met when the child lives with any of the above-named
+   relatives.
+
+E. Legal custody is not a factor in determining relationship.
+
+F. Legal adoption terminates all prior relationships except that the biological parent remains
+   a qualified relative to the child for eligibility.
+
+   1. A natural or biological parent whose child has returned to the parent’s home after
+      being legally adopted by another individual is within the degree of relationship.
+
+   2. In such instances the natural parent is not legally responsible for the child and the
+      adoptive parents must be reported as absent parents to the Division of Child Support.
+
+G. Relationship as a caretaker relative must be verified.
+
+
+
+                                                58
+Source: 42 C.F.R. § 435.4.
+
+History: Revised eff. 08/01/2020, Revised to correspond with the Patient Protection and
+         Affordable Care Act, 42 U.S.C. § 18001 et seq.(eff. 01/01/2014), eff. 04/01/2014.
+
+Chapter 9: Residents of an Institution
+
+Rule 9.1: Residents of an Institution
+
+A. Residence in an institution can affect an applicant’s/recipient’s eligibility for any Medicaid
+   program and for the Children’s Health Insurance Program.
+
+B. Generally, an individual who is an inmate of a public institution may be enrolled in Medicaid
+   but may not receive Medicaid covered services, except under specified conditions.
+
+C. Public institutions, for Medicaid purposes, are broadly defined as prisons or other penal
+   settings and institutions for mental diseases.
+
+Source: 42 C.F.R. § 435.1009.
+
+History: Revised eff. 08/01/2020.
+
+Rule 9.2: Institutions for Mental Diseases
+
+An Institution for Mental Diseases (IMD’s) are hospitals, nursing facilities or other institutions
+of more than sixteen (16) beds that are primarily engaged in providing diagnosis, treatment or
+care of persons with mental diseases, including medical attention, nursing care and related
+services.
+
+A. Individuals under age twenty-one (21) may receive Medicaid while in an institution for
+   mental diseases if they are receiving psychiatric services and are otherwise eligible. If the
+   individual is receiving inpatient psychiatric services at the time the individual turns age
+   twenty-one (21), the individual may receive Medicaid until age twenty-two (22).
+
+B. Individuals between the ages of twenty-one (21) and sixty-five (65) are not eligible to receive
+   any Medicaid benefits while residing in an institution for mental diseases, with the following
+   exception:
+
+   1. A Medicaid eligible pregnant woman who is receiving treatment for a substance use
+      disorder is eligible to receive Medicaid covered services provided outside the IMD
+      facility.
+
+   2. Pregnancy-related Medicaid may be determined prior to or after entering the IMD.
+      Medicaid will continue through the twelve (12) month postpartum period.
+
+
+
+
+                                               59
+   3. Eligibility for pregnancy-related Medicaid may be determined for the retroactive period
+      but not prior to October 1, 2019, which is the effective date of the IMD exception
+      provision.
+
+C. Individuals age sixty-five (65) or older may not receive Medicaid benefits while in an IMD
+   unless they reside in a long-term care facility or receive inpatient hospital services and are
+   otherwise eligible for Medicaid in an allowed group.
+
+Source: 42 C.F.R. § 435.1010; U.S.C. § 1396d; Miss. Code Ann. § 43-13-115.
+
+History: Revised eff. 11/01/2025; Revised eff. 08/01/2020.
+
+Rule 9.3: Institutions
+
+A. An institution is an establishment that provides food, shelter and some treatment or services
+   to four or more persons unrelated to the proprietor.
+
+B. A public institution is an institution that is the responsibility of a government unit or over
+   which a governmental unit exercises administrative control including the following:
+
+   1. Prisons, local jails, detention facilities operated by or under contract with federal, state,
+      political subdivision of a state or tribal entity for the confinement of persons charged with
+      or convicted of a crime.
+
+   2. Penal settings such as boot camps or wilderness camps.
+
+   3. Residential Reentry Centers operated by prisons where inmates live while serving a term
+      of incarceration.
+
+   4. Correctional facilities organized for the primary purpose of involuntary confinement.
+
+   5. Hospitals and medical clinics operated by prisons.
+
+C. Institutions that are not considered public institutions for Medicaid purposes include the
+   following. Residents may receive Medicaid benefits if otherwise eligible.
+
+   1. Medical institutions such as hospitals, nursing facilities, extended care facilities.
+
+   2. Publicly Operated Community Residences that serve no more than sixteen (16) residents
+      and provide food, shelter, social services, assistance with personal living activities or
+      training in socialization.
+
+   3. Supervised community residential facilities (half-way houses) that allow the resident
+      freedom to work outside the facility, use community resources and seek healthcare in the
+      community the same as other Medicaid enrollees.
+
+
+
+                                                60
+   4. Child care institutions licensed by the state that are not operated primarily for the
+      detention of children determined to be delinquent.
+
+   5. Public educational or vocational training institutions for the purpose of securing an
+      education or vocation.
+
+   6. Public shelters or housing provided to homeless individuals.
+
+Source: 42 C.F.R. § 435.1010
+
+Rule 9.4: Inmate Status
+
+A. An individual is an inmate if serving time for a criminal offense or is confined involuntarily
+   in a state or federal prison, jail, detention facility or other penal facility.
+
+B. Individuals considered inmates include:
+
+   1. An individual of any age that is in custody and held involuntarily through operation of
+      law enforcement authorities in a public institution.
+
+   2. Individuals on home or work release for a temporary period of time who have to report to
+      the facility for incarceration at night or on weekends.
+
+   3. Individuals in correctional or holding facilities, who have been arrested or detained
+      involuntarily and are awaiting trial or disposition of charges or who are held under court
+      order.
+
+   4. Inmates who are sent to work on farms on a seasonal basis.
+
+   5. Escaped prisoners.
+
+C. Inmate status is not terminated until the individual is paroled or otherwise unconditionally or
+   permanently released or pardoned and no longer resides in a penal setting.
+
+D. Individuals not considered inmates who can qualify for full Medicaid benefits if otherwise
+   eligible include:
+
+   1. Paroled individuals and individuals on probation. Individuals in violation of the terms of
+      their parole or probation remain potentially eligible for Medicaid even though
+      Supplement Security Income (SSI) or Social Security benefits have been terminated due
+      to fugitive status. These individuals can qualify or continue to qualify for Medicaid
+      unless or until they are under direct control of the penal system, at which time they are
+      considered inmates.
+
+   2. Individuals on house arrest or home release when not required to report to the public
+      institution for an overnight stay.
+
+
+                                               61
+   3. Individuals voluntarily living in a detention center, jail or penal facility after their case has
+       been adjudicated and other living arrangements have been made.
+
+   4. An individual placed in a public institution on a temporary emergency basis.
+
+E. There is no difference between juveniles and adults when determining inmate status.
+
+Source: 42 C.F.R. § 435.1009 and 435.1010.
+
+History: Revised eff. 08/01/2020.
+
+Rule 9.5: Inmates Potentially Eligible for Medicaid
+
+A. If an inmate is otherwise eligible, the individual can be approved for covered services
+   received during an inpatient stay for twenty-four (24) hours or longer in a hospital, nursing
+   facility, juvenile psychiatric facility or intermediate care facility. This does not apply to
+   medical facilities on the grounds of or under the control of a penal facility or for services
+   received in an emergency room, urgent care center, clinic or other outpatient setting.
+
+B. It is not possible for an individual to qualify as a parent or caretaker relative while in inmate
+   status since there is no direct primary responsibility for a child under age eighteen (18) while
+   the individual is incarcerated and separated from the child or children.
+
+C. Inmates must meet all non-financial and financial eligibility factors of the program for which
+   they are being considered.
+
+D. If an inmate is otherwise eligible but does not meet citizenship requirements, the inmate is
+   eligible for emergency inpatient services only.
+
+Source: 42 C.F.R. §§ 435.1009, 435.1010.
+
+History: Revised eff. 08/01/2026. Revised eff. 08/01/2020.
+
+Rule 9.6: Special Considerations
+
+A. An inmate cannot be considered a sole applicant until they have been separated from other
+   household members for thirty (30) days. When determined Medicaid-eligible as a member of
+   the community, an inmate is eligible for full Medicaid services.
+
+B. An inmate can be considered as the sole member of the budget group for the month in which
+   the thirty-first (31st) day falls. When determined eligible as an inmate and as the sole member
+   of the budget group, the inmate is eligible for inpatient services only.
+
+C. If an inmate is receiving Social Security Retirement, Disability or Survivors benefits, and is
+   convicted of a crime and confined to the correctional institution for more than thirty (30)
+
+
+                                                 62
+   continuous days, the Social Security Administration (SSA) will suspend benefits. Similarly,
+   SSA must suspend benefits to individuals receiving Supplemental Security Income (SSI
+   payments when the person is incarcerated for at least one full calendar month. These
+   suspended payments are disregarded as income.
+
+Source: 42 C.F.R. § 435.1010.
+
+History: Revised eff. 08/01/2020.
+
+Rule 9.7: Verification of Inmate Status
+
+A. Verification sources for inmate status may include:
+
+   1. State Department of Corrections, including electronic file exchanges,
+
+   2. Local prison/mental health authorities, including electronic file exchanges,
+
+   3. Court documents,
+
+   4. Court clerk for court that sentenced the individual,
+
+   5. A representative of the prosecutor’s or State’s Attorney’s office, or
+
+   6. Discharge arrangements and agreements between the individual and the penal/judicial
+      authority.
+
+Source: Miss. Code Ann. § 43.13.121.
+
+History: Revised eff. 08/01/2020.
+
+Rule 9.8: Inmate Application Process
+
+A. Inmates residing in a prison, detention center, local jail or institution for mental diseases
+   (IMD) may file an application for Medicaid while residing in the public institution.
+   Applications are accepted and processed for eligibility if covered inpatient hospital services
+   have been received. If the applicant has not received inpatient services at the time of
+   application but the applicant is otherwise eligible, eligibility is suspended until such time as
+   the individual is released from the public institution. During the periods of suspension,
+   annual reviews will be conducted. Inmates whose release is imminent may file an application
+   or have their suspended eligibility reviewed for Medicaid coverage in all available coverage
+   groups in order to have Medicaid eligibility upon release. The Central Office of the Division
+   of Medicaid coordinates pre-release applications with the specific public institution.
+
+B. Inmates who have had their eligibility suspended while in a public institution or IMD have
+   eligibility reviews conducted annually.
+
+
+
+                                                63
+Source: 42 U.S.C. § 1396.
+
+History: Revised eff. 08/01/2026. Revised eff. 08/01/2020.
+
+Rule 9.9 State Residency of Inmates
+
+Inmates are generally state residents of the state in which they are living. Residency is otherwise
+determined under the following conditions:
+
+A. If the inmate is placed in an out-of-state institution by the home state, the home state remains
+   the state of residence for purposes of Medicaid eligibility and reimbursement of inpatient
+   services.
+
+B. Individuals who commit a crime outside their home state and are placed in a correctional
+   facility in and by the state in which the crime was committed are considered to be residents
+   of that state while incarcerated. The state in which the individual is incarcerated determines
+   how eligibility is established.
+
+C. Prior to release, an inmate may apply for Medicaid in a different state if the inmate intends to
+   reside in that state after release. The effective date of eligibility can be no earlier than the
+   month the former inmate arrives in the new state of residence.
+
+Source: 42 U.S.C. § 435.403
+
+History: Revised eff. 08/01/2020.
+
+
+
+
+                                                64
+

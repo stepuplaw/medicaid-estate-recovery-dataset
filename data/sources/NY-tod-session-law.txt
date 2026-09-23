@@ -1,0 +1,16 @@
+Source URL: https://www.nysenate.gov/legislation/bills/2023/S8306/amendment/C ; https://www.nysenate.gov/legislation/laws/RPP/424
+Retrieved: 2026-09-23
+Note: WebFetch extraction, not verbatim (nysenate.gov returns 403 to scripts).
+
+S8306-C (2023-2024 session): description of Part O: "relates to the crime of deed theft; authorizes the attorney general to prosecute crimes involving deed theft; relates to the partition of heirs property; relates to allowing transfer on death deeds." Actions: "Signed By Governor" April 20, 2024; "signed chap.56". The Part O effective date clause was not visible in the truncated page.
+
+RPP Sec. 424 page on nysenate.gov shows revision dates 2024-04-26, 2024-05-31 and 2024-07-26.
+
+Subdivision 14 (Liability for creditor claims and statutory allowances), as quoted by WebFetch:
+"(a) To the extent the transferor's probate estate is insufficient to satisfy an allowed claim against the estate or a statutory allowance to a surviving spouse or child, the estate may enforce the liability against property transferred at the transferor's death by a transfer on death deed.
+(b) If more than one property is transferred by one or more transfer on death deeds, the liability under paragraph (a) of this subdivision is apportioned among the properties in proportion to their net values at the transferor's death.
+(c) A proceeding to enforce the liability under this section must be commenced no later than eighteen months after the transferor's death."
+
+Subdivision 4 (Requirements): "A transfer on death deed: (a) except as otherwise provided in this subdivision, shall contain the essential elements and formalities of a properly recordable inter vivos deed; (b) shall state that the transfer to the designated beneficiary is to occur at the transferor's death; (c) shall be signed by two witnesses who were present at the same time and who witnessed the signing of the transfer on death deed; (d) shall be acknowledged before a notary public; and (e) shall be recorded before the transferor's death in the public records in the county clerk's office of the county where the property is located in the same manner as any other type of deed."
+
+Secondary (pointer only, NYSBA article https://nysba.org/new-york-now-allows-transfer-on-death-deeds-but-should-you-use-them/): adopted April 20, 2024; TOD deeds allowed "as of July 19, 2024".

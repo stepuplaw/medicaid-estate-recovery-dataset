@@ -1,0 +1,609 @@
+Source URL: http://web.archive.org/web/20260425194410id_/https://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2050.pdf
+Retrieved: 2026-09-23
+
+                                            2026 -- S 2050
+     ========
+     LC003228
+     ========
+                       STATE              OF           RHODE             ISLAND
+
+                                          IN GENERAL ASSEMBLY
+
+                                        JANUARY SESSION, A.D. 2026
+                                              ____________
+
+
+                                                 AN ACT
+
+     RELATING TO PROBATE PRACTICE AND PROCEDURE -- UNIFORM REAL PROPERTY
+                           TRANSFER ON DEATH ACT
+
+
+
+                 Introduced By: Senators Euer, Appollonio, Famiglietti, E Morgan, McKenney, Valverde,
+                                 Quezada, Patalano, and Lauria
+                 Date Introduced: January 09, 2026
+
+                 Referred To: Senate Judiciary
+
+
+
+
+     It is enacted by the General Assembly as follows:
+
+ 1           SECTION 1. Title 33 of the General Laws entitled "PROBATE PRACTICE AND
+
+ 2   PROCEDURE" is hereby amended by adding thereto the following chapter:
+
+ 3                                               CHAPTER 4.1
+
+ 4                    UNIFORM REAL PROPERTY TRANSFER ON DEATH ACT
+
+ 5           33-4.1-1. Short title.
+
+ 6           This chapter shall be known and may be cited as the "Uniform Real Property Transfer on
+
+ 7   Death Act".
+
+ 8           33-4.1-2. Definitions.
+
+ 9           As used in this chapter:
+
+10           (1) "Beneficiary" means a person who receives property under a transfer on death deed.
+
+11           (2) "Class gift" means a transfer to a group of persons who are classified by their
+
+12   relationship to one another or the transferor, and who are not individually named in the transferring
+
+13   document.
+
+14           (3) "Designated beneficiary" means a person designated to receive property in a transfer
+
+15   on death deed.
+
+16           (4) "Individual" means a natural person.
+
+17           (5)(i) "Joint owner" means an individual who owns property concurrently with one or more
+
+18   other individuals with a right of survivorship.
+ 1           (ii) "Joint owner" includes a joint tenant, owner of community property with a right of
+
+ 2   survivorship, and tenant by the entirety.
+
+ 3           (iii) "Joint owner" does not include a tenant in common or owner of community property
+
+ 4   without a right of survivorship.
+
+ 5           (6) "Natural person" means a human being.
+
+ 6           (7) "Person" means an individual, corporation, business trust, estate, trust, partnership,
+
+ 7   limited liability company, association, joint venture, public corporation, government or
+
+ 8   governmental subdivision, agency, or instrumentality, or any other legal or commercial entity.
+
+ 9           (8) "Property" means an interest in real property located in this state that is transferable on
+
+10   the death of the owner.
+
+11           (9) "Transfer on death deed" means a deed authorized under this chapter.
+
+12           (10) "Transferor" means an individual, in their individual capacity, who makes a transfer
+
+13   on death deed.
+
+14           33-4.1-3. Applicability.
+
+15           This chapter applies to a transfer on death deed made before, on, or after January 1, 2027,
+
+16   by a transferor dying on or after January 1, 2027.
+
+17           33-4.1-4. Nonexclusivity.
+
+18           This chapter does not affect any method of transferring property otherwise permitted under
+
+19   the law of this state.
+
+20           33-4.1-5. Transfer on death deed authorized.
+
+21            (a) An individual may transfer property to one or more named beneficiaries effective at
+
+22   the transferor's death by a transfer on death deed.
+
+23           (b) A class gift may not be made by a transfer on death deed.
+
+24           33-4.1-6. Transfer on death deed revocable.
+
+25           A transfer on death deed is revocable even if the deed or another instrument contains a
+
+26   contrary provision.
+
+27           33-4.1-7. Transfer on death deed nontestamentary.
+
+28           A transfer on death deed is nontestamentary.
+
+29           33-4.1-8. Capacity of transferor.
+
+30           The capacity required to make or revoke a transfer on death deed is the same as that
+
+31   required to make a will.
+
+32           33-4.1-9. Requirements.
+
+33           A transfer on death deed shall:
+
+34           (1) Contain the essential elements and formalities of a properly recordable inter vivos deed;
+
+
+                                          LC003228 - Page 2 of 10
+ 1              (2) State that the transfer to the designated beneficiary is to occur at the transferor's death;
+
+ 2   and
+
+ 3              (3) Be recorded before the transferor's death in the public records in the city or town
+
+ 4   recorder's office where the property is located.
+
+ 5              33-4.1-10. Notice, delivery, acceptance, consideration not required.
+
+ 6              A transfer on death deed is effective without:
+
+ 7              (1) Notice or delivery to or acceptance by the designated beneficiary during the transferor's
+
+ 8   life; or
+
+ 9              (2) Consideration.
+
+10              33-4.1-11. Revocation by instrument authorized -- Revocation by act not permitted.
+
+11              (a) Subject to subsection (b) of this section, an instrument is effective to revoke a recorded
+
+12   transfer on death deed, or any part of it, only if the instrument:
+
+13              (1) Is one of the following:
+
+14              (i) A transfer on death deed that revokes the deed or part of the deed expressly or by
+
+15   inconsistency;
+
+16              (ii) An instrument of revocation that expressly revokes the deed or part of the deed; or
+
+17              (iii) An inter vivos deed that revokes the transfer on death deed or part of the deed expressly
+
+18   or by inconsistency; and
+
+19              (2) Is acknowledged by the transferor after the acknowledgment of the deed being revoked
+
+20   and recorded in the public records in the office of the city or town recorder where the deed is
+
+21   recorded before the transferor's death.
+
+22              (b) If a transfer on death deed is made by more than one transferor:
+
+23              (1) Revocation by a transferor does not affect the deed as to the interest of another
+
+24   transferor; and
+
+25              (2) A deed of joint owners is revoked only if it is revoked by all of the living joint owners.
+
+26              (c) After a transfer on death deed is recorded, it may not be revoked by a revocatory act on
+
+27   the deed.
+
+28              (d) This section does not limit the effect of an inter vivos transfer of the property.
+
+29              (e) Property subject to a revocation of a transfer on death deed shall adeem, and
+
+30   nonademption statutes shall be inapplicable to the deed.
+
+31              33-4.1-12. Effect of transfer on death deed during transferor's life.
+
+32              During a transferor's life, a transfer on death deed does not:
+
+33              (1) Affect an interest or right of the transferor or any other owner, including the right to
+
+34   transfer or encumber the property;
+
+
+                                               LC003228 - Page 3 of 10
+ 1           (2) Affect an interest or right of a transferee, even if the transferee has actual or constructive
+
+ 2   notice of the deed;
+
+ 3           (3) Affect an interest or right of the transferor's secured or unsecured creditors or future
+
+ 4   creditors, even if they have actual or constructive notice of the deed;
+
+ 5           (4) Affect the transferor's or designated beneficiary's eligibility for any form of public
+
+ 6   assistance;
+
+ 7           (5) Create a legal or equitable interest in favor of the designated beneficiary; or
+
+ 8           (6) Subject the property to claims or process of the designated beneficiary's creditors.
+
+ 9           33-4.1-13. Effect of transfer on death deed at transferor's death.
+
+10           (a) Except as otherwise provided in the transfer on death deed and chapter 1.1 of this title,
+
+11   on the death of the transferor, the following rules apply to property that is the subject of a transfer
+
+12   on death deed and owned by the transferor at death.
+
+13           (1) Subject to subsection (a)(2) of this section, the interests in the property are transferred
+
+14   to the designated beneficiaries in accordance with the deed.
+
+15           (2) The interest of a designated beneficiary is contingent on the designated beneficiary
+
+16   surviving the transferor and the interest of a designated beneficiary that fails to survive the
+
+17   transferor lapses.
+
+18           (3) Subject to subsection (a)(4) of this section, concurrent interests are transferred to the
+
+19   beneficiaries in equal and undivided shares with no right of survivorship, unless otherwise specified
+
+20   in the transfer on death deed.
+
+21           (4) If the transferor has identified two (2) or more designated beneficiaries to receive
+
+22   concurrent interests in the property, the share of one that lapses or fails for any reason is transferred
+
+23   to the other, or to the others in proportion to the interest of each in the remaining part of the property
+
+24   held concurrently.
+
+25           (b) A beneficiary takes the property subject to all conveyances, encumbrances,
+
+26   assignments, contracts, mortgages, liens, and other interests to which the property is subject at the
+
+27   transferor's death. For purposes of this subsection, the recording of the transfer on death deed is
+
+28   considered to have occurred at the transferor's death.
+
+29           (c) If a transferor is a joint owner and is:
+
+30           (1) Survived by one or more other joint owners, the property that is the subject of a transfer
+
+31   on death deed belongs to the surviving joint owners with right of survivorship; or
+
+32           (2) The last surviving joint owner, the transfer on death deed is effective.
+
+33           (d) A transfer on death deed transfers property without covenant or warranty of title even
+
+34   if the deed contains a contrary provision.
+
+
+                                            LC003228 - Page 4 of 10
+ 1           (e) Following the death of the transferor, an affidavit shall be recorded in the office of the
+
+ 2   recorder of the city or town in which the affected property is located. Each affidavit shall:
+
+ 3           (1) Contain a legal description of the real property that is affected;
+
+ 4           (2) Reference the entry number and the book and page of the previously recorded transfer
+
+ 5   on death deed; and
+
+ 6           (3) Have attached as an exhibit, a copy of the death certificate or other document issued by
+
+ 7   a governmental agency certifying the transferor's death.
+
+ 8           33-4.1-14. Disclaimer.
+
+ 9           A beneficiary may disclaim all or part of the beneficiary's interest.
+
+10           33-4.1-15. Liability for creditor claims and statutory allowances.
+
+11           (a) To the extent the transferor's probate estate is insufficient to satisfy an allowed claim
+
+12   against the estate or a statutory allowance to a surviving spouse or child, only the estate may enforce
+
+13   the liability against property transferred at the transferor's death by a transfer on death deed.
+
+14           (b) If more than one property is transferred by one or more transfer on death deeds, the
+
+15   liability under subsection (a) of this section is apportioned among the properties in proportion to
+
+16   their net values at the transferor's death.
+
+17           (c) A probate proceeding to enforce the liability under this section shall be commenced not
+
+18   later than twelve (12) months after the transferor's death.
+
+19           (d) The estate may expressly waive the estate's claim against the property.
+
+20           33-4.1-16. Form of transfer on death deed.
+
+21           The following form may be used to create a transfer on death deed. The other sections of
+
+22   this chapter govern the effect of this or any other instrument used to create a transfer on death deed:
+
+23           (FRONT OF FORM)
+
+24           REVOCABLE TRANSFER ON DEATH DEED FORM
+
+25           NOTICE TO OWNER -- You should carefully read all information on the other side of
+
+26   this form. You May Want to Consult a Lawyer Before Using This Form.
+
+27           This form must be recorded before your death, or it will not be effective. The beneficiary
+
+28   must be a named person.
+
+29                   IDENTIFYING INFORMATION -- Owner or Owners Making This Deed:
+
+30           _________________________                         _____________________________
+
+31           Printed name                                      Mailing address
+
+32           _________________________                         _____________________________
+
+33           Printed name                                      Mailing address
+
+34           Legal description of the property:___________________________________________
+
+
+                                            LC003228 - Page 5 of 10
+ 1           ______________________________________________________________________
+
+ 2           PRIMARY BENEFICIARY -- I designate the following beneficiary if the beneficiary
+
+ 3   survives me:
+
+ 4           _________________________                       _____________________________
+
+ 5           Printed name                                    Mailing address, if available
+
+ 6           ALTERNATE BENEFICIARY (Optional) -- If my primary beneficiary does not survive
+
+ 7   me, I designate the following alternate beneficiary if that beneficiary survives me:
+
+ 8           _________________________                       _____________________________
+
+ 9           Printed name                                    Mailing address, if available
+
+10           TRANSFER ON DEATH -- At my death, I transfer my interest in the described property
+
+11   to the beneficiaries as designated above. Before my death, I have the right to revoke this deed.
+
+12           SIGNATURE OF OWNER OR OWNERS MAKING THIS DEED
+
+13           _______________________________                 __________________ [(SEAL)]
+
+14           Signature                                       Date
+
+15           _______________________________                 __________________ [(SEAL)]
+
+16           Signature                                       Date
+
+17           ACKNOWLEDGMENT (insert acknowledgment for deed here)
+
+18           (BACK OF FORM)
+
+19           COMMON QUESTIONS ABOUT THE USE OF THIS FORM Q. What does the Transfer
+
+20   on Death (TOD) deed do? A. When you die, this deed transfers the described property, subject to
+
+21   any liens or mortgages (or other encumbrances) on the property at your death. Probate is not
+
+22   required. The TOD deed has no effect until you die. You can revoke it at any time. You are also
+
+23   free to transfer the property to someone else during your lifetime. If you do not own any interest in
+
+24   the property when you die, this deed will have no effect. Q. How do I make a TOD deed? A.
+
+25   Complete this form. Have it acknowledged before a notary public or other individual authorized by
+
+26   law to take acknowledgments. Record the form in each city or town where any part of the property
+
+27   is located. The form has no effect unless it is acknowledged and recorded before your death. Q. Is
+
+28   the "legal description" of the property necessary? A. Yes. Q. How do I find the "legal description"
+
+29   of the property? A. This information may be on the deed you received when you became an owner
+
+30   of the property. This information may also be available in the office of the city or town recorder
+
+31   where the property is located. If you are not absolutely sure, consult a lawyer. Q. Can I change my
+
+32   mind before I record the TOD deed? A. Yes. If you have not yet recorded the deed and want to
+
+33   change your mind, simply tear up or otherwise destroy the deed. Q. How do I "record" the TOD
+
+34   deed? A. Take the completed and acknowledged form to the office of the city or town recorder
+
+
+                                          LC003228 - Page 6 of 10
+ 1   where the property is located. Follow the instructions given by the city or town recorder to make
+
+ 2   the form part of the official property records. If the property is in more than one city or town, you
+
+ 3   should record the deed in each city or town. Q. Can I later revoke the TOD deed if I change my
+
+ 4   mind? A. Yes. The TOD deed is revocable. No one, including the beneficiaries, can prevent you
+
+ 5   from revoking the deed. Q. How do I revoke the TOD deed after it is recorded? A. There are three
+
+ 6   (3) ways to revoke a recorded TOD deed: (1) Complete and acknowledge a revocation form, and
+
+ 7   record it in each city or town where the property is located. (2) Complete and acknowledge a new
+
+ 8   TOD deed that disposes of the same property, and record it in each city or town where the property
+
+ 9   is located. (3) Transfer the property to someone else during your lifetime by a recorded deed that
+
+10   expressly revokes the TOD deed. You may not revoke the TOD deed by will. Q. I am being
+
+11   pressured to complete this form. What should I do? A. Do not complete this form under pressure.
+
+12   Seek help from a trusted family member, a friend, or a lawyer. Q. Do I need to tell the beneficiaries
+
+13   about the TOD deed? A. No, but it is recommended. Secrecy can cause later complications and
+
+14   might make it easier for others to commit fraud. Q. If I sign a TOD deed and designate my two (2)
+
+15   children as beneficiaries, and one of them dies before me, does the interest of my child that dies
+
+16   before me pass to his or her children? A. No. Everything will go to your surviving child unless you
+
+17   record a new transfer on death deed to state otherwise. If you have questions regarding how to word
+
+18   a new transfer on death deed, you are encouraged to consult a lawyer. Q. I have other questions
+
+19   about this form. What should I do? A. This form is designed to fit some but not all situations. If
+
+20   you have other questions, you are encouraged to consult a lawyer.
+
+21           33-4.1-17. Optional form of revocation.
+
+22           The following form may be used to create an instrument of revocation under this chapter.
+
+23   The other sections of this chapter govern the effect of this or any other instrument used to revoke a
+
+24   transfer on death deed.
+
+25           (FRONT OF FORM)
+
+26           FULL REVOCATION OF TRANSFER ON DEATH DEED
+
+27           NOTICE TO OWNER -- This revocation must be recorded before you die or it will not be
+
+28   effective. This revocation is effective only as to the interests in the property of owners who sign
+
+29   this revocation.
+
+30     IDENTIFYING INFORMATION -- Owner or Owners of Property Making This Revocation:
+
+31           _________________________                       _____________________________
+
+32           Printed name                                    Mailing address
+
+33           _________________________                       _____________________________
+
+34           Printed name                                    Mailing address
+
+
+                                          LC003228 - Page 7 of 10
+ 1           Legal description of the property:___________________________________________
+
+ 2           ______________________________________________________________________
+
+ 3           REVOCATION -- I revoke all my previous transfers of this property by transfer on death
+
+ 4   deed.
+
+ 5           SIGNATURE OF OWNER OR OWNERS MAKING THIS REVOCATION
+
+ 6           _______________________________                  __________________ [(SEAL)]
+
+ 7           Signature                                        Date
+
+ 8           _______________________________                  __________________ [(SEAL)]
+
+ 9           Signature                                        Date
+
+10           ACKNOWLEDGMENT (insert acknowledgment here)
+
+11           (BACK OF FORM)
+
+12           COMMON QUESTIONS ABOUT THE USE OF THIS FORM Q. How do I use this form
+
+13   to revoke a Transfer on Death (TOD) deed? A. Complete this form. Have it acknowledged before
+
+14   a notary public or other individual authorized to take acknowledgments. Record the form in the
+
+15   public records in the office of the city or town recorder where the property is located. The form
+
+16   must be acknowledged and recorded before your death or it has no effect. Q. How do I find the
+
+17   "legal description" of the property? A. This information may be on the TOD deed. It may also be
+
+18   available in the office of the city or town recorder where the property is located. If you are not
+
+19   absolutely sure, consult a lawyer. Q. How do I "record" the form? A. Take the completed and
+
+20   acknowledged form to the office of the city or town recorder where the property is located. Follow
+
+21   the instructions given by the city or town recorder to make the form part of the official property
+
+22   records. If the property is located in more than one city or town, you should record the form in each
+
+23   of those cities and towns. Q. I am being pressured to complete this form. What should I do? A. Do
+
+24   not complete this form under pressure. Seek help from a trusted family member, a friend, or a
+
+25   lawyer. Q. Can this form be used for a partial revocation of a previously filed TOD deed? A. No.
+
+26   This form is to be used for full revocation of a deed. In the case of a partial revocation, a new TOD
+
+27   deed must be filed. Q. I have other questions about this form. What should I do? A. This form is
+
+28   designed to fit some but not all situations. If you have other questions, consult a lawyer.
+
+29           33-4.1-18. Uniformity of application and construction.
+
+30           In applying and construing this uniform act, consideration shall be given to the need to
+
+31   promote uniformity of the law with respect to its subject matter among the states that enact it.
+
+32           33-4.1-19. Relation to electronic signatures in global and national commerce act.
+
+33           This chapter modifies, limits, and supersedes the federal Electronic Signatures in Global
+
+34   and National Commerce Act, 15 U.S.C. § 7001, et seq., but does not modify, limit, or supersede §
+
+
+                                          LC003228 - Page 8 of 10
+1   101(c) of that act, 15 U.S.C. § 7001(c), or authorize electronic delivery of any of the notices
+
+2   described in § 103(b) of that act, 15 U.S.C. § 7003(b).
+
+3           SECTION 2. This act shall take effect upon passage.
+
+
+    ========
+    LC003228
+    ========
+
+
+
+
+                                         LC003228 - Page 9 of 10
+                                             EXPLANATION
+
+                                   BY THE LEGISLATIVE COUNCIL
+
+                                                     OF
+
+
+                                                AN ACT
+
+    RELATING TO PROBATE PRACTICE AND PROCEDURE -- UNIFORM REAL PROPERTY
+                          TRANSFER ON DEATH ACT
+
+
+
+                                                     ***
+
+1           This act would allow an owner or owners of real property to execute a deed that names one
+
+2   or more beneficiaries who will obtain title to the property at the owner's death without the necessity
+
+3   of probate. The act would apply to a transfer on death deed made before, on, or after January 1,
+
+4   2027, by a transferor dying on or after that date.
+
+5           This act would take effect upon passage.
+
+
+    ========
+    LC003228
+    ========
+
+
+
+
+                                         LC003228 - Page 10 of 10
+

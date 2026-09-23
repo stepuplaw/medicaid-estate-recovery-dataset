@@ -1,0 +1,964 @@
+Source URL: https://web.archive.org/web/20250201205727id_/https://dhcfp.nv.gov/uploadedFiles/dhcfpnvgov/content/Providers/PI/MOM%20Chapter%20800.pdf
+Retrieved: 2026-09-23
+
+                                                                                     MTL 02/19
+                                                                      Section:
+ DIVISION OF HEALTH CARE FINANCING AND POLICY                                            800
+
+                                                                      Subject:
+MEDICAID OPERATIONAL MANUAL                                                      INTRODUCTION
+
+
+800         INTRODUCTION
+
+            Cost Savings Programs arc considered measures or actions that lower current spending such as
+            recouping paid funds from liable third party/parties. Medicaid Estate Recovery (MER) and
+            Subrogation - Third Party Liability (TPL) and probate duties are considered to be measurable
+            actions to cost savings.
+
+800.1       Federal and state law mandates state operation of the MER program whereby correctly paid
+            Medicaid benefits are recoverable from the estate of a deceased Medicaid recipient. Recovery is
+            accomplished only after the death of a recipient and at a time when there is no surviving spouse,
+            children under the age of 21, or blind or disabled children of any age, as defined by Section 1614
+            of the Social Security Act (SSA).
+
+            Regulations of the MER program affects individuals who received Medicaid benefits on or after
+            October I, 1993. Collections will be pursued against the estate of the recipient up to the amount of
+            Medicaid benefits correctly paid or up to the determined value of the recipient's estate whichever
+            is less.
+
+            MER staff are located at the Division of Health Care Financing and Policy (DHCFP), 1100 E.
+            William St. Suite 109, Carson City Nevada 89701; Phone (775) 687-8414 and Fax (775) 684-3720;
+            mer@dhcfp.nv.gov.
+
+800.2       In certain trauma situations, there may be a source of medical payments other than regular health
+            insurance. This source could be through automobile insurance. homeowner·s insurance. liability
+            insurance, etc. A provider may elect to bill or file a lien against those sources, or Medicaid may be
+            billed.
+
+            Under 3 I Code of Federal Regulations (CFR) 50.104, an insurer shall not waive its rights of
+            subrogation under its property and casualty insurance policy concerning any losses the payment
+            of which the insurer intends to include in its insurer deductible or the aggregate insured losses for
+            purposes of calculating the Federal share of compensation of its insured losses. As a representation
+            of theory and interpretation behind insurance subrogation, Nevada Medicaid will allow providers
+            who accept(ed) a Medicaid payment for services directly related to injuries or accidents to
+                                                                                                     r
+            subsequently return that payment to Medicaid in order to seek reimbursement directly fom     a liable
+            third party.
+
+            Subrogation casualty case recoupment is the collaborative work between the DHCFP, States Fiscal
+            Agent and TPL vendor. Managed Care Organizations (MCOs) and the Dental Benefit
+            Administrator arc required to pursue their enrollees subrogation cases and to provide reports
+            outlined in the Medicaid Service Manual (MSM) and their contract requirements.
+
+
+
+
+  December 28, 2018                  COST SAVINGS PROGRAM                               Section 800 Pa e I
+                                                                                MTLo02/19
+                                                                  Section:
+DIVISION OF HEALTH CARE FINANCING AND POLICY                                        801
+
+                                                                  Subject:
+MEDICAID OPERATION AL MANUAL                                                  AUTHORITY
+
+
+801        AUTHORITY
+
+           Authority for operating the MER program is published in Section 1917 of the SSA and Nevada
+           Revised Statutes (NRS) 422.054; 422.29301; 42229302; and et.seq.
+
+           Sections I 902(a)(25), 1912 and 1917 allows States the ability to recover the cost from the full
+           amount of a liability settlement, instead of a portion of the settlement.
+
+           31 CFR 50.105 Subrogation
+
+           42 CFR, Part 433, Subpart D, 42 CFR 433.145, 433. I 46(c) and 433.154
+
+           State Medicaid Manual (SMM) 3905.2 and 3908
+
+           NRS 422.293 Subrogation, Rights and Responsibilities
+
+           Nevada Medicaid State Plan Section 4.22; Third Party Liability, Attachment 4.22-B
+
+           Worker's compensation insurance coverage is required for all providers pursuant to NRS
+           Chapters 616A through 6168.
+
+
+
+
+ December 28, 2018                 COST SA VJNGS PROGRAM                           Section 80 I Pa e I
+                                                                                          MTL 02/19
+                                                                           Section:
+ DIVISION OF HEALTH CARE FINANCING AND POLICY                                                 802
+
+                                                                           Subject:
+ MEDICAID OPERATIONAL MANUAL                                                            DEFINITIONS
+
+
+802          DEFINITIONS
+
+802.ol       AFFECTED INDIVIDUALS
+
+             MER actions are imposed against Medicaid recipients who are:
+
+             •         Fifty-five years of age or older when they receive Medicaid assistance; or
+
+             •         An inpatient in a nursing facility, intermediate care facility for individuals with intellectual
+                       disabilities (ICF/lID) or other medical institution, where they are required to spend for
+                       costs of medical care all but a minimal amount of income which is permitted for the
+                       recipient's personal needs.
+
+802.2        ESTATE
+
+             For the purposes of MER, '·Estate" means assets included in the estate of the deceased recipient of
+             assistance to the medically indigent and any other assets in or to which the recipient had an interest
+             or legal title immediately before or at the time of death, to the extent of that interest or title (NRS
+             422.054). The term includes assets passing by reason of joint tenancy, reserved life estate,
+             survivorship, trust, annuity, homestead or other arrangement.
+
+802.3        PRO BATE
+
+             The legal process by which the assets of a decedent are properly distributed (if he or she made a
+             will) to the beneficiaries or heirs through an executor named in the will, or (if he or she died
+             without a will) according to the local law by a court-appointed administrator. The coUit's objective
+             is to ensure that the deceased's debts, taxes and other valid claims are paid out of his or her estate
+             (probate assets) before any distribution is made to the estate's beneficiaries, in accordance with the
+             will (if it exists) or on the orders of the coutt (if it doesn't exist).
+
+802.4        DEPUTY ATTORNEY GENERAL (DAG)
+
+             The DHCFP works directly with the Deputy Attorney General(s) (DAG) for complex case
+             decisions and guidance.
+
+802. 5       CASUALTY LIEN REDUCTION
+
+             For the purpose of TPL, casualty is the result of an accident, mishap or disaster. The result of
+             casualty may lead to entering a lien; a right to keep possession of prope1ty or a form of cash
+             settlement, belonging to another person until a debt owed is negotiated, paid at the level of cost
+             accrued or discharged.
+
+
+
+
+  December 28, 20I 8                     COST SAVINGS PROGRAM                                 Section 802 Pa e I
+                                                                                       MTL 02/19
+                                                                         Section:
+ DNISION OF HEALTH CARE FINANCING AND POLICY                                                802
+
+                                                                         Subject:
+ MEDICAID OPERATIONAL MANUAL                                                         DEFINITIONS
+
+
+802.6         SUBROGATION
+
+              Subrogation refers to an insurer· s right to recover the amount it has paid for a loss from the party
+              that caused the loss.
+
+
+
+
+  December 28, 20 I 8                  COST SA VINOS PROGRAM                               Section 802 Pa e 2
+                                                                                       MTL02/l9
+                                                                        Section:
+ DIVISION OF HEALTH CARE FINANCING AND POLICY                                              803
+
+                                                                        Subject:
+ MEDICAID OPERATIONAL MANUAL                                                         MER POLICY
+
+
+803          MER POLICY
+
+803.1       NOTIFICATION TO AFFECTED INDIVIDUALS
+
+            Full disclosure of the MER program operation is made during the application process. Statements
+            regarding MER are included on the eligibility application and applicants (or their representatives)
+            are given Form 6160-AF, "Medicaid Estate Recovery Notification of Program Operation." Staff
+            MUST attempt to secure the acknowledgment (via signature) of information provided on Fonn
+            6160-AF. However, the applicant's (or their representative's) failure to sign the form does not
+            preclude the pursuit of correctly paid benefits.
+
+            Form 6160-AF, Medicaid Estate Recovery Notification of Program Operation, must be given to
+            all applicants for Medicaid assistance at the time of application for services and redetermination.
+            Provide the applicant the form in English or Spanish, whichever is appropriate.
+
+            One copy of the form will be given to the applicant and one dated copy will be filed in the Medicaid
+            eligibility case file.
+
+803.2        REFERRAL CASES TO MER UNIT
+
+            When a MER affected recipient is no longer Medicaid eligible due to death, the eligibility worker
+            MUST forward their case file to MER within three working days after the closure of the Medicaid
+            case file resulting from the death of the Medicaid recipient.
+
+            Eligibility staff will request in writing the return of the case file, if necessary. The written request
+            must include the name and Social Security Number of the client; the date of the request; the
+            eligibility staff member requesting the file and the district office where the file should be sent. This
+            request may be faxed or forwarded to Attention: MER, utilizing interoffice mail. MER staff will
+            provide the case file within three working days.
+
+            Case files for Medicaid applicants who have been denied Medicaid eligibility and who do not have
+            a history of prior approval should not be forwarded to the MER unit.
+
+803.3       INITIATION OF MER ACTIVITIES
+
+            Upon receipt of the closed Medicaid eligibility case file, MER personnel will establish a MER
+            recovery case. MER staff will validate the recipient's reported resource information.
+
+803.4       NOTIFICATION OF RECIPIENT'S HEIRS
+
+            When MER staff receives notification of an affected Medicaid recipient's death, they will provide
+            their known heirs with a written notice which:
+
+
+
+  December 28, 2018                  COST SA VINOS PROGRAM                                Section 803 Pa e I
+                                                                                        MTL 02/19
+                                                                         Section:
+DIVISION OF HEALTH CARE FINANCING AND POLICY                                                803
+
+                                                                         Subject:
+MEDICAID OPERATIONAL MANUAL                                                           MER POLICY
+
+
+            A.        Advises of the State's intent to recover the value of Medicaid benefits paid on the recipient's
+                      behalf from the recipient's estate; and
+
+            B.        Provides information addressing Medicaid payments made on behalf of the recipient; and
+
+            C.        Includes a statement advising the amount the MER claim may increase if there are additional
+                      Medicaid claims which have not yet been processed.
+
+            All MER notices will include a statement advising the recipient's heirs of the MER hardship waiver
+            prov1s10ns.
+
+803.5       IDENTIFICATION OF MER COLLECTIBLES
+
+            After the reported death of an affected recipient, MER personnel will review the recipient's estate
+            to determine an estimated dollar value. Assets information will be recorded in the recipient's MER
+            file and will serve as the maximum amount recoverable under the MER program.
+
+            MER actions will be pw·sued against the estate of the recipient up to the amount of Medicaid
+            benefits correctly paid or up to the determined value of the recipient's estate whichever is less.
+
+803.6       INITIATING MER COLLECTIONS
+
+            After the recipient's death, MER personnel will immediately pursue adjustments or recovery of
+            any Medicaid assistance correctly paid on behalf of the recipient from the recipient's estate or
+            upon the sale of the recipient's real property.
+
+            Any adjustment or recovery against a recipient may be made only after the death of the recipient's
+            surviving spouse, if any, and only at a time when:
+
+            A.        The recipient has no surviving child who is under 21 years of age; or
+
+            B.        The recipient has no surviving child who is blind or disabled, of any age, as defined by
+                      Section 1614 of the SSA.
+
+803.7       RECOVERY AGAINST AN ESTATE
+
+            After the death of an affected recipient, and in accordance with NRS, MER personnel will
+            immediately file a claim against the estate of the recipient for the full value of Medicaid benefits
+            paid on behalf of the recipient. Once MER staff has requested the deceased recipient's case file,
+            eligibility staff will forward the case file to MER within three working days.
+
+            Claims will be filed with:
+
+
+
+  December 28, 2018                    COST SAVINGS PROGRAM                                Section 803 Pa e 2
+                                                                                      MTL 02/19
+                                                                        Section:
+ DIVISION OF HEALTH CARE FINANCING AND POLICY                                             803
+
+                                                                        Subject:
+ MEDICAID OPERATIONAL MANUAL                                                        MER POLICY
+
+
+             A.       The court having jurisdiction over the recipient's estate pursuant to NRS 147.040; or
+
+             B.       Any individual or entity empowered with the legal ability to control, liquidate or transfer
+                      any part of the recipient's estate.
+
+803.8        IMPOSITION OF LIENS
+
+             Liens may be imposed to protect recovery of estate assets for correctly paid Medicaid benefits
+             when permitted by federal and state law. The purpose of the lien is to facilitate recovery of
+             Medicaid benefits when it is appropriate and allowable by law to do so. It is not intended to impair
+             the ability of the surviving spouse or another qualified individual to sell or refinance the property
+             if so desired, nor is it intended to force the premature sale of the property. Action is never taken
+             on liens until or unless all exemptions allowed by federal law no longer apply.
+
+             The State's lien would only be against the interest in that property the Medicaid recipient had at
+             the time of death or the Medicaid claim, whichever is less.
+
+            Federal law prohibits recovery on a lien when there is a surviving spouse, children under the age
+            of 21, or blind and/or disabled children of any age. The State must release a lien if a surviving
+            spouse, a child under age 21 or blind or disabled child of any age, as defined by Section I 614 of
+            the SSA, or a legal representative desire to engage in a bona fide sale or financial transaction
+            involving the property. If the property is refinanced, the State has the option of re-petitioning for
+            the placement of the lien.
+
+             In the event of incorrectly paid benefits, a lien may be imposed on both real and personal property
+             with authority of a court judgment without regard to circumstances.
+
+803.9       POSTPONING/TERMINATING MER ACTIONS
+
+            If, after the reported death of the recipient, immediate MER action is prohibited because of
+            exception conditions, MER personnel postpone MER action until all exception conditions are no
+            longer present. Termination of MER action will occur when all real and personal property included
+            as part of the recipient's estate is no longer accessible.
+
+803.10      RECEIPTING/POSTING MER COLLECTIONS
+
+            All MER collections will be received by MER personnel located at the DHCFP.
+
+            Payment may be made by check, money order or wire transfer, made payable to Medicaid Estate
+            Recovery, Department of Health and Human Services, or Nevada State Treasurer. MER does not
+            accept cash or credit card as a form of payment
+
+            Do not state verbally or in writing that this payment releases the heir from MER action.
+
+
+  December 28, 2018                    COST SAVINGS PROGRAM                              Section 803 Pa e 3
+                                                                                        MTL 02/19
+                                                                         Section:
+DIVISION OF HEALTH CARE FINANCING AND POLICY                                                803
+
+                                                                         Subject:
+ MEDICAID OPERATIONAL MANUAL                                                          MER POLICY
+
+
+803.11      EXCLUSION FROM RECOVERY
+
+            A.        The following income, resources and property are exempt from MER:
+
+                      1.    Certain income and resources of American Indians and Alaska Natives. Income and
+                            resources (such as interests in and income derived from tribal land and other
+                            resources cunently held in trust status and judgment funds from the Indian Claims
+                            Commission and the U.S. Claims Court) that are exempt from Medicaid estate
+                            recovery by other laws and regulations;
+
+                      2.     Ownership interest in trust or non-trust property, including real property and
+                             improvements:
+
+                            a.      Located on a reservation (any federally recognized Indian tribal reservation,
+                                    Pueblo or Colony, including former reservations in Oklahoma, Alaska
+                                    Native regions established by Alaska Native Claims Settlement Act and
+                                    Indian allotment) or near a reservation as designated and approved by the
+                                    Bureau of Indian Affairs of the U.S. Department of the Interior; or
+
+                             b.      For any federally-recognized tribe not described in (a) located within the
+                                     most recent boundaries of a prior federal reservation.
+
+                             c.      Protection of non-ttust property described above is limited to circumstances
+                                     when it passes from an Indian (as defined in Section 4 of the Indian Health
+                                     Care Improvement Act) to one or more relatives (by blood, adoption or
+                                     maniage) including Indians not enrolled as members of a tribe and non­
+                                     Indians, such as spouses and stepchildren; that their culture would
+                                     nevertheless protect as family members, to a tribe or tribal organization;
+                                     and/or to one or more Indians.
+
+                      3.     Income left as a remainder in an estate derived from prope11y protected in (b) above
+                             that was either collected by an Indian, or by a tribe or tribal organization and
+                             distributed to lndian(s), as long as the individual can clearly trace it as coming from
+                             the protected property;
+
+                      4.     Ownership interests left as a remainder in an estate in rents, leases, royalties or
+                             usage rights related to natural resources (including extraction of natural resources
+                             or harvesting of timber, other plants and plant products, animals, fish and shellfish)
+                             resulting from the exercise of federally-protected rights, and income either
+                             collected by an Indian, or by a tribe or ttibal organization and distributed to
+                             lndian(s) derived from these sources as long as the individual can clearly trace it as
+                             coming from protected sources; and
+
+
+
+  December 28, 2018                    COST SAVINGS PROGRAM                                Section 803 Pa e 4
+                                                                                       MTL 02/19
+                                                                        Section:
+ DIVISION OF HEALTH CARE FINANCING AND POLICY                                              803
+
+                                                                        Subject:
+ MEDICAID OPERATIONAL MANUAL                                                         MER POLICY
+
+
+                      5.     Ownership interest in or usage rights to items not covered by I - 4 above that have
+                             unique religious, spiritual, traditional and/or cultural significance or rights that
+                             support subsistence or a traditional and/or cultural significance, or rights that
+                             support subsistence or a traditional lifestyle according to applicable tribal law or
+                             custom;
+
+                      6.     Government reparation payments to special populations.
+
+            B.        Income, resources and property of American Indians and Alaska Natives, which are not
+                      exempt from Medicaid estate recovery:
+
+                      1.     Ownership interests in assets and property, both real and personal, that are not
+                             described in the above items.
+
+                      2.     Any income and assets left as a remainder in an estate that does not derive from
+                             protected property or sources listed above.
+
+803.1 2     HARDSHIP WAIYER
+
+            At the time recovery is initiated, the MER recovery specialist will discuss hardship waivers,
+            compromises or adjustments to the State's claim. Hardship requests will be submitted to the
+            administrator or their appointed representative of the DHCFP for review. The denial of a hardship
+            waiver may be appealed through an administrative hearing.
+
+            There is no hardship waiver provided at the time of lien placement against the real property of a
+            deceased Medicaid recipient. The equity interest of the heir will be considered to determine the
+            percentage of the deceased recipient's interest in the property. Lien placement is utilized to delay
+            recovery until such time an exemption to recovery does not exist, or in the case of a hardship, until
+            such time as the hardship no longer exists. The State's lien would be the Medicaid benefits paid
+            on behalf of the recipient or the percentage of interest of the deceased recipient at the time of sale,
+            whichever is less.
+
+803.1 3      HARDSHIP WAIYER CRITERIA
+
+            The State will waive enforcement of any estate recovery claim when the requesting party is able
+            to show, through convincing evidence, the State's pursuit of estate recovery subjects them to undue
+            hardship. A claim for emotional hardship is not considered sufficient to warrant waiver approval.
+            No waiver will be granted if the Division finds the undue hardship was created by estate planning
+            methods by which the waiver applicant or deceased client divested, transferred or otherwise
+            encumbered assets in whole or part, to avoid estate recovery. In determining whether undue
+            hardship exists, the following criteria will be used:
+
+             A.       The asset to be recovered is the sole income-producing asset of the applicant; or
+
+
+  December 28, 2018                    COST SAVINGS PROGRAM                               Section 803 Pa e 5
+                                                                                       MTL 02/ 1 9
+                                                                         Section:
+DIVISION OF HEALTH CARE FINANCING AND POLICY                                               803
+
+                                                                         Subject:
+MEDICAID OPERATIONAL MANUAL                                                          MER POLICY
+
+
+             B.        The recovery of the assets would result in the applicant becoming eligible for governmental
+                       public assistance based on need and/or medical assistance programs; or
+
+             C.        A doctor's written verification of a medical condition that compromises the applicant's
+                       ability to repay the Medicaid claim.
+
+             If an undue hardship waiver is requested and the State determines that none of the above conditions
+             apply, full payment of the claim may be ordered, recovery may be temporarily waived,
+             compromised or modified. The following factors shall be considered individually or in
+             combination when making a decision to temporarily waive, modify or compromise estate recovery:
+
+             D.        The gross annual income, prope11y and other assets of the applicant and their immediate
+                       family;
+
+             E.        The type and level of care provided by the applicant (caregiver) to the decedent and the
+                       extent to which the care delayed or prevented the institutionalization of the decedent. The
+                       State uses the following process for determining if the applicants will be considered as
+                       caregivers when through clear evidence they substantiate;
+
+                       I.     Maintained residency in the Medicaid recipient's home for at least two years
+                              immediately preceding the recipient's death or admission into a nursing facility,
+                              ICF/IID or other medical institutions; and
+
+                       2.     Provided care for Medicaid recipient which meets or exceeds published state
+                              standard established for Intermediate Care Level (ICL 1 ), which includes as
+                              necessary, assisting the individual with ambulatory needs, feeding, grooming,
+                              personal hygiene, oral hygiene, nail care, bathing, toilet activities, skin care and
+                              medical needs.
+
+                       3.     The applicant continuously resided with the decedent for two years or more
+                              immediately prior to the decedent's death and continues to reside in the decedent's
+                              residence and the prior occupancy permitted the decedent to reside at home rather
+                              than in an institution;
+
+                       4.     The estimated value of the real or personal property at issue. If the cost of
+                              recovering the asset(s) of the deceased Medicaid recipient is more than the value of
+                              the asset(s), it would not be cost-effective to recover, and/or
+
+                       5.     The financial impact of recovery against immediate family members of the
+                              applicant.
+
+                       6.     Applicants who seek a recovery delay (i.e., temporary waiver) will be given the
+                              oppo11unity to provide written details or complete an "Application for a Hardship
+
+
+ December 28, 20 1 8                    COST SA VfNGS PROGRAM                             Section 803 Pa e 6
+                                                                                        MTL 02/19
+                                                                        Section:
+ DIVISION OF HEALTH CARE FINANCING AND POLICY                                              803
+
+                                                                        Subject:
+ MEDICAID OPERATIONAL MANUAL                                                        MER POLICY
+
+
+                             Waiver Regarding Recovery of Correctly Paid Medicaid Benefits" form within 30
+                             days of notification of the Division's intent to recover.
+
+             F.        The following collection methods may be used when recovery is temporarily waived,
+                       compromised or modified:
+
+                       1.    Reduction of recovery amount;
+
+                       2.    Reasonable payment schedule based on the asset to be recovered; and/or
+
+                       3.    Where not prohibited by law, the imposition of a lien against the assets of the
+                             deceased Medicaid recipient.
+
+                             a.     Before the imposition of a lien, the Division shall notify all persons having
+                                    an interest in the estate of the deceased Medicaid recipient and petition the
+                                    appropriate district court for the imposition of a lien per NRS 422.29306.
+
+                             b.     If a lien is placed on an individual's home, adjustment or recovery will only
+                                    be made when:
+
+                                    1.      There is no surviving spouse;
+
+                                    2.      There is no child under the age of 21; or
+
+                                    3.      There is no blind or disabled (as defined in Section 161 4 of the SSA)
+                                            child of the Medicaid recipient.
+
+                             c.     The lien will become due and payable upon the sale, refinance, transfer or
+                                    change in title to the real property; and/or escrow funding, but only when
+                                    there is no surviving spouse, children under 21 , or blind or disabled
+                                    children, of any age, as defined by Section 1614 of the SSA of the Medicaid
+                                    recipient. Recovery is limited to the Medicaid recipient's interest in the
+                                    property at the time of claim payment not to exceed the Medicaid claim or
+                                    the percentage of interest of the Medicaid recipient in the asset.
+
+                             d.     Upon payment of the claim, or need of the statutory exemptions, the
+                                    division will prepare a release of lien or subordinate the lien. This release
+                                    will be provided to the appropriate entity; such as, an escrow company or
+                                    the county recorder's office.
+
+803. 1 4     PROCEDURES FOR APPLYING FOR HARDSHIP WAIYER
+
+             Federal law prohibits recovery during the lifetime of a spouse and/or when there are children under
+             the a e of 2 1 , and/or when there are children who are blind and/or disabled.
+
+  December 28, 201o8                     COST SA VlNGS PROGRAM                            Section 803 Pa e 7
+                                                                                     MTL 02/19
+                                                                       Section:
+DNISION OF HEALTH CARE FINANCING AND POLICY                                              803
+
+                                                                       Subject:
+MEDICAID OPERATIONAL MANUAL                                                        MER POLICY
+
+
+           A.        The State defines undue hardship as severe financial duress or a significant compromise to
+                     an individual's health care or shelter needs.
+
+                     Application for Undue Hardship Waiver - Any heir or survivor may seek an undue
+                     hardship waiver by submitting a written request for a waiver by completing an ''Application
+                     (Request) for a Hardship Waiver Regarding Recovery of Correctly Paid Medicaid
+                     Benefits" form within 30 days of notification of the Division's intent to recover.
+                     Documentary evidence that supports the applicant's claim should be attached. The written
+                     decision of the Administrator of the DHCFP will be provided to the applicant 90 days from
+                     receipt of the request.
+
+           B.        The following time frames are used by the State in considering the waiving of estate
+                     recoveries:
+
+                     l.     Any beneficiary, heir or family member claiming entitlement to receive the assets
+                            of the deceased Medicaid recipient may apply for a hardship waiver by submitting
+                            a written request for a waiver within 30 days of being notified of intent to recover
+                            to the MER unit.
+
+                     2.     The Division may request additional info1mation or documentation from the waiver
+                            applicant. If some or all the additional infom1ation or documentation is not provided
+                            within 30 days of the request, the hardship waiver request will be considered solely
+                            on the basis of the information and documentation provided.
+
+                     3.     Within 90 days of receipt of the undue hardship waiver request, the Division
+                            Administrator or his appointed representative, will issue a written decision granting
+                            or denying the applicant's request for an undue hardship waiver.
+
+
+
+
+ December 28, 2018                    COST SA VIN GS PROGRAM                             Section 803 Pa e 8
+                                                                                         MTL 02/19
+                                                                          Section:
+DIVISION OF HEALTH CARE FINANCING AND POLICY                                                 804
+
+                                                                          Subject:
+MEDICAID OPERATIONAL MANUAL                                                SUBROGATION - THIRD PARTY
+                                                                                   LIABILITY
+
+804         SUBROGATIONo- THIRD PARTY LIABILITY
+
+804.1       PROVIDERS - CASUALTY LIEN REDUCTIONS
+
+            Nevada Medicaid will allow providers who accept(ed) a Medicaid payment for services directly
+            related to injuries or accidents to subsequently return that payment to Medicaid in order to seek
+            reimbursement directly from a liable third party.
+
+             A.       Medicaid will not enter into an arrangement with providers to represent or act on behalf of
+                      Medicaid in pursuit of recovery. Medicaid will continue to utilize its own legal staff to
+                      pursue recovery.
+
+             B.       Medicaid will pursue its own liens against tort settlements/judgments for those payments
+                      made by Medicaid to providers who do not repay them to pursue liens of their own.
+                      Although one provider may return a payment and pursue its own lien, other(s) may choose
+                      to accept Medicaid's payment in full. In these latter situations, Medicaid will pursue its
+                      own liens through established subrogation policies. However, the amount of Medicaid's
+                      lien will be limited to the total amount of all payments made by Medicaid which were not
+                      repaid by providers.
+
+             C.       Providers have the option to pursue liens on tort actions on a case-by-case basis.
+
+             D.       Providers are prohibited from pursuing money that has been awarded to a Medicaid
+                      beneficiary. The provider is entitled to reimbursement from a tort judgment or settlement
+                      only when the settlement distinguishes a set amount of money for medical expenses, and
+                      only if this amount is above the amount owed to Medicaid. The provider lien must be
+                      against the tortfeasor and not the general assets of the beneficiary. In the case of tort liens,
+                      on or before 24 months from the date of injury, the provider may return the payment the
+                      provider received from Medicaid for the claims related to that injury.
+
+804.2       REPAYMENT OF MEDICAID PAYMENT
+
+            Repayment of the Medicaid payment is a waiver by the provider of any further claims against
+            Medicaid based on claims for that injury. Once a Medicaid payment is returned for the purpose of
+            pw·suing a tort lien, the provider's claim against Medicaid is ended. Providers who return Medicaid
+            payments to pursue liens will not be allowed to bill Medicaid again at a later date in an effort to
+            secure the entire previously paid Medicaid amount, or for payment above the lien recovery amount
+            to secure a minimum of Medicaid's allowable.
+
+            A.        Repayment to Medicaid must be made prior to any action being taken by the provider to
+                      pursue the lien. The pursuit of a lien before returning the Medicaid payments violates
+                      federal regulation and the terms of the provider's agreement. In no event may a provider
+                      delay returning Medicaid payment until after a settlement or judgment is received.
+
+
+  December 28, 2018                     COST SAVINGS PROGRAM                                 Section 804 Pa e I
+                                                                                      MTL 02/ 1 9
+                                                                        Section:
+ DIVISION OF HEALTH CARE FINANCING AND POLICY                                             804
+
+                                                                        Subject:
+ MEDICAID OPERATIONAL MANUAL                                             SUBROGATION - TH IRD PARTY
+                                                                                 LIABILITY
+
+804.3       PROCEDURES FOR SUBROGATION LIEN REQUEST
+
+            The TPL vendor may use a secured maintained system separate from the DHCFP or its contracted
+            Fiscal Agent. The following process outlines details specific to the process for the DHCFP
+            subrogation lead and Chief Financial Officer (CFO). The TPL vendor must provide their system
+            development procedures to review and track for an overview to the DHCFP TPL staff, even in
+            cases where the TPL vendor is acting as the subcontractor to the State · s Fiscal agent.
+
+            A.        The DHCFP lead will receive requests in a secured Excel spreadsheet fomrnt from the TPL
+                      vendor on a weekly basis via email. The spreadsheet lists specific data for the DHCFP to
+                      download for evaluation and to make determinations in the best interest of the State.
+
+                      The spreadsheet located on the DHCFP shared drive is a back up to what has been evaluated
+                      and entered into the TPL vendor system.
+
+            B.        Once the DHCFP lead reviews, verifies and provides recommendation embedded in the
+                      spreadsheet, the CFO is notified of the number ofonew and/or pending cases that are waiting
+                      for review. Once this information has been reviewed, verified and recommendation has
+                      been agreed upon or changed by the CFO. then this information will be entered into the
+                      TPL vendor system. Once completed, the information will be returned to the TPL vendor
+                      so they can notify the attorney or other interested party of the State decision.
+
+                      I.     A case that has already received the state· s recommended settlement reduction may
+                             be resubmitted to the DHCFP for revalue. The TPL vendor must document the case
+                             was resubmitted for a new reduction based on representing attorney request via
+                             spreadsheet or through a fo1111 of communication.
+                                                                                 ..
+                      2.     Sample language: '·Reduction already proposed at $XX or . . Revalue Request from
+                             $XX.''
+
+            C.        The DHCFP lead and CFO will complete this process within ten business days of State
+                      receipt for most cases. Longer processing times may apply for appeals, complex cases and
+                      requests resulting in a lien reduction of more than $100,000.00 or cases awaiting a response
+                      from the DHCFP attorney. If additional time is needed, written communication to the TPL
+                      vendor subrogation lead will be required.
+
+804.4       PROCEDURE FOR THE DHCFP
+
+            A.        LEAD
+
+                      I.     The lead will receive the Casualty Lien Reduction request spreadsheet via secured
+                             email.
+
+
+
+  December 28, 2018                    COST SAVINGS PROGRAM                               Section 804 Pa e 2
+                                                                                     MTL 02/ 1 9
+                                                                      Section:
+DIVISION OF HEALTH CARE FINANCING AND POLICY                                             804
+
+                                                                      Subject:
+MEDICAID OPERATIONAL MANUAL                                            SUBROGATIONo- THIRD PARTY
+                                                                               LIABILITY
+
+                      2.   Analyzes spreadsheet, reviews documentation presented for each case as
+                           appropriate:
+
+                           a.     Ensures the required information in the spreadsheet is complete;
+
+                                   I.      Date entered,
+
+                                  2.       Requested status (new, pending or revalue), and
+
+                                  3.       Data contained in the spreadsheet accurately reflects and matches
+                                           TPL documents provided.
+
+                                  4.       Follows calculation rules outlined in Section 804.5.
+
+                           b.     If spreadsheet is incomplete or not accurate to information in TPL tracking
+                                  system, request clarification fom
+                                                                 r
+                                                                     TPL vendor.
+
+                      3.   Record lead recommendation for each subrogation case using established
+                           guidelines located on spreadsheet. Also, located at the end of this document.
+
+                      4.   For any requests resulting ino$ I 00,000.00 or more in settlement or reduction, verify
+                           documentation in TPL system:
+
+                           a.     Any case overo$ I 00,000.00 needs to be brought to the attention of the CFO
+                                  as soon as possible. Add the summary to the email when the reduction
+                                  request spreadsheet has been saved into the shared drive.
+
+                           b.     View case breakdown summary attached in TPL system,
+
+                           c.     Verify with the DHCFP CFO case recommendation direction due to case
+                                  and lien reduction request and amount.
+
+                           d.     In ce11ain cases, the CFO may need to submit to the Division's
+                                  Administrator and the DAG.
+
+                      5.   On a weekly basis, inform the CFO via email the number of cases for that week:
+
+                           a.     Completed with recommendations for their review and final decision.
+
+                           b.     Marked: "High Importance" flag.
+
+                           c.     Monitor the requests to ensure timely processing by the DHCFP, sending
+                                  reminders and/or assisting the CFO to manage the requests pending State
+
+
+December 28, 20 1 8                     COST SA VTNGS PROGRAM                            Section 804 Pa e 3
+                                                                                MTL 02/19
+                                                                  Section:
+DIVISION OF HEALTH CARE FINANCING AND POLICY                                        804
+
+                                                                  Subject:
+MEDICAID OPERATIONAL MANUAL                                        SUBROGATION - THIRD PARTY
+                                                                           LIABILITY
+
+                                 decision.
+
+                     6.   Once the CFO provides the State decision;
+
+                          a.     They will save their final decision within the spreadsheet on the Shared
+                                 drive; or
+
+                          b.     The CFO will enter their final ruling 111 the TPL system for vendor
+                                 immediate review.
+
+           B.        CHIEF FI ANCIAL O FFICER (CFO):
+
+                     I.   Receive Casualty Lien Reduction requests via email from lead.
+
+                     2.   Reviews recommendations and TPL vendors provided data for each case via
+                          spreadsheet and in the TPL vendors system.
+
+                          a.     Access TPL system to review case documents and TPL vendor notes as
+                                 needed for case decision.
+
+                     3.   Applies State decisions for each case in TPL vendor system and spreadsheet
+                          (spreadsheet is currently a back up to the TPL vendor tracking system).
+
+                          a.     For cases where there are questions, add notes in the TPL system pending
+                                 response, notate on spreadsheet in comments field for others to review who
+                                 may not have TPL system access.
+
+                     4.   Consult with the DAG as needed for complex cases or concerns.
+
+                          a.     DHCFP DAG for Subrogation:
+                                 Deputy Attorney General
+                                 Depa1tment of Health and Human Services
+                                 Division of Health Care Financing and Policy
+                                 Nevada Office of the Attorney General
+                                 555 E. Washington Avenue, Suite 3900
+                                 Las Vegas, Nevada 8910 I
+                                 (702) 486-3107
+                                 (702) 486-3773 (fax)
+
+                     5.   Once the decisions arc made through team discussion (CFO, Lead and DAG), enter
+                          finalized case decisions via TPL system and the DHCFP spreadsheet located on the
+                          shared drive.
+
+
+
+ December 28, 2018                 COST SAVINGS PROGRAM                             Section 804 Pa e 4
+                                                                                        MTL 02/19
+                                                                         Section:
+ DIVISION OF HEALTH CARE FINANCING AND POLICY                                               804
+
+                                                                         Subject:
+MEDICAID OPERATIONAL MANUAL                                               SUBROGATION - THIRD PARTY
+                                                                                  LIABILITY
+
+804.5        CALCULATION RULES
+
+            The DHCFP" s calculation and decision related to the lien reduction request is based on NRS
+            422.293 guidelines. Nevada developed a combination of Self-Calculated Conditional Payment
+            (SCP) model that enables the State to self-calculate the demand amount before settlement in certain
+            situations, and a Fixed Ratio Option (FRO) reduction amount which offers a simple,
+            straightforward process to obtain the percentage amount due to Medicaid. Based on personal injury
+            case under Mahler vs Szuc (1998), the Mahler Reduction Calculation was developed where
+            Medicaid state agencies recoup one-third of the gross settlement. An additional reduction is
+            dete1mined based on attorney reduction. Logic for the 25% reduction is to help pay for attorney
+            fees and costs.
+
+            A.        The DHCFP will reduce the total settlement by one-third, and then reduce the one-third by
+                      25%.
+
+             B.       If the lien is less than one-third of the total settlement, then reduce the lien by 25% using
+                      the lien amount to help pay for attorney fees and costs.
+
+            C.        In the lien reduction request, the representing attorney will include an amount that they will
+                      accept (an offer). If that amount is more than the amount derived from the above
+                      calculations. the DHCFP \,vi i i accept the attorney's offer.
+
+             D.       If the representing attorney · s offer is less than the amount derived from the above
+                      calculations, the DHCFP may counter-offer with the amount resulting from the
+                      calculations.
+
+804.6        CONSIDERATIO NS
+
+            A.        Medicaid can only recover the amount paid out for claims related to the accident/injury.
+
+                      I.     Medicaid can only take the lesser of the lien amount or the settlement amount.
+
+            B.        A lien reduction request will only be considered if the representing attorney or other
+                      interested party submits the request in writing.
+
+            C.        The DHCFP uses a formula to detennine equitable, consistent and fair lien reductions
+                      based upon the Ahlborn case decision and other case law.
+
+                      I.     As of October I , 20 I 7, Section 202 of the Act, · ·strengthening Medicaid Third­
+                             Party Liability' · was updated to amend po1tions of Section l 902(a)(25) to allow
+                             state Medicaid agencies to recover funds paid for medical treatment from any
+                             to1tious settlement or judgment proceeds received by a Medicaid beneficiary. The
+
+
+
+  December 28, 2018                    COST SAVINOS PROGRAM                                Section 804 Pa e 5
+                                                                                     MTL 02/19
+                                                                       Section:
+DIVISION OF HEALTH CARE FINANCING AND POLICY                                             804
+
+                                                                       Subject:
+MEDICAID OPERATIONAL MANUAL                                             SUBROGATION - THIRD PARTY
+                                                                                LJABJ LJTY
+
+                           states will be permitted to recover from the entire settlement proceeds, not just
+                           funds designated as payment for medical care.
+
+          D.        ff Medicaid is taking a loss of over $100,000.00, the State will abide by past interpretation
+                    of the one-third rule of the settlement cost and not reduce further.
+
+          E.        State responses to lien reduction requests must abide by past interpretations of the one­
+                    third rule and the guidance from the Nevada Deputy Attorney General"s Office.
+
+                    I.     ff a request to reduce a Medicaid lien by more than $ I 00,000.00 is received, then
+                           the DHCFP CFO must be notified and approve the request.
+
+                    2.     If a request to reduce a Medicaid lien by more than $ I 00,000.00 is received and the
+                           CFO is not available, then the DHCFP Administrator must be notified and approve
+                           the request.
+
+
+
+
+December 28, 2018                    COST SAVINGS PROGRAM                                Section 804 Pa e 6
+                                                                                                    MTL 02/19
+                                                                                  Section:
+DIVISION OF HEALTH CARE FINANCING AND POLICY                                                             804
+
+                                                                                  Subject:
+MEDICAID OPERATIONAL MANUAL                                                        SUBROGATJON - THIRD PARTY
+                                                                                           LIABILITY
+
+  F.          CALCULATION EXAMPLE
+
+                               Settlement>Lien             Lien<Settlement              This line is auto populated and will
+                                                                                        reflect the direction of the
+                                                                                        decision; Settlement or Lien.
+                               Name of Victim              Name of Victim
+                                                                                        Name o f i niured person
+   Gross Settlement                    $25,000.00                    $ 1 5,000.00       Total amount of cash settlement
+      Gross billed to MCD             $ 1 78.582.50                $2 1 4,439.37        Total amount billed to Medicaid
+   MCD Claims                          $23,772.26                    $22,588.28         Claims Paid by Medicaid
+   Attorney Reduction                NO                          YES
+   Yes or No
+      1 /3 of Settlement=                $8,333 .00                     $5,000.00       Auto populated
+      2/3 of Lien=                      $ 1 5,856 . 1 0                $ 1 5,856. 1 0   Auto populated
+   I F Attorney reduces                                                 $3,750.00
+   then 25%
+         Victim Gains                     $8. 1 83 .00            ( $ 5 1 ,2871 .00)    Amount the victim wi l l retain from
+                                                                                        injury. The representing attorney
+                                                                                        can adjust their fees and cost.
+   Attorney Fees                          $8.333 .00                   $ 1 5,000.00
+   Attorney Cost                           $ 1 50.00                   $47,52 1 .00
+   Total: Fee + Cost =                    $8.483.00                    $62,52 1 .00
+   Attorney Reducing:                NO                          YES                    Attorney reduction also drives
+          Yes or No                                                                     collection outcome.
+   Attorney Offer                              $0.00                         $0.00      Medicaid disagrees with zero
+                                                                                        collection. Only     Ill  special
+                                                                                        ci rcumstance would Medicaid
+                                                                                        accept zero: if the representing
+                                                                                        attorney takes zero Medicaid will
+                                                                                        evaluate with the DAG.
+   Attorney Offer is xo/o                     0.00%                         0.00%
+   of Lien
+   LEAD                                   $8J33 .00                     $3,750.00
+   Recommendation
+   CFO Final Offer                       $8333 .00                     $3,750.00
+   Offer is x% of Lien                      35.05%                       1 6.60%
+   Comment Line               Settlement> Lien +          Lien> Settlement +            Provide explanation or Notes on
+                            Attorney NOT Reduced          Attorney Reduced              case decision.
+
+
+
+
+December 28, 2018                       COST SAVINGS PROGRAM                                             Section 804 Pa e 7
+                                                                                      MTL 02/19
+                                                                        Section:
+DIVISION OF HEALTH CARE FINANCING AND POLICY                                              805
+
+                                                                        Subject:
+MEDICAID OPERATIONAL MANUAL                                                           PROBATES
+
+
+805         PROBATES
+
+           The DHCFP may file a Creditor· s Claim with the court for recovery in any probate associated with
+           Medicaid benefits that have been paid on behalf of a deceased recipient. The amount recovered is
+           dete1mined by the assets available in the estate as well as the expenses of the estate.
+
+            When a probate has been opened for a deceased Medicaid recipient as a result of a set1lement from
+            an accident, injury or from wrongful death, MER will coordinate its claim against the estate of the
+            deceased individual with the subrogation claim of the TPL vendor.
+
+            A.       When a probate is received in which the estate consists of a settlement relating to an injury
+                     from an accident or relating to wrongful death, MER will contact the TPL vendor to
+                     determine whether any of the Medicaid benefits paid were related to the accident.
+
+            B.       If the TPL vendor has a subrogation claim and received payment on their claim, MER will
+                     reduce its claim by the total amount of the TPL subrogation claim, regardless of the amount
+                     of payment received by the TPL vendor.
+
+            C.       If the TPL vendor does not have subrogation claims against the estate or does not receive
+                     payment on their claim, then MER may submit the full amount of it claims.
+
+
+
+
+ December 28, 2018                    COST SAVINGS PROGRAM                               Section 805 Pa e I
+

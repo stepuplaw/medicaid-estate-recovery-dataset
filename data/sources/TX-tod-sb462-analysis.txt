@@ -1,0 +1,431 @@
+Source URL: https://capitol.texas.gov/tlodocs/84R/analysis/html/SB00462F.htm
+Retrieved: 2026-09-23
+
+84(R) SB 462 - Enrolled version - Bill Analysis 
+
+ BILL ANALYSIS 
+
+ Senate Research Center
+
+ S.B. 
+ 462 
+
+ By: Huffman et al. 
+
+ State 
+ Affairs 
+
+ 6/17/2015 
+
+ Enrolled 
+
+ AUTHOR'S / SPONSOR'S 
+STATEMENT OF INTENT 
+
+ A 
+transfer-on-death deed (TODD) offers a way for a real property owner to pass on 
+real property while avoiding the expensive and sometimes confusing probate 
+process.� 
+
+ Nearly all 
+probate matters require legal counsel, and many beneficiaries are unable to afford 
+legal counsel.� As a result, otherwise inheritable real property is now passed 
+through intestacy to pay for the decedent's estate.� This problem can also lead 
+to cloudy titles and complex unintended co-ownership structures that pose 
+difficulties for owners, title companies, local governmental entities, and 
+other real estate stakeholders.
+
+ S.B. 462 
+creates a TODD, which is a way for a real property owner to transfer real 
+estate property while living, with or without a will.� It will allow clean 
+title to pass to the respective descendant or beneficiary without going through 
+probate.� A testator must record the TODD in the county records office during 
+his/her lifetime.� The TODD application requires both the testator and the 
+beneficiary's (or beneficiaries') signatures.� The real property owner files 
+the TODD at the county records office in the county where the property is 
+located.
+
+ S.B. 462 
+allows indigent persons and other beneficiaries to acquire an asset without the 
+expense of hiring counsel in probate proceedings.� It is a non-testamentary 
+instrument that is only effective upon death. Upon the testator�s death, the 
+beneficiary or beneficiaries must prove the testator�s death.� If done 
+successfully, title will pass to the beneficiary or beneficiaries listed on the 
+TODD.
+
+ Any statute 
+or common law that applies to estates also applies to TODD property unless 
+otherwise stated in legislation.� Additionally, S.B. 462 sets out a process for 
+creditors to make a claim on the property.� In all cases, a TODD will govern 
+over a will, regardless of whether the will is created before or subsequent to 
+a properly filed TODD.
+
+ S.B. 462 amends Title 2 of the 
+Texas Estates Code (Estate of a Decedent) and would apply to all real property 
+in Texas.
+
+ S.B. 462 amends current law relating to authorizing a 
+revocable deed that transfers real property at the transferor's death.
+
+ RULEMAKING AUTHORITY 
+
+ This bill does not expressly 
+grant any additional rulemaking authority to a state officer, institution, or 
+agency.
+
+ SECTION BY SECTION ANALYSIS 
+
+ SECTION 1.  Amends 
+Subtitle C, Title 2, Estates Code, by adding Chapter 114, as follows:
+
+ CHAPTER 114.� 
+TRANSFER ON DEATH DEED
+
+ SUBCHAPTER A.� 
+GENERAL PROVISIONS 
+
+ Sec. 114.001.  SHORT 
+TITLE.� Authorizes this chapter to be cited as the Texas Real Property Transfer 
+on Death Act.
+
+ Sec. 114.002.  DEFINITIONS.� 
+(a) Defines "beneficiary," "designated beneficiary," 
+"joint owner with right of survivorship" or "joint owner," 
+"person," "real property," "transfer on death 
+deed," and "transferor."
+
+ (b)  Provides 
+that, in this chapter, the terms "cancel" and "revoke" are 
+synonymous.
+
+ Sec. 114.003.  APPLICABILITY. 
+Provides that this chapter applies to a transfer on death deed executed and 
+acknowledged on or after September 1, 2015, by a transferor who dies on or 
+after September 1, 2015.
+
+ Sec. 114.004.  NONEXCLUSIVITY.� 
+Provides that this chapter does not affect any method of transferring real 
+property otherwise permitted under the laws of this state. 
+
+ Sec. 114.005.  UNIFORMITY 
+OF APPLICATION AND CONSTRUCTION.� Requires that consideration, in applying and 
+constructing this chapter, be given to the need to promote uniformity of the 
+law with respect to the subject matter of this chapter among states that enact 
+a law similar to this chapter.
+
+ Sec. 114.006.  RELATION 
+TO ELECTRONIC SIGNATURES IN GLOBAL AND NATIONAL COMMERCE ACT.� Provides that this 
+chapter modifies, limits, and supersedes the federal Electronic Signatures in 
+Global and National Commerce Act (15 U.S.C. Section 7001 et seq.), except that 
+this chapter does not modify, limit, or supersede Section 101(c) of that Act 
+(15 U.S.C. Section 7001(c)) or authorize electronic delivery of any of the 
+notices described in Section 103(b) of that Act (15 U.S.C. Section 7003(b)).
+
+ SUBCHAPTER B.� 
+AUTHORIZATION, EXECUTION, AND REVOCATION OF TRANSFER ON DEATH DEED
+
+ Sec. 114.051.  TRANSFER 
+ON DEATH DEED AUTHORIZED.� Authorizes an individual to transfer the 
+individual's interest in real property to one or more beneficiaries effective 
+at the transferor's death by a transfer on death deed.
+
+ Sec. 114.052.  TRANSFER 
+ON DEATH DEED REVOCABLE.� Provides that a transfer on death deed is revocable 
+regardless of whether the deed or another instrument contains a contrary 
+provision.
+
+ Sec. 114.053.  TRANSFER 
+ON DEATH DEED NONTESTAMENTARY.�� Provides that a transfer on death deed is a 
+nontestamentary instrument.
+
+ Sec. 114.054.  CAPACITY 
+OF TRANSFEROR; USE OF POWER OF ATTORNEY.� (a) Provides that the capacity 
+required to make or revoke a transfer on death deed is the same as the capacity 
+required to make a contract.
+
+ (b) Provides 
+that a transfer on death deed may not be created through use of a power of 
+attorney.
+
+ Sec. 114.055.  REQUIREMENTS.� 
+Requires a transfer on death deed, to be effective, to:
+
+ (1)  except 
+as otherwise provided in Subdivision (2), contain the essential elements and 
+formalities of a recordable deed;
+
+ (2)  state 
+that the transfer of an interest in real property to the designated beneficiary 
+is to occur at the transferor's death; and
+
+ (3)  be 
+recorded before the transferor's death in the deed records in the county 
+clerk's office of the county where the real property is located.
+
+ Sec. 114.056.  NOTICE, 
+DELIVERY, ACCEPTANCE, OR CONSIDERATION NOT REQUIRED.� Provides that a transfer 
+on death deed is effective without notice or delivery to or acceptance by the 
+designated beneficiary during the transferor's life, or consideration.
+
+ Sec. 114.057.  REVOCATION 
+BY CERTAIN INSTRUMENTS; EFFECT OF WILL OR MARRIAGE DISSOLUTION.� (a) Provides 
+that, subject to Subsections (d) and (e), an instrument is effective to revoke 
+a recorded transfer on death deed, or any part of it, if the instrument:
+
+ (1)  is 
+a subsequent transfer on death deed that revokes the preceding transfer on 
+death deed or part of the deed expressly or by inconsistency, or except as 
+provided by Subsection (b), an instrument of revocation that expressly revokes 
+the transfer on death deed or part of the deed; 
+
+ (2)  is 
+acknowledged by the transferor after the acknowledgment of the deed being 
+revoked; and
+
+ (3)  is 
+recorded before the transferor's death in the deed records in the county 
+clerk's office of the county where the deed being revoked is recorded.
+
+ (b)  Provides 
+that a will may not revoke or supersede a transfer on death deed.
+
+ (c)  Provides 
+that, if a marriage between the transferor and a designated beneficiary is 
+dissolved after a transfer on death deed is recorded, a final judgment of the 
+court dissolving the marriage operates to revoke the transfer on death deed as 
+to that designated beneficiary if notice of the judgment is recorded before the 
+transferor's death in the deed records in the county clerk's office of the 
+county where the deed is recorded, notwithstanding Section 111.052 (Validity of 
+Certain Nontestamentary Instruments and Provisions).
+
+ (d)  Provides 
+that, if a transfer on death deed is made by more than one transferor, 
+revocation by a transferor does not affect the deed as to the interest of 
+another transferor who does not make that revocation.
+
+ (e)  Provides 
+that a transfer on death deed made by joint owners with right of survivorship 
+is revoked only if it is revoked by all of the living joint owners.
+
+ (f)  Provides 
+that this section does not limit the effect of an inter vivos transfer of the 
+real property.
+
+ SUBCHAPTER C.� EFFECT 
+OF TRANSFER ON DEATH DEED; LIABILITY OF TRANSFERRED PROPERTY FOR CREDITORS' 
+CLAIMS
+
+ Sec. 114.101.  EFFECT 
+OF TRANSFER ON DEATH DEED DURING TRANSFEROR'S LIFE.� Provides that, during a 
+transferor's life, a transfer on death deed does not:
+
+ (1)  affect 
+an interest or right of the transferor or any other owner, including:
+
+ (A)  the 
+right to transfer or encumber the real property that is the subject of the 
+deed; 
+
+ (B)  homestead 
+rights in the real property, if applicable; and
+
+ (C)  ad 
+valorem tax exemptions, including exemptions for residence homestead, persons 
+65 years of age or older,� persons with disabilities, and veterans;
+
+ (2)  affect 
+an interest or right of a transferee of the real property that is the subject 
+of the deed, even if the transferee has actual or constructive notice of the 
+deed;
+
+ (3)  affect 
+an interest or right of a secured or unsecured creditor or future creditor of 
+the transferor, even if the creditor has actual or constructive notice of the 
+deed;
+
+ (4)  affect 
+the transferor's or designated beneficiary's eligibility for any form of public 
+assistance, subject to applicable federal law;
+
+ (5)  constitute 
+a transfer triggering a "due on sale" or similar clause;
+
+ (6)  invoke 
+statutory real estate notice or disclosure requirements;
+
+ (7)  create 
+a legal or equitable interest in favor of the designated beneficiary; or
+
+ (8)  subject 
+the real property to claims or process of a creditor of the designated 
+beneficiary.
+
+ Sec. 114.102.  EFFECT 
+OF SUBSEQUENT CONVEYANCE ON TRANSFER ON DEATH DEED.� Provides that an otherwise 
+valid transfer on death deed is void as to any interest in real property that 
+is conveyed by the transferor during the transferor's lifetime after the 
+transfer on death deed is executed and recorded if:
+
+ (1) a valid 
+instrument conveying the interest is recorded in the deed records in the county 
+clerk's office of the same county in which the transfer on death deed is 
+recorded; and
+
+ (2) the 
+recording of the instrument occurs before the transferor's death.
+
+ Sec. 114.103.  EFFECT 
+OF TRANSFER ON DEATH DEED AT TRANSFEROR'S DEATH. (a) Provides that, except as otherwise 
+provided in the transfer on death deed, this section, or any other statute or 
+the common law of this state governing a decedent's estate, on the death of the 
+transferor, the following rules apply to an interest in real property that is 
+the subject of a transfer on death deed and owned by the transferor at death:
+
+ (1)  if 
+the designated beneficiary survives the transferor by 120 hours, the interest 
+in the real property is transferred to the designated beneficiary in accordance 
+with the deed;
+
+ (2)  the 
+interest of a designated beneficiary that fails to survive the transferor by 
+120 hours lapses, notwithstanding Section 111.052;
+
+ (3)  subject 
+to Subdivision (4), concurrent interests are transferred to the beneficiaries 
+in equal and undivided shares with no right of survivorship; and
+
+ (4)  notwithstanding 
+Subdivision (2), if the transferor has identified two or more designated 
+beneficiaries to receive concurrent interests in the real property, the share 
+of a designated beneficiary who predeceases the transferor lapses and is 
+subject to and passes in accordance with Subchapter D (Failure of Devise; 
+Disposition of Property to Devisee Who Predeceases Testator), Chapter 255, as 
+if the transfer on death deed were a devise made in a will.
+
+ (b)  
+Provides that, if a transferor is a joint owner with right of survivorship 
+who is survived by one or more other joint owners, the real property that is 
+the subject of the transfer on death deed belongs to the surviving joint owner 
+or owners.� Provides that, if a transferor is a joint owner with right of 
+survivorship who is the last surviving joint owner, the transfer on death deed 
+is effective.
+
+ (c)  
+Authorizes the last surviving joint owner to revoke the transfer on death deed 
+subject to Section 114.057 if a transfer on death deed is made by two or more 
+transferors who are joint owners with right of survivorship.
+
+ (d)  Provides 
+that a transfer on death deed transfers real property without covenant of 
+warranty of title even if the deed contains a contrary provision.
+
+ Sec. 114.104.  TRANSFER 
+ON DEATH DEED PROPERTY SUBJECT TO LIENS AND ENCUMBRANCES AT TRANSFEROR'S DEATH; 
+CREDITORS' CLAIMS.� (a)� Provides that, subject to Section 13.001 (Validity of 
+Unrecorded Instrument), Property Code, a beneficiary takes the real property 
+subject to all conveyances, encumbrances, assignments, contracts, mortgages, 
+liens, and other interests to which the real property is subject at the 
+transferor's death. Provides that, for purposes of this subsection and Section 
+13.001, Property Code, the recording of the transfer on death deed is 
+considered to have occurred at the transferor's death.
+
+ (b)  Requires 
+the personal representative to give notice to the creditor of the transferor as 
+the personal representative would any other secured creditor under Section 
+308.053 (Required Notice to Secured Creditor) if a personal representative has 
+been appointed for the transferor's estate, an administration of the estate has 
+been opened, and the real property transferring under a transfer on death deed 
+is subject to a lien or security interest, including a deed of trust or 
+mortgage. Requires the creditor to then make an election under Section 355.151 
+(Option to Treat Claim as Matured Secured Claim or Preferred Debt and Lein) in 
+the period prescribed by Section 355.152 (Period for Specifying Treatment of 
+Secured Claim) to have the claim treated as a matured secured claim or a 
+preferred debt and lien claim, and the claim is subject to the claims 
+procedures prescribed by this section.
+
+ (c)  Provides 
+that, if the secured creditor elects to have the claim treated as a preferred 
+debt and lien claim, Sections 355.154 (Preferred Debt and Lien) and 355.155 (Payment 
+of Maturities on Preferred Debt and Lien) apply as if the transfer on death deed 
+were a devise made in a will, and the creditor may not pursue any other claims 
+or remedies for any deficiency against the transferor's estate.
+
+ (d)  Provides 
+that, if the secured creditor elects to have the claim treated as a matured 
+secured claim, Section 355.153 (Payment of Matured Secured Claim) applies as if 
+the transfer on death deed were a devise made in a will, and the claim is 
+subject to the procedural provisions of this title governing creditor claims.
+
+ Sec. 114.105.  DISCLAIMER.� 
+Authorizes a designated beneficiary to disclaim all or part of the designated 
+beneficiary's interest as provided by Chapter 122 (Disclaimers and Assignments).
+
+ Sec. 114.106.  LIABILITY 
+FOR CREDITOR CLAIMS; ALLOWANCES IN LIEU OF EXEMPT PROPERTY AND FAMILY� 
+ALLOWANCES. (a) Provides that, to the extent the transferor's estate is 
+insufficient to satisfy a claim against the estate, expenses of administration, 
+any estate tax owed by the estate, or an allowance in lieu of exempt property 
+or family allowance to a surviving spouse, minor children, or incapacitated 
+adult children, the personal representative may enforce that liability against 
+real property transferred at the transferor's death by a transfer on death deed 
+to the same extent the personal representative could enforce that liability if 
+the real property were part of the probate estate.
+
+ (b) Provides 
+that, notwithstanding Subsection (a), real property transferred at the 
+transferor's death by a transfer on death deed is not considered property of 
+the probate estate for any purpose, including for purposes of Section 531.077 
+(Recovery of Medical Assistance), Government Code.
+
+ (c)  Authorizes 
+a proceeding to enforce the liability to be brought by a creditor, a 
+distributee of the estate, a surviving spouse of the decedent, a guardian or 
+other appropriate person on behalf of a minor child or adult incapacitated 
+child of the decedent, or any taxing authority if a personal representative 
+does not commence a proceeding to enforce a liability under Subsection (a) on 
+or before the 90th day after the date the representative receives a demand for 
+payment.
+
+ (d)  Authorizes 
+the liability for claims, expenses, and other payments to be apportioned among 
+those real property interests and other assets in proportion to their net 
+values at the transferor's death if more than one real property interest is 
+transferred by one or more transfer on death deeds or if there are other 
+nonprobate assets of the transferor that may be liable for the claims, 
+expenses, and other payments specified in Subsection (a).
+
+ (e)  Requires 
+a proceeding to enforce liability under this section to be commenced not later 
+than the second anniversary� of the transferor's death, except for any rights 
+arising under Section 114.104(d).
+
+ (f)  Authorizes 
+a court, in connection with any proceeding brought under this section, to award 
+costs and reasonable and necessary attorney's fees in amounts the court 
+considers equitable and just.
+
+ SUBCHAPTER D.� FORMS 
+FOR TRANSFER ON DEATH DEED
+
+ Sec. 114.151.  OPTIONAL 
+FORM FOR TRANSFER ON DEATH DEED.� Sets forth the form and the language in the 
+form authorized to be used to create a transfer on death deed.
+
+ Sec. 114.152.  OPTIONAL 
+FORM OF REVOCATION.� Sets forth the form and the language in the form 
+authorized to be used to create an instrument of revocation under this chapter.
+
+ SECTION 2.  Amends 
+Section 22.027(b), Estates Code, to provide that, except as otherwise provided 
+by this code, the definition of "person" assigned by Section 311.005 
+(General Definitions), Government Code, does not apply to any provision in this 
+code.
+
+ SECTION 3.  Amends 
+Section 122.001(1), Estates Code, to redefine "beneficiary" to 
+include a person who would have been entitled, if the person had not made a 
+disclaimer, to receive property as the result of the death of another person by 
+a transfer on death deed.
+
+ SECTION 4.  Effective 
+date: September 1, 2015.

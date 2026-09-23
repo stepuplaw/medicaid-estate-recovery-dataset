@@ -1,0 +1,17 @@
+Source URL: https://www.nysenate.gov/legislation/laws/SOS/369 ; https://www.nysenate.gov/legislation/laws/EPT/7-3.1
+Retrieved: 2026-09-23
+Note: WebFetch extraction, not verbatim except where quoted (nysenate.gov returns 403 to scripts). The page shows the current version dated 2022-07-29, with a prior version dated 2014-09-22.
+
+N.Y. Soc. Serv. Law Sec. 369
+
+Subdivision 6 (quoted): "For purposes of this section, the term 'estate' means all real and personal property and other assets included within the individual's estate and passing under the terms of a valid will or by intestacy."
+
+Subdivision 5 (quoted): "The requirements of this section with respect to adjustments and recoveries of medical assistance correctly paid shall be waived in cases of undue hardship, as determined pursuant to the regulations of the department in accordance with criteria established by the secretary of the federal department of health and human services."
+
+Subdivision 2 (WebFetch summary, not verbatim):
+(a) opens: "Notwithstanding any inconsistent provision of this chapter or other law, no lien may be imposed against the property of any individual prior to his or her death on account of medical assistance paid or to be paid on his or her behalf under this title, except:" with exceptions for court judgments for incorrectly paid benefits and real property of nursing facility / medical institution residents not reasonably expected to return home. Liens cannot be placed on a home if the individual's spouse, minor or disabled child, or certain siblings with an equity interest reside there.
+(b) No adjustment or recovery of correctly paid assistance except upon sale of property subject to a lien or from the estate of an individual (age 55 or older, or specified services). Recovery must be after the death of the surviving spouse and only when there is no surviving child under 21 or blind or disabled child, and no qualifying sibling or caregiving child residing in the home (for a home subject to lien).
+(c) preserves rights regarding injured persons under section 104-b.
+(d) federal share of recoveries.
+
+N.Y. EPTL Sec. 7-3.1 (quoted): "A disposition in trust for the use of the creator is void as against the existing or subsequent creditors of the creator."

@@ -1,0 +1,133 @@
+Source URL: https://www.akleg.gov/basis/statutes.asp?media=print&secStart=13.06.050&secEnd=13.06.050
+Retrieved: 2026-09-23
+
+Sec. 13.06.050. General definitions for AS 13.06 � AS 13.36 . 
+ Subject to additional definitions contained in AS 13.06 � AS 13.36 that are applicable to specific provisions of AS 13.06 � AS 13.36 , and unless the context otherwise requires, in AS 13.06 � AS 13.36 ,
+       (1) �agent� means a person granted authority to act for a principal under a power of attorney or to whom an agent's authority is delegated, whether denominated an agent, attorney-in-fact, original agent, coagent, successor agent, or otherwise;
+
+ (2) �application� means a written request to the registrar for an order of informal probate or appointment under AS 13.16.080 � 13.16.130;
+
+ (3) �beneficiary,� as it relates to a trust beneficiary, includes a person who has a present or future interest, vested or contingent, and also includes the owner of an interest by assignment or other transfer; as it relates to a charitable trust, �beneficiary� includes a person entitled to enforce the trust; as it relates to a �beneficiary of a beneficiary designation,� �beneficiary� means a beneficiary of an insurance or annuity policy, of an account with payment on death designation under AS 13.33 , of a security registered in beneficiary form under AS 13.33 , or of a pension, profit-sharing, retirement, or similar benefit plan, or of another nonprobate transfer at death; and, as it relates to a �beneficiary designated in a governing instrument,� �beneficiary� includes a grantee of a deed, a devisee, a trust beneficiary, a beneficiary of a beneficiary designation, a donee, appointee, or taker in default of a power of appointment, and a person in whose favor a power of attorney or a power held in an individual, fiduciary, or representative capacity is exercised;
+
+ (4) �beneficiary designation� means a governing instrument naming a beneficiary of an insurance or annuity policy, of an account with payment on death designation under AS 13.33 , of a security registered in beneficiary form under AS 13.33 , or of a pension, profit-sharing, retirement, or similar benefit plan, or of another nonprobate transfer at death;
+
+ (5) �child� includes an individual entitled to take as a child under AS 13.06 � AS 13.36 by intestate succession from the parent whose relationship is involved, and excludes a person who is only a stepchild, a foster child, a grandchild, or a more remote descendant;
+
+ (6) �claims,� in respect to estates of decedents and protected persons, includes liabilities of the decedent or protected person, whether arising in contract, in tort, or in another way, and liabilities of the estate that arise at or after the death of the decedent or after the appointment of a conservator, including funeral expenses and expenses of administration; �claims� does not include estate or inheritance taxes, or demands or disputes regarding title of a decedent or protected person to specific assets alleged to be included in the estate;
+
+ (7) �conservator� means a person who is appointed by a court to manage the estate of a protected person;
+
+ (8) �court� means the superior court in this state;
+
+ (9) �descendant� of an individual means all of the individual's descendants of all generations, with the relationship of parent and child at each generation being determined by the definition of child and parent contained in AS 13.06 � AS 13.36 ;
+
+ (10) �devise,� when used as a noun, means a testamentary disposition of real or personal property and, when used as a verb, means to dispose of real or personal property by will;
+
+ (11) �devisee� means a person designated in a will to receive a devise; in AS 13.16 , in the case of a devise to an existing trust or trustee, or to a trust or trustee described by will, the trust or trustee is the devisee and the beneficiaries are not devisees;
+
+ (12) �disability� means a cause for a protective order as described in AS 13.26.401 ;
+
+ (13) �distributee� means a person who has received property of a decedent from the decedent's personal representative other than as a creditor or purchaser; �distributee� includes a testamentary trustee only to the extent of the distributed assets, or increment to the distributed assets, remaining in the hands of the testamentary trustee; �distributee� includes a beneficiary of a testamentary trust to whom the trustee has distributed property received from a personal representative; in this paragraph, �testamentary trustee� includes a trustee to whom assets are transferred by will, to the extent of the devised assets;
+
+ (14) �durable,� with respect to a power of attorney, means not terminated by the principal's incapacity; in this paragraph, �incapacity� has the meaning given in AS 13.26.695 ;
+
+ (15) �electronic� means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic, or similar capabilities;
+
+ (16) �estate� includes the property of the decedent, trust, or other person whose affairs are subject to AS 13.06 � AS 13.36 , as originally constituted and as it exists from time to time during administration;
+
+ (17) �exempt property� means the property of a decedent's estate that is described in AS 13.12.403 ;
+
+ (18) �fiduciary� includes a personal representative, guardian, conservator, and trustee;
+
+ (19) �foreign personal representative� means a personal representative appointed by another jurisdiction;
+
+ (20) �formal proceedings� means proceedings conducted before a judge with notice to interested persons;
+
+ (21) �governing instrument� means a deed, a will, a trust, an insurance or annuity policy, an account with payment on death designation under AS 13.33 , a security registered in beneficiary form under AS 13.33 , a pension, profit-sharing, retirement, or similar benefit plan, an instrument creating or exercising a power of appointment or a power of attorney, or a dispositive, appointive, or nominative instrument of a similar type;
+
+ (22) �guardian� means a person who has qualified as a guardian of a minor or incapacitated person in accordance with testamentary or court appointment, but excludes a person who is merely a guardian ad litem;
+
+ (23) �heir,� except as controlled by AS 13.12.711 , means a person, including the surviving spouse and the state, who is entitled under the statutes of intestate succession to the property of a decedent;
+
+ (24) �incapacitated person� has the meaning given in AS 13.26.005 ;
+
+ (25) �informal proceedings� means those proceedings conducted without notice to interested persons by an officer of the court acting as a registrar for probate of a will or appointment of a personal representative;
+
+ (26) �interested person� includes heirs, devisees, children, spouses, creditors, beneficiaries, and other persons having property rights in or claims against a trust estate or the estate of a decedent, ward, or protected person; �interested person� also includes persons having priority for appointment as personal representative, and other fiduciaries representing interested persons; �interested person,� as it relates to particular persons, may vary from time to time and its meaning shall be determined according to the particular purposes of, and matter involved in, a proceeding;
+
+ (27) �issue� of a person means a descendant under (9) of this section;
+
+ (28) �joint tenants with the right of survivorship� includes co-owners of property held under circumstances that entitle one or more of the co-owners to the whole of the property on the death of one or more of the other co-owners, but excludes forms of co-ownership registration in which the underlying ownership of each party is in proportion to that party's contribution;
+
+ (29) �lease� includes an oil, gas, or mineral lease;
+
+ (30) �letters� includes letters testamentary, letters of guardianship, letters of administration, and letters of conservatorship;
+
+ (31) �minor� means a person who is under 18 years of age;
+
+ (32) �mortgage� means a conveyance, agreement, or arrangement in which property is encumbered or used as security;
+
+ (33) �nonresident decedent� means a decedent who was domiciled in another jurisdiction at the time of the decedent's death;
+
+ (34) �organization� means a corporation, business trust, estate, trust, partnership, joint venture, association, government or governmental subdivision or agency, or another legal or commercial entity;
+
+ (35) �parent� includes a person entitled to take, or who would be entitled to take if a child dies without a will, as a parent under AS 13.06 � AS 13.36 by intestate succession from the child whose relationship is in question, and excludes a person who is only a stepparent, foster parent, or grandparent;
+
+ (36) �payor� means a trustee, insurer, business entity, employer, government, governmental agency or subdivision, or another person authorized or obligated by law or a governing instrument to make payments;
+
+ (37) �person� means an individual or an organization;
+
+ (38) �personal representative� includes an executor, an administrator, a successor personal representative, a special administrator, and a person who performs substantially the same function under the law governing their status; �general personal representative� excludes a special administrator;
+
+ (39) �petition� means a written request to the court for an order after notice;
+
+ (40) �power of attorney� means a writing or other record that grants authority to an agent to act in the place of the principal, whether or not the term "power of attorney" is used;
+
+ (41) �principal� means an individual who grants authority to an agent in a power of attorney;
+
+ (42) �proceeding� includes an action at law and a suit in equity;
+
+ (43) �property� means anything that may be the subject of ownership, and includes both real and personal property and an interest in real or personal property;
+
+ (44) �protected person� has the meaning given in AS 13.26.005 ;
+
+ (45) �protective proceeding� has the meaning given in AS 13.26.005 ;
+
+ (46) �record� means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form;
+
+ (47) �registrar� means the official of the court designated to perform the functions of registrar under AS 13.06.090 ;
+
+ (48) �security� includes a note, a stock, a treasury stock, a bond, a debenture, an evidence of indebtedness, a certificate of interest or participation in an oil, gas, or mining title or lease or in payments out of production under an oil, gas, or mining title or lease, a collateral trust certificate, a transferable share, a voting trust certificate, an interest or instrument commonly known as a security, or a certificate of interest or participation in, a temporary or interim certificate, receipt, or certificate of deposit for, or a warrant or right to subscribe to or purchase, one of the items identified in this paragraph;
+
+ (49) �settlement,� in reference to a decedent's estate, includes the full process of administration, distribution, and closing;
+
+ (50) �sign� means, with present intent to authenticate or adopt a record,
+            (A) to execute or adopt a tangible symbol; or
+
+ (B) to attach to or logically associate with the record an electronic sound, symbol, or process.
+
+ (51) �special administrator� means a personal representative as described by AS 13.16.310 � 13.16.330;
+
+ (52) �state� means a state of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, or a territory or insular possession subject to the jurisdiction of the United States;
+
+ (53) �successor� means a person, other than a creditor, who is entitled to property of a decedent under the decedent's will or AS 13.06 � AS 13.36 ;
+
+ (54) �successor personal representative� means a personal representative, other than a special administrator, who is appointed to succeed a previously appointed personal representative;
+
+ (55) �supervised administration� refers to the proceedings described in AS 13.16.215 � 13.16.235;
+
+ (56) �survive� means to not predecease an event, including the death of another individual, or to not be considered to predecease an event under AS 13.12.104 or 13.12.702; �survive� includes its derivatives, including �survives,� �survived,� �survivor,� and �surviving�;
+
+ (57) �testacy proceeding� means a proceeding to establish a will or determine intestacy;
+
+ (58) �testator� includes an individual of either sex;
+
+ (59) �trust� includes an express trust, private or charitable, with additions to the trust, wherever and however created; �trust� also includes a trust created or determined by judgment or decree under which the trust is to be administered in the manner of an express trust; �trust� excludes other constructive trusts, resulting trusts, conservatorships, personal representatives, trust accounts that are POD designation accounts under AS 13.33.201 � 13.33.227, custodial arrangements under AS 13.26 or AS 13.46 , business trusts providing for certificates to be issued to beneficiaries, common trust funds, voting trusts, security arrangements, liquidation trusts, trusts for the primary purpose of paying debts, dividends, interest, salaries, wages, profits, pensions, or employee benefits of any kind, and any arrangement under which a person is nominee or escrowee for another;
+
+ (60) �trustee� includes an original, additional, or successor trustee, whether or not appointed or confirmed by a court;
+
+ (61) �ward� has the meaning given in AS 13.26.005 ;
+
+ (62) �will� includes a codicil and a testamentary instrument that merely appoints an executor, revokes or revises another will, nominates a guardian, or expressly excludes or limits the right of an individual or class to succeed to property of the decedent passing by intestate succession.
+
+ Article 3. Scope, Jurisdiction, and Courts; Choice of Law and Validity.

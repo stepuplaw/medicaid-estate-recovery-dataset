@@ -1,0 +1,391 @@
+Source URL: https://archive.regulations.delaware.gov/register/october2012/final/16%20DE%20Reg%20423%2010-01-12.htm
+Retrieved: 2026-09-23
+
+--> 
+
+ --> 
+ --> 
+ --> 
+ --> 
+
+ DEPARTMENT OF HEALTH AND SOCIAL SERVICES 
+
+ -->
+
+ --> 
+ --> 
+ --> 
+ --> 
+
+ --> 
+
+ --> 
+
+ Agencies 
+
+ News 
+
+ Topics 
+
+ Contact 
+
+ The State of Delaware New Regulations Management System is going live on May 19, 2025 More Info 
+
+ Regulations Home 
+
+ Services 
+
+ Register of Regulations 
+
+ Regulatory Flexibility Act 
+
+ Administrative Code 
+
+ Delaware Code 
+
+ Laws of Delaware 
+
+ City & Town Charters 
+ -->
+ Administrative Code 
+
+ Delaware Code 
+
+ Laws of Delaware 
+
+ City & Town Charters 
+
+ Style Manual 
+
+ Cumulative Table 
+
+ Subscription Services 
+
+ Tour of Legislative Hall 
+ -->
+
+ Information 
+
+ Citizen Participation 
+
+ About 
+
+ Contact 
+
+ Regulations Menu
+
+ Back 
+
+ Authenticated PDF Version 
+
+ Breadcrumbs go here 
+
+ --> 
+
+ -->   -->   -->   -->   -->   
+
+ -->   
+
+ -->
+
+ DEPARTMENT OF HEALTH AND SOCIAL SERVICES
+
+ Division of Medicaid and Medical Assistance
+
+ Statutory Authority: 31 Delaware Code, Section 512 (31 Del.C. §512)
+
+ FINAL
+
+ Medicaid Estate Recovery
+
+ NATURE OF THE PROCEEDINGS: 
+
+ Delaware Health and Social Services (“Department”) / Division of Medicaid and Medical Assistance (DMMA) initiated proceedings to amend the Division of Social Services Manual (DSSM) to update current regulations regarding Medicaid Estate Recovery, specifically 1) asset protections recognized for civil union partners; and, 2) eliminating Medicare cost-sharing expenses from estate recovery . The Department’s proceedings to amend its regulations were initiated pursuant to 29 Delaware Code Section 10114 and its authority as prescribed by 31 Delaware Code Section 512 .
+
+ The Department published its notice of proposed regulation changes pursuant to 29 Delaware Code Section 10115 in the August 2012 Delaware Register of Regulations , requiring written materials and suggestions from the public concerning the proposed regulations to be produced by August 31, 2012 at which time the Department would receive information, factual evidence and public comment to the said proposed changes to the regulations.
+
+ SUMMARY OF PROPOSAL 
+
+ The proposed amends the Division of Social Services Manual (DSSM) to update current regulations regarding Medicaid Estate Recovery, specifically 1) asset protections recognized for civil union partners; and, 2) eliminating Medicare cost-sharing expenses from estate recovery .
+
+ Statutory Authority 
+
+ • 146 th General Assembly, Senate Bill #30, An Act to Amend Title 13 of the Delaware Code Relating to Civil Unions 
+
+ • Section 1917 of the Social Security Act, Liens, Adjustments and Recoveries, and Transfers of Assets 
+
+ • 42 CFR §433.36, Liens and Recoveries 
+
+ • State Medicaid Manual, Section 3810, Medicaid Estate Recoveries 
+
+ • Title 25, Delaware Code, Chapter 50, Liens and Estate Recoveries 
+
+ • Medicare Improvements for Patients and Providers Act of 2008 (MIPPA), P.L. 110-275
+
+ Background 
+
+ Senate Bill #30 
+
+ Signed into law by the Governor on May 11, 2011, Senate Bill #30 is an Act that creates the recognized legal relationship of civil union in Delaware for eligible persons. This Act further recognizes as civil unions for all purposes under Delaware law legal unions between two persons of the same sex entered into in jurisdictions outside of Delaware provided that such union and the parties thereto meet the Delaware eligibility requirements to enter into a civil union in the State of Delaware. Parties who enter into a lawful civil union in Delaware, or whose legal union is recognized as a civil union under Delaware law, will have all of the same rights, benefits, protections and responsibilities as married persons under Delaware law. It is not the intent of the Delaware General Assembly to revise the definition or eligibility requirements of marriage under Delaware law or to require any religious institution to perform solemnizations of civil unions.
+
+ State Medicaid Director Letter (SMDL) #11-006 
+
+ In a letter dated June 10, 2011 and entitled “Same Sex Partners and Medicaid Liens, Transfers of Assets, and Estate Recovery.” the Centers for Medicare and Medicaid Services (CMS) notified states that they may elect to provide same-sex spouse and domestic partners of long-term care Medicaid Beneficiaries certain asset protections regarding home ownership including protection from liens, recognition that denial of eligibility for transfer of a home can result in undue hardship, and exemption from estate recovery.
+
+ Specifically, CMS notified states that they may elect to: 
+
+ • Add same-sex spouses and domestic partners of Medicaid beneficiaries to the list of people whose residence in the home of a Medicaid beneficiary prevents a state from imposing a lien; 
+
+ • Include in the definition of their transfer-of-asset undue hardship exceptions transfers of the home between same-sex spouses or domestic partners;
+
+ • Include in the definition of their estate recovery undue hardship exceptions certain protections for the surviving same-sex spouses or domestic partners of Medicaid beneficiaries.
+
+ http://downloads.cms.gov/cmsgov/archived-downloads/SMDL/downloads/SMD11-006.pdf 
+
+ Summary of Proposal 
+
+ This regulatory action is based upon State Medicaid Director Letter guidance document provided by the Centers for Medicare and Medicaid Services (CMS), entitled, “Same Sex Partners and Medicaid Liens, Transfers of Assets, and Estate Recovery. The proposed regulation changes take advantage of existing choices and flexibilities regarding spousal and domestic partner protections related to liens and estate recovery by adding a new definition, Civil Union Partner and adds civil union partner as an exception to the Lien policy. Estate Recovery may be waived if there is a civil union partner that has resided in the home for at least two years immediately prior to institutionalization. Also, definitions are placed in alphabetical order.
+
+ This action further adds language to comply with section 115 of Medicare Improvements for Patients and Providers Act of 2008 (MIPPA). Section 115 provides that medical assistance for Medicare cost sharing is protected from estate recovery for the following categories of dual eligible individuals: qualified Medicare beneficiaries (QMB), specified low-income Medicare beneficiaries (SLMB), qualified individuals (QI), and qualified disabled and working individuals (QDWI). This protection extends to medical assistance for four Medicare cost sharing benefits including Part A and B premiums, deductibles, coinsurance and co-payments and is effective with dates of service on or after January 1, 2010, for duly eligible individuals who were over age 55 when the expense was incurred.
+
+ The proposed changes affect the following policy sections:
+
+ DSSM 20500.1, Application 
+
+ DSSM 20500.2, Notification 
+
+ DSSM 20500.3, Definitions 
+
+ DSSM 20500.5.3.2, Individuals Eligible for Recovery Waiver 
+
+ DSSM 20500.6, Liens 
+
+ DSSM 20500.6.1, Exceptions to the Lien Policy. 
+
+ Fiscal Impact Statement 
+
+ The proposed regulation imposes no increase in costs on the General Fund.
+
+ SUMMARY OF COMMENTS RECEIVED WITH AGENCY RESPONSE 
+
+ The State Council for Persons with Disabilities (SCPD) offered the following observations summarized below. The Division of Medicaid and Medical Assistance (DMMA) has considered each comment and responds as follows.
+
+ Specifically, DMMA proposes to amend §20500.5.3.2 to add “civil union partner” to the list of relatives who are eligible to request a waiver of estate recovery based on undue hardship. This is authorized by the CMS guidance at p. 3. Note that “spouses” are protected by a different regulation, §20500.5.1. In addition, DMMA proposes to amend §20500.6.1 to include “civil union partner” to the list of relatives whose presence in the home may justify deferral of a lien for costs of care while the beneficiary is in a nursing facility. This is authorized at pp. 1-2 of the CMS guidance. The same deferral will apply if the home is jointly owned with the civil union partner.
+
+ SCPD endorses the proposed regulation. 
+
+ Agency Response : DMMA thanks the Council for their endorsement.
+
+ FINDINGS OF FACT: 
+
+ The Department finds that the proposed changes as set forth in the August 2012 Register of Regulations should be adopted.
+
+ THEREFORE, IT IS ORDERED , that the proposed regulation to amend the Division of Social Services Manual (DSSM) to update current regulations regarding Medicaid Estate Recovery, specifically 1) asset protections recognized for civil union partners; and, 2) eliminating Medicare cost-sharing expenses from estate recovery is adopted and shall be final effective October 10, 2012. 
+
+ Rita M. Landgraf, Secretary, DHSS 
+
+ Fiscal Impact Statement 
+
+ The proposed regulation imposes no increase in costs on the General Fund.
+
+ DMMA FINAL ORDER REGULATION #12-47 
+
+ REVISION: 
+
+ 20500 Estate Recovery and Liens
+
+ BACKGROUND 
+
+ The Delaware Department of Health and Social Services (DHSS), in order to comply with Chapter 50, Title 25 of the Delaware Code and Section 1917 of the Social Security Act as amended by Section 13612 of the Omnibus Budget Reconciliation Act of 1993, and Delaware House Bill No. 437 as amended by House Amendment Nos. 1, 2, and 4, has established policies and procedures for filing liens against the real property, and recovering from estates of, individuals applying for or receiving DHSS long-term care services. 
+
+ 20500.1 Application 
+
+ These policies and procedures shall apply to individuals age 55 and over who are applying for DHSS Long Term Care Services. This includes the Medicaid nursing facility program services , all H h ome and C c ommunity- B b ased waiver S s ervices , Waivers (1915) and state owned nursing facilities and community-based long-term care services and supports .
+
+ Medicaid benefits paid for Medicare cost-sharing expenses, with a date of service on or after January 1, 2010, are exempted from estate recovery. These benefits include Part A and B premiums, deductibles, coinsurance, and co-payments. The date of service for deductibles, coinsurance, and co-payments is the date the request for payment is received by the State Medicaid agency. The date of service for premiums is the date the State Medicaid Agency pays the premium. 
+
+ 20500.2 Notification 
+
+ All applicants will be informed of the Estate Recovery and Lien Policy and procedures at the time of application. Recipients whose who turn 55 after their cases are active will be informed of the policy and procedures at their first financial redetermination after the initial date of enforcement ( May 1, 1996 ) of this policy their 55 th birthday .
+
+ Notification of the policy will be via recovery forms and/or a letter, that will be provided to the applicant or the applicant’s representative.
+
+ 20500.3 Definitions 
+
+ The following definitions apply to this section: 
+
+ Child means offspring or legally adopted child of the recipient or the applicant. 
+
+ Civil Union Partner means an individual who enters into a legal union with another individual of the same sex. 
+
+ Estate means all real property, as well as all personal property that constitutes assets of the individual’s estate as described in Chapter 19 of Title 12 of the Delaware Code. 
+
+ Family means legal spouse, dependent parents (claimed for income tax purposes), and children. 
+
+ Lawfully residing in the home means residing in the home with the permission of the owner or, if under guardianship, the owner’s legal guardian. 
+
+ Legal representative means power of attorney over property or guardian of property.
+
+ Long-term care means a service provided in a long-term care facility or in the home as an alternative to institutionalization (known as Long-Term Care Community Services or home and community-based services (1915 (c) waivers).
+
+ Real Property means land, including houses or immovable structures or objects attached permanently to the land. The terms “real estate," “realty," and “real property are used synonymously with one another and designate real property in which an individual has ownership rights and interests.
+
+ Residing in the home on a continuous basis means using the home as the principal place of residence.
+
+ Sibling means brother, sister, legally adopted brother or sister, half brother or half sister.
+
+ (Break in Continuity of Sections) 
+
+ 20500.5.3.2 Individuals Eligible for Recovery Waiver 
+
+ These individuals are limited to a civil union partner, children, grandchildren, parents, or siblings of the DHSS long-term care recipient who meet 1 of the following conditions:
+
+ Receive any Federal or State funded assistance for living expenses (examples: SSI, AFDC, VA Aid and Attendance) and have no other home to which they can return.
+
+ Or 
+
+ Have total family income less than or equal to 200% of the current monthly Federal Poverty limit, and have total family resources that can be converted to cash less than or equal to $3,000, including any real property that they own.
+
+ Or 
+
+ DHSS will also not recover if the real property that is held in ownership with a civil union partner, children, grandchildren, siblings or parents constitutes a business that contributes to the livelihood of that other individual or his/her dependents or heirs.
+
+ NOTE. The waiver for recovery will exist as long as one of the above conditions continues to be met and as long as the above described individuals reside in the DHSS long-term care recipient’s home on a continuous basis. 
+
+ The maximum amount to be recovered will be the total of funds disbursed or incurred by DHSS with any Federal matching dollars during the time an individual receives long-term care services from DHSS. 
+
+ 20500.6 Liens 
+
+ DHSS will place a lien against the real property of recipients who are inpatients in a nursing facility, intermediate care facility for the mentally retarded individuals with developmental disabilities or other medical institution whose property does not meet the exemption or undue hardship conditions. 
+
+ NOTE: The lien policy does not apply to recipients of home and community based waiver services Long Term Care Community Services or Division of Developmental Disabilities Services Waiver unless they become institutionalized.
+
+ 20500.6.1 Exceptions to the Lien Policy 
+
+ 1. Clients intending to return home within sixty (60) days of their admission date to a facility. 
+
+ a) If the stay in the facility is sixty (60) days or more, DHSS will place a lien on the property. 
+
+ b) The lien on the property will be released if the patient is discharged after sixty (60) days and returns to live in the home. 
+
+ 2. DHSS will not file a lien as long as the following individuals lawfully resided in the home before the date of application for long term care services and continue to reside in the home while the applicant receives long term care services: 
+
+ a) Husband or wife of the applicant or recipient (NOTE: Common law marriages are not recognized by the Courts of Delaware). 
+
+ b) A Civil Union Partner; 
+
+ b c ) Son or daughter who is blind or disabled as defined in accordance with the disability rule of the federally administered Supplemental Security Income (Title XVI of the Social Security Act).
+
+ c d ) Child under age 21 who is lawfully residing in the home.
+
+ d e ) Sibling lawfully residing in the home for 1 year (12 months) immediately prior to admission to a long term care facility and who has equity in the property. 
+
+ 3. DHSS will also not file a lien if the real property that is held in ownership with a civil union partner, children, grandchildren, siblings or parents constitutes a business which contributes to the livelihood of that other individual or his/her dependents or heirs.
+
+ 9 DE Reg. 1076 (01/01/06)
+
+ 16 DE Reg. 423 (10/01/12) (Final)
+
+ --> 
+
+ Agency Information 
+
+ Contact Information 
+
+ Register of Regulations 
+
+ Administrative Code 
+
+ Delaware Code 
+
+ Laws of Delaware 
+
+ City & Town Charters 
+
+ Delaware General Assembly 
+
+ Style Manual 
+
+ Cumulative Table 
+
+ Citizen Participation 
+
+ FOIA Request Form 
+
+ + 
+
+ Government and Services
+
+ Delaware's Governor 
+
+ State Agencies 
+
+ Elected Officials 
+
+ General Assembly 
+
+ Delaware Courts 
+
+ State Employees 
+
+ Cities & Towns 
+
+ Delaware State Code 
+
+ State Regulations 
+
+ Regulatory Review 
+-->
+ Business First Steps 
+
+ Phone Directory 
+
+ Locations Directory 
+
+ Public Meetings 
+
+ Voting & Elections 
+
+ Transparency 
+
+ Delaware Marketplace 
+
+ Tax Center 
+
+ Personal Income Tax 
+
+ Privacy Policy 
+
+ Weather & Travel 
+
+ Contact Us 
+
+ Corporations 
+
+ Franchise Tax 
+
+ Gross Receipts Tax 
+
+ Withholding Tax 
+
+ Delaware Topics 
+
+ Help Center 
+
+ Mobile Apps 
+
+ E-mail / Text Alerts 
+
+ RSS Feeds 
+
+ Make Text Size Smaler 
+ Reset Text Size 
+ Make Text Size Bigger 
+
+ Built by the Government Information Center 
+
+ ©MMXVI Delaware.gov 
+
+ - 
+
+ -->

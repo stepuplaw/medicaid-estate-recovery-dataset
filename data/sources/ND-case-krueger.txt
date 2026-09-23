@@ -1,0 +1,13 @@
+Source URL: https://caselaw.findlaw.com/court/nd-supreme-court/1982232.html
+Retrieved: 2026-09-23
+Note: WebFetch extraction, not verbatim (ndcourts.gov, Justia and CourtListener blocked or returned empty). In re Estate of Krueger, 2019 ND 42.
+
+Paragraph 4: "Federal law allows 'states to trace the assets of recipients of medical assistance and recover the benefits paid when the recipient's surviving spouse dies.' In re Estate of Thompson, 1998 ND 226, para. 15, 586 N.W.2d 847... Section 50-24.1-07, N.D.C.C., specifies the procedure for recovery of funds paid under the medical assistance program. We have said the broad language of N.D.C.C. Sec. 50-24.1-07 fully implements federal law, and we look to 42 U.S.C. Sec. 1396p(b) to provide the meaning of the state statute because the federal statute limits the situations in which the states can recover Medicaid benefits from a surviving spouse's estate."
+
+Paragraph 4 continues with the federal definition: "Under 42 U.S.C. Sec. 1396p(b)(4)(B), a deceased individual's 'estate' includes not only real and personal property and other assets as defined under state probate law, but may include: any other real and personal property and other assets in which the individual had any legal title or interest at the time of death (to the extent of such interest), including such assets conveyed to a survivor, heir, or assign of the deceased individual through joint tenancy, tenancy in common, survivorship, life estate, living trust, or other arrangement."
+
+Paragraph 5 (quoting Bergman): "We hold any assets conveyed by [the institutionalized spouse] to [the community spouse] before [the institutionalized spouse's] death and traceable to [the community spouse's] estate are subject to the department's recovery claim. However, the recoverable assets do not include all property ever held by either party during the marriage... 42 U.S.C. Sec. 1396p(b) contemplates only that assets in which the deceased recipient once held an interest will be traced."
+
+Paragraph 11: "Construing 42 U.S.C. Sec. 1396p(b)(4)(B) to give the ordinary and commonly understood meaning to the phrase 'to the extent of such interest,' we conclude the Department's recovery from a deceased Medicaid recipient's joint tenancy property is limited to the deceased recipient's fractional interest in the property."
+
+Paragraph 12: "We reverse the order and remand to apply the Department's claim to 50 percent of the home's net sale proceeds."

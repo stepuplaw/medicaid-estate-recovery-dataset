@@ -1,0 +1,24 @@
+Source URL: https://www.akleg.gov/basis/statutes.asp?media=print&secStart=13.36.368&secEnd=13.36.368
+Retrieved: 2026-09-23
+
+Sec. 13.36.368. Claims against revocable trusts. 
+  (a) Whether or not the terms of the trust contain a spendthrift restriction,
+       (1) during the lifetime of the settlor of a revocable trust, the property of the trust is subject to claims of the settlor's creditors; and
+
+ (2) except as otherwise provided in (b) of this section, after the death of the settlor of a trust that was revocable at the settlor's death, and subject to the settlor's right to direct the source from which claims may be paid, the property of the trust is subject to claims to the extent the settlor's estate is not adequate to satisfy the claims.
+
+ (b) With respect to claims in connection with the settlement after the death of the settlor of a trust that was revocable at the settlor's death,
+       (1) a creditor's claim that would be allowed or barred against a decedent's estate under AS 13.16.450 � 13.16.525 shall be allowed or barred against the trustee of the trust, the trust property, and the creditors and beneficiaries of the trust;
+
+ (2) if the personal representative of the decedent's estate follows the procedures provided by AS 13.16.450 � 13.16.525, then claims that are allowed or barred against the decedent's estate shall also be allowed or barred against the assets of the trust;
+
+ (3) if the personal representative of the decedent's estate fails to follow the procedures stated by AS 13.16.450 � 13.16.525, the trustee of the trust may file a petition with the superior court for a determination of claims and follow the procedures established by AS 13.16.450 � 13.16.525, and claims against the trust and against the decedent's estate shall be allowed or barred under those procedures.
+
+ (c) In (a)(2) and (b) of this section, �claim� means a claim
+       (1) of a creditor of the settlor;
+
+ (2) for the expenses of the administration of the settlor's estate;
+
+ (3) for the expenses of the settlor's funeral; and
+
+ (4) for the expenses of the disposal of the settlor's remains.

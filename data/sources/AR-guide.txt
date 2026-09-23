@@ -1,0 +1,326 @@
+Source URL: https://humanservices.arkansas.gov/wp-content/uploads/Your_Guide_to_Medicaid_Estate_Recovery_in_Arkansas.pdf
+Retrieved: 2026-09-23
+Note: fetched with curl (simple user agent) because the Python fetcher got 403
+
+Arkansas Department of
+    Human Services
+
+
+Your Guide To
+    Medicaid
+     Estate
+    Recovery
+  In Arkansas
+                Table of Contents
+What is Estate Recovery?                3
+Who does it affect?                     4
+What is a HCBS Waiver Program?          4
+What is an estate?                      4
+What do heirs pay?                      5
+What are the exceptions?                5
+Is there exempt property?               6
+How does it work?                       7
+What is Undue Hardship?                 7
+Does Medicaid take your house?          8
+Nursing home residents under age 55?    9
+What about QMB?                         9
+What about property in another state?   9
+Long-term care in another state?        10
+Affect of wills on estate recovery?     10
+What if I transfer assets?              10
+Qualified LTC Partnership Policy?       11
+
+
+
+
+Page 2
+What is Medicaid Estate Recovery?
+     Medicaid is a government program that pays
+     for healthcare for people with limited income
+     and assets. One type of service that Medicaid
+     pays for is long-term care services. Long-
+     term care services assist persons in need of
+     help with activities of daily living. Medicaid
+     pays for long-term care services in the per-
+     son’s own home or for residents living in
+     Level II Assisted Living Facilities, Intermedi-
+     ate Care Facilities for the Mentally Retarded
+     (ICF/MR) and nursing homes. The Medicaid
+     programs that pay for long-term care services
+     at home are called home and community-
+     based services waivers.
+
+      To help pay for the long-term care services,
+      every state is required by federal law to have
+      a Medicaid Estate Recovery program. If you
+      received Medicaid long-term care services,
+      the Arkansas Department of Human Services
+      (DHS) is required to file a claim against your
+      estate upon death. In some cases, DHS may
+      not pursue the claim, and the state will never
+      pursue a claim for more money than it paid
+      for your long-term care services.
+
+
+
+
+                                               Page 3
+Who does estate recovery affect?
+    Estate recovery applies only to:
+     Individuals age 55 or older who received
+       Medicaid in a nursing home or Intermedi-
+       ate Care Facility for the Mentally Retarded
+       (ICF/MR) or in a home and community-
+       based waiver program; and
+     Individuals under age 55 considered per-
+       manently institutionalized in a nursing
+       home or ICF/MR.
+
+
+What is a Home and Community-Based Waiver
+Program?
+     Medicaid programs that allow individuals in
+     need of long-term care services to receive
+     them at home or in the community. In Arkan-
+     sas, these programs currently include the
+     DDS/ACS Waiver, ElderChoices, Alternatives
+     for Adults with Physical Disabilities and Liv-
+     ingChoices (Assisted Living Facility Waiver).
+
+
+What is an estate?
+     An estate is property, such as money, a house,
+     a lawsuit settlement or other things of value
+     that a person leaves to family members or
+     others (heirs) when he or she passes away.
+
+
+
+Page 4
+What will the heirs to the estate have to pay?
+     The amount of the estate recovery claim is the
+     amount Medicaid paid for long-term care ser-
+     vices for the recipient after the Medicaid re-
+     cipient reached age 55, or younger if deter-
+     mined permanently institutionalized. If the
+     total of the claim exceeds the value of the es-
+     tate, heirs will not be liable for the balance.
+
+
+
+Are there times when the state will not pursue a
+claim against the estate?
+      Yes, the state will not pursue a claim when:
+       There is a spouse who is still alive.
+       There is a child under 21 years of age.
+       There is a child of any age who is blind or
+          disabled. This child did not have to live
+          with or be dependent on the recipient at
+          the time of their death.
+      The state may also choose to waive its claim
+      if the DHS Hardship Waiver Committee de-
+      termines that:
+       Recovery will create an undue hardship
+          for other surviving family members, or
+       Recovery is not cost effective
+
+
+
+
+                                              Page 5
+Is there property that the state will not collect
+on?
+      Yes, these may include:
+           A home, when:
+              There is a son or daughter currently
+                living in the home and was living in
+                the home for at least two years be-
+                fore the recipient entered the nurs-
+                ing home and who provided care to
+                the recipient which permitted the
+                recipient to live at home longer.
+              There is a brother or sister currently
+                living in the home and who lived in
+                the home for at least one year before
+                the recipient entered the nursing
+                home.
+           Assets that pass directly to a benefici-
+             ary independently of the probate proc-
+             ess. Some examples of this may in-
+             clude:
+              Insurance policy proceeds
+              Retirement Accounts, such as IRAs
+              Pension plans
+              Mutual funds
+              Deferred compensation plans
+
+
+
+
+Page 6
+How does Estate Recovery work?
+     When a person applies for Medicaid long-
+     term care services, DHS provides a notice
+     that explains estate recovery. When the per-
+     son dies, DHS will determine if estate recov-
+     ery is appropriate, file a claim and explain
+     how the representative may request an undue
+     hardship waiver.
+
+
+
+
+What is Undue Hardship?
+     Estate recovery may be waived if recovery
+     would result in undue hardship for the heirs
+     of the estate. The representative of the estate
+     will receive a notice of estate recovery at the
+     death of the recipient which provides instruc-
+     tions on how to apply for an undue hardship.
+     The DHS Hardship Waiver Committee will
+     determine if undue hardship exists. The com-
+     mittee considers the following in making their
+     determination:
+          The estate asset subject to recovery is
+            the sole income-producing asset of the
+            beneficiaries of the estate;
+          Without receipt of the proceeds of the
+            estate, a beneficiary would become eli-
+            gible for federal or state benefits;
+                                          (continued)
+
+
+                                               Page 7
+Undue Hardship (continued)
+         Allowing a beneficiary to receive the in-
+            heritance from the estate would enable a
+            beneficiary to discontinue eligibility for
+            federal or state benefits;
+         The estate asset subject to recovery is a
+            home with a value of fifty percent (50%)
+            or less of the average price of homes in
+            the county where the homestead is lo-
+            cated; and
+         Other compelling circumstances.
+    If the representative doesn’t agree with the
+    committee’s decision, they may file an appeal.
+
+
+Is it true that Medicaid takes your house when you
+enroll?
+        No, Medicaid does not “take” nor put a lien
+        against a recipient’s home while he or she is
+        alive. When the recipient dies and it is deter-
+        mined that estate recovery does apply; DHS
+        will file a claim against the estate. The judge
+        will then decide what will have to be paid to
+        DHS. If it doesn’t go to probate, DHS will is-
+        sue a demand notice with the county clerk’s of-
+        fice. This will require the county clerk to notify
+        DHS if the house is sold or goes to probate, at
+        which time DHS will file a claim.
+
+
+
+Page 8
+My husband is 45 years old and has been in an
+accident. His doctor wants him to move to a
+nursing facility for about 3 months for rehab ser-
+vices. If we apply for Medicaid, would he be sub-
+ject to estate recovery?
+       No, since your husband is under age 55 and
+       his stay in a nursing home is considered tem-
+       porary (not permanently institutionalized),
+       estate recovery would not apply to him.
+
+
+
+I’m receiving QMB Medicaid. Does that mean
+estate recovery will apply to me?
+      No, QMB or other Medicare Savings catego-
+      ries do not provide long-term care services, so
+      estate recovery would not apply to you.
+
+
+
+Is property that I own in another state exempt
+from recovery?
+      Not necessarily. Any property you own, re-
+      gardless of location, can be part of your estate
+      and subject to recovery.
+
+
+
+
+                                                Page 9
+If I receive long-term care services in another
+state as well as Arkansas, which state will file a
+claim?
+       Both states may file a claim. The probate
+       court will determine how to divide the estate
+       between the competing claims.
+
+
+I want to will my home to my children. Can the
+state still take it?
+       A will does not protect your home from estate
+       recovery. All claims against an estate, includ-
+       ing Medicaid estate recovery claims, must be
+       paid before property can be distributed as
+       specified in a will.
+
+What if I transfer all my assets now to avoid es-
+tate recovery?
+       Medicaid has very strict penalties in regards
+       to transferring assets. Giving away, selling
+       for less than fair market value, or restricting
+       your access to any type of property or finan-
+       cial instrument may cause you to be ineligible
+       for Medicaid long-term care coverage for
+       months or possibly for up to five years based
+       on the total amount of the transfer and ser-
+       vices requested. Before making any changes
+       to your assets, it would be best to consult an
+       attorney.
+
+
+Page 10
+I have assets protected through a Qualified Long
+-Term Care Insurance Partnership Policy. Will it
+be subject to Estate Recovery?
+      No, any disregarded assets under a Qualified
+      Long-Term Care Partnership Policy remain-
+      ing at the death of the policyholder is exempt
+      from estate recovery. Any other assets not
+      disregarded through a Qualified Long-Term
+      Care Insurance Partnership Policy will be
+      subject to estate recovery.
+
+
+If you have additional questions about Medicaid
+Estate Recovery or need advice concerning estate
+planning, please contact an Elder Law attorney.
+
+
+
+
+This publication was produced for informational
+purposes only and should not be construed as legal
+advice. The information in this publication was cor-
+rect at the time of its printing, but laws and rules can
+change. This book is not a legal document. It is a
+guide, not a contract. DHS is not responsible for
+information in this guide that is no longer correct.
+
+
+                                                 Page 11
+If you need this publication in a differ-
+ent format, such as large print, contact
+       your DHS county office.
+
+
+
+
+                                    PUB 428
+                                      (1/10)
+

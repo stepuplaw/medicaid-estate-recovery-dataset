@@ -1,0 +1,301 @@
+Source URL: https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH2011/SLH2011_Act173.pdf
+Retrieved: 2026-09-23
+
+ACT173
+
+
+
+
+                                  ACT 173                         S.B. NO. 105
+A Bill for an Act Relating to Uniform Real Property Transfer on Death.
+Be It Enacted by the Legislature of the State of Hawaii:
+       SECTION 1. The Hawaii Revised Statutes is amended by adding a new
+chapter to be appropriately designated and to read as follows:
+                        "CHAPTER
+       UNIFORM REAL PROPERTY TRANSFER ON DEATH ACT
+       § -1 Short title. This Act may be cited as the Uniform Real Property
+Transfer on Death Act.
+       § -2 Definitions. As used in this chapter:
+       "Beneficiary" means a person that receives property under a transfer on
+death deed.
+       "Designated beneficiary" means a person designated in a transfer on
+death deed to receive property.
+       "Joint owner" means an individual who owns property concurrently with
+one or more individuals with a right of survivorship. The term includes a joint
+tenant and a tenant by the entirety but does not include a tenant in common.
+
+588
+                                                                            ACT 173
+
+        “Person” means an individual, corporation, business trust, estate, trust,
+partnership, limited liability company, association, joint venture, public corpo
+ration, government or governmental subdivision, agency, or instrumentality, or
+any other legal or commercial entity.
+        “Property” means an interest in real property located in this State that is
+transferable on the death of the owner.
+        “Subject property” means real property or an interest in real property
+that is subject to a transfer on death deed.
+        “Transfer on death deed” means a deed authorized under this chapter.
+        “Transferor” means an individual who executes a transfer on death
+deed.
+
+       § -3 Applicabifity. This chapter applies to a transfer on death deed ex
+ecuted at any time by a transferor who dies on or after July 1, 2011.
+
+        § -4 Nonexclusivity. This chapter does not affect any method of trans
+ferring property otherwise permitted under the laws of this State.
+
+       § -5 Transfer on death deed authorized. An individual may transfer
+property, effective at the transferor’s death, to one or more beneficiaries by a
+transfer on death deed; provided that, with respect to property of which any
+portion is registered in the land court, transfer is subject to the requirement in
+section -13(a)(1) regarding submittal of a petition to the land court.
+
+       § -6 Transfer on death deed revocable. A transfer on death deed is revo
+cable even if the deed or another instrument contains a contrary provision.
+
+        § -7 Transfer on death deed nontestamentary. A transfer on death deed
+is nontestamentary.
+
+       § -8 Capacity of transferor. The capacity required to execute or revoke a
+transfer on death deed is the same as the capacity required to execute a will.
+
+       § -9 Requirements. A transfer on death deed:
+       (1)   Except as otherwise provided in paragraph (2), shall contain the es
+             sential elements and formalities of a properly recordable inter vivos
+             deed;
+       (2)   Shall state that the transfer to the beneficiary is to occur at the trans
+             feror’s death; and
+       (3)   Shall be recorded with the bureau of conveyances or filed in the of
+             fice of the assistant registrar of the land court, as applicable, before
+             the transferor’s death.
+
+       § -10 Notice, delivery, acceptance, consideration not required. A transfer
+on death deed shall be effective without notice or delivery to or acceptance by the
+designated beneficiary during the transferor’s life, and without consideration.
+
+        § -11 Revocation by instrument authorized; revocation by act not per
+mitted. (a) Subject to subsection (b), an instrument is effective to revoke all or
+any part of a recorded or filed transfer on death deed only if the instrument is
+acknowledged by the transferor after the acknowledgement of the transfer on
+death deed being revoked and is recorded in the bureau of conveyances or filed
+in the office of the assistant registrar of the land court, as applicable, before the
+transferor’s death and is:
+
+                                                                                  589
+ACT 173
+
+       (1)   A subsequently recorded or filed transfer on death deed that revokes
+             all or a part of the recorded or filed transfer on death deed either
+             expressly or because of inconsistency;
+       (2)   An instrument of revocation that expressly revokes all or a part of
+             the recorded or filed transfer on death deed; or
+       (3)   An inter vivos deed that expressly revokes all or a part of the trans
+             fer on death deed.
+       (b)   If a transfer on death deed is executed by more than one
+transferor:
+       (1) Revocation by one transferor does not affect the deed as to the inter
+             est of another transferor; and
+       (2) A deed executed by joint owners is revoked only if it is revoked by
+             all living joint owners.
+       (c) After a transfer on death deed is recorded or filed, as applicable, it
+may not be revoked by a revocatory act on the deed. For purposes of this sub
+section, “revocatory act” includes burning, tearing, canceling, obliterating, or
+destroying the transfer on death deed or any part of it.
+       (d) This section shall not limit the effect of an inter vivos transfer of the
+subject property.
+
+       § -12 Effect of transfer on death deed during transferor’s life. During a
+transferor’s life, a transfer on death deed shall not:
+       (1) Affect an interest or right in the subject property of the transferor
+              or any other owner, including the right to transfer or encumber the
+              subject property;
+       (2) Affect an interest or right in the subject property of a transferee, re
+              gardless of whether the transferee has actual or constructive notice
+              of the deed;
+       (3) Affect an interest or right in the subject property of a secured or
+              unsecured creditor or future creditor of the transferor regardless of
+              whether the creditor has actual or constructive notice of the deed;
+       (4) Affect the transferor’s or designated beneficiary’s eligibility for any
+              form of public assistance;
+       (5) Create a legal or equitable interest in the subject property in favor of
+              the designated beneficiary; or
+       (6) Subject the subject property to claims or process of a creditor of the
+              designated beneficiary.
+
+       § -13 Effect of transfer on death deed at transferor’s death. (a) Except as
+otherwise provided in the transfer on death deed, this section, or sections 560:2-
+202, 560:2-603, 560:2-702, 560:2-706, 560:2-707, 560:2-803, and 560:2-804, on
+the death of the transferor, the following shall apply to the subject property
+owned by the transferor at death:
+       (1) Subject to paragraph (2), the interest in the subject property shall
+            be transferred to the designated beneficiary in accordance with the
+            deed; provided that, for property of which any portion is registered
+            in the land court pursuant to chapter 501, a petition noting the
+            death of the transferor and requesting that a new certificate of title
+            be issued in the name of the designated beneficiary shall be filed
+            and processed with the land court before the interest in the subject
+            property is transferred;
+       (2) The interest of a designated beneficiary is contingent on the desig
+            nated beneficiary surviving the transferor and the interest of a des
+            ignated beneficiary that fails to survive the transferor shall lapse;
+
+590
+                                                                            ACT 173
+
+       (3)    Subject to paragraph (4), concurrent interests are transferred to the
+              beneficiaries in equal and undivided shares with no right of survi
+              vorship; and
+         (4) If the transferor has identified two or more designated beneficia
+              ries to receive concurrent interests in the subject property, any share
+              that lapses or fails for any reason shall be transferred to the other
+              beneficiaries in proportion to the interest of each in the remaining
+              concurrently-held subject property.
+         (b) Pursuant to the filing requirements of chapter 501 or the recording
+provisions of 502, as applicable, a beneficiary shall take the subject property sub
+ject to all conveyances, encumbrances, assignments, contracts, mortgages, liens,
+ and other interests to which the subject property is subject at the transferor’s
+death. For purposes of this subsection and the filing provisions of chapter 501
+ or the recording provisions of chapter 502, the filing or recording of the transfer
+ on death deed is deemed to have occurred at the transferor’s death.
+         (c) If a transferor is a joint owner and is survived by one or more other
+joint owners, the subject property shall belong to the surviving joint owner or
+ owners with the right of survivorship and the transfer on death deed shall have
+no effect. If a transferor is a joint owner and is the last surviving joint owner, the
+transfer on death deed shall be effective.
+         (d) A transfer on death deed transfers the subject property without cov
+enant or warranty of title even if the transfer on death deed contains a contrary
+provision.
+
+        § -14 Disclaimer. A beneficiary may disclaim all or part of the benefi
+ciary’s interest as provided by chapter 526, the Uniform Disclaimer of Property
+Interests Act.
+
+       § -15 Liability for creditor claims and statutory allowances. (a) To the
+extent the transferor’s probate estate is insufficient to satisfy an allowed claim
+against the estate or a statutory allowance to a surviving spouse or child, the
+estate may enforce the liability against the subject property transferred at the
+transferor’s death by a transfer on death deed.
+       (b) If more than one property is transferred by one or more transfer on
+death deeds, the liability under subsection (a) shall be apportioned among the
+subject properties in proportion to their respective net values at the time of the
+transferor’s death.
+       (c) A proceeding to enforce liability under this section shall be com
+menced not later than eighteen months after the transferor’s death.
+
+       § -16 Uniformity of application and construction. In applying and con
+struing this chapter, consideration shall be given to the need to promote unifor
+mity of the law with respect to its subject matter among the states that enact
+similar uniform legislation.
+
+        § -17 Relation to Electronic Signatures in Global and National Com
+merce Act. This chapter modifies, limits, and supersedes the federal Electronic
+Signatures in Global and National Commerce Act, P.L. 106-229, Title 15 United
+States Code Chapter 96, but does not modify, limit, or supersede Title 15 United
+States Code, Section 7001(c), or authorize electronic delivery of any of the no
+tices described in Title 15 United States Code, Section 7003(b).”
+        SECTION 2. Section 247-3, Hawaii Revised Statutes, is amended to read
+as follows:
+
+                                                                                  591
+ACT 173
+
+       “~247-3 Exemptions. The tax imposed by section 247-1 shall not apply
+to:
+       (1)   Any document or instrument that is executed prior to January 1,
+              1967;
+       (2)   Any document or instrument that is given to secure a debt or
+             obligation;
+       (3)   Any document or instrument that only confirms or corrects a deed,
+             lease, sublease, assignment, transfer, or conveyance previously re
+             corded or filed;
+       (4)   Any document or instrument between husband and wife, reciprocal
+             beneficiaries, or parent and child, in which only a nominal consider
+             ation is paid;
+       (5)   Any document or instrument in which there is a consideration of
+             $100 or less paid or to be paid;
+       (6)   Any document or instrument conveying real property that is exe
+             cuted pursuant to an agreement of sale, and where applicable, any
+             assignment of the agreement of sale, or assignments thereof pro
+             vided that the taxes under this chapter have been fully paid upon the
+             agreement of sale, and where applicable, upon such assignment or
+             assignments of agreements of sale;
+       (7)   Any deed, lease, sublease, assignment of lease, agreement of sale,
+             assignment of agreement of sale, instrument or writing in which the
+             United States or any agency or instrumentality thereof or the State
+             or any agency, instrumentality, or governmental or political subdivi
+             sion thereof are the only parties thereto;
+       (8)   Any document or instrument executed pursuant to a tax sale con
+             ducted by the United States or any agency or instrumentality there
+             of or the State or any agency, instrumentality, or governmental or
+             political subdivision thereof for delinquent taxes or assessments;
+       (9)   Any document or instrument conveying real property to the United
+             States or any agency or instrumentality thereof or the State or any
+             agency, instrumentality, or governmental or political subdivision
+             thereof pursuant to the threat of the exercise or the exercise of the
+             power of eminent domain;
+      (10)   Any document or instrument that solely conveys or grants an ease
+             ment or easements;
+      (11)   Any document or instrument whereby owners partition their prop
+             erty, whether by mutual agreement or judicial action; provided that
+             the value of each owner’s interest in the property after partition is
+             equal in value to that owner’s interest before partition;
+      (12)   Any document or instrument between marital partners or reciprocal
+             beneficiaries who are parties to a divorce action or termination of
+             reciprocal beneficiary relationship that is executed pursuant to an
+             order of the court in the divorce action or termination of reciprocal
+             beneficiary relationship;
+      (13)   Any document or instrument conveying real property from a testa
+             mentary trust to a beneficiary under the trust;
+      (14)   Any document or instrument conveying real property from a grant
+             or to the grantor’s revocable living trust, or from a grantor’s revo
+             cable living trust to the grantor as beneficiary of the trust;
+      (15)   Any document or instrument conveying real property, or any inter
+             est therein, from an entity that is a party to a merger or consolida
+             tion under chapter 414, 414D, 415A, 421, 421C, 425, 425E, or 428
+             to the surviving or new entity;
+
+592
+                                                                           ACT 173
+
+      (16) Any document or instrument conveying real property, or any inter­
+           est therein, from a dissolving limited partnership to its corporate
+           general partner that owns, directly or indirectly, at least a ninety
+           per cent interest in the partnership, determined by applying section
+           318 (with respect to constructive ownership of stock) of the federal
+           Internal Revenue Code of 1986, as amended, to the constructive
+           ownership of interests in the partnership; [arul]
+      (17) Any document or instrument conveying real property to any non­
+           profit or for-profit organization that has been certified by the Hawaii
+           housing finance and development corporation for low-income hous­
+           ing development[�]: and
+      Qfil Any document or instrument that conforms to the transfer on death
+           deed as authorized under chapter ."
+        SECTION 3. Section 526-12, Hawaii Revised Statutes, is amended by
+amending subsection (g) to read as follows:
+        "(g) In the case of an interest created by a beneficiary designation made
+after [the time] the designation becomes irrevocable[,-a:t
+        ill The disclaimer [ffil:lSt] of an interest in personal property shall be
+             delivered to the person obligated to distribute the interestH: and
+        ill The disclaimer of an interest in real property shall be recorded in
+             the bureau of conveyances or filed in the office of the assistant reg­
+             istrar of the land court, as applicable."
+       SECTION 4. Section 526-15, Hawaii Revised Statutes, is amended to
+read as follows:
+        "[H§526-15H] Recording of disclaimer. If an instrument transferring an
+interest in or power over property subject to a disclaimer is required or permit­
+ted by law to be filed, recorded, or registered, the disclaimer may be [se] filed,
+recorded, or registered. [Failure] Except as otherwise provided in section 526-
+12(g), failure to file[,] or record[, or register] the disclaimer does not affect its
+validity as between the disclaimant and persons to whom the property interest
+or power passes by reason of the disclaimer."
+      SECTION 5. Statutory material to be repealed is bracketed and stricken.
+New statutory material is underscored.
+       SECTION 6. This Act shall take effect on July 1, 2011.
+       (Approved June 27, 2011.)
+
+
+
+
+                                                                                 593
+

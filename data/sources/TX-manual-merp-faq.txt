@@ -1,0 +1,15 @@
+Source URL: https://www.hhs.texas.gov/regulations/legal-information/your-guide-medicaid-estate-recovery-program/medicaid-estate-recovery-program-faqs
+Retrieved: 2026-09-23
+Note: WebFetch extraction, not verbatim (fetch.py got HTTP 403). Quotes below are as returned by WebFetch.
+
+What is an estate?
+"An estate as it relates to estate recovery is the real and personal property of a deceased Medicaid recipient that is subject to probate."
+"A probate estate does not include assets that pass directly to a beneficiary outside of the probate process. Some typical examples of assets that are not usually subject to probate include: insurance policy proceeds; retirement accounts, such as IRAs; pension plans; accounts at financial institutions, such as banks or credit unions, that are paid on death or accounts or joint accounts with right of survivorship; mutual funds; or deferred compensation plans."
+
+I want to will my home to my children. Can the state still take it?
+"The state cannot take your property. All claims (debts) against an estate, including MERP claims, must be paid before property can be distributed as stated in a will."
+
+Will the Medicaid Estate Recovery Program place a lien on a decedent's home?
+"MERP does not place liens on assets before or after the death of a Medicaid recipient."
+
+(WebFetch reported no Q&A mentioning life estates, enhanced life estate or Lady Bird deeds, TOD deeds or trusts.)

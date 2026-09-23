@@ -1,0 +1,542 @@
+Source URL: https://courts.ms.gov/Images/Opinions/CO67682.pdf
+Retrieved: 2026-09-23
+
+        IN THE COURT OF APPEALS OF THE STATE OF MISSISSIPPI
+
+                               NO. 2010-CA-00335-COA
+
+IN THE MATTER OF THE ESTATE OF ARLYN                                    APPELLANTS
+E. DARBY, DECEASED: OFFICE OF THE
+GOVERNOR, MISSISSIPPI DIVISION OF
+MEDICAID, AND STATE OF MISSISSIPPI
+
+v.
+
+LINDA DARBY STINSON, EXECUTRIX                                             APPELLEE
+
+
+DATE OF JUDGMENT:                        01/26/2010
+TRIAL JUDGE:                             HON. MITCHELL M. LUNDY JR.
+COURT FROM WHICH APPEALED:               DESOTO COUNTY CHANCERY COURT
+ATTORNEYS FOR APPELLANTS:                WILLIAM HARRIS MOUNGER JR.
+                                         CHARLES PALMER QUARTERMAN
+ATTORNEYS FOR APPELLEE:                  RALPH EDWIN CHAPMAN
+                                         JOSEPH HARLAND WEBSTER
+                                         ROBERT LAWSON HOLLADAY
+NATURE OF THE CASE:                      CIVIL - STATE BOARDS AND AGENCIES
+TRIAL COURT DISPOSITION:                 GRANTED MOTION FOR SUMMARY
+                                         JUDGMENT IN FAVOR OF LINDA DARBY
+                                         STINSON, EXECUTRIX; DENIED
+                                         MEDICAID’S CLAIM AS CREDITOR OF
+                                         THE ESTATE
+DISPOSITION:                             AFFIRMED: 02/22/2011
+
+
+      EN BANC.
+
+      KING, C.J., FOR THE COURT:
+
+¶1.   The DeSoto County Chancery Court granted summary judgment in favor of Linda
+
+Darby Stinson, executrix of the estate of Arlyn Darby, denying the Division of Medicaid’s
+
+claim against the estate. The chancellor determined that the estate was composed of exempt
+
+property, which descended outside of the probate estate, free and clear of any debts and
+claims of the Division of Medicaid or any other creditor. Medicaid raises three issues: (1)
+
+whether Medicaid is entitled to reimbursement from Darby’s estate, (2) whether exempt
+
+property is included within Darby’s estate for purposes of the Medicaid estate recovery
+
+program, and (3) whether Darby’s execution of the contract for Medicaid benefits waived his
+
+right to claim exemptions.
+
+¶2.     We find no error and affirm.
+
+                                            FACTS
+
+¶3.     Arlyn E. Darby was a resident of the Sardis Community Nursing Home at the time of
+
+his death on May 20, 2009. Darby had been receiving Medicaid benefits while he was a
+
+resident of the nursing home. At the time of his death, Darby owned his house and a small
+
+amount of personal property. The value of his homestead did not exceed $75,000 and the
+
+value of his personal property did not exceed $10,000. The property was devised to his
+
+children and one grandchild.
+
+¶4.     The Division of Medicaid filed a probate claim against the estate pursuant to the
+
+provisions of Title 42 of the United States Code section 1396p(b) (2006) and Mississippi
+
+Code Annotated section 43-13-317 (Rev. 2009). The claim of $123,716.13, represented the
+
+total amount Medicaid expended for Darby’s medical care after he reached the age of fifty-
+
+five.
+
+¶5.     Linda Darby Stinson, Darby’s daughter and executrix of the estate 1 , filed an objection
+
+to the probated claim asserting that the property Darby owned was exempt property and not
+
+subject to Medicaid’s claim. Stinson relied on Mississippi’s homestead exemption statute
+
+        1
+            Darby’s wife predeceased him.
+
+                                               2
+to support her objection. The relevant portion of the statute reads “a householder shall be
+
+entitled to hold exempt from seizure or sale, under execution or attachment, the land and
+
+buildings owned and occupied as a residence.” Miss. Code Ann. § 85-3-21 (Rev. 1999).
+
+Medicaid responded to the objection arguing that the real property was not exempt property
+
+because none of Darby’s heirs were living in the home and declaring it as their homestead.
+
+¶6.    Stinson filed a motion for summary judgment requesting the court to determine that
+
+Medicaid’s claim was not valid against Darby’s property. Stinson alleged that because the
+
+property was exempt, it passed outside of the estate and therefore, was not subject to
+
+Medicaid’s claim.     In response to Stinson’s argument that the property was exempt,
+
+Medicaid argued that even if the property were exempt, Stinson contractually waived the
+
+exemption when she submitted the application for Medicaid benefits on behalf of Darby.
+
+The court granted summary judgment in favor of Stinson. Medicaid then timely filed its
+
+notice of appeal.
+
+                                        ANALYSIS
+
+¶7.    "This Court reviews summary judgments de novo.” Point S. Land Trust v. Gutierrez,
+
+997 So. 2d 967, 975 (¶18) (Miss. Ct. App. 2008) (quoting Stallworth v. Sanford, 921 So. 2d
+
+340, 341 (¶ 5) (Miss. 2006)).       Summary judgment is proper where "the pleadings,
+
+depositions, answers to interrogatories and admissions on file, together with the affidavits,
+
+if any, show there is no genuine issue as to any material fact and the moving party is entitled
+
+to a judgment as a matter of law." M.R.C.P. 56(c). In determining whether the trial court
+
+properly granted summary judgment, we view the evidence in the light most favorable to the
+
+non-moving party. Gutierrez, 997 So. 2d at 975 (¶18) (citing Moss v. Batesville Casket Co.,
+
+
+                                              3
+935 So. 2d 393, 399 (¶17) (Miss. 2006)).
+
+       1. Entitlement to Reimbursement
+
+¶8.    There is no dispute of Medicaid’s right to recover its expenses from the property of
+
+a recipient’s estate. The Omnibus Budget Reconciliation Act of 1993 2 included a provision
+
+requiring states to seek recovery of nursing home services, home and community- based
+
+services and related hospital and prescription drug services from the estate of a deceased
+
+Medicaid recipient who was fifty-five years of age or older when the assistance was received.
+
+42 U.S.C. §1396p(b). Effective July 1, 1994, pursuant to Mississippi Code Annotated
+
+section 43-13-317, Mississippi implemented its estate recovery program.3
+
+¶9.    The governing statute is as follows:
+
+       (1) The division shall be noticed as an identified creditor against the estate of
+       any deceased Medicaid recipient under Section 91-7-145.
+
+       (2) In accordance with applicable federal law and rules and regulations,
+       including those under Title XIX of the federal Social Security Act, the division
+       may seek recovery of payments for nursing facility services, home- and
+       community-based services and related hospital and prescription drug services
+       from the estate of a deceased Medicaid recipient who was fifty-five (55) years
+       of age or older when he or she received the assistance. The claim shall be
+       waived by the division (a) if there is a surviving spouse; or (b) if there is a
+       surviving dependent who is under the age of twenty-one (21) years or who is
+       blind or disabled; or (c) as provided by federal law and regulation, if it is
+       determined by the division or by court order that there is undue hardship.
+
+Miss. Code Ann. § 43-13-317.
+
+       2. Exempt Property
+
+
+
+       2
+           42 U.S.C. §1396p.
+       3
+        Currently, all fifty states and the District of Columbia have implemented estate
+recovery programs. Michigan was the last state in 2007. Mich. Comp. Laws Ann. 400.112g.
+
+                                              4
+¶10.   Even though it appears that Medicaid has the right to recover from Darby’s estate, the
+
+more difficult task is determining what property is included within that estate. The Omnibus
+
+Budget Reconciliation Act defines the estate as follows: “For purposes of this subsection, the
+
+term ‘estate,’ with respect to a deceased individual- (A) shall include all real and personal
+
+property and other assets included within the individual’s estate, as defined for purposes of
+
+State probate law. . . .” 42 U.S.C. § 1396p(b)(4)(A) (emphasis added).
+
+¶11.   However, the next subsection of the Act grants each state the option of expanding the
+
+definition of estate to include,
+
+              “any other real and personal property and other assets in which
+              the individual had any legal title or interest at the time of death
+              (to the extent of such interest), including such assets conveyed
+              to a survivor, heir, or assign of the deceased individual through
+              joint tenancy, tenancy in common, survivorship, life estate,
+              living trust, or other arrangement.”
+
+42 U.S.C. § 1396p(b)(4)(B).
+
+¶12.   The federal statute clearly permits each state to specifically define what assets are
+
+included within an estate for purposes of Medicaid recovery. The State Medicaid Manual,
+
+provided by the Centers for Medicare & Medicaid Services, which is the Medicare and
+
+Medicaid governing agency within the United States Department of Health and Human
+
+Services, instructs each state to “Specify in your State plan the definition of estate that will
+
+apply.” State Medicaid Manual, § 3810 B.4
+
+
+
+
+       4
+        Transmittal 75, or § 3810 (B) of the State Medicaid Manual, United States
+Department of Health and Human Services, Health Care Financing and Administration,
+(January 2001), provides policy clarification on mandatory and optional recovery measures
+to for Medicare and Medicaid Services.
+
+                                               5
+                A.     Definition of Estate
+
+¶13.   Pursuant to 42 U.S.C. section 1396p(b)(4)(B), a number of states have expanded the
+
+definition of estate to allow recovery beyond probate assets. Following the direction of the
+
+state medicaid manual, some states have incorporated a broad definition of estate for
+
+Medicaid expense recovery programs to include, but not limited to; living trusts 5 , joint
+
+property and accounts6 , life insurance proceeds7 , non-probate assets8 , and the entirety of both
+
+a beneficiary’s and his or her spouse’s estates.9 Not only are states permitted to expand the
+
+assets included in a beneficiary’s estate, but many states allow liens, authorized by the Tax
+
+Equity and Fiscal Responsibility Act of 1982 10, to be placed on real property even before the
+
+death of the Medicaid recipient11 . Currently, there are very few states that limit estate
+
+recovery until after the beneficiary’s death while also limiting recovery from assets within
+
+the probate estate; Mississippi is a member of this category 12 .
+
+
+
+       5
+           Maine (Me. Rev. Stat. Ann. tit. 22, § 14.)
+       6
+           Washington (Wash. Rev. Code Ann. § 43.20B.080.)
+       7
+           Missouri (Mo. Rev. State. § 473.398.)
+       8
+           Utah (Utah Code Ann. §§ 26-19-2.); Iowa (Iowa Code Ann.§ 249A.5.)
+       9
+       Idaho (Idaho Code Ann. § 56-218.); Kansas (Kan. Stat. Ann. § 39-709.); New York
+(N.Y. Soc. Serv. Law § 369.)
+       10
+            42 U.S.C. § 1395.
+       11
+         Alabama (Ala. Admin. Code r. 560-x-33-.03.); Georgia (Ga. Comp. R. & Regs.
+111-3-8-.07.)
+       12
+          Mississippi, along with Arkansas, Michigan, New Mexico, North Carolina,
+Pennsylvania, South Carolina, Texas, Vermont, and West Virginia, limit recovery until after
+the beneficiary’s death and from the assets of the estate.
+
+                                                6
+¶14.   The Mississippi statute permitting estate recovery does not expand the definition of
+
+estate and provides that recovery is permitted “[i]n accordance with applicable federal law.
+
+. . .” Miss. Code Ann. § 43-13-317. The applicable federal statute permits Medicaid to
+
+recover from those assets of Darby’s that pass through probate according to Mississippi law.
+
+42 U.S.C. § 1396p(b)(4)(A).
+
+              B.     Mississippi’s Probate Laws
+
+¶15.   Neither party disputes that Darby’s real property qualified as his homestead exemption
+
+pursuant to Mississippi Code Annotated section 85-3-21 (Rev. 1999). The Mississippi
+
+Supreme Court has held exempt property is not part of the estate to be administered and
+
+descends directly by statute; and this is true whether the estate is solvent or insolvent De
+
+Baum v. Hulett Undertaking Co., 169 Miss. 488, 494-95, 153 So. 513, 515 (1934) (citations
+
+omitted). The descent of exempt property is governed by Mississippi Code Annotated
+
+section 91-1-19 (Rev. 2004), which states, “The property, real and personal, exempted by law
+
+from sale under execution or attachment shall, on the death of the husband or wife owning
+
+it, descend to the survivor of them and the children and grandchildren of the decedent. . . .”
+
+The supreme court has interpreted this statute to allow those entitled, including spouse,
+
+children and grandchildren, to inherit the exempt property in fee simple free of the decedent’s
+
+debts. See Weaver v. Blackburn, 294 So. 2d 786 (Miss. 1974).
+
+¶16.   Mississippi Code Annotated section 91-1-21 provides that exempt property is not
+
+liable for the debt of the decedent if there is a surviving spouse, children or grandchildren.
+
+The supreme court has held that the specific language of section 91-1-21 continues a
+
+decedent’s homestead exemption for a surviving spouse, children or grandchildren. Mem’l
+
+
+                                              7
+Hosp. at Gulfport v. Franzke, 634 So. 2d 117, 118 (Miss. 1994). Therefore, Darby’s children
+
+and grandchild are entitled to inherit the exempt property free of his debts.
+
+¶17.   Medicaid raises an argument that the broad homestead exemption descent statute
+
+coupled with a narrow definition of estate will limit the effectiveness of the estate recovery
+
+act. It is true that the Mississippi homestead exemption descent statute places no limitation
+
+on the age of the surviving children or grandchildren, nor does it impose occupancy
+
+restrictions.13 However, the statutes concerning the homestead, and its descent, are plain and
+
+unambiguous. This Court will not engage in statutory interpretation if a statute is plain and
+
+unambiguous. In re Guardianship of Duckett, 991 So. 2d 1165, 1181 (¶37) (Miss. 2008)
+
+(citation omitted).
+
+¶18.   Darby predeceased his children and a grandchild to whom he devised all of his
+
+property. Pursuant to the unambiguous language of the statutes, coupled with case law, the
+
+homestead, with its exemption, passed from Darby to his children and grandchildren free of
+
+his debts. Thus, Medicaid is not entitled to pursue a claim against the exempted property as
+
+it is not a part of the estate. We find this issue without merit.
+
+       3. Waiver
+
+¶19.   Medicaid claims that Stinson waived the exemption when she entered into a
+
+contractual relationship with Medicaid on behalf of Darby in order to become eligible for
+
+
+
+
+       13
+         In 2005, the Texas Legislature addressed this very issue and amended its probate
+code in order to clearly provide that the descent of the homestead exemption passed only to
+the spouse and minor children. Previously, the language was ambiguous in regard to adult
+children. Tex. Prob. Code Ann. §271. The Colorado Legislature requires occupancy for the
+homestead exemption to extend to heirs. Colo. Rev. Stat. Ann. 38-41-203.
+
+                                               8
+benefits. Medicaid argues that waiver is found in the following language of the contract,
+
+which states:
+
+       I (We) understand that upon my/our death, the Division of Medicaid has the
+       legal right to seek recovery from my estate for services paid by Medicaid in
+       the absence of a legal surviving spouse or a legal surviving dependent.
+       Consideration will be made for hardship cases. An estate consists of real &
+       personal property. Estate recovery applies to nursing homes, home and
+       community based waiver clients age 55 or older.
+
+¶20.   Medicaid suggests that the language “an estate consists of real & personal property,”
+
+waives Darby’s right to claim his homestead exemption. A waiver is defined as a voluntary
+
+surrender or relinquishment of some known right, benefit or advantage. Sentinel Indus.
+
+Contracting Corp. v. Kimmins Indus. Serv. Corp., 743 So. 2d 954, 964 (Miss. 1999) (citation
+
+omitted).   There is a general presumption against the finding of a waiver, and the party
+
+asserting the waiver bears a heavy burden of proof. Walker v. J.C. Bradfrord & Co., 938 F.
+
+2d 575, 577 (5th Cir. 1991) (citations omitted).
+
+¶21.      This Court has further explained the necessary requirements for a valid waiver,
+
+saying:
+
+       Under Mississippi law, a “waiver” presupposes a full knowledge of a right
+       existing, and an intentional surrender or relinquishment of that right. It
+       contemplates something done designedly or knowingly, which modifies or
+       changes existing rights, or varies or changes the terms and conditions of a
+       contract. It is the voluntary surrender of a right. To establish a waiver, there
+       must be shown an act or omission on the part of the one charged with the
+       waiver fairly evidencing an intention permanently to surrender the right
+       alleged to have been waived.
+
+Taranto Amusement Co., Inc., v. Mitchell Assocs., Inc. 820 So. 2d 726, 729 (¶13) (Miss.
+
+Ct. App. 2002).
+
+                A.   Knowledge of Waiver
+
+
+                                              9
+¶22.   The record does not support the idea that Darby had any knowledge of the benefits
+
+a homestead exemption provided, nor that he intentionally waived his right to the benefit of
+
+that exemption. The contract does not provide any information pertaining to, or even
+
+mention, the significance of any exemption.
+
+¶23.   The purpose of homestead exemption is to protect families from financial misfortune
+
+by preventing creditors from using a family’s home to satisfy debts. Biggs v. Roberts, 237
+
+Miss. 406, 411, 115 So. 2d 151, 153 (1959). “This has been the law and the recognized
+
+public policy of this state for many years.” Id. As valuable as the homestead exemption is,
+
+a party must be informed in order to waive the right. Many states have implemented laws
+
+governing the procedure in which a waiver of the homestead exemption may be
+
+accomplished, and at least two states have implemented laws governing the specific language
+
+that must be contained within a contract to effectuate a valid waiver.14 In this case, there is
+
+no substantial evidence to support the suggestion that Darby had any knowledge of the
+
+existence or significance of his right to waive his homestead exemption.
+
+              B.     Intent to Waive Exemption
+
+¶24.   There is no evidence of Darby’s intent to waive any of his rights. In determining a
+
+party’s intent within a contract, the court must look to the express language of the contract.
+
+Cherokee Ins. Co. v. Babin, 37 So. 3d 45, 48 (¶8) (Miss. 2010). In this case, the alleged
+
+
+
+       14
+          Both Iowa and North Dakota require the following text within the contract in order
+to accomplish a valid waiver: “I understand that homestead property is in many cases
+protected from the claims of creditors and exempt from judicial sale and that, by signing this
+contract, I voluntarily give up my right to this protection for this property with respect to
+claims based upon this contract.” N.D. Cent. Code. § 47-18-05.1 and Iowa Code Ann. §
+561.22.
+
+                                              10
+waiver clause merely provides a general definition of “estate.” This general definition of
+
+estate does nothing to state, or even suggest, that it takes precedence over the homestead
+
+exemption statute nor does the language within the contract adopt the specific language of
+
+the federal statute to affirmatively include non-probate assets within the estate.
+
+¶25.   If a contract is clear and unambiguous, then it must be interpreted as written. Architex
+
+Ass’n, Inc. v. Scottsdale Ins. Co., 27 So. 3d 1148, 1157 (¶20) (Miss. 2010) (citation omitted).
+
+The clause is clear and unambiguous in explaining to a Medicaid applicant that in exchange
+
+for services, Medicaid is entitled to assert a claim against the real and personal property
+
+comprising the recipient’s estate. By entering into the contract, Darby merely acknowledged
+
+Medicaid as a creditor of his estate. Unfortunately, Darby’s estate has no property against
+
+which Medicaid may recover. Considering the general presumption against the finding of
+
+a waiver coupled with the lack of evidence that Darby knew the significance or intended to
+
+waive his right to an exemption, we find this issue without merit.
+
+¶26. THE JUDGMENT OF THE DESOTO COUNTY CHANCERY COURT IS
+AFFIRMED. ALL COSTS OF THIS APPEAL ARE ASSESSED TO THE
+APPELLANTS.
+
+    LEE AND MYERS, P.JJ., GRIFFIS, BARNES, ISHEE, ROBERTS, CARLTON
+AND MAXWELL, JJ., CONCUR. IRVING, J., DISSENTS WITH SEPARATE
+WRITTEN OPINION.
+
+       IRVING, J., DISSENTING:
+
+¶27.   With respect, I dissent from the majority’s holding that this case should be affirmed.
+
+I would reverse and render the chancery court’s judgment, which found that Stinson had not
+
+waived her right to a homestead exemption for Darby’s property.            I believe that the
+
+application that Stinson submitted for Medicaid benefits effectively waived Stinson’s right
+
+                                              11
+to assert a homestead exemption.
+
+¶28.   For clarity’s sake, I also quote the relevant portion of Darby’s Medicaid application:
+
+       I (We) understand that upon my/our death, the Division of Medicaid has the
+       legal right to seek recovery from my estate for services paid by Medicaid in
+       the absence of a legal surviving spouse or a legal surviving dependent.
+       Consideration will be made for hardship cases. An estate consists of real &
+       personal property. Estate recovery applies to nursing homes, home and
+       community based waiver clients age 55 or older.
+
+I would find that this plain language constitutes a waiver of Darby’s homestead exemption.
+
+In the statement, Darby (or Stinson on his behalf) acknowledged that the Division of
+
+Medicaid could “seek recovery” from his estate. There was no limitation stated on the
+
+recovery other than that “[c]onsideration will be made for hardship cases.” In my opinion,
+
+a reasonable person reading this statement would understand that he was allowing the
+
+Division of Medicaid to recover from his estate, regardless of any existing homestead
+
+exemption.
+
+¶29.   Therefore, I would reverse and render.
+
+
+
+
+                                             12
+

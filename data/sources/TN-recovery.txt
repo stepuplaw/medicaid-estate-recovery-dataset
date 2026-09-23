@@ -1,0 +1,93 @@
+Source URL: https://unicourt.github.io/cic-code-tn/transforms/tn/octn/r73/gov.tn.tca.title.71.html
+Retrieved: 2026-09-23
+Note: excerpt of Sec. 71-5-116 from the Tennessee Code Annotated public release (Title 71, release 73) mirror; full title saved in TN-title71-full.txt
+
+71-5-116. Lien on real estate - Claim against estate - Restrictions.
+
+ No applicant shall be required to execute an agreement for a lien on real property occupied as the applicant's residence on account of medical assistance paid or to be paid on the applicant's behalf pursuant to this part.
+
+ No lien may be imposed against the real property of any recipient prior to the individual's death, on account of medical assistance paid or to be paid on the recipient's behalf pursuant to this part, except pursuant to a court judgment for recovery of benefits incorrectly paid on behalf of the recipient.
+
+ There shall be no adjustment or recovery of any payment for medical assistance correctly paid on behalf of any recipient pursuant to this part from the recipient's estate, except in the case of a recipient who was fifty-five (55) years of age or older at the time the recipient received medical assistance or services pursuant to this part. In that case, adjustment or recovery from the recipient's estate may be pursued only after the death of the individual's surviving spouse, if any, and only at a time when the individual has no surviving child who is under eighteen (18) years of age or no surviving child, as defined in § 1614 of the Social Security Act, who is blind or permanently and totally disabled, or a child who became blind or permanently and totally disabled after reaching majority, if the TennCare bureau and the personal representative agree, or, in the event of a disagreement, the court, after de novo review, finds that repayment would constitute an undue hardship to the blind or disabled child.
+
+ Before any probate estate may be closed pursuant to title 30, with respect to a decedent who, at the time of death, was enrolled in the TennCare program, the personal representative of the estate shall file with the clerk of the court exercising probate jurisdiction a release from the bureau of TennCare evidencing either:
+
+ Payment of all medical assistance benefits, premiums, or other costs due from the estate under law;
+
+ Waiver of the bureau's claims; or
+
+ A statement from the bureau that no amount is due.
+
+ To facilitate and enhance compliance with subsection (c), the following notices shall be provided:
+
+ Within thirty (30) days of receipt of notice of a person's death, the department of health shall notify the bureau of TennCare, in a format to be specified by the bureau, of the death of any individual fifty-five (55) years of age or older. Each notification shall include the decedent's name, date of birth and social security number;
+
+ Within sixty (60) days of the date of issuance of either letters of administration or letters testamentary, the personal representatives of decedents shall provide notice of the death of any individual fifty-five (55) years of age or older to the bureau of TennCare, in a format to be specified by the bureau, shall state whether the decedent was a TennCare recipient and shall request a release from the bureau of TennCare pursuant to subdivision (c)(2), and an affidavit confirming notice shall be filed pursuant to § 30-2-301(b)(3);
+
+ Personal representatives of decedents shall provide notice to the court concerning whether or not the decedent was a TennCare recipient pursuant to § 30-1-117; and
+
+ Personal representatives of decedents shall provide the notice to creditors specified in § 30-2-306 to the bureau of TennCare, if the decedent was a TennCare recipient. If a notice to creditors is provided to the bureau, the bureau shall file a claim for recovery in accordance with the requirements of title 30, chapter 2, part 3.
+
+ It is the legislative intent of subdivision (d)(1) that, after the date of death, the bureau of TennCare strive vigorously to recoup any TennCare funds expended for a decedent during the decedent's lifetime.
+
+ The bureau of TennCare shall publish a form of notice to be used pursuant to subdivisions (d)(1)(A) and (B), with instructions for use of the form written in plain language. The form and instructions shall be available at the office of any clerk of court exercising probate jurisdiction, as well as available on the bureau's website. Notice shall be provided via certified mail or in any other manner designated by the bureau.
+
+ Recoveries pursuant to this section shall be prorated among the federal government, the state, and the county involved, if any, in proportion to the amounts that each contributed to the assistance and services.
+
+ Acts 1968, ch. 551, § 16; impl. am. Acts 1971, ch. 162, § 3; T.C.A., §§ 14-1916, 14-23-116; Acts 1994, ch. 682, § 1; 2002, ch. 880, § 9; 2006, ch. 639, § 3.
+
+ Compiler's Notes. Acts 2002, ch. 880, § 1, provided that the act is, and may be cited as, “The TennCare Reform Act of 2002”.
+
+ Acts 2002, ch. 880, § 5 provided that any costs associated with the implementation of that act, except as to the costs of the medicaid fraud control unit of the Tennessee bureau of investigation, shall be paid from existing funds appropriated to the TennCare program.
+
+ Acts 2002, ch. 880, § 8 provided that:
+
+ “(a)  The fiscal review committee, in consultation with the bureau of TennCare and the select oversight committee on TennCare (repealed), shall study the feasibility of outsourcing eligibility determinations and reverifications for the TennCare expansion population, including requesting information from potential contractors. It is the legislative intent that information from interested potential contractors be received by October 15, 2002.
+
+ “(b)  The fiscal review committee, in consultation with the bureau of TennCare and the select oversight committee on TennCare (repealed), shall evaluate the responses from potential contractors and shall, no later than January 1, 2003, report its findings to the general assembly, the commissioner of finance and administration, the comptroller of the treasury and the governor, relative to whether eligibility and re-verification services should be contracted and procured through competitive proposals.”
+
+ Acts 2002, ch. 880, § 20 provided that the provisions of that act shall only apply so long as the state operates the TennCare program as a statewide waiver with an expansion population of uninsureds and uninsurables under Section 1115 of the federal Social Security Act [ 42 U.S.C. § 1315 ]. If at any time the state ceases to operate under such a waiver, then the provisions of the act shall not be applied and enforcement of such provisions shall be terminated.
+
+ Acts 2006, ch. 639, § 4 provided that the amendment to this section take effect January 1, 2007. Prior to January 1, 2007, this section reads as set out in the amendment note. On and after January 1, 2007, the section reads as set out above.
+
+ Section 1614 of the Social Security Act, referred to in this section, is codified in 42 U.S.C. § 1382 c.
+
+ Law Reviews.
+
+ TennCare: Expanded Estate Recovery - Recover at ALL Cost, 45 U. Mem. L. Rev. 711 (2015).
+
+ What to Tell Your Clients About TennCare Medicaid Estate Recovery (Tim Takacs & David McGuffey), 43 Tenn. B.J. 16 (2007).
+
+ NOTES TO DECISIONS
+
+ 1. Claim to Recover Benefits.
+
+ 2. Time Limits.
+
+ 3. Property Subject to Reimbursement.
+
+ 4. Revocable Trust.
+
+ 1. Claim to Recover Benefits.
+
+ T.C.A. § 71-5-116 places an obligation on the representative of an estate to obtain a waiver or release from the Bureau of TennCare. In re Estate of Tanner, 295 S.W.3d 610, 2009 Tenn. LEXIS 653 (Tenn. Oct. 7, 2009).
+
+ 2. Time Limits.
+
+ At the time of the decedent's death, T.C.A. § 71-5-116(c) permitted adjustment or recovery from an estate until a waiver or release was granted by the bureau, regardless of any limitations on ordinary claims imposed by T.C.A. § 30-2-310(b) , further incident to its right to demand payment pursuant to the release and waiver provisions, the state bureau was permitted to file a formal claim against the estate, despite the fact that claims of most other types would have been barred; § 30-2-310(b) created a general one-year statute of limitations on state claims against an estate, except claims for taxes and § 71-5-116(c) imposed a duty on the representative of an estate to actively seek a release or waiver of any medical assistance correctly paid, owed under the state program. Because appellee decedent's son did not do so, and no waiver or release issued, the bureau was empowered under the terms of the applicable statute, as then written, to file the claim beyond the one-year period of limitation. In re Estate of Tanner, 295 S.W.3d 610, 2009 Tenn. LEXIS 653 (Tenn. Oct. 7, 2009).
+
+ Chancery court properly determined that a claim by the Bureau of TennCare against a decedent's estate for justly paid medical benefits was not time-barred by T.C.A. § 30-2-310 because the administrator did not file a release pursuant to T.C.A. § 71-5-116(c)(2) and the Bureau did not receive the notice required by § 71-5-116(d) . In re Estate of Stidham, 438 S.W.3d 535, 2012 Tenn. App. LEXIS 584 (Tenn. Ct. App. Aug. 23, 2012), appeal denied, - S.W.3d -, 2012 Tenn. LEXIS 910 (Tenn. Dec. 12, 2012).
+
+ Trial court erred in holding that the Tennessee Bureau of TennCare failed to strive vigorously in its efforts to recoup TennCare funds from a decedent's estate because the Bureau opened the estate within 13 months of the decedent's death, and since that time, the Bureau sought to recoup the TennCare funds from the estate. In re Estate of Crumley, 439 S.W.3d 318, 2012 Tenn. App. LEXIS 874 (Tenn. Ct. App. Dec. 18, 2012), appeal denied, - S.W.3d -, 2013 Tenn. LEXIS 421 (Tenn. Apr. 9, 2013).
+
+ Statute of limitations, T.C.A. § 30-2-310 , did not prevent the Tennessee Bureau of TennCare from opening a decedent's estate and filing a claim to recoup TennCare funds because the notice provision in T.C.A. § 71-5-116(d)(1)(D) was inoperative if the Bureau did not receive a notice to creditors of a decedent's death within the statute. In re Estate of Crumley, 439 S.W.3d 318, 2012 Tenn. App. LEXIS 874 (Tenn. Ct. App. Dec. 18, 2012), appeal denied, - S.W.3d -, 2013 Tenn. LEXIS 421 (Tenn. Apr. 9, 2013).
+
+ 3. Property Subject to Reimbursement.
+
+ Any real property that can be reached by a personal representative pursuant to T.C.A. §§ 30-2-401 and 31-2-103 for the payment of the debts of an insolvent estate may be reached by the probate court for the purpose of reimbursing TennCare for the properly paid medical care provided to a deceased recipient in accordance with T.C.A. § 71-5-116 . In re Estate of Trigg, 368 S.W.3d 483, 2012 Tenn. LEXIS 379 (Tenn. May 30, 2012).
+
+ 4. Revocable Trust.
+
+ Chancery court properly concluded the Bureau of TennCare was entitled to use real property in a decedent's revocable trust to satisfy a claim against the estate for medical benefits, T.C.A. § 71-5-116(c)(1) , because any property that could be reached by the personal representative pursuant to T.C.A. § 35-15-505 for the payment of the debts of an insolvent estate could be reached by the probate court for the purpose of reimbursing the Bureau. In re Estate of Stidham, 438 S.W.3d 535, 2012 Tenn. App. LEXIS 584 (Tenn. Ct. App. Aug. 23, 2012), appeal denied, - S.W.3d -, 2012 Tenn. LEXIS 910 (Tenn. Dec. 12, 2012).
+
+ 

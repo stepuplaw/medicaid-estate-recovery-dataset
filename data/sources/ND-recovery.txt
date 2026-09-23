@@ -1,0 +1,1091 @@
+Source URL: https://ndlegis.gov/cencode/t50c24-1.pdf
+Retrieved: 2026-09-23
+
+                                       CHAPTER 50-24.1
+                        MEDICAL ASSISTANCE FOR NEEDY PERSONS
+
+    50-24.1-00.1. Definitions.
+    As used in this chapter, unless the context otherwise requires:
+    1. "Department" means the department of health and human services.
+    2. "Medical assistance" means benefits paid under chapter 50-24.1 and title XIX of the
+         Social Security Act [42 U.S.C. 1396 et seq.].
+    3. "Third party" means an individual, entity, or program that is or may be liable to pay all
+         or part of the expenditures for medical assistance furnished under this chapter.
+
+    50-24.1-01. Purpose.
+    The purpose of this chapter is to provide medical care and services to persons whose
+income and resources are insufficient to meet such costs, and further to provide preventive,
+rehabilitative, and other services to help families and individuals to retain or attain capability for
+independence or self-care.
+
+    50-24.1-01.1. Department to submit plans and seek waivers.
+    The department may submit state plans and may take such actions as are reasonably
+necessary to administer programs under its supervision, including the issuance of policy
+manuals, forms, and program directives. The department may publish dashboards that
+demonstrate program utilization and provider care trends. Within the limits of legislative
+appropriation, the department may seek appropriate waivers of the requirements of the federal
+statutes or regulations as authorized by federal law.
+
+   50-24.1-01.2. Department may establish and administer state unified dental insurance
+coverage plan.
+   Repealed by S.L. 2019, ch. 408, § 39.
+
+   50-24.1-01.3. Department to comply with federal requirements - Interagency
+cooperation - Civil money penalty fund.
+   1. The department shall take any action necessary to comply with the requirements of
+        section 1919(h) of the federal Social Security Act [42 U.S.C. 1396r(h)], including
+        establishing a process to enforce compliance by nursing facilities with requirements for
+        participation in the medical assistance program that conforms to any federal
+        regulations implementing that section.
+   2. The state treasurer shall establish a fund for the receipt of any civil money penalties
+        imposed under subsection 1. Any civil money penalty paid to the department under
+        subsection 1 must be deposited in that fund and, subject to the limits of legislative
+        appropriation, may be expended for the purpose allowed by the federal government.
+   3. This section may not be construed to create any right or authorize any activity not
+        provided for in section 1919(h) of the federal Social Security Act [42 U.S.C. 1396r(h)]
+        or its implementing federal regulations.
+   4. Before the establishment and assessment of civil money penalties permitted by
+        section 1919(h) of the federal Social Security Act [42 U.S.C. 1396r(h)], the department
+        is encouraged to submit a plan of alternative remedies in accordance with section
+        1919(h)(2)(B)(ii) of that Act.
+
+     50-24.1-01.4. Medicaid and Medicare eligible individuals.
+     The department may not require prior authorization, additional documentation not required
+by Medicare, or additional prescription requirements of durable medical equipment and supplies
+in order to process a claim for Medicaid-eligible individuals who are also eligible for Medicare if
+an item has been paid by Medicare, unless the item is not covered by Medicaid.
+
+
+
+
+                                             Page No. 1
+    50-24.1-02. Eligibility.
+    Within the limits of legislative appropriations, medical assistance may be paid for any
+person who either has income and resources insufficient to meet the costs of necessary medical
+care and services or is eligible for or receiving financial assistance under chapter 50-09 or title
+XVI of the Social Security Act, as amended, and:
+    1. Has not at any time before or after making application for medical assistance made an
+          assignment or transfer of property for the purpose of rendering that person eligible for
+          assistance under this chapter. For the purposes of making any determination or
+          redetermination of eligibility, the phrase "assignment or transfer" includes actions or
+          failures to act which effect a renunciation or disclaimer of any interest which the
+          applicant or recipient might otherwise assert or have asserted, or which serve to
+          reduce the amounts which an applicant or recipient might otherwise claim from a
+          decedent's estate, a trust or similar device, or a person obligated by law to furnish
+          support to the applicant or recipient.
+    2. Has applied or agrees to apply all proceeds received or receivable by that person or
+          that person's eligible spouse from third-party medical coverage, including health care
+          coverage, accident insurance, and automobile insurance, to the costs of medical care
+          for that person and that person's eligible spouse and children. The department may
+          require from any applicant or recipient of medical assistance the assignment of any
+          rights accruing under third-party medical coverage. Any rights or amounts so assigned
+          must be applied against the cost of medical care paid on behalf of the recipient under
+          this chapter. The assignment is not effective as to any carrier before the receipt of
+          notice of assignment by such carrier.
+    3. Is eligible under rules and regulations established by the department.
+
+    50-24.1-02.1. Assignment of claim.
+    1. Each applicant or recipient of benefits under this chapter must be deemed to have
+         assigned, to the department, any right of recovery the applicant or recipient may have
+         for medical costs incurred under this chapter not exceeding the amount of funds
+         expended by the department for the care and treatment of the applicant or recipient.
+         The applicant or recipient, or other person empowered by law to act in the applicant's
+         or recipient's behalf, shall execute and deliver an assignment of claim, assignment of
+         rights, or other authorizations as necessary to secure fully the right of recovery of the
+         department. The assignment:
+         a. Is effective as to both current and accrued medical support recovery obligations.
+         b. Takes effect upon a determination that an applicant is eligible for assistance
+               under this chapter.
+    2. The department may compromise claims arising out of assignments made under this
+         section on such terms as it may deem just and appropriate. The department may not
+         be compelled to compromise any claim.
+
+    50-24.1-02.2. Community spouse resource allowance.
+    In determining eligibility for medical assistance applicants and recipients, the department
+shall establish a community spouse resource allowance equal to the maximum community
+spouse resource allowance as provided by 42 U.S.C. 1396r-5(f)(2). This section applies to a
+community spouse of an institutionalized spouse. For purposes of this section, "institutionalized
+spouse" includes an individual who is described in 42 U.S.C. 1396a(a)(10)(A)(ii)(VI).
+
+   50-24.1-02.3. When designated pre-need funeral service contracts, prepayments, or
+deposits not to be considered in eligibility determination.
+   1. In determining eligibility for medical assistance, the department may not consider as
+        an available resource any pre-need funeral service contracts, prepayments, or
+        deposits to a fund which are placed in an irrevocable itemized funeral contract
+        designated by the applicant or recipient to pay for the applicant's or recipient's funeral.
+
+
+
+                                            Page No. 2
+    2.   An applicant or recipient designates a prepayment or deposit for that applicant's or
+         recipient's burial by providing funds that must be used for the funeral or burial
+         expenses of the applicant or recipient. If an applicant's or recipient's burial is funded by
+         an insurance policy, the amount considered set-aside for burial is the lesser of the cost
+         basis or the face value of the insurance policy. Interest or earnings retained in a
+         funeral fund also may not be considered as an available resource.
+    3.   A pre-need funeral service contract, prepayment, or deposit designated under this
+         section is not a multiple-party account for purposes of chapter 30.1-31. Any amount in
+         a pre-need funeral service contract, prepayment, or deposit designated under this
+         section which is not used for funeral or burial expenses must be returned to the estate
+         of the medical assistance recipient and is subject to recovery by the department from
+         the medical assistance recipient's estate. A claim for payment of funeral expenses may
+         not be made against the estate of a deceased medical assistance recipient except to
+         the extent the funds are maintained in accordance with this chapter.
+
+     50-24.1-02.4. Exempt income and resources.
+     The department may not consider, as an available asset for purposes of determining
+eligibility for benefits under this chapter, income and resources set aside by a blind or disabled
+person as part of a plan to achieve self-support, if the plan has been approved by the social
+security administration.
+
+    50-24.1-02.5. Effect of purchase of insurance on disqualifying transfer.
+    1. An individual who secures and maintains insurance that covers the cost of
+         substantially all necessary medical care, including necessary care in a nursing home
+         and necessary care for an individual who qualifies for admission to a nursing home but
+         receives care elsewhere, for at least thirty-six months after the date an asset is
+         disposed of, may demonstrate that the asset was disposed of exclusively for a
+         purpose other than to qualify for medical assistance by providing proof of that
+         insurance.
+    2. If purchased after July 31, 2003, the insurance coverage under this section must
+         include home health care coverage, assisted living coverage, basic care coverage,
+         and skilled nursing facility coverage. The coverage required under this subsection
+         must include a daily benefit equal to at least one and fifty-seven hundredths times the
+         average daily cost of nursing care for the year in which the policy was issued and an
+         aggregate benefit equal to at least one thousand ninety-five times that daily benefit.
+    3. This section applies only to policies purchased before the effective date of an
+         approved amendment to the state plan for medical assistance that provides for a
+         qualified state long-term care insurance partnership under section 1917(b) of the
+         Social Security Act [42 U.S.C. 1396p].
+
+    50-24.1-02.6. Medical assistance benefits - Eligibility criteria.
+    1. The department shall provide medical assistance benefits to otherwise eligible persons
+         who are medically needy persons who have countable income that does not exceed
+         an amount determined under subsection 2.
+    2. The department shall establish an income level for medically needy persons at an
+         amount no less than required by federal law.
+    3. The department shall provide medical assistance benefits to children and families
+         coverage groups and pregnant women without consideration of assets.
+    4. The department shall provide medical assistance benefits to otherwise eligible
+         pregnant women who are lawfully present in the United States.
+    5. The department may require, as a condition of eligibility, individuals eligible for
+         Medicare part A, B, or D to apply for such coverage.
+    6. The department shall provide a personal monthly needs allowance, to be reviewed
+         and adjusted annually based on inflation.
+
+
+
+                                            Page No. 3
+    7.   The department shall disregard social security survivor income and court-ordered child
+         support for a child who is under the age of eighteen years and is enrolled in a
+         medicaid waiver under section 1915(c) of the Social Security Act [42 U.S.C. 1915(c)].
+
+    50-24.1-02.7. Workers with disabilities coverage.
+    The department shall establish and implement a buyin program to provide medical
+assistance to an individual who, except for substantial gainful activity, meets the definition of
+disabled under the supplemental security income program under title XVI of the federal Social
+Security Act, who is at least sixteen but less than sixty-five years of age, and who is gainfully
+employed. The program:
+    1. Must be made available to an individual with a disability who is a member of a
+         household with a net income less than two hundred twenty-five percent of the most
+         recently revised official poverty line published by the federal office of management and
+         budget applicable to the household size;
+    2. Must allow up to an additional ten thousand dollars in assets;
+    3. Must require the payment of a premium that is based upon a sliding scale which may
+         not be less than two and one-half percent nor more than seven and one-half percent of
+         the individual's gross countable income;
+    4. Must include a one-time program enrollment fee of one hundred dollars;
+    5. Must provide that the failure of an enrolled individual to pay premiums for three months
+         may result in the termination of enrollment in the program; and
+    6. May not require the payment of a premium or enrollment fee or disenroll an individual
+         for failure to pay a premium or enrollment fee for workers with disabilities coverage
+         during a federally declared emergency if collection of the premium or enrollment fee
+         may impact the receipt of federal funds.
+
+    50-24.1-02.8. Transfers involving annuities.
+    1. For purposes of this section, "annuity" means a policy, certificate, contract, or other
+         arrangement between two or more parties under which one party pays money or other
+         valuable consideration to the other party in return for the right to receive payments in
+         the future.
+    2. The purchase of an annuity on or after February 8, 2006, or the selection or alteration
+         on or after February 8, 2006, of a payment option for an annuity purchased at any
+         time, is a disqualifying transfer of an asset for purposes of this chapter unless:
+         a. The state is named as the remainder beneficiary in the first position for at least
+               the total amount of medical assistance paid on behalf of the annuitant or the state
+               is named in the second position after the community spouse or minor or disabled
+               child and is named in the first position if the community spouse or a
+               representative of the minor or disabled child disposes of any remainder for less
+               than fair market value;
+         b. The annuity is purchased from an insurance company or other commercial
+               company that sells annuities as part of the normal course of business;
+         c. The annuity is irrevocable and neither the annuity nor payments due under the
+               annuity may be assigned or transferred;
+         d. The annuity provides substantially equal monthly payments of principal and
+               interest and does not have a balloon or deferred payment of principal or interest.
+               Payments will be considered substantially equal if the total annual payment in any
+               year varies by five percent or less from the payment in the previous year; and
+         e. The annuity will return the full principal and interest within the purchaser's life
+               expectancy as determined in accordance with actuarial publications of the office
+               of the chief actuary of the social security administration.
+    3. Except for the provision in subdivision a of subsection 2, this section does not apply to:
+         a. An annuity described in subsection b or q of section 408 of the Internal Revenue
+               Code of 1986; or
+         b. An annuity purchased with proceeds from:
+
+
+                                           Page No. 4
+               (1)   An account or trust described in subsection a, c, or p of section 408 of the
+                     Internal Revenue Code of 1986;
+               (2)   A simplified employee pension within the meaning of subsection k of
+                     section 408 of the Internal Revenue Code of 1986; or
+               (3)   A Roth IRA described in section 408A of the Internal Revenue Code of 1986.
+
+    50-24.1-02.9. Effect of purchase of long-term care insurance on eligibility for medical
+assistance benefits.
+    Repealed by S.L. 2007, ch. 421, § 3.
+
+    50-24.1-02.10. Real estate taxes on rental property as deduction from rental income.
+    For purposes of determining the treatment of income and the application of income to the
+cost of care for medical assistance eligibility for an individual screened as requiring nursing care
+services, and who is receiving home and community-based services or nursing care services,
+the department shall allow as a deduction from countable gross rental income the real estate
+taxes for rental property if the individual is responsible for paying the real estate taxes for that
+property.
+
+    50-24.1-03. County share of medical assistance - Reimbursement for clinic services
+not required.
+    Repealed by S.L. 1997, ch. 403, § 13.
+
+    50-24.1-03.1. Duties of human service zone and department.
+    In the administration of the medical assistance program, the department or a human service
+zone shall investigate and record the circumstances of each applicant or recipient of assistance,
+in order to ascertain the facts supporting the application, or the granting of assistance, and
+obtain such other information as directed by the department or as may be required by the rules
+and regulations of the department.
+
+   50-24.1-03.2. Investigations - Power of human service zones, department, and
+employees.
+   1. In the investigation of applications under the provisions of this chapter, the human
+        service zones, the department, and the officials and employees of such agencies
+        charged with the administration and enforcement of this chapter may:
+        a. Conduct examinations;
+        b. Require the attendance of witnesses and the production of books, records, and
+              papers; and
+        c. Make application to the district court of the county to compel the attendance of
+              witnesses and the production of books, records, and papers.
+   2. The department may request from other state, county, human service zones, and local
+        agencies information deemed necessary to carry out the medical support enforcement
+        program. All officers and employees of state, county, and local agencies shall
+        cooperate with the department in locating absent spouses or parents of children to
+        whom an obligation of support is owed or on whose behalf assistance is being
+        provided and, on request, shall supply the department with available information
+        relative to the location, income, social security number, and property holdings of the
+        absent spouse or parent, notwithstanding any provision of law making that information
+        confidential. Any person acting under the authority of the department who, pursuant to
+        this subsection, obtains information from the office of the state tax commissioner, the
+        confidentiality of which is protected by law, may not divulge such information except to
+        the extent necessary for the administration of the medical support enforcement
+        program or when otherwise directed by judicial order or when otherwise provided by
+        law.
+   3. The officers and employees designated by the human service zones or the department
+        may administer oaths and affirmations.
+
+
+                                            Page No. 5
+    50-24.1-03.3. Criminal background investigation - Fingerprinting required.
+    1. When the department determines a criminal history record check is appropriate, a
+         provider applicant, a provider, or an individual with a five percent or more direct or
+         indirect ownership interest in the provider applicant or provider shall secure, from any
+         agency authorized to take fingerprints, two sets of fingerprints and shall provide all
+         other information necessary to secure state criminal history record information and a
+         nationwide background check under federal law.
+    2. The applicant provider or provider shall assure the information obtained under
+         subsection 1 is provided to the department within thirty days of the notice date.
+    3. The department shall submit the information and fingerprints to the bureau of criminal
+         investigation to determine if there is any criminal history record information regarding
+         the applicant provider, provider, or an individual with a five percent or more direct or
+         indirect ownership interest in the provider applicant or provider in accordance with
+         section 12-60-24.
+    4. The bureau of criminal investigation shall request a nationwide background check from
+         the federal bureau of investigation and, upon receipt of response, provide the
+         response of the federal bureau of investigation to the department. The bureau also
+         shall provide any criminal history record information that lawfully may be made
+         available under chapter 12-60 to the department.
+    5. The results of the investigations must be forwarded to the department.
+    6. Upon request by the applicant provider, provider, or an individual with a five percent or
+         more direct or indirect ownership interest in the provider applicant or provider, a law
+         enforcement agency shall take fingerprints of individuals described in this section if the
+         request is made for purposes of this section.
+    7. The applicant provider, provider, or an individual with a five percent or more direct or
+         indirect ownership interest in the provider applicant or provider shall pay the cost of
+         securing fingerprints, any criminal history record information made available under
+         chapter 12-60, and a nationwide background check.
+    8. The department may charge a fee not to exceed the actual cost for the purpose of
+         processing the background investigations.
+    9. An agency that takes fingerprints as provided under this section may charge a
+         reasonable fee to offset the cost of the fingerprinting.
+   10. The department may use the background information findings to determine approval of
+         Medicaid services provider application or termination of enrollment as a Medicaid
+         services provider. An individual denied or terminated as a Medicaid service provider as
+         a result of the background investigation may not be qualified to enroll as a provider,
+         have five percent or greater ownership or control interest in a Medicaid services
+         provider, or submit claims for reimbursement through the department's Medicaid
+         management information system.
+
+    50-24.1-04. Authority of department.
+    The department may adopt rules and regulations as necessary to qualify for any federal
+funds available under this chapter.
+
+    50-24.1-05. Date effective.
+    The effective date of this chapter is the date on which federal funds become available for
+the purposes and program outlined herein.
+
+   50-24.1-06. Remedial eye care - When provided.
+   Repealed by S.L. 2021, ch. 371, § 4.
+
+   50-24.1-07. Recovery from estate of medical assistance recipient.
+   1. On the death of any recipient of medical assistance who was a resident of a nursing
+        facility, intermediate care facility for individuals with intellectual disabilities, or other
+        medical institution and with respect to whom the department determined that resident
+
+
+                                            Page No. 6
+     reasonably was not expected to be discharged from the medical institution and to
+     return home, or who was fifty-five years of age or older when the recipient received the
+     assistance, and on the death of the spouse of the deceased recipient, the total amount
+     of medical assistance paid on behalf of the recipient following the institutionalization of
+     the recipient who cannot reasonably be expected to be discharged from the medical
+     institution, or following the recipient's fifty-fifth birthday, as the case may be, must be
+     allowed as a preferred claim against the decedent's estate after payment, in the
+     following order, of:
+     a. Recipient liability expense applicable to the month of death for nursing home or
+           basic care services;
+     b. Funeral expenses not in excess of three thousand five hundred dollars;
+     c. Expenses of the last illness, other than those incurred by medical assistance;
+     d. Expenses of administering the estate, including attorney's fees approved by the
+           court;
+     e. Claims made under chapter 50-01;
+      f. Claims made under chapter 50-24.5;
+     g. Claims made under chapter 50-06.3 and on behalf of the state hospital;
+     h. Claims made under chapter 54-68; and
+      i. Claims made under subsection 4.
+2.   a. A claim may not be required to be paid nor may interest begin to accrue during
+           the lifetime of the decedent's surviving spouse, if any, nor while there is a
+           surviving child who is under the age of twenty-one years or is blind or
+           permanently and totally disabled, but no timely filed claim may be disallowed
+           because of the provisions of this section.
+     b. The department may not file a claim against an estate to recover payments made
+           on behalf of a recipient who was eligible for Medicaid under section 50-24.1-37
+           and who received coverage through a private carrier.
+3.   Every personal representative, upon the granting of letters of administration or
+     testamentary shall forward to the department a copy of the petition or application
+     commencing probate, heirship proceedings, or joint tenancy tax clearance
+     proceedings in the respective district court, together with a list of the names of the
+     legatees, devisees, surviving joint tenants, and heirs at law of the estate. Unless a
+     properly filed claim of the department is paid in full, the personal representative shall
+     provide to the department a statement of assets and disbursements in the estate.
+4.   A claim of the department made against the decedent's estate of a recipient of medical
+     assistance who was a full-benefit dual-eligible recipient, or against the decedent's
+     estate of the spouse of a deceased recipient of medical assistance who was a
+     full-benefit dual-eligible recipient, must include a claim for an amount equal to the
+     amount required to be paid each month under 42 U.S.C. 1396u-5(c)(1)(A), or a
+     substantially similar federal law, which reasonably may be attributable to benefits paid
+     on behalf of the deceased recipient in a month during which the deceased recipient
+     received medical assistance under this chapter and was eligible for Medicare.
+5.   All assets in the decedent's estate of the spouse of a deceased medical assistance
+     recipient are presumed to be assets in which that recipient had an interest at the time
+     of the recipient's death.
+6.   To the extent a claim for repayment of medical assistance arises for services provided
+     in months during which the department has in effect an approved state plan
+     amendment that provides for the disregard of assets in an amount equal to the
+     insurance benefit payments that are made to or on behalf of an individual who is a
+     beneficiary of an insurance policy under a qualified state long-term care insurance
+     partnership, the department's claim need not be paid out of assets of the decedent's
+     estate of a recipient of medical assistance, or assets of the decedent's estate of the
+     spouse of such a recipient, of a value equal to an amount the estate demonstrates
+     was paid for long-term care provided to the recipient of medical assistance during
+     those months by that insurance policy.
+7.   For purposes of this section:
+
+                                        Page No. 7
+         a.   "Full-benefit dual-eligible" has the meaning provided in 42 U.S.C. 1396u-5; and
+         b.   "Qualified state long-term care insurance partnership" has the meaning provided
+              in 42 U.S.C. 1396p(b).
+    8.   In any probate proceedings in which the department has filed a claim under this
+         section, no additional evidence of foundation may be required for the admission of the
+         department's payment record supporting the department's claim if the payment record
+         is certified as a true copy and bears the signature of a representative of the
+         department. There is a rebuttable presumption that the amount of medical assistance
+         on the claim was incurred and paid on behalf of the recipient of medical assistance
+         and is an allowable claim.
+
+    50-24.1-08. Statute of limitations does not run.
+    The statute of limitations does not run against claims of the state of North Dakota for
+repayment of medical assistance provided under this chapter.
+
+    50-24.1-09. Reimbursement of long-term care facility - Limitation - Allowable costs.
+    Repealed by S.L. 1987, ch. 582, § 30.
+
+    50-24.1-10. Joint Medicaid payment account - Educationally related services.
+    Repealed by S.L. 2019, ch. 408, § 39.
+
+     50-24.1-11. Joint Medicaid payment account - North Dakota vision services - school
+for the blind.
+     Repealed by S.L. 2019, ch. 408, § 39.
+
+    50-24.1-12. Medical assistance - Services provided by psychologists.
+    Within the limits of legislative appropriations, the department shall provide medical
+assistance to eligible recipients for services provided by psychologists licensed under chapter
+43-32.
+
+    50-24.1-13. Provider reimbursement rates.
+    Repealed by S.L. 2019, ch. 408, § 39.
+
+    50-24.1-14. Responsibility for expenditures.
+    Notwithstanding section 50-24.1-34, expenditures required under this chapter are the
+responsibility of the federal government or the state of North Dakota.
+
+     50-24.1-15. Prehospital emergency medical services.
+     Medical assistance coverage must include prehospital emergency medical services benefits
+in the case of a medical condition that manifests itself by symptoms of sufficient severity which
+may include severe pain and which a prudent layperson who possesses an average knowledge
+of health and medicine could reasonably expect the absence of medical attention to result in
+placing the person's health in jeopardy, serious impairment of a bodily function, or serious
+dysfunction of any body part. A medical assistance claim that meets the prudent layperson
+standard of this section may not be denied by the department on the basis that the prehospital
+emergency medical services were not medically necessary or that a medical emergency did not
+exist.
+
+    50-24.1-16. Reimbursement of ambulance services.
+    1. Medical assistance coverage must include reimbursement of ambulance services for
+         responding to calls to assist covered individuals which do not result in transport.
+    2. For purposes of classifying ambulance services under this section:
+         a. An emergency response is one that at the time the ambulance is called the
+              ambulance responds immediately. An immediate response is one in which the
+
+
+                                           Page No. 8
+              ambulance begins as quickly as possible to take the steps necessary to respond
+              to the call.
+         b.   An advanced life support assessment is an assessment performed by an
+              advanced life support crew as part of an emergency response that was
+              necessary because the patient's reported condition at the time of the dispatch
+              was such that only an advanced life support crew was qualified to perform the
+              assessment. An advanced life support assessment does not necessarily result in
+              a determination that the patient requires an advanced life support level of service.
+
+    50-24.1-16.1. Continuous glucose monitoring devices.
+    Medical assistance coverage, including Medicaid Expansion, must include coverage of a
+continuous glucose monitoring device for a covered individual.
+
+    50-24.1-17. Medical assistance for breast or cervical cancer.
+    The department may provide medical assistance for individuals screened and found to have
+breast or cervical cancer in accordance with the federal Breast and Cervical Cancer Prevention
+and Treatment Act of 2000 [Pub. L. 106-354; 114 Stat. 1381; 42 U.S.C. 1396a et seq.]. The
+department shall establish an income eligibility limit that may not exceed two hundred percent of
+the most recently revised poverty line published by the federal office of management and
+budget applicable to the household size.
+
+    50-24.1-18. Personal care option - Residential habilitation - Community support
+services.
+    1. The department shall implement personal care services.
+    2. The department may implement residential habilitation and community support
+         services in a residential setting or private residence that would allow for the delegation
+         of administration of medication by an employee of a qualified service provider agency.
+         The qualified service provider agency shall employ or contract with a licensed
+         registered nurse to provide supervision to the employees of a qualified service
+         provider agency who are administering routine medications. The employees of a
+         qualified service provider agency shall complete department-approved training on the
+         administration of routine medications before administering routine medications. The
+         department shall adopt rules as are necessary to establish and govern residential
+         habilitation and community support services in a residential setting or private
+         residence.
+
+    50-24.1-18.1. Consumer-directed health maintenance services - Residing at home.
+    Repealed by S.L. 2021, ch. 12, § 35.
+
+    50-24.1-19. Oral maxillofacial services - Medical necessity.
+    Repealed by S.L. 2019, ch. 408, § 39.
+
+    50-24.1-20. Home and community-based living - Choice of options.
+    Any aged or disabled individual who is eligible for home and community-based living must
+be allowed to choose, from among all service options available, the type of service that best
+meets that individual's needs. To the extent permitted by any applicable waiver, the individual's
+medical assistance funds must follow the individual for whichever service option the individual
+selects, not to exceed the cost of the service.
+
+    50-24.1-21. Department to submit plans and seek waivers.
+    Repealed by S.L. 2007, ch. 421, § 3.
+
+    50-24.1-22. Long-term care facility information.
+    Repealed by S.L. 2019, ch. 408, § 39.
+
+
+                                            Page No. 9
+     50-24.1-23. Long-term care facility resident - Medical assistance eligibility.
+     An individual is not ineligible for medical assistance if application of disqualifying transfer
+provisions would deprive the individual of nursing care and services and the individual makes a
+satisfactory showing that:
+     1. For periods after the return, all income or assets constituting the disqualifying transfer
+          have been transferred or assigned back to the individual and the individual is
+          otherwise eligible for medical assistance; or
+     2. Compensation equal to the fair market value of the income or asset at time of transfer
+          is paid to, or on behalf of, the individual for nursing care and services provided by a
+          long-term care facility and the individual is otherwise eligible for medical assistance.
+
+    50-24.1-24. Provider appeals - Definitions.
+    1. For purposes of this section:
+         a. "Denial of payment" means that the department has denied payment for a
+               medical assistance claim or reduced the level of service payment for a service
+               provided to an individual who was an eligible medical assistance recipient at the
+               time the service was provided or the recoupment or adjustment of a claim, or part
+               of a claim, following an audit or review.
+         b. "Provider" means an individual, entity, or facility that furnishes medical or
+               remedial services or supplies pursuant to a provider agreement with the
+               department or a third-party billing agency of the provider.
+    2. A provider may request a review of denial of payment under this section by filing a
+         written request for review with the department within thirty days of the date of the
+         department's denial of payment. The written request for review must include the
+         remittance advice or the notice of recoupment or adjustment and a statement of each
+         disputed item with the reason or basis for the dispute. A provider may not request
+         review under this section of the rate paid for a particular service or for a full or partial
+         denial, recoupment, or adjustment of a claim due to required federal or state changes,
+         payment system defects, or improper claims submission.
+    3. Within thirty days after requesting a review, a provider shall provide to the department
+         all documents, written statements, exhibits, and other written information that support
+         the provider's request for review, together with a computation and the dollar amount
+         that reflects the provider's claim as to the correct computation and dollar amount for
+         each disputed item.
+    4. The department shall assign to a provider's request for review someone other than any
+         individual who was involved in the initial denial of the claim. A provider who has
+         requested review may contact the department for an informal conference regarding the
+         review anytime before the department has issued its final decision.
+    5. The department shall make and issue a final decision within seventy-five days of
+         receipt of the notice for review, if the department has denied payment for a medical
+         assistance claim or reduced the level of service payment for a service. The department
+         shall make and issue a decision within seventy-five days, or as soon thereafter as
+         possible, of receipt of the notice of request for review, if the department has recouped
+         or adjusted a claim, or part of a claim, following an audit. The department's final
+         decision must conform to the requirements of section 28-32-39. A provider may appeal
+         the final decision of the department to the district court in the manner provided in
+         section 28-32-42, and the district court shall review the department's final decision in
+         the manner provided in section 28-32-46. The judgment of the district court in an
+         appeal from a request for review may be reviewed in the supreme court on appeal by
+         any party in the same manner as provided in section 28-32-49.
+    6. Upon receipt of notice that the provider has appealed its final decision to the district
+         court, the department shall make a record of all documents, written statements,
+         exhibits, and other written information submitted by the provider or the department in
+         connection with the request for review and the department's final decision on review,
+         which constitutes the entire record. Within thirty days after an appeal has been taken
+         to district court as provided in this section, the department shall prepare and file in the
+
+                                            Page No. 10
+         office of the clerk of the district court in which the appeal is pending the original and a
+         certified copy of the entire record, and that record must be treated as the record on
+         appeal for purposes of section 28-32-44.
+
+    50-24.1-25. Operating costs for developmental disabilities service providers.
+    Repealed by S.L. 2019, ch. 408, § 39.
+
+    50-24.1-26. Medicaid waivers - In-home services.
+    The department shall administer Medicaid waivers to provide in-home services to children
+with extraordinary medical needs and to children diagnosed with an autism spectrum disorder
+who are under the age of twenty-one and would otherwise meet institutional level of care. The
+department may prioritize applicants for the waiver for children with extraordinary medical needs
+by degree of need.
+
+    50-24.1-27. Medical assistance program management.
+    Repealed by S.L. 2019, ch. 408, § 39.
+
+    50-24.1-28. Medical assistance and Medicare prescription drug management program.
+    The department may not pay for:
+    1. A prescription drug that is within a class of drugs covered under the Medicare
+         Prescription Drug, Improvement, and Modernization Act of 2003 [Pub. L. 108-173;
+         117 Stat. 2066; 42 U.S.C. 1396kk-1] and which is prescribed to a medical assistance
+         recipient who is also a Medicare beneficiary.
+    2. A prescription drug that is not covered and for which no drug in its class is covered
+         under the Medicare Prescription Drug, Improvement, and Modernization Act of 2003
+         [Pub. L. 108-173; 117 Stat. 2066; 42 U.S.C. 1396kk-1] and which is prescribed for an
+         individual who is a medical assistance recipient and a Medicare beneficiary unless
+         federal medical assistance matching funds are available at no less than the federal
+         medical assistance percentage and the department determines that the drug is
+         medically necessary for the individual.
+
+    50-24.1-28.1. Pharmacy management program.
+    The department shall establish a pharmacy management program to be used by the
+medical assistance program for Medicaid expansion for prescription drug coverage. The
+department shall process claims through the department's existing pharmacy claims system and
+Medicaid management information system and provide the contracted managed care plan with
+a daily pharmacy claims file for Medicaid expansion recipients.
+
+    50-24.1-29. Insurers to provide certain information to the department.
+    1. For purposes of this section:
+         a. "Department" means the department of health and human services or its agent.
+         b. "Health insurer" includes self-insured plans, group health plans as defined in
+              section 607(1) of the Employee Retirement Income Security Act of 1974
+              [29 U.S.C. 1167(1)], service benefit plans, managed care organizations,
+              pharmacy benefit managers, or other parties that legally are responsible by
+              statute, contract, or agreement for payment of a claim for a health care item or
+              service.
+    2. a. As a condition of doing business in this state, health insurers shall provide to the
+              department upon its request and in a manner prescribed by the department
+              information about individuals who are eligible for medical assistance so the
+              department may determine during what period the individual or the individual's
+              spouse or dependents may be or may have been covered by a health insurer and
+              the nature of the coverage provided by the health insurer, including the name,
+              address, identifying number of the plan, and duration of the health insurance
+              coverage. Notwithstanding any other provision of law, every health insurer, not
+
+
+                                           Page No. 11
+          more frequently than twelve times in a year, shall provide to the department upon
+          its request information, including automated data matches conducted under the
+          direction of the department, as necessary, to:
+          (1) Identify individuals covered under the insurer's health benefit plans who are
+                 also recipients of medical assistance;
+          (2) Determine the period during which the individual or the individual's spouse
+                 or the individual's dependents may be or may have been covered by the
+                 health benefit plan; and
+          (3) Determine the nature of the coverage.
+     b. The insurer must provide the information required in this subsection to the
+          department at no cost if the information is in a readily available structure or
+          format. If the department requests the information in a structure or format that is
+          not readily available, the insurer may charge a reasonable fee for providing the
+          information, not to exceed the actual cost of providing the information.
+3.   To facilitate the department in obtaining the information required by this section, a
+     health insurer shall:
+     a. Cooperate with the department to determine whether a medical assistance
+          recipient may be covered under the insurer's health benefit plan and is eligible to
+          receive benefits under the health benefit plan for services provided under the
+          medical assistance program.
+     b. Respond to the request for information within ninety days after receipt of written
+          proof of loss or claim for payment for health care services provided to a recipient
+          of medical assistance who is covered by the insurer's health benefit plan.
+     c. Accept the department's right of recovery, entitlement to payment, and the
+          assignment to the department of any right of an individual or other entity to
+          payment from a liable third party for an item or service for which payment has
+          been made under the state medical assistance plan.
+     d. Respond to any inquiry by the department within sixty days regarding a claim for
+          payment for any health care item or service that is submitted no later than three
+          years after the date of the provision of the health care item or service.
+     e. Agree not to deny a claim submitted by the department solely on the basis of the
+          date of submission of the claim, the type of format of the claim form, or a failure to
+          present proper documentation at the point of sale that is the basis of the claim if:
+          (1) The claim is submitted by the department within the three-year period
+                 beginning on the date on which the item or service was furnished; and
+          (2) Any action by the department to enforce its rights with respect to such claim
+                 is commenced within six years of the department's submission of the claim.
+      f. Accept Medicaid's authorization that the item or service is covered under the
+          state plan as if the authorization were the prior authorization made by the third
+          party for the item or service.
+     g. Agree to not deny a claim submitted by the department for failure to obtain prior
+          authorization for an item or service.
+4.   A health insurer is prohibited, in enrolling an individual or on the individual's behalf,
+     from taking into account that the individual is eligible for or is provided medical
+     assistance.
+5.   The department may not use or disclose any information provided by the insurer other
+     than as permitted or required by law. The insurer may not be held liable for the release
+     of insurance information to the department or a department agent if the release is
+     authorized under this section.
+
+50-24.1-30. Third-party liability recovery.
+1. The department shall seek recovery of reimbursement from a third party up to the full
+     amount of medical assistance paid.
+2. A medical assistance recipient shall inform the department of any rights the recipient
+     has to third-party benefits and shall inform the department of the name and address of
+     any individual, entity, or program that is or may be liable to provide third-party benefits.
+
+                                        Page No. 12
+3.   A release or satisfaction of a cause of action, suit, claim, counterclaim, demand,
+     judgment, settlement, or settlement agreement is not valid or effectual as against a
+     claim created under this chapter unless the department joins in the release or
+     satisfaction or executes a release of its claim.
+4.   The department shall recover the full amount of all medical assistance provided on
+     behalf of a recipient to the full extent of third-party benefits received by the recipient or
+     the department for medical expenses. The department shall recover the third-party
+     benefits directly from any third party or from the recipient or legal representative, if the
+     recipient or legal representative has received third-party benefits, up to the amount of
+     medical assistance provided to the recipient.
+5.   An applicant for or recipient of medical assistance shall cooperate in the recovery of
+     third-party benefits.
+6.   To enforce its rights to third-party benefits, the department may institute, intervene in,
+     or join any legal or administrative proceeding in its own name.
+     a. If either the recipient or the department brings an action against a third party, the
+           recipient or the department must provide to the other within thirty days after
+           commencing the action written notice by personal delivery or registered mail of
+           the action, the name of the court in which the case is brought, the case number of
+           such action, and a copy of the pleadings. If either the department or the recipient
+           brings an action, the other may become a party to or may consolidate an action
+           brought independently with the other.
+     b. A judgment, award, or settlement of a claim in an action by a recipient to recover
+           damages for injuries or other third-party benefits in which the department has an
+           interest may not be satisfied or released without first giving the department notice
+           and a reasonable opportunity to file and satisfy its claim or proceed with any
+           action as otherwise permitted by law.
+7.   Any transfer or encumbrance of any right, title, or interest to which the department has
+     a right with the intent, likelihood, or practical effect of defeating, hindering, or reducing
+     recovery by the department for reimbursement of medical assistance provided to a
+     recipient is void and of no effect against the claim of the department.
+8.   A recipient who has notice or who has actual knowledge of the department's rights to
+     third-party benefits who receives any third-party benefit or proceeds for a covered
+     illness or injury is either required to pay the department within sixty days after receipt
+     of settlement proceeds the full amount of the third-party benefits up to the total medical
+     assistance provided or to place a sum equal to the full amount of the total medical
+     assistance provided in a trust account pending judicial or administrative determination
+     of the department's right to the third-party benefits.
+9.   Notwithstanding any provision in this section to the contrary, the department is not
+     required to seek reimbursement from, or may reduce or compromise a claim against, a
+     liable third party on claims for which the amount it reasonably expects to recover will
+     be less than the cost of recovery or for which recovery efforts will not be cost-effective.
+     Cost-effectiveness is determined based on the following:
+     a. Actual and legal issues of liability as may exist between the recipient and the
+           liable party;
+     b. Total funds available for settlement; and
+     c. An estimate of the cost to the department of pursuing its claim.
+
+50-24.1-31. Optional medical assistance for families of children with disabilities.
+1. The department shall establish and implement a buyin program under the federal
+     Family Opportunity Act enacted as part of the Deficit Reduction Act of 2005 [Pub. L.
+     109-171; 120 Stat. 4; 42 U.S.C. 1396] to provide medical assistance and other health
+     coverage options to families of children with disabilities and whose net income does
+     not exceed two hundred fifty percent of the federal poverty line published by the
+     federal office of management and budget applicable to the household size.
+2. The department may not require the payment of a premium or disenroll an individual
+     for failure to pay a premium for families of children with disabilities coverage during a
+
+                                        Page No. 13
+         federally declared emergency if collection of the premium may impact the receipt of
+         federal funds.
+
+   50-24.1-32. Medical assistance - Services provided by physician assistants and
+advanced practice registered nurses - Primary care provider case management program.
+   1. The medical assistance program must recognize physician assistants and advanced
+        practice registered nurses with the roles of nurse practitioner or certified nurse midwife
+        as primary care providers with the same rights and responsibilities given primary care
+        physicians under the medical assistance program. Any care provided by the physician
+        assistant or advanced practice registered nurse with the roles of nurse practitioner or
+        certified nurse midwife as a primary care provider under the medical assistance
+        program must be within the scope of the physician assistant's or advanced practice
+        registered nurse's respective license.
+   2. The department shall eliminate the primary care provider case management program.
+
+    50-24.1-33. Brain injury - Home and community-based services - Quality control.
+    1. As part of the personal care services program for eligible medical assistance recipients
+         and as part of the department's services for eligible disabled and elderly individuals,
+         the department shall provide home and community-based services to individuals who
+         have a brain injury and meet the functional eligibility criteria for receipt of services.
+    2. The department shall conduct quality control activities and make training available to
+         case managers and other persons providing services to individuals under this section.
+
+    50-24.1-34. Processing of claims submitted on behalf of inmates.
+    The department of health and human services shall process claims submitted by enrolled
+medical providers on behalf of inmates at county jails. Each county shall pay the department for
+the paid amount for the claims processed and also a processing fee for each claim submission.
+The department may establish a processing fee that may not exceed fifty dollars and shall
+update the fee annually on July first. The processing fee must be based on the actual costs to
+the department of the claims processing operations divided by the annual volume of claims
+submitted. The department shall invoice each county for payment of the processing fee.
+
+    50-24.1-35. Department to expand Medicaid coverage.
+    The department shall ensure Medicaid coverage includes Medicaid-covered services
+provided to an inmate of the department of corrections and rehabilitation or a county jail who
+would be eligible for Medicaid if the inmate were not incarcerated and who is admitted to an
+inpatient setting.
+
+    50-24.1-36. Civil sanction - Costs recoverable - Interest - Appeals.
+    1. For purposes of this section:
+         a. "Affiliate" means a person having an overt or covert relationship each with
+               another person in a manner that one person directly or indirectly controls or has
+               the power to control another.
+         b. "Provider" means any individual or entity furnishing Medicaid services under a
+               provider agreement with the department.
+    2. A provider, an affiliate of a provider, or any combination of provider and affiliates, is
+         liable to the department for up to twenty-five percent of the amount the department
+         was induced to pay as a result of each act of fraud or abuse. This sanction is in
+         addition to the applicable rules established by the department.
+    3. A provider, an affiliate of a provider, or any combination of provider and affiliates, is
+         liable to the department for up to five thousand dollars on each act of fraud or abuse
+         which did not induce the department to make an erroneous payment. This sanction is
+         in addition to the applicable rules established by the department.
+    4. A provider, an affiliate of a provider, or any combination of provider and affiliates, that
+         is assessed a civil sanction by the department also shall reimburse the department
+
+
+                                           Page No. 14
+     investigation fees, costs, and expenses for any investigation and action brought under
+     this section.
+5.   Unless otherwise provided in a judgment entered against a provider or against an
+     affiliate of the provider, overpayments and sanctions accrue interest at the legal rate
+     beginning thirty days after the department provides written notice to the provider or the
+     affiliate of the provider.
+6.   a. A provider or an affiliate of a provider who is assessed a sanction may request a
+            review of the sanction by filing within thirty days of the date of the department's
+            notice of sanction a written notice with the department which includes a statement
+            of each disputed item and the reason or basis for the dispute.
+     b. A provider or an affiliate of a provider may not request review under this section if
+            the sanction imposed is termination or suspension and the notice of sanction
+            states that the basis for the sanction is either:
+            (1) The provider's or affiliate's failure to meet standards of licensure,
+                   certification, or registration where those standards are imposed by state or
+                   federal law as a condition to participation in the Medicaid program; or
+            (2) The provider or affiliate has been similarly sanctioned by the Medicare
+                   program or by another state's Medicaid program.
+     c. Within thirty days after requesting a review, a provider or affiliate shall provide to
+            the department all documents, written statements, exhibits, and other written
+            information that supports the request for review.
+     d. The department shall assign a provider's or affiliate's request for review to
+            someone other than an individual who was involved in imposing the sanction. A
+            provider or affiliate who has requested review may contact the department for an
+            informal conference regarding the review any time before the department has
+            issued its final decision.
+     e. The department shall make and issue its final decision within seventy-five days of
+            receipt of the notice of request for review. The department's final decision must
+            conform to the requirements of section 28-32-39. A provider or affiliate may
+            appeal the final decision of the department to the district court in the manner
+            provided in section 28-32-42, and the district court shall review the department's
+            final decision in the manner provided in section 28-32-46. The judgment of the
+            district court in an appeal from a request for review may be reviewed in the
+            supreme court on appeal by any party in the same manner as provided in section
+            28-32-49.
+      f. Upon receipt of notice that the provider or affiliate has appealed its final decision
+            to the district court, the department shall make a record of all documents, written
+            statements, exhibits, and other written information submitted by the provider,
+            affiliate, or the department in connection with the request for review and the
+            department's final decision on review, which constitutes the entire record. Within
+            thirty days after an appeal has been taken to district court as provided in this
+            section, the department shall prepare and file in the office of the clerk of the
+            district court in which the appeal is pending the original and a certified copy of the
+            entire record, and that record must be treated as the record on appeal for
+            purposes of section 28-32-44.
+7.   Determinations of medical necessity may not lead to imposition of remedies, duties,
+     prohibitions, and sanctions under this section.
+8.   The remedies, duties, prohibitions, and sanctions of this section are not exclusive and
+     are in addition to all other causes of action, remedies, penalties, and sanctions
+     otherwise provided by law or by provider agreement.
+9.   The state's share of all civil sanctions, investigation fees, costs, expenses, and interest
+     received by the department under this section must be deposited into the general fund.
+
+
+
+
+                                        Page No. 15
+   50-24.1-37. Medicaid expansion - Legislative management report. (Contingent repeal -
+See note)
+    1. The department shall expand medical assistance coverage as authorized by the
+        federal Patient Protection and Affordable Care Act [Pub. L. 111-148], as amended by
+        the Health Care and Education Reconciliation Act of 2010 [Pub. L. 111-152] to
+        individuals under sixty-five years of age with income below one hundred thirty-eight
+        percent of the federal poverty line published by the federal office of management and
+        budget applicable to the household size.
+    2. The department shall inform new enrollees in the medical assistance expansion
+        program that benefits may be reduced or eliminated if federal participation decreases
+        or is eliminated.
+    3. Except for pharmacy services and coverages for individuals ages nineteen and twenty,
+        the department shall implement the expansion by bidding through private carriers or
+        utilizing the health insurance exchange.
+    4. The contract between the department and the private carrier must provide the
+        department with full access to provider reimbursement rates. The department shall
+        consider provider reimbursement rate information in selecting a private carrier under
+        this section. Before August first of each even-numbered year, the department shall
+        submit a report to the legislative management regarding provider reimbursement rates
+        under the medical assistance expansion program.
+    5. Provider and managed care organization reimbursement rate information received or
+        held by the department under this section is an open record.
+
+   50-24.1-38. Health-related services - Licensed emergency medical services personnel.
+   1. Medical assistance must cover services provided by community emergency medical
+        services personnel, and other similarly licensed personnel who are licensed or certified
+        under section 23-27-04.3, if the services are provided to an eligible recipient as
+        defined by rule. Community emergency medical services personnel services may
+        include health assessment, chronic disease monitoring and education, immunizations
+        and vaccinations, laboratory specimen collection, followup care, comprehensive health
+        and safety assessment, wound management, assess and report compliance with
+        established care plan, medication management, and other interventions within the
+        scope of practice for each licensure level as approved by a supervising physician,
+        physician assistant, or advanced practice registered nurse.
+   2. The department shall adopt rules governing payments to licensed community
+        emergency medical services personnel, advanced emergency medical technicians,
+        and emergency medical technicians for health-related services provided to recipients
+        of medical assistance, subject to necessary limitations and exclusions. A physician, a
+        physician assistant, or an advanced practice registered nurse must supervise any care
+        provided by a licensed community emergency medical services personnel, an
+        advanced emergency medical technician, or an emergency medical technician.
+
+    50-24.1-39. Behavioral health services - Licensed marriage and family therapists.
+    Beginning January 1, 2016, the department shall allow licensed marriage and family
+therapists to enroll and be eligible for payment for behavioral health services provided to
+recipients of medical assistance, subject to limitations and exclusions the department
+determines necessary.
+
+   50-24.1-40. Medical assistance - Tribal health care coordination agreements -
+Continuing appropriation - Report to legislative management.
+   1. As used in this section:
+        a. "Care coordination agreement" means an agreement between a health care
+             provider and tribal health care organization which will result in one hundred
+             percent federal funding for eligible medical assistance provided to an American
+             Indian.
+
+
+                                         Page No. 16
+         b.    "Tribal health care organization" means Indian health services or a tribal entity
+               providing health care under the federal Indian Self-Determination and Education
+               Assistance Act of 1975 [Pub. L. 93-638; 88 Stat. 2203; 25 U.S.C. 5301 et seq.].
+    2.   The department shall facilitate care coordination agreements. Of any federal funding
+         received in excess of the state's regular share of federal medical assistance funding
+         which results from care coordination agreements, the department shall deposit eighty
+         percent in the tribal health care coordination fund and twenty percent in the general
+         fund.
+    3.   There is created in the state treasury a tribal health care coordination fund.
+         a. Moneys in the fund are appropriated to the department on a continuing basis for
+               distribution to a tribal government in accordance with an agreement between the
+               department and a tribal government. The agreement between the department
+               and a tribal government must require the tribe to:
+               (1) Use the money distributed under this section for purposes related to the
+                     ten essential services of public health identified by the federal centers for
+                     disease control and prevention and the development or enhancement of
+                     community health representative programs or services.
+               (2) Submit to the department annual reports detailing the use of the money
+                     distributed under this section.
+               (3) Submit to the department every two years an audit report, conducted by an
+                     independent licensed certified public accountant, of the tribal government
+                     use of the money distributed under this section. A tribal government may
+                     use money distributed under this section to pay for this audit report. At the
+                     discretion of a tribal government, an audit may be conducted more often
+                     than every two years.
+         b. The distribution of moneys from the fund to a tribal government must be in
+               proportion to the federal funding received from care coordination agreement
+               requests for services originating from within that tribal nation.
+         c. At least annually, upon completion of any auditing and verification actions of the
+               department, the department shall distribute moneys from the fund to the tribal
+               government.
+         d. If a tribal government fails to file with the department a timely annual report or
+               audit report, the department shall withhold distribution of moneys from the fund to
+               the tribal government until the report is filed.
+         e. If an audit report or the department's review of the annual report finds a tribal
+               government used moneys distributed from the fund for a purpose inconsistent
+               with this section, the department shall withhold future distributions to that tribal
+               government in an amount equal to the money used improperly. The department
+               shall distribute money withheld from a tribal government under this subdivision if
+               a future audit report indicates moneys distributed from the fund are used for
+               purposes consistent with this section.
+    4.   Before August of each even-numbered year, the department shall compile and
+         summarize the annual reports and audit reports from the participating tribal
+         governments data and provide the legislative management with a biennial report on
+         the fund. Each participating tribe shall compile data and provide the legislative
+         management with a biennial report on the tribe's use of money distributed from the
+         fund.
+
+    50-24.1-41. Medical assistance benefits - Pregnant women - Postpartum.
+    The department shall seek the necessary approval from the centers for Medicare and
+Medicaid services to expand medical assistance coverage for pregnant women with income
+below one hundred seventy-five percent of the federal poverty level. Services under this section
+must be for the duration of the pregnancy and the postpartum period consisting of the
+twelve-month period beginning on the last day of the pregnancy.
+
+
+
+                                           Page No. 17
+    50-24.1-42. Automated clearing house payments to medical assistance providers and
+provider applicants.
+    The department shall provide payment to medical assistance providers and may provide
+payments to provider applicants using an automated clearing house to provide for electronic
+fund transfers. To receive payment, medical assistance providers and provider applicants shall
+provide sufficient documentation to enable the department to provide electronic funds transfers
+through an automated clearing house. No other forms of payment are permitted.
+
+    50-24.1-43. Medical assistance benefits - Metabolic supplements.
+    Medical assistance coverage must include coverage of a metabolic supplement if:
+    1. The metabolic supplement has been identified and agreed to be covered by the
+         department;
+    2. The metabolic supplement is part of a standard recommendation for treatment;
+    3. A suitable metabolic supplement that is a covered outpatient drug is not available;
+    4. The individual is under nineteen years of age; and
+    5. Payment is made at a rate determined by the department.
+
+    50-24.1-44. Interpreter services.
+    Medical assistance coverage, including Medicaid expansion, must include payment for sign
+and oral language interpreter services for assistance in providing covered health care services
+to a recipient of medical assistance who has limited English proficiency or who has hearing loss
+and uses interpreting services. The department shall adopt rules to implement this section.
+
+    50-24.1-45. Medical assistance benefits - Family adaptive behavior treatment and
+guidance - Dental screening and assessments - Dental case management - Teledentistry.
+    Medical assistance coverage must include payment for the following services:
+    1. Family adaptive behavioral treatment and guidance to educate parents and caregivers
+         to continue to carry out plans and recommendations of applied behavioral analysis.
+    2. Dental screening and assessment of patients to identify individuals in need of
+         additional assessment, diagnostic, and treatment services.
+    3. Dental case management for maintenance of oral health for special populations,
+         including elderly, special needs, medically fragile, and children.
+    4. Asynchronous teledentistry to reduce barriers to dental care through outreach
+         programs and to integrate oral health into general health care settings to identify and
+         refer treatment needs.
+    5. The services identified in subsections 2, 3, and 4 do not apply to Medicaid expansion.
+
+    50-24.1-46. Dual special needs plan.
+    By January 1, 2025, the department shall implement at least one dual special needs plan
+for Medicare and Medicaid dual-eligible Medicaid recipients. The department shall establish
+standards for care coordination services the dual special needs plan must provide to recipients.
+
+   50-24.1-47. Family paid caregiver service pilot project. (Contingent expiration date -
+See note)
+    1. The department shall manage and operate the family paid caregiver service pilot
+        project to make payments to a legally responsible individual who provides
+        extraordinary care to an eligible individual who is a participant in the Medicaid 1915(c)
+        waivers, excluding the home and community-based services aged and disabled
+        waiver.
+    2. The family paid caregiver service pilot project must include funding for extraordinary
+        care, which means care:
+        a. Exceeding the range of activities a legally responsible individual would ordinarily
+             perform in the household on behalf of an individual without extraordinary medical
+             or behavioral needs; and
+
+
+
+                                           Page No. 18
+         b.    Is necessary to assure the health and welfare and avoid institutionalization of the
+               individual in need of care.
+    3.   The department may adopt rules addressing management of the family paid caregiver
+         service pilot project and establish the eligibility requirements and exclusions for the
+         family paid caregiver service pilot project. The department shall manage and operate
+         the family paid caregiver service pilot project in accordance with the adopted rules and
+         within the limits of legislative appropriation for the family paid caregiver service pilot
+         project. The department shall utilize an assessment of an eligible individual to
+         determine the need for extraordinary care which must consider the unique needs and
+         circumstances of applicants including age, activities of daily living, medical needs, and
+         social emotional needs. The department may not make payments to a legally
+         responsible individual which duplicate any care that is otherwise compensated through
+         a service or assistance provided, administered, or supervised by the department,
+         including Medicaid 1915(c) waiver or the Medicaid state plan. A legally responsible
+         individual shall attest on an annual basis that the legally responsible individual agrees
+         not to seek reimbursement for extraordinary care through the family paid caregiver
+         service pilot project on days when other 1915(c) waiver services are paid by the
+         department.
+    4.   A decision on an application which is issued by the department under this section may
+         be appealed as provided under chapter 28-32. An individual may not appeal a denial,
+         a revocation, a reduction in payment, or the termination of the family paid caregiver
+         service pilot project administered by the department due to the unavailability of funding
+         received for the purpose of issuing payments as part of the family paid caregiver
+         service pilot project for the biennium.
+    5.   A payment under this section to a legally responsible individual must be
+         commensurate with the rate for family caregiving in the home and community-based
+         services aged and disabled waiver.
+    6.   The cross-disability advisory council under section 50-06-46 shall participate with and
+         provide feedback to the department on the planning, design, and ongoing
+         implementation of the family paid caregiver service pilot project and future centers for
+         Medicare and Medicaid services children's cross-disability 1915(c) waiver. The council
+         shall provide input into the development of the assessment method used to determine
+         the need for extraordinary care.
+
+     50-24.1-48. Reimbursement of psychiatric residential treatment facilities.
+     The department shall amend the rules for medical assistance reimbursement of psychiatric
+residential treatment facilities for direct care costs, including the applicable costs related to
+clinical supervisors, medical directors, engagement of families in care, therapeutic leave days,
+and an administrative costs cap. Reimbursements for therapeutic leave days may not exceed
+five hundred dollars per day. The department shall implement utilization controls, including
+service authorization for therapeutic leave days.
+
+
+
+
+                                           Page No. 19
+

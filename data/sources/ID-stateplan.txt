@@ -1,0 +1,282 @@
+Source URL: https://www.medicaid.gov/medicaid/spa/downloads/ID-21-0009.pdf
+Retrieved: 2026-09-23
+Note: PDF downloaded via WebFetch (script got 403), text extracted with pdftotext
+
+                                Table of Contents
+
+
+State/Territory Name:                  Idaho
+State Plan Amendment (SPA) #:          21-0009
+This file contains the following documents in the order listed:
+   1) Approval Letter
+   2) CMS 179 Form
+   3) Approved SPA Pages
+DEPARTMENT OF HEALTH & HUMAN SERVICES
+Centers for Medicare & Medicaid Services
+601 E. 12th St., Room 355
+Kansas City, Missouri 64106
+
+
+Medicaid and CHIP Operations Group
+
+
+                                         May , 2021
+
+
+Mr. Matt Wimmer, Administrator
+Idaho Department of Health and Welfare
+Division of Medicaid
+P.O. Box 83720
+Boise, ID 83720-0009
+
+Dear Mr. Wimmer:
+
+The Centers for Medicare & Medicaid Services (CMS) has completed its review of Idaho’s State
+Plan Amendment (SPA) #21-0009, which the state submitted on March 31, 2021. The purpose of
+this SPA is to change the methodology and thresholds for determining cost-effectiveness for
+Medicaid Estate Recovery. This SPA also provides clarification on the definition of “recoverable
+medical assistance.”
+
+SPA #21-0009 was approved on May , 2021, with an effective date of January 1, 2021, as
+requested by the state. Enclosed is a copy of the CMS-179 summary form, as well as the
+approved pages for incorporation into the Idaho State Plan.
+
+If you have any questions regarding this amendment, please contact Laura D’Angelo at
+(816)426-5925, or Laura.DAngelo1@cms.hhs.gov.
+
+
+                                           Sincerely,
+                                                               Digitally signed by James
+                                                               G. Scott -S
+                                                               Date: 2021.05.25 11:56:05
+                                                               -05'00'
+                                           James G. Scott, Director
+                                           Division of Program Operations
+
+
+   (QFORVXUHV
+DEPARTMENT OF HEALTH AND HUMAN SERVICES                                                                                 FORM APPROVED
+HEALTH CARE FINANCING ADMINISTRATION                                                                                    OMB NO. 0938-0193
+  TRANSMITTAL AND NOTICE OF APPROVAL OF                              1. TRANSMITTAL NUMBER:                    2. STATE
+          STATE PLAN MATERIAL                                        ID-21-0009                                    IDAHO
+
+                                                                     3. PROGRAM IDENTIFICATION: TITLE XIX OF THE
+ FOR: HEALTH CARE FINANCING ADMINISTRATION
+                                                                        SOCIAL SECURITY ACT (MEDICAID)
+ TO: REGIONAL ADMINISTRATOR                                          4. PROPOSED EFFECTIVE DATE
+      HEALTH CARE FINANCING ADMINISTRATION                           01-01-2021
+      DEPARTMENT OF HEALTH AND HUMAN SERVICES
+ 5. TYPE OF PLAN MATERIAL (Check One):
+
+      NEW STATE PLAN                 AMENDMENT TO BE CONSIDERED AS NEW PLAN                        AMENDMENT
+               COMPLETE BLOCKS 6 THRU 10 IF THIS IS AN AMENDMENT (Separate Transmittal for each amendment)
+ 6. FEDERAL STATUTE/REGULATION CITATION:                   7. FEDERAL BUDGET IMPACT:
+ 1905(t) of the Social Security Act                        FFY2020 $0
+ 1917 of the Social Security Act                           FFY2021 $0
+ 8. PAGE NUMBER OF THE PLAN SECTION OR ATTACHMENT:         9. PAGE NUMBER OF THE SUPERSEDED PLAN SECTION
+ Addendum to Attachment 4.17-A                                OR ATTACHMENT (If Applicable):
+                                                           Addendum to Attachment 4.17-A
+
+
+ 10. SUBJECT OF AMENDMENT:
+ Amendment to the State Plan to change the methodology and thresholds for determining cost-effectiveness for Medicaid Estate
+ Recovery and provide clarification on recoverable medical assistance.
+ 11. GOVERNOR’S REVIEW (Check One):
+       GOVERNOR’S OFFICE REPORTED NO COMMENT                                           OTHER, AS SPECIFIED:
+       COMMENTS OF GOVERNOR’S OFFICE ENCLOSED
+       NO REPLY RECEIVED WITHIN 45 DAYS OF SUBMITTAL
+
+ 12. SIGNATURE OF STATE AGENCY OFFICIAL:                             16. RETURN TO:
+
+                                                                     Matt Wimmer, Administrator
+                                                                     Idaho Department of Health and Welfare
+ 13. TYPED NAME:                                                     Division of Medicaid
+ MATT WIMMER                                                         PO Box 83720
+ 14. TITLE:                                                          Boise ID 83720-0009
+ Administrator
+ 15. DATE SUBMITTED:
+ 03-31-2021
+                                              FOR REGIONAL OFFICE USE ONLY
+ 17. DATE RECEIVED: 0DUFK                            18. DATE APPROVED: 0D\
+
+                                  PLAN APPROVED - ONE COPY ATTACHED
+ 19. EFFECTIVE DATE OF APPROVED MATERIAL:   20. SIGNATURE OF REGIONALDigitally
+                                                                                 OFFICIAL:
+                                                                                         signed by James G. Scott -S
+                                                                                                      ate: 2021.05.25 11:57:00 -05'00'
+ 21. TYPED NAME:                                                     22. TITLE: 'LUHFWRU'LYLVLRQRI3URJUDP2SHUDWLRQV
+                     -DPHV*6FRWW
+ 23. REMARKS:
+
+
+
+
+FORM HCFA-179 (07-92)
+ADDENDUM TO ATTACHMENT 4.17-A, PAGE 1
+
+
+    1. The State uses the following process for determining that an institutionalized individual cannot reasonably
+    be expected to be discharged from the medical institution and return home:
+    An expectation or plan that the recipient will return home with the support of Home and Community Based
+    Services shall not, in and of itself, justify a decision that he is reasonably expected to be discharged to return
+    home. The following factors shall be considered when making the determination of permanent
+    institutionalization:
+         • The recipient must meet the criteria for Nursing Facility (NF) or Intermediate Care Facility for the
+         Intellectually Disabled (ICF/ID) level of care and services; and
+         • The recipient's medical records from the facility shall be reviewed to determine if the recipient's
+         condition is expected to improve to the extent that he will not require NF or ICF/ID level of care; and
+         • Where the prognosis indicated in the medical records is uncertain or inconclusive, the Department may
+         request additional medical information, or may delay the determination until the next utilization control
+         review or annual Inspection of Care review, as appropriate.
+    2. The following criteria are used for establishing that a permanently institutionalized individual's son or
+    daughter provided care as specified under regulations at 42 CFR 433.36(f):
+    The son or daughter must establish, by a preponderance of the evidence presented to the Department, that
+    he provided necessary care to the recipient, and the care he provided allowed the recipient to remain at home
+    rather than in a medical institution.
+    3. The State defines the terms below as follows:
+         • Estate: All real and personal property, annuities, and other assets including those in which the recipient
+         had any legal or beneficial title or interest at the time of death, to the extent of such interest, including
+         such assets conveyed to a survivor, heir, or assignee of the deceased recipient through joint tenancy,
+         tenancy in common, survivorship, life estate, living trust, or other arrangement.
+
+
+
+
+Transmittal No.: /21-0009                                                        ĨĨĞĐƚŝǀĞĂƚĞ:  ϬϭͬϬϭͬ2021
+Supersedes No.: /01-006                                                          ƉƉƌŽǀĂůĂƚĞ:       ϬϱͬϭϰͬϮϬϮϭ
+ADDENDUM TO ATdACHMENT 4.17-A, PAGE 2
+
+
+        • Individual's Home: The dwelling in which the recipient has an ownership interest, and which the
+        recipient occupied as his primary dwelling prior to, or subsequent to, his admission to a medical
+        institution.
+        • Equity Interest in the Home: Any equity interest in real property recognized under Idaho law.
+        • Residing in the home for at least one or two years on a continuous basis: Occupying the home as the
+        primary dwelling and continuing to occupy such dwelling as the primary residence.
+        • Lawfully Residing: Residing in a manner not contrary to or forbidden by law, and with the recipient's
+        knowledge and consent.
+    4. The State defines undue hardship as follows:
+    Undue hardship is a condition(s) that justifies waiver of all or a part of the Department's claim against an
+    estate. The purpose of the undue hardship waiver is to avoid the impoverishment of the deceased recipient's
+    family due to the Department exercising its estate recovery right.
+    5. The following standards and procedures are used by the State for waiving estate recoveries when recovery
+    would cause an undue hardship, and when recovery is not cost-effective:
+    An applicant for an undue hardship waiver must have a beneficial interest in the estate and must apply for the
+    waiver within ninety (90) days of the death of the recipient or within thirty (30) days of receiving notice of the
+    Department's claim whichever is later. The filing of a claim by the Department in a probate proceeding shall
+    constitute notice to all heirs.
+    Undue hardship waivers shall be considered in the following circumstances:
+        • The estate subject to recovery is the sole income-producing asset of the survivors where such income is
+        limited; or
+        • Payment of the Department's claim would cause heirs of the deceased recipient to be eligible for public
+        assistance; or
+        • The Department's claim is less than five hundred dollars ($500) or the total assets of the entire estate
+        are less than five hundred dollars ($500), excluding trust accounts or other bank accounts; or
+
+
+
+
+Transmittal No.: /21-0009                                                       ĨĨĞĐƚŝǀĞĂƚĞ:  ϬϭͬϬϭͬ2021
+Supersedes No.: /01-006                                                          ƉƉƌŽǀĂůĂƚĞ:      ϬϱͬϭϰͬϮϬϮϭ
+ADDENDUM TO ATTACHMENT 4.17-A, PAGE 3
+
+
+        • The recipient received medical assistance (MA) as a result of a crime committed against the recipient
+    Any beneficiary of the estate of a deceased recipient may apply for waiver of the estate recovery claim based
+    on undue hardship. Any claim may be waived by the Department, partially or fully, because of undue hardship.
+    An undue hardship does not exist if action taken by the recipient prior to his death, or by his legal
+    representative, divested or diverted assets from the estate. The Department shall grant undue hardship
+    waivers on a case by case basis upon review of all facts and circumstances, including any action taken to
+    diminish assets available for estate recovery or to circumvent estate recovery.
+    6. The State defines cost-effective as follows (include methodology/thresholds used to determine cost-
+    effectiveness):
+    The Department has determined that recovery shall be considered cost-effective when the Department's
+    claim is five thousand dollars ($5,000) or more, or when the total assets subject to recovery are five thousand
+    dollars ($5,000) or more, excluding trust accounts or other bank accounts. However, when the administrative
+    costs to process a case and continue recovery are low, the Department may file and pursue continued
+    collection or litigation for any amount. Additionally, in certain circumstances when the debtor has excessive
+    allowable expenses or obligations or when the heir(s) lives out of state and is not responsive to collection
+    efforts, etc., the Department may determine that it is not cost-effective to litigate or otherwise pursue
+    recoveries, even though the net assets are over the normal $5,000 threshold.
+    7. The State uses the following collection procedures (include specific elements contained in the advance
+    notice requirement, the method for applying for a waiver, hearing and appeals procedures, and time frames
+    involved):
+    Recovery on a Lien Imposed during the Lifetime of the Recipient:
+        • Recovery shall be made on the lien from the recipient's estate, or at any time upon the sale of the
+        property subject to the lien, but only after the death of the recipient's surviving spouse, if any, and only at
+        a time when:
+        • The recipient has no surviving child who is under age twenty-one (21);
+        • The recipient has no surviving child of any age who is blind or disabled as defined in 42 U.S.C. 1382c as
+        amended; and
+        • In the case of a lien on the recipient's home, when none of the following is lawfully residing in such
+        home who has lawfully resided in the home on a continuous basis since the date of the recipient's
+        admission to the medical institution:
+
+
+
+
+Transmittal No.: /21-0009                                                                ĨĨĞĐƚŝǀĞĂƚĞ:  ϬϭͬϬϭͬ2021
+Supersedes No.: /01-006                                                                  ƉƉƌŽǀĂůĂƚĞ:       ϬϱͬϭϰͬϮϬϮϭ
+ADDENDUM TO ATTACHMENT 4.17-A, PAGE 4
+
+
+        • A sibling of the recipient, who was residing in the recipient's home for a period of at least one (1) year
+        immediately before the date of the recipient's admission to the medical institution; or
+        • A son or daughter of the recipient, who was residing in the recipient's home for a period of at least two
+        (2) years immediately before the date of the recipient's admission to the medical institution, and who
+        establishes; by a preponderance of the evidence that he provided necessary care to the recipient, and the
+        care he provided allowed the recipient to remain at home rather than in a medical institution.
+    Recovery Upon Sale of Property Subject to a Lien Imposed During the Lifetime of the Recipient:
+        Should the property upon which a lien is imposed be sold prior to the recipient's death, the Department
+        shall seek recovery of all MA paid on behalf of the recipient, subject to the restrictions listed above.
+        Recovery of the MA paid on behalf of the recipient from the proceeds from the sale of the property does
+        not preclude the Department from recovering additional MA paid from the recipient's estate.
+    Recovery of Medical Assistance Paid:
+        The Department is required to recover the following:
+        • The costs of all MA correctly paid on or after July 1, 1995, on behalf of the recipient who was
+        permanently institutionalized; and
+        • The costs of MA correctly paid on behalf of a recipient who received MA at age fifty-five (55) or older on
+        or after July 1, 1994; and
+        • The costs of MA correctly paid on behalf of a recipient who received MA at age sixty-five (65) or older
+        on or after July 1, 1988.
+        Medical assistance includes a wide range of services, including nursing home and community based or in-
+        home care services. It also includes any hospital and prescription drug services the participant received
+        while in a nursing home, or while receiving in-home care. Medical assistance also includes capitation
+        payments to Medicaid contracted health insurance companies or medical providers administering a
+        defined package of benefits.
+    Recovery from the Estate of Spouse:
+        If the deceased recipient has a surviving spouse, recovery shall be delayed. Recovery will then be made
+        from the spouse's estate after both spouses are deceased. A claim against the estate of a surviving spouse
+        of a predeceased recipient is limited to the value of the assets of the estate that were community
+        property, or the deceased recipient's share of the separate property, and jointly owned property.
+
+
+
+
+Transmittal No.: /21-0009                                                              ĨĨĞĐƚŝǀĞĂƚĞ:   ϬϭͬϬϭͬ2021
+Supersedes No.: /01-006
+                                                                                         ƉƉƌŽǀĂůĂƚĞ:       ϬϱͬϭϰͬϮϬϮϭ
+ADDENDUM TO ATTACHMENT 4.17-A, PAGE 5
+
+
+    Advance Notice of the Estate Claim:
+       The Department shall notify the recipient's authorized representative of the amount of the estate claim
+       after the death of the recipient, or after the death of the surviving spouse. The notice shall include
+       instructions for applying for an undue hardship waiver within ninety (90) days of the death of the
+       recipient or within thirty (30) days of receiving notice of the Department's claim, whichever is later.
+    Method for Applying for Undue Hardship Waiver:
+       The request for an undue hardship waiver must be in writing, and must be directed to the Department of
+       Health and Welfare, Estate Recovery Unit, P.O. Box 83720, Boise, Idaho 83720-0036.
+    Hearing and Appeal Procedures:
+        The Department's notice of the estate claim shall contain instructions for applying for a fair hearing within
+        thirty (30) days of the date on the notice. Hearings shall be governed by the fair hearing provisions in
+        IDAPA 16.05.03 "Rules---Governing Contested Case Proceedings and Declaratory Rulings." The request for
+        a fair hearing must be in writing, and must be directed to the Department of Health and Welfare, Estate
+        Recovery Unit, P.O. Box 83720, Boise, Idaho 83720-0036.
+
+
+
+
+Transmittal No.: /21-0009                                                              ĨĨĞĐƚŝǀĞĂƚĞ:   ϬϭͬϬϭͬ2021
+Supersedes No.: /01-006                                                                ƉƉƌŽǀĂůĂƚĞ:       ϬϱͬϭϰͬϮϬϮϭ
+

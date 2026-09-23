@@ -1,0 +1,209 @@
+Source URL: https://www.akleg.gov/basis/aac.asp?media=print&secStart=7.160.990&secEnd=7.160.990
+Retrieved: 2026-09-23
+
+7 AAC 160.990. Definitions. 
+ 7 AAC 160.990(110) and (111) were effective as an emergency regulation July 1, 2019. In accordance with AS 44.62.060 and 44.62.125, the regulations attorney made technical corrections to the emergency regulation made permanent. The technical changes appear in 7 AAC 160.990 as published in Register 232. 
+ Effective July 1, 2022, Executive Order 121 split the former Department of Health and Social Services into the Department of Health and the Department of Family and Community Services. As of Register 242 (July 2022), the regulations attorney made a conforming technical revision under sec. 138, E.O. 121 and AS 44.62.125 (b)(6), to the definition of "department" in 7 AAC 160.990(b). 
+ (a) In the definition of "health facility" in AS 47.07.900 , "outpatient surgical clinic" means an ambulatory surgical center. 
+(b) In 7 AAC 105 - 7 AAC 160 , unless the context requires otherwise, 
+ (1) "Alaska Native" has the meaning given "Native" in 43 U.S.C. 1602(b); 
+ (2) "ambulatory surgical center" has the meaning given in AS 47.32.900 ; 
+ (3) "American Indian" has the meaning given "Indian" in 25 U.S.C. 479; 
+ (4) "claim" means a request for payment submitted to the department, on paper or electronically, by a Medicaid provider who has provided a service to a recipient under 7 AAC 105 - 7 AAC 160 ; 
+ (5) "clinical social worker" means an individual licensed as a clinical social worker under AS 08.95 ; 
+ (6) "CMS" means the United States Department of Health and Human Services, Centers for Medicare and Medicaid Services; 
+ (7) "community mental health clinic" means a program 
+ (A) headed by a 
+ (i) physician, who may be a psychiatrist; or 
+ (ii) psychologist or mental health professional clinician working under the general direction of a physician; 
+ (B) that provides mental health services; and 
+ (C) operates 
+ (i) under 7 AAC 71 ; or 
+ (ii) as a state-operated community mental health clinic; 
+ (8) "continued stay" mean a stay in a facility that is uninterrupted by a discharge and readmission; 
+ (9) "covered" or "coverage" means the department pays for all or part of that service as a Medicaid service under AS 47.07.030 and 7 AAC 105 - 7 AAC 160 ; 
+ (10) repealed 6/29/2017; 
+ (11) "crisis intervention" means short-term mental health services provided to a recipient during an acute episode of a mental, emotional, or behavioral disorder, that are intended to reduce the symptoms of the disorder, prevent harm to the recipient or others, prevent further relapse or deterioration of the recipient's condition, or stabilize the recipient; 
+ (12) "department" means the Department of Health; 
+ (13) "dispensing provider" means one of the following entities, if that entity dispenses drugs as part of a medical practice, does not employ a pharmacist to dispense drugs, and is not enrolled with Medicaid as an outpatient pharmacy: 
+ (A) a physician; 
+ (B) a podiatrist; 
+ (C) a physician assistant; 
+ (D) an advanced practice registered nurse; 
+ (E) a rural health clinic that meets the requirements of 7 AAC 140.210 ; 
+ (F) a federally qualified health center that meets the requirements of 7 AAC 140.205 ; 
+ (G) a tribal health program; 
+ (14) "EPSDT" means the early periodic screening, diagnosis, and treatment program under Medicaid; 
+ (15) "estate" has the meaning given in AS 13.06.050 ; 
+ (16) "facility" means 
+ (A) a general acute care hospital; 
+ (B) a specialty hospital; in this subparagraph, "specialty hospital" has the meaning given in 7 AAC 150.990 ; 
+ (C) a nursing facility; 
+ (D) an intermediate care facility for individuals with an intellectual disability or related condition; 
+ (E) an inpatient psychiatric hospital; 
+ (F) a rural health clinic; 
+ (G) a federally qualified health center; 
+ (H) an ambulatory surgical center; 
+ (I) a home health agency, except that in 7 AAC 150 , "facility" does not include a home health agency; or 
+ (J) a residential psychiatric treatment center, except that in 7 AAC 150 , "facility" does not include a residential psychiatric treatment center; 
+ (K) an end-stage renal disease facility; 
+ (17) "family psychotherapy" means a form of therapy in which members of a family or any two or more individuals sharing a household, one of whom is a Medicaid recipient, attend psychotherapy sessions together for the treatment of relationships within the family or household to achieve better emotional, behavioral, or social adjustments of all the individuals within the family or household; 
+ (18) "federal and state laws" means laws of the United States government and laws of a jurisdiction of the United States; 
+ (19) "federally qualified health center" means a facility that has filed an agreement with the department to provide federally qualified health center services under Medicaid; 
+ (20) "fiscal agent" means an organization that processes and pays provider claims on behalf of the department; 
+ (21) "freestanding facility" means a facility that is individually licensed and enrolled to provide health care services independent from administrative or financial control of another facility; 
+ (22) "functional assessment" means a systematic evaluation of a recipient to assess that recipient's functioning level in the areas of living skills, learning, education, work, interpersonal skills, and other life skills necessary for independent living, in order to develop an individualized written treatment plan; 
+ (23) "general acute care hospital" has the meaning given in 7 AAC 12.990 ; 
+ (24) "group practice" means a legally organized partnership, professional corporation, foundation, nonprofit corporation, or similar association comprised of one or more health care providers; 
+ (25) "group skill development services" means face-to-face therapeutic skill instruction, skill practice, and skill monitoring, offered in a group setting, designed to help the recipient develop or improve specific self-care, self-direction, communication, or social-interaction skills necessary for successful community adjustment and interaction with persons in the recipient's home, school, work, or community environment; 
+ (26) "home and community-based waiver services" means services provided under AS 47.07.045 and 7 AAC 130 ; 
+ (27) "home and community-based waiver services provider" means a provider that the department has certified under 7 AAC 130.220 to provide one or more home and community-based waiver services; 
+ (28) "hospice care" has the meaning given in AS 47.07.900 ; 
+ (29) "hospital" means a facility licensed by the department under 7 AAC 12 to provide inpatient and outpatient hospital services; 
+ (30) "ICF" means an intermediate care facility; 
+ (31) "ICF/IID" means an intermediate care facility for individuals with an intellectual disability or related condition; 
+ (32) "individual psychotherapy" means any form of treatment for mental illness, behavioral maladaptation, or other problems that are assumed to be of an emotional nature, in which a trained individual deliberately establishes a professional relationship with an individual for the purpose of removing, modifying, or retarding existing symptoms, attenuating or reversing disturbed patterns of behavior, and promoting positive personality growth and development; 
+ (33) "individual skill development services" means face-to-face therapeutic self-care and life skill instruction, skill practice, and skill monitoring, provided to an individual, and designed to help the recipient develop or improve specific self-care skills, engage in age-appropriate social behavior, maintain the recipient's household, and develop the ability to be independent within the recipient's community; 
+ (34) "inpatient interdisciplinary team" means a team composed of physicians and other personnel who are employed by an inpatient psychiatric hospital facility, a residential psychiatric treatment center, or an individual who renders services to recipients in either facility; 
+ (35) "inpatient psychiatric hospital" means a hospital or part of a hospital, other than a residential psychiatric treatment center, that delivers medical and inpatient psychiatric services described in 7 AAC 12.215 ; 
+ (36) "inpatient psychiatric services" means diagnostic and treatment services for mental, behavioral, and emotional disorders provided in an inpatient psychiatric hospital that meets the conditions for payment under 7 AAC 140.350 , or provided in a residential psychiatric treatment center that meets the conditions for payment under 7 AAC 140.400 ; 
+ (37) "intake assessment" means a systematic evaluation of a recipient upon admission to services, and periodically during the course of treatment, to assess and document mental status, social and medical history, the presenting problems and related symptoms, the recipient's strengths and resources, and service needs of the recipient for the purposes of establishing a diagnosis and developing an individualized treatment plan; 
+ (38) "intermediate care facility" means a nursing facility that provides intermediate care services described in 7 AAC 140.510 ; "intermediate care facility" does not include an intermediate care facility for individuals with an intellectual disability or related condition; 
+ (39) "intermediate care facility for individuals with an intellectual disability or related condition" means a facility, or a distinct part of one, that 
+ (A) is licensed under AS 47.32 ; 
+ (B) is primarily for the diagnosis, treatment, or rehabilitation of individuals with intellectual or developmental disabilities or individuals with related conditions; and 
+ (C) has met the conditions for payment under 7 AAC 140.600 ; 
+ (40) "jurisdiction" means a state or territory of the United States and the District of Columbia; 
+ (41) "legend drug" has the meaning given in AS 08.80.480 ; 
+ (42) "long-term care" means 
+ (A) services provided in a nursing facility; 
+ (B) services provided in an intermediate care facility for individuals with an intellectual disability or related condition; 
+ (C) home and community-based waiver services; or 
+ (D) any other services received in a medical institution by a recipient who is an institutionalized individual required to pay a portion of that individual's income toward the cost of care under 7 AAC 100.550 - 7 AAC 100.579 ; 
+ (43) "long-term care facility" means an intermediate care facility for individuals with an intellectual disability or related condition or a nursing facility; 
+ (44) "Medicaid" means the medical assistance program administered by the department under 42 U.S.C. 1396 - 1396v and AS 47.07 , including those eligibility groups and services for which additional federal financial participation is available under 42 U.S.C. 1397aa; 
+ (45) "medical institution" has the meaning given in 7 AAC 100.990 ; 
+ (46) "Medicare" means the medical assistance program administered by the federal government through private health insurance companies under 42 U.S.C. 1395 - 1395iii; 
+ (47) "Medicare cost report" means the uniform cost report that a facility must prepare under 42 C.F.R. 413.20 - 413.24; 
+ (48) repealed 10/1/2011; 
+ (49) "mental health professional clinician" means 
+ (A) an individual who 
+ (i) is working for an enrolled community behavioral health services provider; 
+ (ii) is performing community behavioral health services that are within that individual's field of expertise; 
+ (iii) is not working in a capacity that requires the individual to be licensed under AS 08 ; and 
+ (iv) has a master's degree or more advanced degree in psychology, counseling, child guidance, community mental health, marriage and family therapy, social work, or nursing; 
+ (B) a nurse who 
+ (i) has a master's degree in nursing; 
+ (ii) has received special training or experience in mental health; 
+ (iii) has an active license to practice nursing issued by the jurisdiction in which the nurse provides services, or if services are provided in this state, holds an active license under AS 08.68 ; and 
+ (iv) is working in the individual's field of expertise; 
+ (C) a marital and family therapist who 
+ (i) has an active license to practice marital and family therapy issued by the jurisdiction in which the marital and family therapist provides services, or if services are provided in this state, holds an active license under AS 08.63 ; and 
+ (ii) is working in the individual's field of expertise; 
+ (D) a professional counselor who 
+ (i) has an active license to practice as a professional counselor issued by the jurisdiction in which the professional counselor provides services, or if services are provided in this state, holds an active license under AS 08.29 ; and 
+ (ii) is working in the individual's field of expertise; 
+ (E) a social worker who 
+ (i) has a master's degree in social work; 
+ (ii) has an active license to practice as a social worker issued by the jurisdiction in which the social worker provides services, or if services are provided in this state, holds an active license under AS 08.95 ; and 
+ (iii) is working in the individual's field of expertise; or 
+ (F) a psychologist or psychological associate who 
+ (i) has an active license to practice as a psychologist or psychological associate issued by the jurisdiction in which the psychologist or psychological associate provides services, or if services are provided in this state, holds an active license under AS 08.86 ; and 
+ (ii) is working in the individual's field of expertise; 
+ (50) "nursing facility" has the meaning given in AS 18.20.390 ; "nursing facility" includes a skilled nursing facility and an intermediate care facility; 
+ (51) "part A of Medicare" means that portion of the Medicare program providing coverage for hospital care under 42 U.S.C. 1395c - 1395i-5; 
+ (52) "patient" means an individual who receives medical attention, care, or treatment; 
+ (53) "person" has the meaning given in AS 01.10.060 ; "person" includes a municipality and the state; 
+ (54) repealed 10/1/2011; 
+ (55) "physiatrist" means a physician who specializes in that branch of medicine using physical therapy, physical agents, such as light, heat, water, and electricity, and mechanical apparatus, in the diagnosis, prevention, and treatment of bodily disorders known as physiatrics; 
+ (56) "prescription drug" has the meaning given in AS 08.80.480 ; 
+ (57) "primary care" means the provision of professional comprehensive health services that includes health education and disease prevention, initial assessment of health problems, treatment of acute and chronic health problems, and the overall management of an individual's or family's health care services; 
+ (58) "prior authorization" means approval by the department, in accordance with 7 AAC 105.130 and service-specific requirements in 7 AAC 105 - 7 AAC 160 , of a certain type and number of units of Medicaid-covered services before those services are provided; 
+ (59) "provider" means an individual, firm, corporation, association, or institution that provides, medical assistance to a recipient under Medicaid; 
+ (60) "psychiatric assessment" means a systematic evaluation of a recipient to determine symptomatology, establish a diagnosis, and prescribe needed treatment; 
+ (61) "psychiatric facility" means a licensed hospital facility or part of a licensed hospital facility that is primarily for the diagnosis and treatment of mental, emotional, or behavioral disorders; 
+ (62) "psychiatrist" means a physician licensed to practice medicine in the jurisdiction in which services are provided, and who has completed a fully qualified residency in psychiatry; 
+ (63) "psychological associate" means an individual licensed in the jurisdiction in which services are provided, who renders specific mental health services in association with a licensed psychologist within the scope of practice identified in 12 AAC 60.185 ; 
+ (64) repealed 10/1/2011; 
+ (65) "psychologist" means an individual who is licensed to practice psychology in the jurisdiction in which services are provided; 
+ (66) "psychosocial assessment" has the meaning given in this section for "functional assessment"; 
+ (67) "quality improvement organization" or "QIO" means an organization that has a contract with the Department of Health and Human Services, Centers for Medicare and Medicaid Services, under part B of title XI of the Social Security Act, 42 U.S.C. 1320c - 1320c-12, to perform utilization and quality control review of the health care furnished, or to be furnished, to Medicare beneficiaries, and operates under a contract with the state to provide preadmission screening and utilization review services; 
+ (68) "RBRVS" means resource-based relative value scale; 
+ (69) "recipient" means an individual who has been determined eligible for Medicaid in this state, including home and community-based waiver services, and who is receiving, is authorized to receive, or has received a Medicaid-covered service from a provider enrolled in the Medicaid program in this state; 
+ (70) "recipient's representative" means a parent, guardian, or other individual with legal authority to act on the recipient's behalf; 
+ (71) "recoupment" means an action by the department to recover an overpayment by reducing future payments to the provider until the amount of the overpayment has been offset; 
+ (72) "rendering provider" means a provider whose direct services are paid through a health care provider enrolled under 7 AAC 105.200 (a); 
+ (73) "residential care" means a residential living arrangement that provides a structured setting with supervision and care where the needs of the residents are largely social; a facility providing residential care is one that offers 
+ (A) shelter, food, household maintenance, encouragement, and assistance to the residents; 
+ (B) guidance as necessary in activities of daily living; 
+ (C) social and recreational activities and opportunities; and 
+ (D) arrangements made to secure medical services when the need is indicated; 
+ (74) "residential psychiatric treatment center" means a freestanding facility that 
+ (A) provides residential child care and inpatient psychiatric services for the diagnosis and treatment of child and adolescent mental, emotional, or behavioral disorders; 
+ (B) is licensed under AS 47.32 ; 
+ (C) meets the requirements of 7 AAC 140.400 ; and 
+ (D) is not a provider eligible for payment under 7 AAC 150 ; 
+ (75) "respite care" means care provided to an individual for the purpose of relief of family members or other regular care providers in the home, except for personal care assistants; 
+ (76) "rural health clinic" means a facility that has filed an agreement with the department to provide rural health clinic services under Medicaid; 
+ (77) "RVU" means relative value unit; 
+ (78) "service" means a medical evaluation or procedure, drug, medical supply, item, equipment, transportation, or other benefit related to an individual's health or delivery of health care; 
+ (79) "skilled nursing facility" has the meaning given in 42 U.S.C. 1395i-3(a); 
+ (80) "SNF" means a skilled nursing facility; 
+ (81) "tribal health program" means a hospital, clinic, or other type of health care facility or program operated by 
+ (A) the United States Department of Health and Human Services, Indian Health Service; 
+ (B) an Indian tribe as defined in 25 U.S.C. 450b(e) and 458aaa(b); 
+ (C) a tribal organization as defined in 25 U.S.C. 450b( l); or 
+ (D) an inter-tribal consortium as defined in 25 U.S.C. 458aaa(a)(5) or established by federal law; 
+ (82) "utilization review" means the process of evaluating the appropriateness and efficient use of medical services and facilities, including admission criteria, length of stay, and discharge practices; 
+ (83) "skilled nursing visit" means a personal visit by a nurse to perform a level of care or treatment that requires the nurse to be licensed in the jurisdiction in which services are provided; 
+ (84) "national drug code" or "NDC" means the code assigned by the United States Food and Drug Administration under 21 C.F.R. Part 207 (registration of producers of drugs and listing of drugs in commercial distribution); 
+ (85) repealed 6/16/2016; 
+ (86) "behavioral health clinical associate" means an individual 
+ (A) who has less than a master's degree in psychology, social work, counseling, or a related field with specialization or experience in providing rehabilitation services to recipients with severe behavioral health conditions; 
+ (B) whose responsibilities may include provision of psychosocial evaluation, education related to a recipient's behavioral health condition, encouraging and coaching, counseling, and teaching of needed life skills; and 
+ (C) who works within the scope of the individual's training, experience, and education; 
+ (87) "behavioral health services" means the behavioral health clinic services identified in 7 AAC 135.010 (b) and the behavioral health rehabilitation services identified in 7 AAC 135.010 (c); 
+ (88) repealed 6/16/2016; 
+ (89) "community behavioral health services provider" has the meaning given in 7 AAC 70.990 ; 
+ (90) "counseling" means an exchange of information, opinions, and ideas between the recipient and the recipient's provider about the recipient's life choices and behaviors for the purpose of helping the recipient make positive changes in the recipient's behavior; 
+ (91) "detoxification" means the immediate physiological stabilization, diagnosis, and treatment of a recipient who is intoxicated, incapacitated, or experiencing withdrawal from using alcohol or drugs; 
+ (92) "functional impairment" 
+ (A) means a disorder that substantially interferes with or prevents a recipient from achieving or maintaining one or more developmentally appropriate social, behavioral, cognitive, communicative, or adaptive skills; 
+ (B) includes disorders of episodic, recurrent, or continuous duration; 
+ (C) does not include temporary, expected responses to stressful events in the recipient's environment; 
+ (93) "group psychotherapy" means a form of psychotherapy in which two or more individuals participate together in the presence of one or more psychotherapists; 
+ (94) "mental, emotional, or behavioral disorder" means a disorder identified by a provider listed in 7 AAC 135.030 and in accordance with the 
+ (A) Diagnostic and Statistical Manual of Mental Disorders, adopted by reference in 7 AAC 160.900 ; 
+ (B) International Classification of Diseases, adopted by reference in 7 AAC 160.900 ; or 
+ (C) Diagnostic Classification of Mental Health and Developmental Disorders of Infancy and Early Childhood: Revised Edition (DC:0-3R), adopted by reference in 7 AAC 160.900 ; 
+ (95) "mental health physician clinic" means a clinic, operated by one or more psychiatrists, that exclusively or primarily provides mental health clinic services furnished by a psychiatrist or by one or more of the professionals identified in 7 AAC 135.030 (d)(2); 
+ (96) repealed 4/9/2017; 
+ (97) "neuropsychological testing" means the administration of specific psychological tests that are designed to measure and identify cognitive impairments that may be the result of brain damage; 
+ (98) "psychotherapy" means the treatment of a mental, emotional, or behavioral disorder through the use of psychological techniques; 
+ (99) "recipient's residence" 
+ (A) means the physical location where the recipient conducts the daily activities of sleeping and storage of personal possessions, whether temporary or permanent, regardless of recipient ownership; 
+ (B) includes a dwelling maintained by a public or private support organization or an assisted living home; 
+ (100) "severe behavioral health disorder" means an individual 
+ (A) has a substance use disorder; 
+ (B) is a child experiencing a severe emotional disturbance; or 
+ (C) is an adult experiencing a serious mental illness; 
+ (101) "substance abuse" means a maladaptive pattern of substance use manifested by recurrent and significant adverse consequences related to the repeated use of substances; 
+ (102) "substance use disorder" means a disorder that is identified by a diagnostic code found in the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders, adopted by reference in 7 AAC 160.900 , and that is related to 
+ (A) alcohol, amphetamine, or similar acting sympathomimetics; 
+ (B) cannabis, cocaine, hallucinogens, inhalants, nicotine, or opioids; 
+ (C) analogs of phencyclidine (PCP) or similar arylcyclohexylamines; or 
+ (D) sedatives, hypnotics, or anxiolytics; 
+ (103) "urinalysis" means laboratory testing of a recipient's urine performed by a laboratory accredited under 42 C.F.R. Part 493; 
+ (104) "Medicare Part B" means that portion of the Medicare program providing coverage for physician and outpatient care under 42 U.S.C. 1395j - 1395w-5; 
+ (105) "FDA" means the United States Food and Drug Administration; 
+ (106) "opioid use disorder treatment program" means an individual or entity that 
+ (A) administers or dispenses a narcotic drug to a narcotic addict for withdrawal or maintenance treatment; 
+ (B) provides to individuals when appropriate or necessary a comprehensive range of medical and behavioral health clinical and rehabilitative services; and 
+ (C) is approved under 7 AAC 70 . 
+ (107) "background check" means the processing of an individual's fingerprints, name, social security number, and other identifying information as described in 7 AAC 10.915 ; 
+ (108) "Community First Choice personal care services" means personal care services provided under 7 AAC 127 ; 
+ (109) "Community First Choice services" means personal care services and other services provided under 7 AAC 127 ; 
+ (110) repealed 11/10/2019; 
+ (111) "1115 waiver" means the Substance Use Disorder and Behavioral Health Program demonstration approved by the United States Department of Health and Human Services, Centers for Medicare and Medicaid Services as a section 1115 waiver under 42 U.S.C. 1315(a); 
+ (112) "inmate of a public institution" has the meaning given in 42 C.F.R. 435.1010; 
+ (113) "justice-involved youth" has the meaning given "eligible juvenile" in 42 U.S.C. 1396a(nn); for purposes of this paragraph, "juvenile" has the meaning given in 42 U.S.C. 1396a(nn).

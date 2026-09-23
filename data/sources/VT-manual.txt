@@ -1,0 +1,2293 @@
+Source URL: https://humanservices.vermont.gov/sites/ahsnew/files/documents/Covered-Services-Rules-040124.pdf
+Retrieved: 2026-09-23
+
+ Department of Vermont Health Access                                                                                    Medicaid Covered Services Rules
+
+
+
+
+Contents
+7101     Medicaid Benefit Delivery ............................................................................................................................ 2
+7102     Prior Authorization ........................................................................................................................................ 8
+7105     Medical Service Payments........................................................................................................................... 13
+7106     Violations of Provider Responsibility ......................................................................................................... 16
+7107     Utilization Control ....................................................................................................................................... 23
+7108     Third Party Liability .................................................................................................................................... 24
+7109     Health Care Trust Fund ............................................................................................................................... 29
+7301     Physicians and Other Licensed Practitioners............................................................................................... 31
+7317     Rehabilitative Therapy Services .................................................................................................................. 33
+7403     Clinic Services ............................................................................................................................................. 35
+7405     Laboratory and Radiology Services ............................................................................................................ 36
+7411      Private Non-Medical Institutions................................................................................................................ 38
+7601     Long-Term Care Services ............................................................................................................................ 40
+7602     Supplementation Prohibition ....................................................................................................................... 42
+7603     Services Covered in a Nursing Facility ....................................................................................................... 43
+7604     Duration of Coverage .................................................................................................................................. 45
+7605      Authorization for Long-Term Care ......................................................................................................... 47
+7606 Nursing Facility Care in Hospitals - Swing Beds ................................................................................ 49
+7700     Pharmacy Administration ............................................................................................................................ 50
+
+
+Didn’t find what you were looking for? Additional Vermont Medicaid rules can be found on the Agency of
+Human Services website:
+    •   Health Care Administrative Rules (HCAR)
+    •   Health Benefits Eligibility and Enrollment Rules (HBEE)
+
+
+
+
+                                                                                                                                                                       1
+Department of Vermont Health Access                                                       Medicaid Covered Services Rules
+
+
+                                             Medicaid Benefit Delivery
+
+
+ 7101       Medicaid Benefit Delivery                       (06/01/2018, GCR 17-090)
+
+          7101.1 Overview
+
+              The following includes steps the department, the eligible Medicaid beneficiary and the medical care
+              provider must take for the provider to receive payment for services given to the beneficiary.
+
+              (a) The department must:
+
+                  (1) Give each Medicaid eligible person an identification document showing that the person has been
+                      found eligible for Medicaid; and
+                  (2) Accept and process all provider claims itself or through its administrative agent; and
+                  (3) Notify providers of decisions on claims and pay approved claims.
+
+              (b) The beneficiary must:
+
+                  (1) Tell the provider he or she wants the provider's services charged to Medicaid; and
+                  (2) Advise the provider if he or she has private health insurance coverage in addition to Medicaid; and
+                  (3) Accept liability for any applicable co-payment; and
+                  (4) Show the provider his or her identification document if it has been issued.
+
+              (c) The provider must:
+
+                  (1) Verify that the beneficiary is still eligible for Medicaid on the date the service is provided; and
+                  (2) Bill any other liable third parties prior to billing Medicaid; and
+                  (3) Accept the Medicaid payment rate as payment in full and bill the beneficiary only for any
+                      applicable co-payments once Medicaid has been accepted as a source of payment; and
+                  (4) Give a Medicaid covered service; and
+                  (5) File a claim with the department or its agent, including all necessary information about the
+                      service and the identifying information from the beneficiary's identification document.
+
+          7101.2 Disenrollment of Beneficiaries
+
+                 (a) In rare instances, it may become necessary to pursue disenrollment of
+                     beneficiaries who are intentionally unresponsive to basic managed care
+                     expectations. The following may be disenrolled:
+
+                         (1) Beneficiaries who pose a threat to plan employees or other members.
+                         (2) Beneficiaries who regularly fail to arrive for scheduled appointments without canceling,
+                             despite documented aggressive outreach efforts by the managed health care plan.
+                         (3) Beneficiaries who do not cooperate with treatment and have not made an affirmative
+                             decision to refuse treatment, despite documented aggressive outreach efforts by the plan.
+
+                 (b) Grounds for disenrollment does not include beneficiaries who have cooperated with the
+                     plan in its effort to inform them fully of the treatment options and the consequences of
+                     their decisions regarding treatment and who have subsequently made an informed
+                     decision to refuse treatment.
+
+                 (c) Plan disenrollment requests must conform to criteria for disenrollment established by the
+                     department. Managed health care plans must notify the affected member, or his or her designated
+
+
+                                                                                                                            2
+Department of Vermont Health Access                                                      Medicaid Covered Services Rules
+
+
+
+                                              Medicaid Benefit Delivery
+
+
+
+                    representative, in writing, of a plan-initiated request for disenrollment. Only the department may
+                    disenroll a member from a managed health care plan.
+
+                (d) Beneficiaries remain in the managed health care plan until the department decides to
+                    disenroll the beneficiary. Beneficiaries are notified of this decision in writing and of their
+                    right to request a fair hearing before the Human Services Board. Medicaid beneficiaries
+                    who are disenrolled, unless enrolled in another managed health care plan or the PCCM
+                    program immediately thereafter, will receive services through the traditional fee-for-
+                    service system.
+
+           7101.3 Primary Care Case Management (PCCM)
+
+              The primary care case management (PCCM) program is a managed health care service delivery system
+              that requires a beneficiary to choose a primary care provider (PCP) and to access specified medical care
+              through this provider. The primary care provider (PCP) will provide and coordinate medical care for the
+              beneficiary through direct service delivery or by making appropriate referrals to other providers for
+              necessary services.
+
+                  (a) Definitions
+
+                      (1) “Adverse determination” means a determination by the DVHA that an admission,
+                          availability of care, continued stay or other health care service has been reviewed and, based
+                          upon the information provided, does not meet the DVHA's requirements for medical
+                          necessity, appropriateness, health care setting, level of care or effectiveness, and the requested
+                          service is therefore denied, reduced or terminated.
+                      (2) “Certification” means a determination by the DVHA or its designated utilization review
+                          organization that an admission, availability of care, continued stay or other health care service
+                          has been reviewed and, based on the information provided, satisfies the DVHA's requirements
+                          for medical necessity, appropriateness, health care setting, level and intensity of care and
+                          effectiveness.
+                      (3) “Clinical review criteria” means the written screening procedures, decision abstracts,
+                          clinical protocols, practice guidelines and utilization management and review guidelines used
+                          by the DVHA to determine the necessity and appropriateness of health care services.
+                      (4) “Concurrent review” means utilization review conducted during a beneficiary's hospital
+                          stay or course of treatment.
+                      (5) “DVHA” means the Department of Vermont Health Access.
+                      (6) “Health care services” or “services” means services for the diagnosis, prevention,
+                          treatment, cure or relief of a health condition, illness, injury or disease.
+                      (7) “Primary care provider” means family practitioners, general internists, pediatricians, or
+                          doctors of general medicine that shall provide and coordinate medical care for the
+                          beneficiary as defined in 7101.3(b).
+                      (8) “Retrospective review” means utilization review of medical necessity that is conducted
+                          after services have been provided to a beneficiary, but does not include the review of a claim
+                          that is limited to an evaluation of reimbursement levels, veracity of documentation, accuracy
+                          of coding or adjudication for payment.
+                      (9) “Second opinion” means an opportunity or requirement to obtain a clinical evaluation by a
+                          provider other than the one originally making a recommendation for a proposed health care
+                          service to assess the clinical necessity and appropriateness of the proposed service.
+
+
+
+                                                                                                                               3
+Department of Vermont Health Access                                                     Medicaid Covered Services Rules
+
+
+
+                                              Medicaid Benefit Delivery
+
+
+                      (10) “Urgently-needed care” or “urgent care” means those health care services that are
+                          necessary to treat a condition or illness of an individual that if not treated within twenty-
+                          four (24) hours presents a serious risk of harm.
+                      (11) “Utilization review” means a set of formal techniques designed to monitor the use of, or
+                           evaluate the clinical necessity, appropriateness, efficacy, or efficiency of, health care
+                           services, procedures, or settings.
+
+                  (b) Primary Care Provider (PCP)
+
+                  Under this system a payment is made to the primary care provider (PCP) each month for case
+                  management services provided to each beneficiary enrolled with the PCP. Family practitioners,
+                  general internists, pediatricians, or doctors of general medicine, that are enrolled with Vermont
+                  Medicaid may become a PCP in the PCCM program. Specialists may become a PCP only under the
+                  conditions described below. The PCP selected by a beneficiary shall coordinate needed medical
+                  services. PCPs will be responsible for providing beneficiaries with referrals to specialists when in
+                  their judgement it is considered medically necessary; for coordinating all ancillary, outpatient and
+                  inpatient services; and for preventing the duplication of services.
+
+                  If a beneficiary has either a life-threatening condition or disease, or a degenerative or disabling
+                  condition or disease, that requires specialized medical care over a prolonged period of time, a
+                  specialist with expertise in treating the condition or disease may act as the beneficiary's PCP. If a
+                  specialist agrees to act as the PCP, the specialist shall provide and coordinate medical care for the
+                  beneficiary through direct service delivery or by making appropriate referrals to other providers for
+                  necessary services. The DVHA Medical Director must review and approve of such arrangements
+                  before a specialist may become the PCP. If the request is denied by DVHA, the beneficiary has the
+                  right to appeal DVHA's decision and to request a fair hearing.
+
+                  (c) Change of Primary Care Provider (PCP)
+
+                  Enrollees may change their primary care provider (PCP) for any reason every 30 days.
+                  Primary care provider changes will become effective on the first day of
+                  the following month, if all required actions have been completed by the fifteenth of the
+                  prior month. Otherwise, the change shall become effective the first of
+                  the second month after all required actions are completed.
+
+                  If a beneficiary has to change PCP as a result of his or her PCP restricting or terminating
+                  participation in the PCCM program, the DVHA will assist the beneficiary in selecting another
+                  PCP in order to assure continuity of care.
+
+                  (d) Procedures for Utilization Review Decisions
+
+                      (1) The DVHA shall maintain written procedures for making utilization review decisions
+                          and for notifying beneficiaries, representatives of beneficiaries, and providers acting on
+                          behalf of beneficiaries of its decisions.
+                      (2) For initial and concurrent review determinations, the DVHA shall, within three (3)
+                          working days of obtaining all necessary information regarding the admission, procedure
+                          or service requiring a review determination, make the determination and notify the treating
+                          provider of the determination by telephone. Written confirmation of the determination
+                          will be sent to the provider within twenty-four (24) hours of the telephone notification.
+
+
+                                                                                                                          4
+Department of Vermont Health Access                                                      Medicaid Covered Services Rules
+
+
+
+                                              Medicaid Benefit Delivery
+
+
+
+                              (i) In the case of an adverse concurrent review determination, the beneficiary shall
+                                   not be liable for any services provided before notification to the beneficiary of the
+                                   adverse determination. Benefits will continue if a fair hearing is requested.
+                              (ii) The DVHA shall establish procedures to expedite initial and concurrent review
+                                   determinations in cases involving urgently-needed care. In no event shall the
+                                   DVHA take more than twenty-four (24) hours from the time the service is first
+                                   requested to make an initial or concurrent review determination for such services.
+
+                      (3) The DVHA shall conduct retrospective review determinations consistent with federal
+                          requirements.
+
+                      (4) A written notification of an adverse determination shall include the principal reason or
+                          reasons for the determination and instructions on how to appeal the determination and
+                          how to request additional information. Within 90 days of PCCM program
+                          implementation, the DVHA will add to the written notification, the clinical rationale for
+                          the determination including an explanation of the clinical review criteria used to make
+                          the determination. The DVHA shall make the actual clinical review criteria available to
+                          the beneficiary upon request.
+
+                      (5) The DVHA shall act promptly and in good faith to obtain the information necessary to make
+                          utilization review decisions. For purposes of this section, “necessary information” includes
+                          the results of any face-to-face clinical evaluation or second opinion that may be required.
+
+                      (6) The DVHA shall have written procedures to address the failure or inability of a provider or a
+                          beneficiary to provide all necessary information for utilization review, which shall include a
+                          description of the information required for the review. Copies of the procedures are available
+                          to all network providers. In cases where the provider or beneficiary will not release the
+                          necessary information, the DVHA may deny certification. In no event shall the DVHA
+                          penalize a provider for failing to provide a beneficiary's medical records to the DVHA when
+                          the beneficiary has not authorized release of the records and the provider is not otherwise
+                          obligated by law or regulation to disclose the records.
+
+                  (e) Network Adequacy
+
+                     The DVHA will not require any beneficiary to be assigned to the PCCM program unless covered
+                     health care services, including referrals to participating specialty physicians, are accessible to
+                     members on a timely basis, as follows. The DVHA will make a good faith effort to attract
+                     sufficient numbers and types of providers to ensure that all covered health care services will be
+                     provided without unreasonable delay.
+
+                     (1) Travel times for PCCM beneficiaries, under normal conditions from their residence or
+                         place of business, generally should not exceed the following:
+
+                              (i) Thirty (30) minutes to a network primary care provider;
+                              (ii) Thirty (30) minutes to an outpatient facility for mental health or chemical dependency
+                                  services;
+                              (iii) Sixty (60) minutes for laboratory, x-ray, pharmacy, general optometry, inpatient
+                                    psychiatric, MRI and inpatient medical rehabilitation services;
+                              (iv) Ninety (90) minutes for cardiac catheterization laboratory, kidney transplantation,
+                                    major trauma treatment, neonatal intensive care, and open-heart surgery services; and
+
+                                                                                                                            5
+Department of Vermont Health Access                                                       Medicaid Covered Services Rules
+
+
+
+                                              Medicaid Benefit Delivery
+
+                                (v) Reasonable accessibility for other specialty hospital services, including major burn
+                                    care, organ transplantation (other than kidneys), and specialty pediatric care.
+
+                       (2) Waiting times for appointments should generally not exceed the following:
+
+                                (i) Immediate access to emergency care; and
+                                (ii) Twenty-four (24) hours for urgent care; and
+                                (iii) Two (2) weeks for the initial treatment of non-emergency or non-urgent care, with
+                                      prompt follow-up care as necessary, including referrals for specialty services; and
+                                (iv) Ninety (90) days for preventive care (including routine physical examinations);
+                                      and
+                                (v) Thirty (30) days for routine laboratory, x-ray, general optometry, and all other
+                                      routine services.
+
+                       (3) The DVHA shall develop and implement written standards or guidelines that address the
+                           assessment of provider capacity to provide timely access to health care services.
+
+                   (f) Confidential Information
+
+                       The DVHA shall take the appropriate steps necessary to ensure that information gathered
+                       by it in its quality assurance activities shall be confidential and privileged.
+
+                   (g) Disclosure of Information
+
+            The DVHA shall supply to each beneficiary upon enrollment and upon major revision thereafter the following
+            information consistent with 42 CFR §438.10(g). The information shall be in handbook form and in twelve-
+            point type, and shall be in plain language. This requirement may be satisfied by giving a copy of the
+            handbook to each household, rather than to each beneficiary. The DVHA shall make available to any
+            beneficiary, upon request, a listing by specialty of the name, telephone number and address of all health care
+            providers and health care facilities enrolled in PCCM and Medicaid (including, in the case of physicians,
+            information as to board certification). This list shall be updated (by addendum or otherwise) at least once
+            every six months, and shall indicate which primary care providers are accepting new patients. In addition,
+            the handbook shall include:
+
+            1. Coverage provisions, including covered health care services and items, benefit maximums, benefit
+            limitations, exclusions from coverage (including procedures deemed experimental or investigational by the
+            DVHA), restrictions on referral or treatment options, requirements for prior authorization or utilization
+            review, the use of formularies, and any other limitations on the services covered.
+
+            2. A description of the rule 7104 procedure for coverage of prescription drugs from manufacturers that do
+            not participate in the federal rebate program. In addition to the criteria contained in rule 7104, the DVHA
+            shall also consider the following criteria in making rule 7104 determinations for prescription drugs. The
+            currently covered drug:
+
+            •   has not been effective in treating the patient's medical condition; or
+
+            • causes or is reasonably expected to cause adverse or harmful reactions in the beneficiary.
+
+            3. If prior authorization or utilization review is required before obtaining treatment or services, the process
+            a beneficiary must use to obtain that authorization or review, including any time lines that apply.
+
+
+
+
+                                                                                                                              6
+Department of Vermont Health Access                                                      Medicaid Covered Services Rules
+
+
+                                               Medicaid Benefit Delivery
+
+
+
+            4. The financial inducements offered to any Medicaid provider or health care facility
+            for the reduction or limitation of health care services. Nothing in this paragraph shall
+            be construed to require disclosure of individual contracts or the specific details of any
+            financial arrangement between the DVHA and a health care provider.
+
+            5. The beneficiary's responsibility for payment of premiums, coinsurance, co-payments, deductibles and
+            any other charges, annual limits on a beneficiary's financial responsibility, caps on payments for covered
+            services, and the beneficiary's financial responsibility for non-covered procedures, treatments or services.
+           6. The beneficiary's financial responsibility for payment when services are provided by a health care
+           provider who is not part of the PCCM network or by any provider after
+           an adverse determination by the DVHA.
+            7.   The criteria used by the DVHA for selecting and credentialing the health care providers it enrolls.
+            8. The grievance and appeals procedures used to resolve disputes between a beneficiary and the
+            DVHA.
+            9.   A summary of its quality assessment and quality improvement programs.
+           10. The utilization review procedures of the organization, including the credentials and training of
+           utilization review personnel.
+            11. The procedure for obtaining emergency services, including any requirements for prior authorization
+            and payment for services rendered outside of Vermont.
+            12. All necessary mailing addresses and telephone numbers to be used by beneficiaries seeking
+            information or authorization.
+            13. The process for selecting primary care providers and for obtaining access to other providers in
+            the PCCM network, including any restrictions on the use of network specialists.
+            14. The procedure for changing primary and specialty care providers within PCCM, including any
+            restrictions on changing providers.
+            15. How beneficiaries can obtain standing referrals to Medicaid participating specialists, or use
+            specialists or specialized facilities to provide and coordinate their primary and specialty care.
+            16. The waiting time and travel time standards established in this rule.
+            17. Whether the health care providers are prohibited from participating in other managed care plans or
+            from performing services for persons who are not members of the PCCM program.
+           18. Opportunities for beneficiary participation in the development of DVHA policies and in the DVHA's
+           quality assurance and quality improvement activities.
+            19. The consumer information and services, including the toll-free number for the DVHA Ombudsman.
+            20. A list of all information available to the beneficiary upon request.
+
+
+
+
+                                                                                                                           7
+Department of Vermont Health Access                                          Medicaid Covered Services Rules
+
+
+                                              Prior Authorization
+
+
+7102        Prior Authorization                 (04/01/1999, 98-11F)
+
+Prior authorization is a process used by the department to assure the appropriate use of health care services.
+The goal of prior authorization is to assure that the proposed health service is medically needed; that all
+appropriate, less-expensive alternatives have been given consideration; and that the proposed service
+conforms to generally accepted practice parameters recognized by health care providers in the same or
+similar general specialty who typically treat or manage the diagnosis or condition. It involves a request
+for approval of each health service that is designated as requiring prior approval before the service is
+rendered. The department shall notify each patient and provider of its decision, which is arrived at by
+applying the criteria set forth in rule 7102.2.
+
+“Health services: as used in these rules include services, items or procedures.
+
+7102.1     Criteria for Prior Authorization    (04/01/1999, 98-11F)
+
+   The department may require prior authorization of payment for a service when one or more of the
+   following criteria are met.
+
+      A. The health service is of questionable medical necessity as determined by the department.
+      B. The department determines that use of the health service needs monitoring to manage the
+         expenditure of program funds.
+      C. Less expensive appropriate alternatives to the health service are generally available.
+      D. The health service is investigational.
+      E.   The health service is newly developed or modified.
+      F.   The department determines that monitoring a health service of a continuing nature is necessary
+           to prevent the continuation of the service when it ceases to be beneficial.
+
+   The complete and current list of all services and items including procedure codes that require prior
+   authorization is set out in the Provider Manual. The list is updated periodically. Additions and
+   deletions to the list are also published in advance in the provider advisory newsletter and other
+   communications to providers.
+
+7102.2     Prior Authorization Determination      (04/01/1999, 98-11F)
+
+   A request for prior authorization of a covered health service will be approved if the health service:
+
+      A. is medically necessary (see rule 7103);
+      B. is appropriate and effective to the medical needs of the beneficiary;
+      C. is timely, considering the nature and present state of the beneficiary's medical condition;
+      D. is the least expensive, appropriate health service available;
+      E.   is FDA approved, if it is FDA regulated;
+      F.   is subject to a manufacturer's rebate agreement, if a drug;
+      G. is not a preliminary procedure or treatment leading to a service that is not covered;
+
+
+                                                                                                                 8
+                                 INTERPRETIVE MEMO
+[X] Medicaid Covered Services Rule             [ ] Medicaid Covered Services Procedure
+Interpretation                                                           Interpretation
+
+
+This interpretive memo remains effective statewide until it is specifically supersededed-either by a
+subsequent interpretive memo or by a contradictory rule with a later date.
+
+Reference      7102.4                                   Date of this Memo       05/01/2008 Page 1 of 1
+
+This Memo: [X] is New      [ ] Replaces one dated
+
+
+
+QUESTION:       Is there a change in the timeframe for processing prior authorization requests?
+
+ANSWER:          Yes. The timeframes now correspond to 42 CFR §438.210. OVHA will continue to
+                 issue a notice of decision within three days of receipt of all the necessary information.
+                 However, the longest time to wait for a decision is now 28 days, not 30. A request
+                 must be decided within 14 days of receipt of the request, but that time frame may be
+                 extended up to another 14 days if the beneficiary or provider request the extension,
+                 or if the extension is needed to obtain additional information and an extension is in
+                 the beneficiary’s interest.
+                 Also, when a provider indicates, or OVHA determines, that following this timeframe
+                 could seriously jeopardize the beneficiary’s life, health, or ability to attain, maintain, or
+                 regain maximum function, OVHA must make an expedited decision and provide notice
+                 as expeditiously as the beneficiary’s health condition requires and no later than three
+                 working days after receipt of the request. This may be extended up to 14 days if the
+                 beneficiary so requests, or if the extension is needed to obtain additional information
+                 and an extension is in the beneficiary’s interest.
+
+
+
+
+                                                                                                                 9
+Department of Vermont Health Access                                            Medicaid Covered Services Rules
+
+
+                                               Prior Authorization
+
+
+     H. is not the repair of an item uncovered by Medicaid;
+     I.       is not experimental or investigational;
+     J.       is furnished by a provider with appropriate credentials.
+
+   The department is responsible for determining questions of coverage and medical necessity under the
+   Vermont Medicaid program. The department may contract with external organizations to help make
+   these determinations; however, the final decision rests with the department.
+
+   Supporting information for a prior authorization request must include a completed claim and a
+   completed medical necessity form. Additional information that may be required includes:
+          •    the patients complete medical record;
+          •    the patients plan of care;
+          •    a statement of long-term and short-term treatment goals;
+          •    a response to clinical questions posed by the department;
+          •    a second opinion or an evaluation by another practitioner, at Medicaid expense;
+          •    the practitioners detailed and reasoned opinion in support of medical necessity;
+          •    a statement of the alternatives considered and the provider's reasons for rejecting them; and,
+          •    a statement of the practitioner's evaluation of alternatives suggested by the department and the
+               provider's reasons for rejecting them.
+
+   If any of this additional information is required, the department will notify the provider promptly.
+   Once the necessary information has been received, the beneficiary will be sent a notice of decision
+   that may be appealed. See rule 4151.
+
+7102.3        Waiver of Prior Authorization     (04/01/1999, 98-11F)
+
+   The department shall waive the requirement that a covered service receive prior authorization if, in
+   the department's judgement, the service provided without prior authorization meets one or both of
+   the following circumstances.
+          •    The service was required to treat an emergency medical condition.
+          •    The service was provided prior to the determination of Medicaid eligibility and within the
+               retroactive coverage period.
+
+7102.4        Prior Authorization Process     (04/01/1999, 98-11F)
+
+   Prior authorization commences with the receipt of a written prior authorization request. The
+   department will issue a notice of decision within three working days of receiving all necessary
+   information. The department will act in good faith to obtain the necessary information promptly so
+   that it can determine, within 30 days, whether the request may be approved. The department will
+   issue a notice of decision within 30 days of receiving the initial prior authorization request, even if all
+   necessary information has not been received.
+
+
+                                                                                                                10
+                                      INTERPRETIVE MEMO
+
+[X] Medicaid Covered Services Rule                          [ ] Medicaid Covered Services Procedure
+Interpretation                                                                        Interpretation
+
+This interpretive memo remains effective statewide until it is specifically supersededed-either by a
+subsequent interpretive memo or by a contradictory rule with a later date.
+
+Reference    7105 Date of this Memo     09/01/2013           Page    1 of 1
+This Memo: [X] is New [ ] Replaces one dated
+
+
+
+
+QUESTION:       Have there been any changes to Medical Service Payments?
+
+ANSWER:          Yes. On at least a quarterly basis, the DVHA, instead of its fiscal agent, sends a notice
+                 of Medicaid benefits paid to a sample of beneficiaries who received a service during
+                 that quarter.
+
+
+
+
+                                                                                                         11
+                                     INTERPRETIVE MEMO
+
+[X] Medicaid Covered Services Rule                         [ ] Medicaid Covered Services Procedure
+Interpretation                                                                       Interpretation
+
+This interpretive memo remains effective statewide until it is specifically supersededed-either by a
+subsequent interpretive memo or by a contradictory rule with a later date.
+Reference    7105.1 Date of this Memo 05/01/2012 Page 1 of 1
+This Memo: [ ] is New [X] Replaces one dated 04/01/2008
+
+
+
+
+QUESTION:       The rule at 7105.1 (H.) says that we do not cover items and services covered by private
+                health insurances. Do we cover items and services if the other insurance has denied
+                them?
+
+ANSWER:         We consider coverage under Medicaid rules if the other insurance denies because the
+                item or service is not included in the coverage contract, is non-covered, or benefits
+                are exhausted.
+                 If the other insurance has denied for a reason other than not included in the coverage
+                 contract, non-covered, or benefits exhausted, the beneficiary or provider must first
+                 go through all required levels of the insurance plan’s appeal process, as well as the
+                 external review from the Department of Banking, Insurance, Securities, and Health
+                 Care Administration (BISHCA), if eligible and available. If the billed amount is less
+                 than $100, BISHCA will not hear the appeal so the final insurance plan appeal is
+                 sufficient (mental health appeals do not have the $100 threshold). The beneficiary must
+                 meet the timeframes specified by BISHCA for the external appeal.
+                 Medicare beneficiaries or their providers must appeal through the Qualified Independent
+                 Contractor level prior to requesting that Medicaid cover the service or item.
+                 If these appeals are all denied, the beneficiary’s provider may ask Medicaid to make
+                 an independent assessment of coverage and medical necessity and, if approved, cover
+                 the item or service. The Medicaid decision will be based on the same documentation
+                 submitted for the previous appeals.
+                 For beneficiaries covered by Medicare, the requirement to go through the Medicare
+                 Qualified Independent Contractor appeal level applies with the exception of wheelchairs
+                 that Medicare denies or downgrades. Upon documentation of the Medicare action,
+                 Medicaid will make its own medical necessity and payment determination.
+
+
+
+
+                                                                                                        12
+Department of Vermont Health Access                                         Medicaid Covered Services Rules
+
+
+                                         Medical Service Payments
+
+
+7105        Medical Service Payments                    (04/01/2005, 05-09)
+
+The department pays providers for Medicaid Services through a fiscal agent. To receive payment, the
+provider must send a claim to the fiscal agent subject to the limitations and conditions specified in rules
+7105.2-7108.3.
+
+The department will reimburse a Medicaid recipient for his/her out-of-pocket expense for covered medical
+services under the following conditions only:
+
+   •     The recipient applied for benefits after February 15, 1973, and was denied; and
+   •     The recipient was later granted Medicaid as a result of any review of the initial denial which
+         resulted in its reversal (e.g. quality control review, supervisory review, SSI appeal, appeal and
+         reversal by the Human Services Board, or any other identification of an error in the original
+         determination which results in its reversal).
+
+Reimbursement is for 100 percent of the out-of-pocket expenditures made by a recipient or a member of
+his/her Medicaid group or a financially responsible relative who is not a member of the group, for
+Medicaid-covered services provided between the date of eligibility (which may be as early as the first day
+of the third month before the month of application) and the date the recipient's first Medicaid ID was made
+available to him/her (when this date cannot be determined otherwise, use the second mail delivery day
+following the date the first Medicaid ID was mailed). No copayment is due.
+
+Payment cannot otherwise be made direct to a Medicaid recipient, even if he/she has already paid the
+provider for a covered service. When Medicaid coverage is granted after bills have been paid (for
+example, through application for retroactive coverage), the recipient may ask the provider to bill Medicaid
+and refund the recipient's payment. If the provider agrees to do so, he/she must accept the Medicaid
+allowance and refund the full amount of the recipient's payment (see also Provider Responsibility).
+
+The fiscal agent sends a notice of Medicaid benefits paid to a sample of recipients who receive a service
+each month. The recipient must report any disagreement with the notice to the department.
+
+7105.1    General Exclusions      (02/01/2003, 02-33)
+
+   No payment will be made for certain items and services including the following:
+
+       A. Items and services not reasonable and necessary for the treatment or diagnosis of illness or
+          injury, or to improve the functioning of a malformed body member.
+
+       B. Items for which neither the beneficiary nor any other person or organization has a legal
+          obligation to pay. This exclusion applies, for example, to X-rays or immunizations provided
+          without charge to the general public by a health organization.
+
+       C. Items and services furnished, paid for or authorized by an entity of the Federal Government.
+
+       D. Care and services provided in a foreign country, except as provided in Medicare regulation 42
+          CFR 424 Subpart H, which allows payment for emergency inpatient hospital care and related
+          ambulance and physicians services if the following conditions are met:
+            •    The beneficiary was present in the U. S. when the emergency arose, or was traveling to
+                 Alaska by the most direct route without delay, and
+
+                                                                                                              13
+Department of Vermont Health Access                                        Medicaid Covered Services Rules
+
+
+                                        Medical Service Payments
+
+
+           •   The foreign hospital is closer to, or more accessible from the site of the emergency than the
+               nearest U. S. hospital equipped to deal with and available to treat the individual's illness
+               or injury.
+     E.   Care and services ordered or prescribed by an immediate relative (see F) of the beneficiary.
+     F.   Care and services furnished by an immediate relative of the beneficiary or by a facility, such as
+          a nursing home, of which an immediate relative is owner or principal stockholder. For purposes
+          of this section, "immediate relative" includes spouse; natural parent, child, and sibling; adopted
+          child and parent; stepparent, stepchild, stepbrother and stepsister; father-in-law, mother-in-law,
+          son-in-law, daughter-in-law, brother-in-law and sister-in-law; grandparent and grandchild.
+     G. Items and services to the extent that payment has been or can be expected to be made under
+        worker's compensation.
+     H. Items and services covered by private health insurances.
+     I.   Items and services ordered by an individual not enrolled as a Medicaid provider.
+     J.   Premiums for health insurance plans when the department has not required the beneficiary to
+          enroll or remain enrolled.
+     K. Preliminary procedures or treatments leading to a service that is not covered by Medicaid.
+     L.   Repair of items not covered by Medicaid.
+
+7105.2    Provider Responsibility     (07/01/1991, 91-31)
+
+   In order to assure the highest quality medical care and services, Medicaid payments are made only
+   to providers meeting established Medicaid standards. Providers who are certified for participation
+   in Medicare are automatically approved for Medicaid participation, providing no sanction has been
+   imposed as provided in Violations of Provider Responsibility. Comparable standards for providers
+   who do not participate in Medicare are established by State law and appropriate licensing and
+   standard-setting authorities in the respective health and mental health fields. Additional specific
+   requirements by provider type are contained in rules 7201-7608.
+
+   Payment for covered services under Medicaid is limited to those services certified as medically
+   necessary in the judgment of a qualified physician for the proper management, control, or treatment
+   of an individual's medical problem and provided under the physician's direction and supervision.
+
+   Providers agree to keep necessary records as required by Medicaid regulations and make them
+   available to authorized State and Federal officials upon request.
+
+   Medicaid payment rates are established for covered services. For certain services, a recipient
+   copayment may be required for a portion of the Medicaid rate (see Obligation of Recipients).
+
+   A provider must accept as payment in full the amounts paid in accordance with the rate schedule
+   established for Medicaid. For example, a physician performing a particular surgical procedure may
+   not request or receive any additional payment from the recipient, or anyone acting on the recipient's
+   behalf, for the same surgical procedure, although in medical expenses spend-down cases, as specified
+   by the Department for Children and Families, Economic Services Division, the recipient may be held
+   responsible for a portion of the amount specified in the fee schedule (see rules 4400-4474.4).
+
+
+                                                                                                          14
+Department of Vermont Health Access                                        Medicaid Covered Services Rules
+
+
+                                        Medical Service Payments
+
+
+   No Medicaid payment will be made for claims received either by the Department or its fiscal agent
+   later than six months following the date the service was provided, except when the delay has been
+   caused by extenuating circumstances and authorization has been granted by the OVHA.
+
+   When the recipient has other medical insurance, the benefits available must be applied prior to
+   payment by Medicaid. In instances where other insurance companies have been billed, but not paid,
+   claims may be submitted up to 12 months from the date of service.
+
+   In no case will payment be made when more than 24 months have elapsed since the date of service. A
+   provider must, as well, meet other commonly accepted standards of professional practice, including
+   compliance with State and Federal anti-discrimination regulations.
+
+   In all joint Medicare-Medicaid cases the provider of services must accept assignment of Medicare
+   payment in order to receive payment from Medicaid of amounts not covered by Medicare.
+
+   Claims and claims documentation as required must be submitted in a form acceptable to the OVHA
+   or its designee.
+
+7105.3   No Reassignment of Claims        (12/01/1980, 80-62)
+
+   No payment for any care furnished to a recipient will be made to anyone other than the provider
+   except that payment may be made in accordance with an assignment from the provider to a
+   government agency or an assignment made pursuant to a court order (see also appeal process
+   exception - rule 7105).
+
+   With respect to physicians, dentists, or other individual practitioners payment may be made:
+         To the employer, if the practitioner is required as a condition of his employment to turn over his
+         fees to his employer; or
+         To the facility in which the care or service was provided, if there is a contractual arrangement
+         between the practitioner and that facility whereby the facility submits the claims for
+         reimbursement; or
+         To a foundation, plan, health maintenance or similar organization, which furnishes health care
+         through an organized health care delivery system if there is a contractual arrangement between the
+         organization and the person furnishing the service under which the organization bills or receives
+         payments for such person's services.
+
+   Payment will not be made to or through a factor, making claim by virtue of a power of attorney, sale,
+   assignment or other transfer given by the provider to the factor. In this context a "factor" is an
+   organization, collection agency, service bureau, or an individual that receives an added fee or a
+   deduction of a portion of the face value of the accounts receivable in return for advancing money to a
+   provider for his accounts receivable.
+
+
+
+
+                                                                                                         15
+Department of Vermont Health Access                                         Medicaid Covered Services Rules
+
+
+                                    Violations of Provider Responsibility
+
+
+7106       Violations of Provider Responsibility (04/01/1999, 98-11F)
+Information from any source indicating that a provider is violating any of the policies set forth above shall
+be transmitted to the department. The following describes the administrative actions and sanctions that the
+department may take with regard to any provider participating in the Vermont Medicaid program. Taking
+these actions, however, does not preclude subsequent or simultaneous civil or criminal court action.
+
+7106.1    Definitions    (04/01/1999, 98-11F)
+
+   "Provider" means any individual, firm, corporation, association or institution that is currently
+   approved to provide medical assistance to a beneficiary pursuant to the Vermont Medicaid Program.
+
+   "Person" means any natural person, company, firm, association, corporation or other legal entity.
+
+   "Affiliates" means persons having an overt or covert relationship such that any one of them directly or
+   indirectly controls or has the power to control another.
+
+   "Administrative Agent" means an organization that processes and pays provider claims on behalf of
+   the department.
+
+   "Review Methods" means the methods by which the department or its administrative agent determines
+   whether payment errors have been made.
+
+   "Exclusion from participation" means termination of a provider's participation in the Vermont
+   Medicaid Program, with the probability that it is permanent.
+
+   "Suspension from participation" means temporary expulsion from participation in the Vermont
+   Medicaid Program for a specified period of time or until specified conditions are met.
+
+   "Deferment of payments" means the withholding of payments due a provider pending resolution of
+   a specified problem. It may be taken or continued as a sanction or imposed as an administrative
+   precaution upon discovery of a provider discrepancy.
+
+   "Offsetting of payments" means a reduction or other adjustment of the amounts paid to a provider
+   on deferred, pending, or future bills for purposes of recovering over-payments previously made
+   to the provider.
+
+   "Closed-end Medicaid provider agreement" means an agreement that is for a specified period of
+   time not to exceed twelve months.
+
+   "Open-end Medicaid provider agreement" means an agreement that has no specific termination date
+   and continues in force as long as it is agreeable to both parties.
+
+7106.2    Grounds for Sanctioning Providers       (04/01/1999, 98-11F)
+
+   Sanctions may be imposed by the department against a provider for one or more of the following
+   reasons.
+
+      A. Presenting or causing to be presented for payment any false or fraudulent claim for care or
+         services.
+
+
+                                                                                                           16
+Department of Vermont Health Access                                        Medicaid Covered Services Rules
+
+
+                                   Violations of Provider Responsibility
+
+
+     B. Submitting or causing to be submitted false information for the purpose of obtaining greater
+        compensation than that to which the provider is legally entitled.
+     C. Submitting or causing to be submitted false information for the purpose of meeting prior
+        authorization requirements.
+     D. Submitting a false or fraudulent application to obtain provider status.
+     E. Failing to disclose or make available to the department or its authorized agent records of
+        services provided to Medicaid beneficiaries and records of payments received for those
+        services.
+     F.   Failing to provide and maintain services to Medicaid beneficiaries within accepted medical
+          community standards as adjudged by a body of peers.
+     G. Failing to comply with the terms of the provider certification agreement that are printed on
+        the Medicaid claim form.
+     H. Over-utilizing the Medicaid program by inducing, furnishing or otherwise causing a
+        beneficiary to receive care and services not required by the beneficiary.
+     I.   Rebating or accepting a fee or portion of a fee or charge for a Medicaid patient referral.
+     J.   Conviction of a criminal offense related to the practice of medicine resulting in death or
+          injury to one or more patients.
+     K. Failing to meet and maintain substantial compliance with all State and Federal regulations and
+        statutes, applicable to the provider's profession, business or enterprise.
+     L.   Termination or suspension from participation in Medicare.
+     M. Suspension or termination from participation in other State or Federal programs such as
+        Maternal and Child Health, etc.
+     N. Documented practice of billing or collecting from the beneficiary an amount in addition to that
+        received from Medicaid for that care or service.
+     O. Failing to correct deficient provider operations after receiving written notice of these
+        deficiencies from the department, other responsible State agencies, or their designees.
+     P.   Formal reprimand or censure by an association of the provider's peers for unethical practices.
+     Q. Failure to change or modify delivery patterns for care and services within a reasonable period
+        from receipt of a request to do so by a peer review committee whose composition includes
+        representation of the provider's peers.
+     R. Presenting or causing to be presented for payment a disproportionate number of claims which
+        are rejected or denied due to submission errors made by the provider or his or her agent. In
+        this context disproportionate is determined in relation to providers of similar services.
+     S.   Being convicted under any law relating to the Medicaid program or under any law of general
+          applicability for acts arising out of the Medicaid program.
+
+7106.3    Sanctions    (04/01/1999, 98-11F)
+
+   One or more of the following sanctions may be invoked against providers based upon the grounds
+   specified in rule 7106.2:
+
+
+                                                                                                           17
+Department of Vermont Health Access                                             Medicaid Covered Services Rules
+
+
+                                      Violations of Provider Responsibility
+
+
+         •    exclusion from participation in the Medicaid program;
+
+         •    suspension from participation in the Medicaid program;
+
+         •    deferment or offsetting of payments to a provider;
+
+         •    transfer to a closed-end provider agreement not to exceed 12 months;
+
+         •    mandatory attendance at provider information sessions;
+
+         •    required prior authorization of service;
+
+         •    100 percent review of the provider's claims prior to payment; or
+
+         •    recovery of overpayment by offset or civil action, including recovery of reasonable interest
+              and costs.
+
+7106.4       Imposition and Extent of Sanctions     (04/01/1999, 98-11F)
+
+   When the staff of the department determines that grounds exist and a provider sanction is being
+   considered the department will advise the provider in writing, of the discrepancy noted. The contact
+   with the provider will set forth in the case of mandatory sanctions (rule 7106.4.3), the extent and
+   reason for the sanction, or in cases of discretionary sanctions:
+
+         •    the nature of the discrepancy or inconsistency;
+
+         •    the dollar value, if any, of such discrepancy or inconsistency;
+
+         •    the method of computing such dollar values;
+
+         •    that one or more sanctions may be taken;
+
+         •    that the provider may, within 20 days from receipt of written notice, request a meeting with
+              the Director of the OVHA to negotiate an amicable settlement of the discrepancy or request a
+              commissioner's conference to be heard in the matter;
+
+         •    that the provider may bring evidence, witnesses and representation of choice to either the
+              meeting or conference as desired, or may submit a written statement to the Director or
+              Commissioner for consideration in the decision to impose sanction; and
+
+         •    that if a meeting or conference is not requested within the 20-day period, the decision regarding
+              imposition of sanctions will be made based upon information at hand.
+
+   Simultaneous with taking action to advise the provider as above, the department may defer payments
+   on pending and future claims pending resolution of the discrepancy and shall so advise the provider if
+   this action has been taken.
+
+   If a mutually agreeable settlement is negotiated with the Director of the OVHA, formal sanction
+   action is discontinued at this point. If not, at any point in the negotiation, at the discretion of either
+   party, a commissioner's conference may be requested to resolve the issue.
+
+
+                                                                                                                18
+Department of Vermont Health Access                                          Medicaid Covered Services Rules
+
+
+                                    Violations of Provider Responsibility
+
+
+   If the provider prefers to bypass negotiation with the director and, within 20 days from receipt of
+   written notice, does request a commissioner's conference in the matter at dispute, or negotiations are
+   unsuccessful and a conference is requested, a date shall be set, with notice sent to all parties, and
+   the conference conducted within 20 days from the date of request. The purpose of the conference
+   shall be to assure that the commissioner has all pertinent information at hand prior to making a
+   decision regarding imposition of sanctions. The provider may utilize any records, witnesses, or
+   other information which will be helpful in achieving this purpose and may utilize legal or other
+   representation in the presentation. The conference will be recorded and pertinent records retained by
+   the department at least until the end of the appeal period, and if subsequent imposition of sanction is
+   appealed, shall be made available to all parties as potential evidence in the conduct of the appeal
+   hearing. If, after written notice as provided above, there has been no request from the provider for
+   either a director's meeting or commissioner's conference at the end of 10 days, this shall be noted and
+   the commissioner shall proceed, on the basis of information at hand, to imposition of sanctions as
+   outlined in following sections.
+
+ 7106.4.1     Imposition of Sanctions
+   The decision as to discretionary sanctions to be imposed shall be made by the commissioner.
+   The following factors shall be considered in determining discretionary sanctions to be imposed:
+       •    seriousness of the offense,
+       •    extent of the violations,
+       •    history of prior violations,
+       •    prior imposition of sanctions,
+       •    prior provision of provider information and training,
+       •    provider willingness to adhere to program rules,
+       •    agreement to make restitution,
+       •    actions taken or recommended by peer groups or Licensing Boards, and
+       •    whether a lessor sanction will be sufficient remedy.
+   The following mandatory sanctions shall be applied by the commissioner effective as of the date of
+   action requiring the sanction.
+       •    When a provider has been suspended or terminated from the Medicare program, imposition of
+            the same sanction as that imposed by Medicare is mandatory upon the commissioner by federal
+            regulation. The only appeal is to the Medicare sanctioning authority.
+       •    When a provider has been convicted of a violation under 33 VSA Chapter 26, Subchapter
+            5 or under any Vermont statute of general applicability, and said conviction arises from or is
+            directly related to the Medicaid program (33 VSA Ch 36), that provider will be suspended from
+            further participation in the Medicaid program for a period of four years unless such suspension
+            is specifically waived or reduced by the Secretary of Human Services.
+       •    When a provider has failed to retain licensure, certification or registration which is required by
+            state or federal law for participation in the Medicaid program, suspension from participation
+            shall be imposed.
+
+
+                                                                                                            19
+Department of Vermont Health Access                                           Medicaid Covered Services Rules
+
+
+                                      Violations of Provider Responsibility
+
+
+ 7106.4.2       Scope of Sanctions
+   A sanction may be applied to all known affiliates of a provider, provided that each decision to include an
+   affiliate is made on a case by case basis after giving due regard to all relevant facts and circumstances.
+   The violation, failure or inadequacy of performance may be imputed to a person with whom the provider
+   is affiliated where such conduct was accomplished within the course of his or her official duty or was
+   effectuated by him or her with the knowledge or approval of such person.
+   Suspension or exclusion from participation of any provider shall preclude such provider from
+   submitting claims for payment, either personally or through claim submitted by any clinic, group,
+   corporation or other association to the department or its fiscal agent for any services or supplies
+   provided under the Medicaid program except for those services or supplies provided prior to the
+   effective date of the suspension or exclusion.
+   No clinic, group, corporation or other organization which is a provider of services shall submit claims
+   for payment to the department or its administrative agent for any services or supplies provided by
+   a person within such organization who has been suspended or excluded from participation in the
+   Medicaid program except for those services and supplies provided prior to the effective date of the
+   suspension or termination.
+   When any provision of rule 7106.2, above is violated by a provider of services which is a clinic, group,
+   corporation or other organization, the department may suspend or terminate such organization or any
+   individual within said organization who is responsible for such violation.
+
+ 7106.4.3       Notice of Sanctions
+   When a provider has been sanctioned, the commissioner or the commissioner's designee shall notify
+   the provider in writing of the sanction imposed. The letter will also notify the provider of his right of
+   appeal. The provider shall also be notified when a decision is made to take no sanctions.
+   When a provider has been sanctioned, the commissioner shall notify as appropriate, the applicable
+   professional society, Board of Registration or Licensure, and federal or state agencies of the findings
+   made and the sanctions imposed.
+   When a provider's participation in the Medicaid program has been suspended or terminated, the
+   commissioner may notify the beneficiaries for whom the provider has submitted claims for services,
+   that such provider has been suspended or terminated.
+
+7106.5       Provider Information Program      (04/01/1999, 98-11F)
+
+   When the sanction of mandatory attendance at provider information programs is a condition of
+   continued participation, the department will notify the provider of time, date and place. These
+   sessions may be scheduled as group sessions or as individual sessions at the discretion of the
+   department and may include voluntary attendees as well as those required to attend under sanction.
+
+   Provider Information Programs may include instructions relating to:
+         •    claim form completion,
+         •    use and format of provider manuals,
+         •    use of appropriate procedure codes,
+         •    key provisions of the Medicaid program,
+         •    reimbursement rates and billing charges, and
+
+
+                                                                                                           20
+Department of Vermont Health Access                                          Medicaid Covered Services Rules
+
+
+                                     Violations of Provider Responsibility
+
+
+         •    how to inquire about coding or billing problems.
+
+7106.6       Right of Appeal    (04/01/1999, 98-11F)
+
+   The rights of appeal from mandatory sanctions are limited to the appeal rights inherent in the
+   originating authority; i.e., the Medicare sanctioning authority, the courts, or licensing authority as
+   appropriate to the cause for sanction.
+
+   A provider may appeal a discretionary sanction within 10 days after notice of such sanction by
+   requesting a hearing of the Secretary of the Agency of Human Services. Unless a timely request
+   for hearing is received by the Secretary, the sanctions shall be considered final and binding. The
+   sanctions imposed shall be suspended pending the outcome of the hearing; however, if payment on
+   pending and future claims has been deferred pending resolution of the discrepancy, such deferment
+   shall be continued.
+
+   A hearing on the appeal shall be conducted within 30 days of the request, by the Secretary or a
+   hearing officer appointed by the Secretary, under the same rules of conduct as in current use for
+   hearings before the Human Services Board.
+
+7106.7       Withholding Payments     (04/01/1999, 98-11F)
+
+   In accordance with 42 C. F. R. 455.23, the department may withhold payment, in whole or in
+   part, to a provider upon receipt of reliable evidence that; grounds for sanctioning a provider may
+   exist as set forth in rule 7106.2. The Medicaid Fraud and Residential Abuse Unit (MFRAU) of
+   the attorney general's office will review the evidence and determine whether there are reasonable
+   grounds to believe that fraud or willful misrepresentation has occurred. If the MFRAU determines
+   that reasonable grounds exist then the department may withhold payments without first notifying the
+   provider of its intention to withhold such payments.
+
+   The department shall send notice of its decision to withhold program payments within five days
+   of taking such action. The notice must set forth the general allegations that form the basis of the
+   withholding action. The notice shall also:
+
+         •    state that payments are being withheld in accordance with this provision;
+         •    state that the withholding is for a temporary period as stated in this section, and cite the
+              circumstances under which withholding will be terminated;
+         •    specify which Medicaid claims are affected by the withholding action; and
+         •    inform the provider of the right to submit to the commissioner written evidence contradicting
+              the allegations which formed the basis for the withholding action.
+
+   Within ten days, the commissioner shall review the evidence submitted by the provider and determine
+   whether the withholding of payments by the department under this section is warranted.
+
+   All withholding of payment actions under this section will be temporary and will not continue after:
+
+         •    the department and the Medicaid Fraud and Residential Abuse Unit of the Vermont
+              Attorney General's Office determine that there is insufficient evidence of fraud or willful
+              misrepresentation by the provider; or
+
+
+                                                                                                            21
+Department of Vermont Health Access                                       Medicaid Covered Services Rules
+
+
+                                  Violations of Provider Responsibility
+
+
+       •   legal proceedings related to the providers alleged fraud or willful misrepresentation are
+           completed.
+
+   The procedures relating to sanctions under the Medicaid program as delineated in rules 7106.4-7106.6
+   shall not apply during the period of any withholding action under this section.
+
+
+
+
+                                                                                                       22
+Department of Vermont Health Access                                        Medicaid Covered Services Rules
+
+
+                                            Utilization Control
+
+
+7107       Utilization Control              (12/01/1980, 80-62)
+
+The Department in accordance with 1902 (a) (30) of the Social Security Act, has implemented a statewide
+utilization control program to safeguard against unnecessary or inappropriate utilization of services
+available under Medicaid. Excessive or inappropriate use of service is identified through the utilization
+review process and characterized as recipient abuse, provider abuse, or a combination thereof. Reports of
+suspected abuse generated by Department staff, the medical community or the general public should be
+referred to the OVHA.
+
+7107.1   Beneficiary Abuse      (12/01/1980, 80-62)
+
+   When recipient abuse is identified, the recipient's access to care will be limited through a requirement
+   for prior authorization, restriction to selected providers, or other appropriate action. Instances of
+   recipient abuse include, but are not limited to:
+         Obtaining an inordinate supply of a prescription drug, especially those which are potentially
+         addictive; or
+         Consistently requesting care at a hospital emergency facility for non-emergency ailments; or
+         Obtaining concurrent service from two or more practitioners for the same condition without
+         medical referral, on an ongoing basis or for purpose of obtaining prescriptions necessary for the
+         implementation of (i) above. This is not to preclude reasonable access to a "second opinion" of a
+         diagnostic nature or taking action on such opinion.
+
+7107.2   Provider Abuse      (12/01/1980, 80-62)
+
+   When provider abuse is identified it may result in denial of payment, taking administrative action
+   as provided in rule 7106, or the initiation of civil or criminal fraud action. Examples of provider
+   abuse include, but are not limited to:
+         Inducing, furnishing or otherwise causing a recipient to receive service not required for the
+         recipient's care; or
+         Submission of incorrect claims; or
+         Excessive prescribing or dispensing of drugs, especially those which are potentially addictive or
+         which are essentially irrelevant to the patient's care other than for their placebo effect.
+
+
+
+
+                                                                                                          23
+Department of Vermont Health Access                                          Medicaid Covered Services Rules
+
+
+                                             Third Party Liability
+
+
+7108        Third Party Liability               (02/01/2003, 02-33)
+
+Medicaid is the payer of last resort, after all third party medical resources have been applied. A third party
+is defined as one having an obligation to meet all or any portion of the medical expense incurred by the
+beneficiary for the time such service was delivered. Such obligation is not discharged by virtue of being
+undiscovered or undeveloped at the time a Medicaid claim is paid; it then becomes an issue of recovery
+(see rule 7108.2). Medicaid beneficiaries are required to follow all rules of their third party insurance.
+Medicaid will not pay claims that have been denied by the third party insurer for failure to follow their
+rules. Some examples of third party medical resources are:
+   •     Medicare;
+   •     Health insurance, including health and accident but not that portion specifically designated for
+         "income protection" which has been considered in determining beneficiary eligibility to participate
+         in the Medicaid program;
+   •     Medical coverage included in conjunction with other benefit or compensation programs such as
+         military and veteran programs, and worker's compensation; and
+   •     Liability for medical expenses as agreed or ordered in negligence suits, support settlements, trust
+         funds, etc.
+
+7108.1    Health Insurance Premiums        (02/01/2003, 02-33)
+
+   The commissioner may elect at any time to require an applicant or beneficiary to enroll, or remain
+   enrolled, in a private health insurance plan, provided that such enrollment meets the conditions
+   specified in this section and in rule 4138.4 and, in the commissioners judgment, is likely to be
+   cost-effective and in the department's best interest. If enrollment is required, the department will pay
+   the individual's share of the health insurance premium.
+
+   Once an individual has met this requirement by enrolling or remaining enrolled in a health insurance
+   plan, Medicaid will cover the full array of Medicaid services and items, provided that the rules of
+   their health insurance plan have been followed.
+
+7108.2    Adjustment or Recovery        (02/01/2003, 02-33)
+
+   The department may take action either before or after Medicaid payment of a claim to assure
+   appropriate disbursement of Medicaid funds when payment turns out to be inappropriate due
+   to subsequently discovered resources, fraud, error, or the development of third party-liability.
+   Taking administrative action and accepting partial or full reimbursement shall not preclude either
+   simultaneous or subsequent action in civil or criminal court as appropriate.
+
+   The department may:
+
+       A. negotiate adjustment or recovery on a voluntary basis with recipient, provider, or an obligated
+          third party;
+       B. accept adjustment or recovery in conjunction with the imposition of provider sanctions (see
+          rule 7106.4);
+       C. file a lien against any third party to recover Medicaid expenditures from any settlement,
+          judgment, or other income that may be awarded through negligence liability action;
+
+                                                                                                             24
+Department of Vermont Health Access                                         Medicaid Covered Services Rules
+
+
+                                            Third Party Liability
+
+
+     D. enter direct civil action to effect adjustment or recovery when other efforts fail; or
+     E. investigate and prepare for referral to the appropriate criminal prosecutor any case presumed
+         subject to adjustment or recovery by way of such action.
+
+   Providers may be required to enter a claim against any subsequently discovered health insurance
+   resources previously unknown or overlooked and submit an adjusted Medicaid claim upon collection,
+   with reimbursement as appropriate.
+
+7108.3   Estate Recovery        (02/01/2003, 02-33)
+
+   The department shall seek adjustment or recovery from the estates of individuals who died on or
+   after January 1, 1994 provided that the individuals were 55 years of age or older when they
+   received long-term care services paid for by the Medicaid program for nursing facility services,
+   home-and-community-based waiver services, and related hospital and prescription drug services.
+   Related hospital and prescription drug services are those paid for by the Medicaid program
+   during a period of time when the individual is living in a nursing facility or enrolled in
+   a home-and-community-based waiver program. Adjustment or recovery shall include amounts
+   in personal needs accounts.
+
+   The department will file a claim with the probate court as a creditor of the estate to recover its
+   expenditures for long-term care services only after the death of an individual's surviving spouse, if
+   any, and when the individual has no surviving child who is under age 21, or blind, or permanently and
+   totally disabled as defined by the Social Security Administration.
+
+ 7108.3.1        Exemptions from Estate Recovery
+   The department exempts the following assets from estate adjustment or recovery when an heir requests
+   an exemption in writing no later than four months after the publication of notice to creditors of the
+   estate.
+
+     A. Homes in trust prior to December 1, 1997:
+            The department normally recovers for long-term care Medicaid costs incurred after
+            January 1, 1994. Individuals with homes in revocable trusts who received Medicaid
+            payment of long-term care services before December 1, 1997, however, are exempt
+            from recovery until after May 1, 1998, or, if later, the effective date of the first
+            Medicaid eligibility review completed after December 1, 1997.
+     B. When loss of assets would present an undue hardship:
+            The department will not seek adjustment or recovery from assets when that
+            adjustment or recovery would present an undue hardship to the decedents family
+            members, as specified below and in rule 7108.3.
+            1.   Income-producing assets
+                  Undue hardship exists when adjustment or recovery from an income-producing asset
+                  can be made only if the asset, alone or in combination with other related assets,
+                  is sold and either or both of the following conditions are met:
+
+                  a.   The assets sold are the sole source of income for the decedents spouse, parents,
+                       children, or siblings.
+
+
+                                                                                                          25
+Department of Vermont Health Access                                          Medicaid Covered Services Rules
+
+
+                                             Third Party Liability
+
+
+                  b.    As a result of the sale, the decedents spouse, parents, children, or siblings would
+                        qualify for public assistance (Reach Up benefits, SSI/AABD, general or emergency
+                        assistance, or TANF or TANF/MOE benefits from another state).
+     C. Estates with personal property valued at less than $2,000:
+            The department will not seek recovery where the estate inventory filed with the probate
+            court consists only of personal property that does not exceed $2,000 in value, such as
+            home furnishings, apparel, personal effects, and household goods.
+            The department will not seek to recover assets for which the department has
+            imposed a penalty period of ineligibility for Medicaid coverage of long-term
+            care services related to the transfer of those assets.
+
+ 7108.3.2        Hardship Exemptions for Homesteads
+   At any time before closure of the probate estate, an heir may assert that adjustment or recovery against
+   the homestead would be an undue hardship and that the homestead should be exempt from adjustment
+   or recovery for the costs of Medicaid long-term care services. The department shall exempt a decedents
+   home from estate adjustment or recovery based on undue hardship when one or more of the following
+   three conditions have been established to the departments satisfaction.
+
+     A. A sibling has been living in the home continuously for at least one year immediately before the
+        date the decedent began receiving long-term care services.
+     B. A son or daughter has been living in the home continuously for at least two years immediately
+        prior to the date the decedent began receiving long-term care services and provided care
+        that allowed the decedent to remain at home.
+     C. Conditions (1), (2), and (3) below have been met.
+            1.    The fair market value of the homestead is less than $250,000. If the fair market value of
+                  the homestead exceeds this amount, the first $250,000 in fair market value shall be
+                  exempt from estate recovery and any equity value in excess of $250,000 shall be subject
+                  to the provisions of rule 7108.3.
+            2.    A sibling or lineal heir of the deceased Medicaid beneficiary will inherit the homestead.
+                  A lineal heir is a direct descendant, such as a child or grandchild.
+            3.    The heir meets one or both of conditions (a) and (b) below.
+
+                   a.   The heir has gross family income below 300 percent of the federal poverty level. No
+                        income exclusions or deductions are allowed. The income of the persons presented
+                        in the following table is included in the heirs gross family income, provided that
+                        they are living in the heirs household.
+
+
+
+
+                                                                                                              26
+Department of Vermont Health Access                                                      Medicaid Covered Services Rules
+
+
+                                                  Third Party Liability
+
+
+                                                      Heir's Household
+
+                                                                                             Family Members,
+                                          Type of Heir
+                                                                                     If Living in the Heirs Household
+                                                                            Heir
+                       Adult 18 years or older; or person younger than 18
+                                                                            Heirs spouse or civil union partner
+                       and emancipated
+                                                                            Heirs biological or adoptive child or stepchild
+                                                                            Heir
+                                                                            Heirs parent
+                       Person younger than 18 and not emancipated           Heirs stepparent
+                                                                            Heirs biological or adoptive sibling, stepsibling, or
+                                                                            half sibling, if younger than 18 and not emancipated
+
+
+                 b. The heir demonstrates that significant services or financial support provided to the
+                    deceased person by heirs meeting condition (2) or the spouses of such heirs enabled
+                    the person to avoid long-term care or delay it at least six months. It is not necessary
+                    for the deceased person to have been a Medicaid beneficiary when the services or
+                    financial support were provided. Services may have been provided in combination
+                    with services provided by governmental or other private entities.
+                      To meet condition (b), the services or financial support must fall into
+                      one or both of the following two categories:
+                      i.    Medical or remedial care or support services that were:
+                             •     medically necessary;
+                             •     provided directly by the heir or the heir's spouse without compensation, or
+                                   purchased with the heir's funds; and
+                             •     provided while the deceased person required medical care and services
+                                   consistent with the level of care standard for level III residential care homes
+                                   at a frequency averaging no fewer than three times per week or, if provided
+                                   less frequently, constituting the equivalent expenditure of time or money.
+                            The department shall not verify the level of care unless it has a reasonable
+                            basis for questioning that the level III standard was met.
+                      ii.   Other services or financial support at least as significant as the care or services
+                            described in category (i).
+            When there are two or more heirs, the full value of the homestead is exempt from Medicaid
+            estate adjustment or recovery only if each heir meets conditions (1), (2), and (3) above. When
+            one or more heirs do not meet conditions (1), (2), and (3), the percentage of the value of the
+            homestead corresponding to their share is subject to Medicaid estate adjustment or recovery.
+
+ 7108.3.3      Adjusting Claims Against Homesteads
+   An estate includes all real and personal property and other assets listed on an inventory filed in the
+   probate court. The probate court oversees the distribution of assets to heirs and the payment of the
+   decedent's outstanding debts, which requires creditors to submit proof of their claims to the court.
+   The probate court judge compares the total value of claims filed by creditors to the total value of
+   available assets in the estate. The court determines which assets are available to pay debts.
+
+
+                                                                                                                                    27
+Department of Vermont Health Access                                         Medicaid Covered Services Rules
+
+
+                                            Third Party Liability
+
+
+   When any heir meets the department's undue hardship criteria as specified in rule 7108.3, some or all
+   of these available assets may be exempt from adjustment or recovery by the department under these
+   rules. Nonexempt assets are those subject to the department's claim because an heir has not met the
+   undue hardship criteria. Creditors other than the department are not subject to these exemptions.
+   When the total available assets are insufficient to pay all claims, the probate court prioritizes the debts
+   and prorates each claim according to law. Each creditor collects the resulting percentage of its claim.
+   If there are sufficient nonexempt assets to allow the department to collect its full percentage, it does
+   so. If the nonexempt assets allow the department to collect only a partial amount of its share after the
+   court's proration, it collects that amount. The department shall maintain its original claim so it can
+   be prorated along with all other creditors claims according to law. The department notifies the court
+   of its decision on the homestead exemption. If the department grants a homestead exemption, it shall
+   inform the court of the maximum payment it will accept against its claim. The department determines
+   the maximum payment it will accept by subtracting the amount of the exemption from the amount of
+   the department's claim.
+
+ 7108.3.4     Retroactive Homestead Exemptions
+   The undue hardship exemption applicable to homesteads shall be effective for any probate estate opened
+   after June 30, 1999. Heirs seeking the exemption from July 1, 1999, through the effective date of
+   this policy must submit their claim to the department's Coordination of Benefits unit in the Office of
+   Vermont Health Access within 60 days following receipt of proper notice from the department. In the
+   sole discretion of the commissioner, the department may make exceptions to the 60-day rule when an
+   heir establishes undue hardship due to lack of notice, a medical need, or natural disaster. Heirs seeking
+   an exemption from the 60-day submission requirement must sign an affidavit describing the condition
+   that prevented them from complying with the 60-day submission requirement and submit the affidavit
+   along with supporting documentation to the commissioner.
+
+ 7108.3.5     Long-Term Care Insurance Partnership Exemption
+   The department will exempt assets or resources pursuant to rule 4242.2 in an amount equal to the
+   insurance benefit payments that are made to or on behalf of an individual who is a beneficiary under
+   a qualified State long-term care insurance partnership policy whether or not an heir requests an
+   exemption.
+
+
+
+
+                                                                                                            28
+Department of Vermont Health Access                                        Medicaid Covered Services Rules
+
+
+                                          Health Care Trust Fund
+
+
+7109       Health Care Trust Fund                  (10/01/1995, 95-28)
+
+In accordance with 33 VSA §1956, a Health Care Trust Fund is established in which proceeds from health
+care provider taxes shall be deposited. The proceeds of other taxes designated by law and donations may
+also be deposited in the fund.
+
+Health care provider taxes shall be assessed upon hospitals, nursing homes and intermediate care facilities
+for the mentally retarded (ICF/MRs) licensed in Vermont, pursuant to 33 VSA §1953, §1954, and §1955,
+in an amount established by statute.
+
+For each fiscal year in which health care provider taxes are due, the Office of Vermont Health Access
+(OVHA) shall notify each provider of the amount of its assessment. The notification shall include the
+appeals provisions set forth in 33 VSA §1958 and shall establish an assessment payment schedule for each
+provider.
+
+Payment in full of each installment must be sent to the OVHA post marked no later than the date specified
+for each payment by the Director in the assessment notification. Late payments will be subject to a late
+fee assessment of eight percent or $1,000, whichever is less. The filing of a request for reconsideration,
+pursuant to 33 VSA §1958, does not relieve a provider from its obligation to make timely payments.
+
+For hospital fiscal years ending after June 30, 1993, hospitals are required to identify gross inpatient
+revenues as a separate footnote in their audited financial statement.
+
+
+
+
+                                                                                                           29
+                                 INTERPRETIVE MEMO
+[X] Medicaid Covered Services Rule             [ ] Medicaid Covered Services Procedure
+Interpretation                                                           Interpretation
+
+
+This interpretive memo remains effective statewide until it is specifically supersededed-either by a
+subsequent interpretive memo or by a contradictory rule with a later date.
+Reference    7301.1 Date of this Memo 1/01/2014 Page 1 of 1
+This Memo: [X] is New [ ] Replaces one dated
+
+
+
+
+QUESTION:       Have there been any changes in Medicaid coverage of smoking cessation counseling?
+
+ANSWER:          Yes. Effective January 1, 2014, the DVHA will cover face-to-face counseling for
+                 smoking cessation for all Vermont Medicaid beneficiaries. The maximum number of
+                 allowed visits per calendar year and qualified providers who can bill for counseling
+                 remains unchanged.
+
+
+
+
+                                                                                                        30
+Department of Vermont Health Access                                            Medicaid Covered Services Rules
+
+
+                                 Physicians and Other Licensed Practitioners
+
+
+7301         Physicians and Other Licensed Practitioners                                (07/26/2012, 12-01)
+
+Coverage of physician and other licensed practitioner services are limited to:
+     Vermont physicians and other specified practitioners licensed by the appropriate licensing agency of
+     the State; or
+     Out-of-State physicians and other licensed practitioners affiliated with the hospitals included in the
+     Green Mountain Care Network.
+All other out-of-state physicians and other licensed practitioners are considered out-of-network and
+non-emergent, non-urgent office visits are covered only if the service receives prior authorization.
+Emergent and urgent care is defined in Medicaid Rule 7101.3.
+
+For certain services, a recipient co-payment may be required for a portion of the Medicaid rate (see
+Obligation of Recipients).
+
+7301.1    Physician Services      (07/26/2012, 12-01)
+
+   Covered physician services are those provided by a Doctor of Medicine (M.D.), Doctor of Osteopathic
+   Medicine(D.O.), or Naturopathic Doctor (N.D.) when medically necessary and performed within
+   the scope of their licenses.
+
+   Routine physical exams, diagnostic services, immunizations, and certain injectable drugs are covered.
+
+   Medical and surgical services provided in the home, office, hospital or nursing home are covered with
+   limitations described in rule 7301.1.1.
+
+   Supplies used in connection with a physician's treatment are included in the service; some examples of
+   these supplies are tongue depressors, dextrosticks, bandages, antiseptics and other consumable items.
+
+   Coverage of face-to-face counseling for smoking cessation for pregnant Vermont Medicaid
+   beneficiaries is limited to 16 visits per calendar year. Services can be provided by physicians, nurse
+   practitioners, licensed nurses, nurse midwives, and physician’s assistants. “Qualified” Tobacco
+   Cessation Counselors are also allowed (requires at least eight hours of training in tobacco cessation
+   services from an accredited institute of higher education).
+
+  7301.1.1    Physician Visits
+   Coverage for physician visits is limited in the following manner:
+         Office visits - up to five visits per month;
+         Home visits - up to five visits per month;
+         Nursing facility visits - up to one visit per week;
+         Hospital visits - up to one visit per day for acute care, limited to the direct services of a physician,
+         a physician’s assistant, or nurse-midwife.
+   Visits in excess of those listed above may be covered if there is a significant change in the health status
+   of the patient that requires more frequent visits; prior authorization is required for visits in excess of
+   the limits listed above.
+
+                                                                                                                31
+Department of Vermont Health Access                                           Medicaid Covered Services Rules
+
+
+                                Physicians and Other Licensed Practitioners
+
+
+   Coverage for surgery services includes postoperative care limited to evaluation and management
+   services compliant with Medicare global-day recommendations.
+
+ 7301.1.2     Nurse Practitioners
+   Coverage is limited to enrolled nurse practitioners in either independent practice or affiliated with a
+   physician when certified as: 1) a Nurse-Midwife or 2) a Family Nurse Practitioner or 3) a Pediatric
+   Nurse Practitioner and is limited to Medicaid covered services contained in protocols reviewed and
+   accepted by the Vermont State Board of Nursing and the Vermont State Board of Medical Practice.
+
+7301.2   Psychiatric Services     (07/26/2012, 12-01)
+
+   Psychiatric services are covered as physician's services for treatment of mental, psychoneurotic, or
+   personality disorders, as defined in the American Psychiatric Association's "Diagnostic and Statistical
+   Manual - Mental Disorders.”
+
+ 7301.2.1     Psychologists Practicing Independently
+   Diagnostic tests performed by a qualified Vermont psychologist practicing independently of an
+   institution, agency, or physician's office are covered. A "qualified" psychologist is one practicing in
+   the state who has been approved for participation in Medicare by the Part B Carrier or who is licensed
+   in accordance with 26 V. S. A. Chapter 55.
+   Psychological evaluation includes interviewing, testing, scoring, evaluation and a written report. Group
+   therapy is limited to no more than three sessions per week. Reimbursement is limited to one session
+   per day per group and no more than 10 patients in a group.
+
+ 7301.2.2     Non-Covered Services
+   Psychotherapy or diagnostic tests provided by a psychologist practicing independently to an inpatient
+   or outpatient of general hospital or mental hospital or in a community mental health clinic are not
+   covered.
+
+7301.3   Reimbursement       (07/26/2012, 12-01)
+
+   Reimbursement for physicians and other licensed practitioners is described in the Provider Manual.
+
+
+
+
+                                                                                                           32
+Department of Vermont Health Access                                          Medicaid Covered Services Rules
+
+
+                                       Rehabilitative Therapy Services
+
+
+7317        Rehabilitative Therapy Services                       (02/26/2011, 10-13)
+
+Rehabilitative Therapy services include diagnostic evaluations and therapeutic interventions that are
+designed to improve, develop, correct, prevent the worsening of, or rehabilitate functions that affect the
+activities of daily living that have been lost, impaired, or reduced as a result of acute or chronic medical
+conditions, congenital anomalies, or injuries. Rehabilitative Therapies include Occupational Therapy
+(OT), Physical Therapy (PT), and Speech Therapy (ST) (also called Speech/Language Therapy or Speech
+Language Pathology). The definition and meanings of Occupational Therapy, Physical Therapy, and
+Speech Therapy can be found in the State Practice Acts at 26 V.S.A. §2081a, §3351, and §4451.
+
+Rehabilitative Therapy services must be:
+   •     directly related to an active treatment regimen designed by the physician; and
+   •     of such a level of complexity and sophistication that the judgment, knowledge, and skills of a
+         qualified therapist are required; and
+   •     reasonable and necessary under accepted standards of medical practice to the treatment of the
+         patient’s condition.
+
+                                                   NOTE
+                        Not all services listed in the State Practice Acts are medical
+                        in nature. Medicaid only covers medically necessary
+                        rehabilitative therapy services. Medical necessity is defined
+                        in Rule 7103.
+
+7317.1    Limitations     (05/01/2012, 11-19)
+
+   Quantity limits on services are on a per beneficiary basis, regardless of program or coverage source.
+   Changing programs and/or eligibility during a calendar year does not reset the number of available
+   visits.
+
+   These service limitations and prior authorization requirements are not applicable when Medicare
+   is the primary payer.
+
+       A. Rehabilitative Therapy Services for Beneficiaries Age 21 and Older
+           Thirty (30) therapy visits per calendar year are covered and include any combination
+           of physical therapy, occupational therapy and speech/language therapy.
+           Prior authorization beyond 30 therapy visits in a calendar year will only
+           be granted to beneficiaries with the following diagnoses, and only if the
+           beneficiary meets the criteria found in Rule 7317:
+            •    Spinal Cord Injury
+            •    Traumatic Brain Injury
+            •    Stroke
+            •    Amputation
+            •    Severe Burn
+       B. Rehabilitative Therapy Services for Beneficiaries Under Age 21
+
+                                                                                                           33
+Department of Vermont Health Access                                               Medicaid Covered Services Rules
+
+
+                                          Rehabilitative Therapy Services
+
+
+              Eight (8) therapy visits from the start of care date per diagnosis/condition for each type
+              (physical therapy, occupational therapy, and speech/language therapy) are covered based
+              on a physician’s order. Provision of therapy services beyond the initial 8 visits is subject
+              to prior authorization review as specified below (Rule 7317.2).
+
+7317.2       Prior Authorization Requirements:   (02/26/2011, 10-13)
+
+   Prior authorization is defined in Rules 7102-7102.4.
+
+   To receive prior authorization for additional services a physician must submit a written request to
+   the department with pertinent clinical data showing the need for continued treatment, projected
+   goals and estimated length of time.
+
+7317.3       Rehabilitative Therapy Services: Home Health   (02/26/2011, 10-13)
+
+   Rehabilitative therapy services provided by a home health agency are covered for up to four months
+   based on a physician’s order, for beneficiaries of any age. Provision of therapy services beyond the
+   initial four-month period is subject to prior authorization review as specified below.
+
+   Prior Authorization Requirements:
+
+   In making its prior authorization decision, the DVHA will obtain and take into consideration a
+   qualified therapist’s assessment when determining whether the service may be reasonably provided by
+   the patient’s support person(s). In addition, when the department has determined that therapy services
+   may be reasonably provided by the patient’s support person(s) and the patient otherwise meets the
+   criteria for authorization of therapy services beyond the initial four-month period, professional
+   oversight of the support person’s provision of these services is covered, provided such oversight is
+   medically necessary.
+
+   Prior authorization for rehabilitative therapy services beyond one year will be granted only:
+         •     if the service may not be reasonable provided by the patient’s support person(s), or
+         •     if the patient undergoes another acute care episode or injury, or
+         •     if th epatient experiences increased loss of function, or
+         •     if deterioration of the patient’s condition requiring therapy is imminent and predictable.
+
+
+
+
+                                                                                                               34
+Department of Vermont Health Access                                          Medicaid Covered Services Rules
+
+
+                                               Clinic Services
+
+
+7403       Clinic Services             (10/02/1984, 84-46)
+
+Covered clinic services include the following:
+     Covered physicians' services billed by the clinic on the physician's behalf under an agreement with
+     the physician; and
+     Services and medical supplies furnished by the clinic incident to covered physicians' services.
+
+7403.1   Mental Health Clinics        (10/02/1984, 84-46)
+
+   For policies, amount, duration and scope of benefits, and reimbursement rates, see the Department
+   of Mental Health regulations #8l-A20. The Department of Mental Health is also responsible for
+   determining provider eligibility as a Community Mental Health Clinic.
+
+7403.2   Indian Health Service Facilities     (10/02/1984, 84-46)
+
+   Indian Health Service facilities are accepted as providers on the same basis as other qualified
+   providers. The facility need not obtain a license, but must meet all applicable standards for licensure.
+
+7403.3   Rural Health Clinics      (12/01/1980, 80-62)
+
+   Coverage is limited to rural health clinics which have been certified for participation in Medicare as
+   evidenced by a current agreement signed by the Secretary of HHS.
+
+   Reimbursable rural health clinic services are:
+         Services performed by a physician who is employed by the clinic to provide such services; and
+         Services and supplies incident to a physician's service if they are of a type commonly furnished
+         in physicians' offices; of a type commonly rendered either without charge or included in the rural
+         health clinic's bill; furnished as an incidental, although integral, part of a physician's service;
+         furnished under the direct, personal supervision of a physician; and, in the case of a service,
+         furnished by a member of the clinic's health care staff. Only drugs and biologicals which cannot
+         be self-administered are included in this benefit (see rule 7501 for pharmaceutical items); and
+         Nurse practitioner and physician assistant services if they are furnished by a qualified professional
+         employed by the clinic; furnished under the medical supervision of a physician; furnished in
+         accordance with medical orders prepared by a physician; of a type the practitioner is legally
+         permitted to perform in the State; and of a type that would be coverable if furnished by a physician;
+         and
+         Services and supplies incident to a nurse practitioner's or physician assistant's services if they
+         are of a type commonly furnished in physicians' offices; of a type commonly rendered either
+         without charge or included in the clinic's bill; furnished as an incidental, although integral, part
+         of professional services of a nurse practitioner or physician assistant service; furnished under
+         direct personal supervision of a nurse practitioner or physician assistant; and, in the case of a
+         service, furnished by a member of the clinic's health care staff. Only drugs and biologicals which
+         cannot be self-administered are included in this benefit (see rule 7501 for pharmaceutical items).
+
+   Payment for rural health clinic services will be made in accordance with rates established for purposes
+   of reimbursement under Medicare as provided in 42 CFR 405.2425.
+
+                                                                                                            35
+Department of Vermont Health Access                                          Medicaid Covered Services Rules
+
+
+                                        Laboratory and Radiology Services
+
+
+7405           Laboratory and Radiology Services                        (02/26/2011, 10-13)
+
+Services Covered laboratory and radiology services include the following:
+   •     Microbiological, serological, hematological and pathological examinations; and
+   •     Diagnostic and therapeutic imaging services; and
+   •     Electro-encephalograms, electrocardiograms, basal metabolism readings, respiratory and cardiac
+         evaluations.
+Coverage is extended to independent laboratories and radiological services approved for Medicare
+participation for services provided under the direction of a physician and certification that the services are
+medically necessary.
+
+When the place of service is "hospital inpatient", coverage for the technical component is included in the
+per diem hospital reimbursement. When the place of service is "hospital outpatient", coverage is included
+in the hospital reimbursement on the outpatient claim form for the technical component. Reimbursement
+for the professional component will be made only to a physician.
+
+Anatomic pathology services form an exception to the place of service and component coverage. Total
+procedure codes may be used for anatomic pathology services performed by a laboratory outside the
+hospital in which the beneficiary is an inpatient or for an independent laboratory performing tests for
+registered inpatients.
+
+7405.1       Limitations:   (02/26/2011, 10-13)
+
+   Laboratory services for urine drug testing is limited to eight (8) tests per calendar month for
+   beneficiaries age 21 and older. This limitation applies to tests provided by professionals, independent
+   labs and hospital labs for outpatients.
+
+7405.2       Prior Authorization - Radiology:     (02/26/2011, 10-13)
+
+   The following outpatient high-tech imaging services require prior authorization:
+         •     computed tomography (CT) (previously referred to as CAT scan);
+         •     computed tomographic angiography (CTA);
+         •     magnetic resonance imaging (MRI);
+         •     magnetic resonance angiography (MRA);
+         •     positron emission tomography (PET); and
+         •     positron emission tomography-computed tomography (PET/CT).
+
+   The following imaging services do not require prior authorization:
+         •     those provided during an inpatient admission;
+         •     those provided as part of an emergency room visit;
+         •     x-rays, including dual x-ray absorptiometry (DXA) images;
+         •     ultrasounds; or
+
+                                                                                                             36
+Department of Vermont Health Access                                         Medicaid Covered Services Rules
+
+
+                                        Laboratory and Radiology Services
+
+
+         •     mammograms.
+
+7405.3       Prior Authorization - Laboratory:   (02/26/2011, 10-13)
+
+   Exceptions to the limitations in Rule 7504.1 must be prior approved.
+
+
+
+
+                                                                                                         37
+Department of Vermont Health Access                                         Medicaid Covered Services Rules
+
+
+                                      Private Non-Medical Institutions
+
+
+7411        Private Non-Medical Institutions (07/01/1999, 99-12)
+A Private Non-Medical Institution (PNMI) is a facility that provides medical care to its residents. The
+facility is enrolled as a Medicaid provider and receives Medicaid reimbursement for the actual medical
+services that are provided to Medicaid beneficiaries residing in the facility. This definition of a PNMI is
+consistent with federal regulations at 42 CFR § 434.2.
+
+7411.1    Residential Child Care Facilities    (07/01/1999, 99-12)
+
+   These facilities are residential child care facilities that are maintained and operated for the provision
+   of child care services, as defined in 33 VSA § 306, and are licensed by the Department for Children
+   and Families under the "Licensing Regulations for Residential Child Care Facilities".
+
+   Services may be provided by physicians, psychologists, R.N.s, L.P.N.s, speech therapists,
+   occupational therapists, physical therapists, licensed substance abuse counselors, Masters degree
+   social workers, and other qualified staff carrying out a plan of care. Such plans of care, or initial
+   assessments of the need for services, must be prescribed by a physician, psychologist, or other
+   licensed practitioner of the healing arts within the scope of his/her practice under State law.
+
+7411.2    Prior Authorization    (07/01/1999, 99-12)
+
+   All admissions to private non-medical institutions for which Medicaid reimbursement is anticipated
+   must be prior authorized by the placing agency, i.e., the Department for Children and Families, the
+   Department Mental Health, the Department of Disabilities, Aging and Independent Living, or the
+   Department of Education or Local Education Agency.
+
+7411.3    Reimbursement      (07/01/1999, 99-12)
+
+   Reimbursement for these services is made at per diem rates based on a cost-based prospective rate
+   setting system as described in the Private Non-Medical Institution section of the Medicaid Practices
+   and Procedures Manual. Such rates include the following three components:
+
+      A. treatment,
+      B. room, board, and supervision
+      C. education.
+
+   No Medicaid reimbursement is made for the room and board or educational components of the rates.
+
+7411.4    Assistive Community Care Facilities      (07/01/1999, 99-12)
+
+   These PMNI facilities must be licensed by the Department of Disabilities, Aging and Independent
+   Living as level III residential care homes and must be in good standing with the licensing agency in
+   order to become a certified Medicaid provider.
+
+   The medical services provided in an Assistive Community Care facility include:
+
+
+
+                                                                                                           38
+Department of Vermont Health Access                                         Medicaid Covered Services Rules
+
+
+                                      Private Non-Medical Institutions
+
+
+   Case Management: Case management assists residents in gaining access to needed medical, social,
+   and other services in order to promote the residents independence in the facility. In addition case
+   management includes coordinating referrals required to link the resident and family to services
+   specified in the residents plan of care, and consultation to providers and support person(s).
+
+   Assistance with the Performance of Activities of Daily Living: Assistance with the performance of
+   activities of daily living includes help with meals, dressing, movement, bathing, grooming, or other
+   personal needs.
+
+   Medication Assistance, Monitoring and Administration: Medication assistance, monitoring and
+   administration include those activities defined and described in the Vermont Residential Care Home
+   Licensing Regulations adopted 10/7/93 at 2.2b, 2.2.a, and 5.9 (see pages 3, and 25 - 31).
+
+   24-hour On-site Assistive Therapy: Assistive therapy includes activities, techniques or methods
+   designed to improve cognitive skills or modify behavior. Assistive therapy is furnished in consultation
+   with a licensed professional, such as a registered or practical nurse, physician, psychologist, mental
+   health counselor, clinical social worker, qualified mental retardation professional (QMRP), or
+   special educator.
+
+   Restorative Nursing: Restorative nursing includes services that promote and maintain function.
+   Restorative nursing services are specified in the residents service plan and may be provided in
+   a group setting.
+
+   Nursing Assessment: Nursing assessment includes completion of an initial and periodic re-assessment
+   of the resident, and other skilled professional nursing activities that include evaluation and monitoring
+   of resident health conditions and care planning interventions to meet a residents needs at the times
+   specified by the Vermont Residential Care Home Licensing Regulations for Level III residential
+   care homes.
+
+   Health Monitoring: Health monitoring includes resident observation and appropriate reporting or
+   follow-up action by residential care home staff, in accordance with the Residential Care Home
+   Licensing Regulations adopted 10/7/1993.
+
+   Routine Nursing Tasks: Routine nursing tasks are performed by trained personal care or nursing staff
+   with overview from a licensed registered nurse in accordance with the Vermont Residential Care
+   Home Licensing Regulations adopted 10/7/1993 and the Vermont Nurse Practice Act. Assistive
+   Community Care Services reimbursement is not designed to compensate for care which requires a
+   variance under the Vermont Residential Care Home Licensing Regulations adopted 10/7/1993, or
+   which cannot be performed while meeting the needs of the total resident population of a home.
+
+7411.5   Reimbursement       (07/01/1999, 99-12)
+
+   Reimbursement for assistive community care services is made at a single per diem rate for all
+   residential care homes enrolled in Medicaid to provide this service. This reimbursement does not
+   cover room and board services provided to Medicaid beneficiaries.
+
+
+
+
+                                                                                                           39
+Department of Vermont Health Access                                          Medicaid Covered Services Rules
+
+
+                                         Long-Term Care Services
+
+
+7601       Long-Term Care Services                    (02/06/10, 09-07)
+
+These regulations apply to all long-term care services for Medicaid beneficiaries of any age. For
+beneficiaries age 18 or over, regulations promulgated by the Department of Disabilities, Aging and
+Independent Living (DAIL) “Choices for Care 1115 Long-Term Care Medicaid Waiver” program (Social
+Security Act Section 1115 Demonstration Project Number 11-W-00191/1) shall be controlling if they
+conflict with the provisions in this chapter (7601-7606).
+
+The Medicaid Program (Title XIX) includes long-term care services provided to eligible beneficiaries in
+the following settings.
+
+  A. Nursing Facilities (NF’s)
+       A Nursing Facility provides, directly or by contract, room, board, skilled nursing and rehabilitation
+       services on a 24-hour a day basis to assist beneficiaries to reach their optimal level of functioning.
+       All nursing facilities, pursuant to Section 1910(2) of the Social Security Act, have been certified
+       for participation in Medicare, or if not participating in Medicare, have been continuously
+       certified since July 1, 1980 for participation as a nursing facility as evidenced by a valid
+       certification agreement on file with the Office of Vermont Health Access.
+       An out-of-state nursing facility must be participating in that state's Medicaid program as well as
+       enrolled as a Vermont Medicaid provider. An in-state nursing facility (or distinct part of a facility)
+       must be licensed by DAIL and enrolled as a Vermont Medicaid provider, in order to be reimbursed.
+          (1) Rehabilitation Center Services
+            Coverage of rehabilitation center services is limited to Medicare-certified nursing facilities,
+            licensed by, and approved for participation by the state in which the facility is located
+            and enrolled as a Vermont Medicaid provider. These services include intensive sensory
+            stimulation; intensive physical, speech and occupational therapy; adjustment counseling;
+            training in the use of prosthetics, orthotics and durable medical equipment; and other
+            medical services needed to improve the patient's daily living skills and/or to facilitate
+            recuperation from disease, injury or medical event. Care must be supervised by physician
+            specialists. The purpose of rehabilitation center services is to restore a beneficiary's
+            functional abilities to the highest practical level of physical and/or mental self-sufficiency
+            which will prepare the beneficiary for discharge. The discharge plan will provide for
+            the active participation and training of family members, if appropriate.
+            Coverage is limited to one year unless an extension beyond one year is granted by
+            DAIL when documented medical evidence shows that the beneficiary is continuing
+            to demonstrate significant physical and/or mental progress and can reasonably be
+            expected to be discharged to the setting for care established in the discharge plan.
+            Under no condition will authorization be made beyond two years.
+  B. Intermediate Care Facilities for the Mentally Retarded (ICF/MR's)
+      A public or private institution (or distinct part thereof) certified for CMS participation by
+      DAIL’s Division of Licensing and Protection, for the provision of Intermediate Care Facility
+      services for the Mentally Retarded (ICF/MR) as evidenced by a valid certification agreement
+      on file with the Office of Vermont Health Access executed under 1902(a)(27) of the Social
+      Security Act and 42 CFR 442, Subparts A, B, C, E and G. An ICF/MR provides, directly or
+      by contract, health-related care and services to individuals with mental retardation.
+  C. Home and Community-Based Services
+
+                                                                                                              40
+Department of Vermont Health Access                                       Medicaid Covered Services Rules
+
+
+                                        Long-Term Care Services
+
+
+       Home and Community-Based Services include long-term care services provided in a home
+       setting or an enhanced residential care setting. An individualized written service plan shall
+       be developed for each participant. Services may include assistance with Activities of Daily
+       Living, Instrumental Activities of Daily Living, Adult Day Service, Respite, Companion
+       Service, Personal Emergency Response System, Home Modification/Assistive Devices, and
+       other such services as DAIL may include (Choices for Care Regulations).
+
+
+
+
+                                                                                                       41
+Department of Vermont Health Access                                          Medicaid Covered Services Rules
+
+
+                                         Supplementation Prohibition
+
+
+7602        Supplementation Prohibition                       (02/06/10, 09-07)
+
+Federal regulations require all Medicaid providers of long-term care services to accept the Medicaid
+payment as payment in full. For example, if a facility elects to serve Medicaid beneficiaries and the
+facility’s customary charge for a semi-private room is $250.00, but the Medicaid payment is $200.00
+per day, the Medicaid payment must be accepted as payment in full. The facility cannot collect any
+supplemental amount for the semi-private room from the beneficiary or anyone else acting on behalf of
+the beneficiary. If the beneficiary, or anyone acting on behalf of the beneficiary, wishes to have a private
+room, the facility cannot charge more than the difference between the charges for a semi-private and a
+private room. In no case can the total payments for a private room exceed the charge for a private room.
+
+Federal regulations also describe specific items and services for which a facility may charge residents
+extra. Beyond these items and services, supplementation by the beneficiary, family, friends or any other
+source is prohibited.
+
+Federal regulations also require that Medicaid beneficiaries be informed, in writing, by the facility, at the
+time of admission to the nursing facility or when they become eligible for Medicaid, of the items and
+services that the facility offers and for which the beneficiary may be charged, as well as the amount of
+charges for those services. The Division of Licensing and Protection within the DAIL is responsible for
+enforcing this regulation.
+
+
+
+
+                                                                                                            42
+Department of Vermont Health Access                                              Medicaid Covered Services Rules
+
+
+                                       Services Covered in a Nursing Facility
+
+
+7603           Services Covered in a Nursing Facility                           (02/06/10, 09-07)
+
+The following covered services are included in the per diem rates for nursing facilities.
+
+  A. Room and board;
+
+  B. Required nursing services (except private duty nurses);
+
+  C. Therapy services (physical, occupational, inhalation, recreational, etc.) furnished on the premises
+     by staff employed by the facility;
+
+  D. Modification of diet (i.e., salt-free, low-fat, diabetic and other special diets and including sugar
+     substitutes and food supplements).
+
+  E. Other special care services including, but not limited to: handfeeding, incontinence care, total
+     care, full-time care, etc.;
+
+  F.      Washing personal clothing and provision of clean bedding;
+
+  G. Bathroom supplies including toothbrush, comb, soap, shampoo, tissue, rubbing alcohol,
+     toothpaste, lotions, talcums and similar preparations used in daily care;
+
+  H. Bedding, sheets, disposable pads, etc.;
+
+  I.      All prescribed over-the-counter drugs;
+
+  J.      Sterile water, saline solution, etc.;
+
+  K. All medical supply items ordered by the physician; and
+
+  L.      Use of durable medical equipment with whatever frequency is medically indicated.
+
+7603.1       Drugs in a Long-Term Care Facilities       (02/06/10, 09-07)
+
+       For those Medicaid beneficiaries entitled to Medicare Part A or enrolled in Medicare Part B and
+       enrolled in a Medicare prescription drug plan, this section applies only to drugs not included in a
+       Medicare-covered prescription drug class.
+
+       Drugs prescribed by the attending physician for a beneficiary in a nursing facility or an ICF/MR are
+       covered in the same manner as for a beneficiary living in the community. Covered drugs are those
+       available only with a prescription, obtained from a participating pharmacy, and billed directly by that
+       pharmacy to the Medicaid fiscal agent; the pharmacy cannot bill the nursing facility and the facility
+       then re-bill Medicaid. An exception is made for a Medicare-participating nursing facility which
+       must collect first from Part A for covered drugs supplied as an ancillary service during the period a
+       beneficiary is receiving nursing facility benefits under Medicare Part A.
+
+       All prescribed over-the-counter drugs for their residents are to be furnished by each nursing facility or
+       ICF/MR. The facility will obtain these drugs from a pharmacy or drug wholesaler and enter the
+       charges incurred in the cost report submitted for purposes of calculating the per diem rate. The facility
+       shall not make a charge either to the program or to the beneficiary for prescribed over-the-counter
+       drugs.
+
+                                                                                                              43
+Department of Vermont Health Access                                         Medicaid Covered Services Rules
+
+
+                                   Services Covered in a Nursing Facility
+
+
+   A pharmacy may, however, receive payment directly from a nursing facility or ICF/MR for
+   reasonable costs incurred for unit dose or other systems, consulting services, or other costs incurred
+   by the pharmacy in complying with Medicaid Rule 7501.7 and the facility shall include this cost
+   in its cost report.
+
+7603.2    Personal Comfort Items      (02/06/10, 09-07)
+
+   Radio, television, telephone, air conditioners, beauty and barber services, and similar personal comfort
+   items are excluded from coverage under Medicaid. The beneficiary may be charged for any personal
+   comfort item when the beneficiary has requested it and has been advised that he or she will be charged.
+
+   The facility may also charge the beneficiary for store items secured on the beneficiary's behalf such as
+   magazines, newspapers, candy, tobacco, dry cleaning, denture cream, hairbrush, and deodorant.
+
+7603.3    Ancillary Services in a Nursing Facility    (02/06/10, 09-07)
+
+   A nursing facility participating in Medicare must bill under Medicare Part B for the following
+   services provided to beneficiaries when that beneficiary has exhausted his or her extended care
+   coverage under Medicare Part A. For beneficiaries not covered by Medicare, billing Medicaid for
+   these ancillary services is allowed.
+
+     A. diagnostic X-ray, diagnostic laboratory and other diagnostic tests;
+     B. X-ray, radium and radioactive isotope therapy;
+     C. surgical dressings, splints, cast and other devices used to reduce fractures;
+     D. prosthetic devices;
+     E.   leg, arm, back and neck braces;
+     F.   "outpatient" physical therapy and speech therapy services. Payment for outpatient physical
+          therapy and speech therapy services requires certification by a physician that:
+             (1) Therapy services are or were required on an outpatient basis; and
+           (2) A plan for furnishing the therapy services is or was established and reviewed periodically
+               by the physician; and
+           (3) The services are or were furnished while the patient was under care of a physician.
+           Therapy services furnished by a provider’s employees to its residents may
+           not be billed as outpatient services.
+           A nursing facility participating in Medicare may provide, under arrangements with another
+           provider, certain covered outpatient services to its residents. Under the arrangements the
+           nursing facility must exercise professional responsibility over the arranged-for services. The
+           services would be treated just as though they were furnished directly by the nursing facility.
+
+
+
+
+                                                                                                            44
+Department of Vermont Health Access                                           Medicaid Covered Services Rules
+
+
+                                            Duration of Coverage
+
+
+7604        Duration of Coverage                 (02/06/10, 09-07)
+
+Payment on behalf of an eligible beneficiary, for the period(s) the beneficiary is determined to be in need of
+institutional care, will begin on admission to the facility or the first day of Medicaid eligibility, whichever
+is later. Payment will end on the day before the day of discharge or death, the last day the beneficiary is
+determined to need institutional care or the last day of eligibility, whichever is earliest.
+
+Payment will end for any absence from a facility for an inpatient stay in another medical facility (i.e.,
+hospital, psychiatric hospital, another nursing facility except as provided below (7604.1.B).
+
+7604.1    Leave of Absence from a Nursing Facility        (02/06/10, 09-07)
+
+      A. Home Visit
+           Payment to a nursing facility on behalf of an eligible Medicaid beneficiary is continued
+           during an absence for the purpose of a "home visit" (not including hospital stays) for up to
+           24 home visit days in a calendar year. A home visit is defined as a visit that includes an
+           overnight stay. Such absences must be included in the beneficiary’s plan of care.
+      B. Hospitalization
+           Pursuant to the Nursing Home Residents' Bill of Rights (33 VSA §§ 7301-7306), a Medicaid
+           beneficiary has the right to retain his or her bed in a nursing facility while absent from the
+           facility due to hospitalization provided such absence does not exceed ten (10) successive days.
+           Medicaid payment will be made to a nursing facility that is not a swing bed facility for up to a
+           maximum of six (6) successive days when the bed of a beneficiary is retained because the
+           beneficiary is admitted as an inpatient to a hospital subject to the following conditions:
+              (1) the nursing facility would otherwise be at its maximum licensed occupancy if the
+                operator were not obligated to hold the bed open,
+            (2) the beneficiary continues to meet Medicaid eligibility criteria,
+            (3) the beneficiary has been an inpatient resident of the nursing facility and was admitted
+                directly to the hospital.
+            (4) the nursing facility has a valid provider agreement in effect on the dates of service for
+                which payment is made,
+            (5) the beneficiary's attending physician attests that the beneficiary is expected to be
+                readmitted to the nursing facility from the hospital in ten (10) days or less, or, upon notice
+                supplied by the hospital discharge planning unit to the nursing facility that the beneficiary
+                will be discharged with an absence which shall not exceed ten successive days, and
+            (6) documentation as required above (#3) above is provided to OVHA, and is on file at
+                the nursing facility.
+           Payment for the days the bed is retained for the beneficiary will be made at the
+           certified Medicaid per diem rates established for the nursing facility reduced
+           by the amount, if any, of the beneficiary's share.
+           No payment will be made when a physician or hospital discharge planning unit
+           makes a determination that the beneficiary will be hospitalized for more than ten (10)
+           successive days, will never return to the nursing facility, or the beneficiary or legal
+           representative agree to waive the right to have his or her bed retained.
+
+
+                                                                                                             45
+Department of Vermont Health Access                                        Medicaid Covered Services Rules
+
+
+                                          Duration of Coverage
+
+
+          When a redetermination about the length of stay is made because of a change in the
+          beneficiary's medical condition, payment will be made in accordance with the redetermination.
+          Each day reimbursed under this regulation is counted as a patient day for cost reporting
+          purposes and must be reported separately from home visit days.
+
+7604.2    Leave of Absence from an ICF/MR         (02/06/10, 09-07)
+
+   Payments to an ICF/MR on behalf of an eligible beneficiary is continued for an absence of up to
+   fifteen (15) days per quarter or sixty (60) days per year for the purpose of "home visit" providing it
+   is consistent with and part of the beneficiary's current service agreement. Approval for an absence
+   for the purpose of a "home visit" in excess of fifteen (15) days per quarter or sixty (60) days per
+   year shall be obtained in advance from DAIL.
+
+   Medicaid payment shall be made to an ICF/MR for an eligible beneficiary during a leave of absence,
+   subject to the following conditions:
+
+     A. Any day for which the facility is paid to hold a bed open must be counted as a patient day
+        and the revenue must be accounted for as a patient revenue.
+     B. The day of departure shall be counted as one day of leave and the day of return shall be
+        counted as one day of inpatient care.
+     C. The facility shall hold the bed vacant during leave.
+     D. The beneficiary's return from leave shall not be followed by discharge within 24 hours.
+     E.   The facility shall identify the inclusive dates of leave in the manner designated by DAIL.
+     F.   Leave shall be terminated on the day of death.
+
+
+
+
+                                                                                                            46
+Department of Vermont Health Access                                          Medicaid Covered Services Rules
+
+
+                                      Authorization for Long-Term Care
+
+
+7605        Authorization for Long-Term Care                             (02/06/10, 09-07)
+
+  A. Nursing Facilities
+       After DAIL has determined clinical eligibility for long-term care, the Department for
+       Children and Families - Economic Services Division (ESD) determines financial eligibility
+       for long-term care. ESD then furnishes written authorization to long-term care service
+       providers of financial eligibility for long-term care. Eligibility for long-term care is based
+       on financial eligibility, admission-discharge status, and clinical eligibility as determined
+       by DAIL. Updated or revised authorizations are issued whenever one of these factors
+       changes. The determination by DAIL shall control notwithstanding any statements by
+       a physician or other health care professional to the contrary. Where applicable, such
+       statements shall be reviewed by DAIL in making its determination.
+       Authorization for payment will be made on behalf of an eligible beneficiary based on a
+       determination of financial eligibility (Medicaid Rules 4100-4400), and clinical eligibility made by
+       DAIL (Choices for Care 1115 Long-Term Care Medicaid Waiver Regulations, Section IV.B).
+       No Medicaid payment will be made for services provided by any out-of-state nursing
+       facilities, other than those mentioned below, unless the facility has been enrolled by
+       the OVHA, and the admission authorized by DAIL.
+       Some out-of-state nursing facilities are regarded the same as any participating Vermont facility.
+       No prior authorization is needed. The current list of approved facilities can be found on
+       the DAIL web site (http://www.dlp.vermont.gov/other/pre-approved-out-of-state-facilities)
+       or can be requested from the DAIL.
+       Information regarding nursing facility care in a hospital (swing beds) is
+       located in Medicaid Rule 7606.
+         (1) Level of Care
+            DAIL has review authority for all nursing facilities. The determination by DAIL
+            shall control notwithstanding any statement by a physician or other health care
+            professional to the contrary. DAIL shall consider:
+                 The need for a beneficiary’s admission to the facility.
+                 The need for continued stay.
+                 The level of care required.
+                 The appropriateness and quality of care received.
+       (2) Pre-Admission Screening and Resident Review (PASARR)
+            Pre-admission Screening and Resident Review shall be completed for certain individuals
+            who have been or will be admitted to a nursing facility, as required by federal regulations at
+            42 CFR §483(c). PASARR shall determine if a person with a diagnosis of mental illness,
+            mental retardation or a related condition requires the care provided in another type of facility,
+            home and community-based care, or specialized services while residing in a nursing facility.
+            The Department of Mental Health shall be responsible for PASARR for those individuals
+            suspected of having a mental illness, or with a diagnosis of mental illness. DAIL shall be
+            responsible for PASARR for those individuals suspected of having mental retardation or a
+            related condition, or with a diagnosis of mental retardation or a related condition.
+       (3) Post-Admission Review
+
+                                                                                                           47
+Department of Vermont Health Access                                        Medicaid Covered Services Rules
+
+
+                                      Authorization for Long-Term Care
+
+
+            Clinical eligibility for any Medicaid beneficiary or applicant residing in or
+            admitted to a nursing facility shall be determined by DAIL within ten (10) days of
+            notification of admission or notification of application. If the beneficiary is found
+            medically ineligible, he/she will be notified by the DAIL.
+       (4) Children in Long-Term Care Facilities
+            Least restrictive alternate living situations shall be utilized for children under age
+            18. When necessary, children may be served by nursing facilities in Vermont. All
+            out-of-state nursing facilities are covered only after obtaining prior approval from DAIL.
+            Payment for out-of-state nursing facilities for children will be covered only if there
+            is no less restrictive placement in Vermont, only if deemed necessary by DAIL, and
+            only if the facility is enrolled as a Vermont Medicaid provider.
+  B. ICF/MRs
+       Decisions regarding initial admission and continued stay in an ICF/MR shall be made
+       DAIL in accordance with appropriate state and federal regulations.
+
+
+
+
+                                                                                                         48
+Department of Vermont Health Access                                         Medicaid Covered Services Rules
+
+
+                             Nursing Facility Care in Hospitals - Swing Beds
+
+
+7606 Nursing Facility Care in Hospitals - Swing Beds (02/06/10, 09-07)
+Payment may be made on behalf of a Medicaid beneficiary who remains residing in a hospital upon
+determination by the Department of Disabilities, Aging, and Independent Living (DAIL) that he/she no
+longer needs hospital care but has been found in need of nursing facility level of care (swing bed). Such
+payment will be made only if the following conditions are met:
+
+  A.   The beneficiary is eligible for Medicaid during the period for which reimbursement is requested.
+  B.   The beneficiary is determined by the appropriate Utilization Review authority to be in need of
+       nursing facility care for this period.
+  C.   The beneficiary has a qualifying inpatient hospital stay in the hospital seeking nursing facility
+       payment under these provisions.
+  D.   The hospital’s documentation shows a concerted and continuous effort to secure appropriate
+       alternative placement for the beneficiary. No payment will be made in instances in which the
+       Office of Vermont Health Access establishes that discharge planning efforts have been inadequate;
+       where payment has already been made, recovery will be sought.
+  E.   The beneficiary or anyone acting on his or her behalf has not declined an available bed in an
+       appropriate participating long-term care facility in the area.
+
+The per diem rate is all inclusive and includes the covered services as specified in Medicaid Rule 7603.
+For beneficiaries covered by Medicare, billing for ancillary services covered by either Part A or Part B is
+allowed. For beneficiaries not covered by Medicare, billing to Medicaid for ancillary services listed in
+Medicaid Rule 7603.3 is allowed.
+
+Out-of-state pre-approved hospitals with swing bed status are regarded the same as any participating
+Vermont facility. The current list of approved facilities can be found on the DAIL web site
+(http://www.dlp.vermont.gov/other/pre-approved-out-of-state-facilities) or can be requested from the
+DAIL.
+
+
+
+
+                                                                                                           49
+Department of Vermont Health Access                                  Medicaid Covered Services Rules
+
+
+                                      Pharmacy Administration
+
+
+7700       Pharmacy Administration                 (11/01/2008, 08-03)
+
+
+
+
+                                                                                                  50
+

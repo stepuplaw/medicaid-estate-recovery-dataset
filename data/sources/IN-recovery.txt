@@ -1,0 +1,12 @@
+Source URL: https://codes.findlaw.com/in/title-12-human-services/in-code-sect-12-15-9-0-5.html
+Retrieved: 2026-09-23
+Note: WebFetch extraction, not verbatim (asked for word-for-word copy). Official iga.in.gov is a JS app that returned only a header; Justia 403; FindLaw 403 to script. FindLaw currency: "Current as of January 01, 2026".
+
+Indiana Code Sec. 12-15-9-0.5
+
+(a) As used in this chapter, "estate" includes:
+(1) all real and personal property and other assets included within an individual's probate estate;
+(2) any interest in real property owned by the individual at the time of death that was conveyed to the individual's survivor through joint tenancy with right of survivorship, if the joint tenancy was created after June 30, 2002;
+(3) any real or personal property conveyed through a nonprobate transfer; and
+(4) any sum due after June 30, 2005, to a person after the death of a Medicaid recipient that is under the terms of an annuity contract purchased after May 1, 2005, with the assets of the Medicaid recipient.
+(b) As used in this chapter, "nonprobate transfer" has the meaning set forth in IC 32-17-13-1.

@@ -1,0 +1,2717 @@
+Source URL: https://policies.ncdhhs.gov/wp-content/uploads/MA-2240-Transfer-of-Assets-ADA-Tested.pdf
+Retrieved: 2026-09-23
+
+North Carolina Department of Health and Human Services
+North Carolina Medicaid
+Division of Health Benefits
+AGED, BLIND AND DISABLED MEDICAID MANUAL                                                      MA-2240
+                                    TRANSFER OF ASSETS__________________________________
+                          REVISED 06/30/2026 - CHANGE NO. 09-26
+
+I.     INTRODUCTION
+
+       When an applicant/beneficiary (a/b) requests institutional services, a transfer of assets
+       evaluation must be completed. Transfers of real or personal property, or any other asset for
+       less than current market value must be reviewed to determine if a sanction should be
+       imposed. A sanction is a penalty period during which some services related to institutional
+       coverage will not be paid by Medicaid. If a sanction is imposed the a/b is ineligible for
+       certain Medicaid covered services.
+
+      This section contains the policy and procedures for determining the following:
+
+      •   Which a/bs are subject to the transfer of assets regulations,
+
+      •   Medicaid covered services subject to the transfer of assets regulations,
+
+      •   The lookback date and lookback period,
+
+      •   Time frames for completing the transfer of asset evaluation,
+
+      •   Assets subject to the transfer of assets regulations,
+
+      •   How to determine if a non-allowable transfer has occurred,
+
+      •   How to determine the sanction period,
+
+      •   When to impose a transfer of assets sanction,
+
+      •   The applicant/beneficiary (a/b) notification procedures.
+
+       Transfer of asset regulations do not apply to all Medicaid covered services. An a/b under a
+       transfer of assets sanction may be eligible for other services covered by the North Carolina
+       Medicaid program.
+
+II.   POLICY PRINCIPLE
+
+       When an a/b, an a/b’s financially responsible spouse, or their legal representative gives away
+       or sells an asset, for less than current market value, the a/b may be ineligible for payment of
+       institutional services or in-home health services and supplies. This includes any direct or
+       indirect method of disposing of an interest in an asset whether or not the asset would have been
+       considered excluded or exempt at the time of its disposal or transfer. The period of ineligibility
+       is also called a sanction.
+
+       Do not delay approval of institutional services for the transfer of asset evaluation at initial
+       request. If all other eligibility criteria are met, approve LTC, CAP, or PACE and continue
+with the transfer of asset evaluation. The evaluation must be completed within the time
+frames outlined in this policy.
+
+A. Terminology
+
+   1.      A spouse is financially responsible when:
+
+           a. They are not institutionalized.
+
+           b. They have been living with the a/b or temporarily absent from the home for 12
+              months or less prior to the a/b’s institutionalization.
+
+           c. A spouse is not financially responsible if the couple has been continuously
+              separated for at least 12 months at the time the institutionalized spouse enters
+              the institution.
+
+   2.      In this policy institutional services are:
+
+           a. Services provided in a nursing facility (NF), intermediate care facility for
+              individuals with intellectual disabilities (ICF-IID), or nursing facility level of
+              care in a Swing bed or in an acute care hospital bed (FL-2 required),
+              Note: nursing facility level of care in an acute care hospital bed was formerly
+              known as inappropriate level of care bed. An FL-2 is required for nursing
+              facility level of care.
+
+           b. Services provided through the Community Alternatives Program (CAP), or
+
+           c. Services provided through the Program of All-Inclusive Care for the Elderly
+              (PACE).
+
+           These services can be sanctioned due to a non-allowable transfer of assets. This
+           does not include acute care in a hospital (not nursing facility level of care)
+           regardless of length of stay.
+
+   3.      The transfer of assets evaluation for each a/b will follow guidance based on
+           whether the request for institutional services is an initial request or a subsequent
+           request.
+
+           a. Initial Request- For transfer of asset policy, an initial request is the first
+              application or request for institutional services for an a/b that results in an
+              approval of institutional services.
+
+           b. Subsequent Request- a new application or request for institutional services
+              submitted after a previous period of eligibility for institutional services was
+              terminated.
+
+B. Rules for transfer of asset evaluations
+
+   1.      Transfer rules apply to MAGI and non-MAGI individuals requesting or receiving
+           institutional services.
+
+                                                2
+           2.      Evaluate each situation on a case-by-case basis. The evaluation may be done as
+                   part of the application process, recertification, change in circumstances, or appeal.
+
+           3.      For a sanction to apply, the transfer must have occurred on or after a specific date
+                   known as the lookback date.
+
+           4.      Treat a transfer that was completed in the lookback period by a financially
+                   responsible spouse or the a/b’s or spouse’s legal representative as though it were
+                   completed by the a/b.
+
+           5.      The total cumulative value of all uncompensated transfers made within the
+                   lookback period is treated as a single transfer and a single sanction period is
+                   calculated.
+
+           6.      An a/b or their authorized representative is provided with the opportunity to show
+                   evidence that the transfer was made for a reason other than to establish eligibility
+                   for NC Medicaid. They may also rebut the value of the transferred assets, or the
+                   value of compensation received. Refer to XII below.
+
+           7.      Do not apply a transfer sanction when the a/b has been granted a waiver for
+                   undue hardship. Refer to MA-2245, Undue Hardship Waiver for Transfer of
+                   Assets, for procedures to determine if an undue hardship exists.
+
+III.   TRANSFER OF ASSET RULES
+
+       This section explains to whom transfer rules apply and what assets are considered in
+       determining whether there is a transfer. All assets are considered whether they are owned
+       jointly by the a/b and their spouse, the assets are owned individually by each spouse, or the
+       assets were owned by one spouse prior to marriage.
+
+       A. Apply transfer rules to a/bs requesting or receiving assistance with any of the
+          following:
+
+          1.     Cost of care for institutional services under MAGI or non-MAGI rules in a:
+
+                  a. Nursing facility (NF),
+
+                  b. Intermediate care facility for individuals with intellectual disabilities (ICF-
+                     IID), or
+
+                  c. Nursing facility level of care:
+
+                     (1)     in a Swing bed or
+
+                     (2)     in an acute care hospital bed,
+
+          2.     Home and Community Based Services under MAABD rules:
+
+                  a. Community Alternatives Program (CAP) waiver programs, or
+
+
+                                                       3
+          b. Program of All-Inclusive Care for the Elderly (PACE).
+
+   3.     In-home health services and supplies under MAGI or non-MAGI rules:
+
+          a. But only after being sanctioned for the above services, and
+
+          b. A portion of the sanction period remains after the individual stops receiving
+             institutional services.
+
+B. Do Not apply transfer rules to:
+
+   1.     Individuals who do not request or receive institutional services or in-home health
+          services and supplies,
+
+   2.     Individuals who request or receive in-home health services and supplies that have
+          not been sanctioned for prior institutional services,
+
+   3.     Individuals in acute care in a hospital (not nursing facility level of care),
+          regardless of length of stay, and who are discharged to a private living
+          arrangement (PLA) or die without ever leaving acute care. Transfer rules do
+          not apply even though long-term care budgeting applies,
+
+   4.     Individuals in the psychiatric unit of a hospital,
+
+   5.     Children under age 21 admitted to a Psychiatric Residential Treatment Facility
+          (PRTF),
+
+   6.     Individuals requesting MSB, MQB-B, MQB-E, and MWD. Refer to MA-200
+          Definitions for the acronyms.
+
+   7.     A married individual authorized for institutional services when the community
+          spouse (CUSP) transfers an asset.
+
+C. Apply transfer rules to the following types of income and assets:
+
+   Transfers of countable and excluded assets except for those listed under MA-2230,
+   Financial Resources, I.A.6.
+
+   1.      Any real or personal property including:
+            •   Homesite
+            •   Tenancy-in-common
+            •   Life estate interest in real property
+            •   Purchases of life estates, including life estates in another individual’s home
+            •   Vehicles and liquid assets
+
+   2.      Income (including a lump sum) transferred in the month of receipt,
+
+   3.      Purchase of promissory note, loan, or mortgage,
+                                               4
+         4.      Purchase of an annuity,
+
+         5.      If an a/b or their spouse waives the right to an income, benefit, or asset, evaluate
+                 for a transfer.
+
+         Refer to VII, VIII, IX, and X policy below for specific criteria to determine if a transfer
+         occurred.
+
+      D. Documentation of Explanation to the A/b
+
+         1.      Document the explanation of transfers of assets rules to the a/b when:
+
+                 a. Assistance with nursing home cost of care, CAP, or PACE is requested
+
+                 b. A transfer is reported
+
+                 c. When explaining right to a rebuttal/undue hardship
+
+         2.      Document all the following when explaining:
+
+                 a. How the sanction is calculated
+
+                 b. Exceptions to the sanction
+
+                 c. How to lift or reduce the sanction period
+
+                 d. In-home health services and supplies will be sanctioned if the a/b is no longer
+                    eligible for institutional services and the sanction period has not expired.
+
+IV.   LOOKBACK DATE AND LOOKBACK PERIOD
+
+      When evaluating for transfer of assets, a caseworker must determine the starting point,
+      lookback date, and lookback period. Once the lookback date is established, all transfers on or
+      after this date are reviewed.
+
+      A. Important dates
+
+         1.      The starting point marks the point in time from which the local agency must look
+                 back to determine if any transfers were made. The starting point also establishes a
+                 point that all transfers going forward are reviewed.
+
+         2.      The lookback date is the earliest point in time on or after which all transfers of
+                 assets are reviewed for an a/b requesting or receiving institutional services, CAP,
+                 or PACE.
+
+         3.      The lookback period is the period that begins with the lookback date and ends
+                 with the starting point.
+
+      B. Establishing the Starting Point for Determining the Lookback Date
+
+                                                     5
+   To determine the lookback date for individuals requesting institutional services the local
+   agency must establish the starting point.
+
+   1.      The starting point is the earliest date that both conditions in a. and b. are met:
+
+           a. The a/b is institutionalized (See XV. Glossary for a definition
+              of institutionalized) or requests CAP or PACE, and
+
+           b. Applies for Medicaid.
+
+   2.      A training guide located on the DHB Medicaid Training Resources, A Guide to
+           Establishing Starting Point/Lookback, provides an overview and guide to
+           determine the starting point and lookback dates.
+
+   3.      Scenarios
+
+           a. If an individual is a current Medicaid applicant or beneficiary in PLA when they
+              are institutionalized, use the day they entered the institution as the starting point
+              to establish the lookback date.
+
+           b. If the a/b is currently institutionalized as private pay and has never applied for
+              Medicaid before, use the date of the current application as the starting point to
+              establish the lookback date.
+
+           c. For individuals applying for the CAP, or PACE programs, the starting point is
+              the date the a/b applies for Medicaid and requests CAP or PACE.
+
+           d. If the a/b is an ongoing Medicaid beneficiary when they requested CAP, the
+              lookback date is based on the date the a/b is placed on the CAP waiting list. If
+              questionable, verify this date with the CAP case manager.
+
+C. Establish the Lookback Date for Transfers
+
+   1.      The look back date is 5 years (60 months) from the starting point.
+
+   2.      Review all assets owned by the a/b or their spouse within the lookback period to
+           determine if any transfers have occurred.
+
+   3.      In situations involving an Institutionalized Spouse (ISP) and Community Spouse
+           (CUSP), where the CUSP later becomes institutionalized, determine the starting
+           point and lookback date for the CUSP independently from the ISP.
+
+D. The Lookback Date Never Changes
+
+   1.      Once the lookback date is correctly established, it never changes. This is true
+           regardless of any future re-applications or additional periods of
+           institutionalization.
+
+          a. Evaluate all transfers beginning on or after the lookback date.
+
+          b. Do not consider transfers made prior to this date.
+                                               6
+        2.       Document the lookback date in the case record.
+
+        3.       When there has been a transfer of assets on or after the lookback date, verify the
+                 following information based on policy rules in MA-2230, Financial Resources.
+
+                a. A description of the asset transferred (the homesite, other real property, life
+                   estate, remainder or tenancy-in-common interest in real property, cash, lump
+                   sum, vehicles, stocks, bank account, certificate of deposit, etc.).
+
+                b. The person who transferred the asset (a/b, spouse, legal representative).
+
+                c. The name of the person(s) to whom the asset was transferred.
+
+                d. The a/b's relationship to the individual to whom the asset was transferred.
+
+                e. The value of the asset at the time of the transfer.
+
+                f. The compensation (money or other benefit) received or expected from the
+                   transferred asset.
+
+                g. The date the asset was transferred.
+
+                h. Whether the a/b was the sole owner of the asset at the time of the transfer; if
+                   not, the name of any co-owners.
+
+                i.   Whether the a/b still retains any ownership right in the asset.
+
+V.   EXPLORING TRANSFER OF ASSETS
+
+     When determining if any transfers have occurred the local agency must explore all assets on
+     all applications, recertifications, and changes in circumstance for a/bs requesting or receiving
+     institutional services. Evaluate the evidence presented. The evidence might reveal another
+     reason for the transfer other than to establish or retain Medicaid eligibility.
+
+     Reminder, the request should not be completed until the Lookback date has been established.
+     Therefore, a transfer of assets evaluation cannot be started until the a/b has been
+     institutionalized for cost of care or requested CAP or PACE.
+
+     A. Criteria for requesting Transfer of Asset information:
+
+         1.      Do not delay or deny approval of institutional services for failure to provide
+                 information requested to complete the transfer of assets evaluation when an a/b
+                 makes an initial application or request for institutional services.
+
+                a. Request information needed to determine transfers of assets along with other
+                   eligibility information needed.
+
+                b. Indicate on the request that the transfer of assets items are not required for
+                   determination of institutional services. However, they will be required to
+                   continue receiving institutional services.
+                                                     7
+         c. Approve institutional services immediately once LTC, CAP or PACE
+            eligibility is met.
+
+             (1)     Do not wait even if the transfer of assets information has not been
+                     provided or the transfer of assets evaluation is not yet completed.
+
+             (2)     Do not wait while reviewing information that has been provided.
+
+   2.     After approving initial LTC/CAP/PACE coverage, if additional information for
+          the transfer of assets evaluation is still needed, follow policy MA-2352 or MA-
+          3410 Change In Circumstance, Terminations, And Reopening. Send an additional
+          request allowing 12 calendar days for the beneficiary to respond to the DHB-5097
+          Request for Information.
+
+   3.     If the a/b is making a subsequent request for institutional services, review V. D.
+          2. below for guidance.
+
+B. Requesting Verification
+
+   Once the lookback date has been established:
+
+   1.     Gather Transfer of Assets Information
+
+          The DHB-5203 Transfer of Asset Evaluation form can be used as a tool to collect
+          the vital information needed to assist in exploring assets that may have been
+          owned or transferred during the lookback.
+
+          a. Attempt to collect this information as soon as possible at application or report
+             of change in circumstance. It is the responsibility of the local agency to
+             gather and document all the information included on the DHB-5203. A best
+             practice is to complete the form in person or over the phone when the request
+             for institutional services is made.
+
+          b. If unable to obtain the information in person or over the phone, send the a/b
+             or their representative, a DHB-5097 Request for Information with the DHB-
+             5203 Transfer of Assets Evaluation form. Follow the appropriate policy for
+             application or change in circumstance and allow the appropriate time for the
+             form to be returned (i.e., two 12- day for applications, or one 12- day for
+             changes in circumstances).
+
+          c. The form can be completed and returned by the a/b or their authorized
+             representative by any of the following modalities:
+
+              •    In person
+              •    Telephone
+              •    Mail
+              •    Electronic/fax
+              •    ePASS (for beneficiaries with a linked account)
+
+                                             8
+     d. Caseworkers must document the evaluation for any transfers that may have
+        occurred at recertification or a report that a transfer has occurred.
+
+2.   Request bank statement, investment and other financial document records for the
+     60 months prior to the starting point.
+
+     a. For MAABD, complete the AVS system request and follow applicable policy
+        for allowing appropriate time for returned results. Follow up with the a/b
+        utilizing the DHB-5097 Request for Information to request items not
+        available in AVS.
+
+     b. For MAGI, requests must be manual. A DHB-5097 Request for Information
+        must be sent to the a/b allowing 12 days to provide all financial records.
+
+3.   Check all property records or request copies of deeds, if not available online, to
+     show current or past ownership of all real property owned in the lookback period
+     by the a/b or the a/b’s spouse. Also review records of parents of the a/b, and of the
+     a/b’s spouse.
+
+4.   Review Division of Motor Vehicles (DMV) records.
+
+5.   If any portion of the lookback period is unavailable via electronic data sources:
+
+     a. Request bank statements, investment accounts, and other financial documents
+        that can verify the a/b’s (and spouse’s) assets for the entire lookback period.
+        The local agency is responsible for obtaining this information if the a/b is not
+        able to provide it.
+
+         (1)     It is the responsibility of the a/b to provide the local agency with
+                 enough information to pursue obtaining the required documentation.
+
+         (2)     As a last resort, when no other method of verification has been
+                 successful, accept at a minimum all of the following:
+
+                 •   a financial document for the month of application, and
+
+                 •   a financial document for the month prior to the month of
+                     application, and
+
+                 •   a financial document for the first and last month of the lookback
+                     period, and
+
+                 •   a financial document for at least one month from each twelve
+                     months in between.
+
+         (3)     The local agency should use the DSS-3431, Request for Financial
+                 Information, to request information from a bank or other financial
+                 institution. In lieu of financial statements for the lookback period, the
+                 local agency may choose to request any of the information in (2) from
+
+
+                                         9
+                     the financial institution.
+
+                      Example: The lookback is Jan. 15, 2020, through Jan. 15, 2025. The
+                      caseworker runs AVS and no results are returned within 7 days. The
+                      caseworker will then request the bank statements from the a/b via the
+                      DHB-5097 Request for Information. The client states they cannot
+                      provide the statements and asks for assistance obtaining the
+                      verifications. A caseworker can then utilize the DSS-3431 Request for
+                      Financial Information to request from the institution a financial
+                      document or balance verification for at least January 2025, December
+                      2024, January 2020 and January (or any available month) from 2021,
+                      2022, 2023 and 2024.
+
+                      These financial documents can be used to verify consistency in
+                      balances. If these exact months are not available, but the information
+                      provided is reasonably close, accept the information. The local
+                      agency may request more information but not to the point that it
+                      discourages the a/b.
+
+              (4)    Review the highest and lowest balances for all accounts for the entire
+                     lookback period. The highest and lowest balances can be used to verify
+                     average balance. An extremely high balance may require further
+                     documentation from the a/b.
+
+              (5)    Look for deposits that do not appear regular and recurring. Irregular
+                     deposits may indicate other sources of income and/or assets. Pensions
+                     and SSA are regular and recurring deposits.
+
+              (6)    Note the date accounts may have been closed during the lookback
+                     period and the amount of the closing withdrawal(s). This can be used
+                     to identify accounts closed during the lookback period and possibly the
+                     source of other deposits reissued.
+
+          b. If needed, obtain evidence to indicate a pattern of giving regarding regular
+             donations/gifts to charities, religious organizations, or family members. A
+             pattern of giving can indicate intent other than to qualify for Medicaid.
+
+              For example, the a/b regularly gives each family member $1,000 at Christmas
+              and birthdays.
+
+          c. Do not deny if the a/b cooperated but it is determined information is not
+             available. Accept the a/b’s statement or use the information provided to
+             determine eligibility.
+
+   6.     Once information has been provided, refer to Section C. Reviewing Verifications.
+
+   7.     If the a/b does not provide the information needed to complete the evaluation,
+          refer to VI. B. below.
+
+C. Reviewing Verifications
+
+                                              10
+1.   Once the information is obtained, the caseworker must determine if a transfer
+     occurred and whether a sanction should be imposed. Some potential indicators
+     might be:
+
+     a. The interest paid to date shows a substantial amount, but the current balance
+        does not support payment of that interest.
+
+     b. The balances in the past show substantially higher amounts than is currently in
+        the account.
+
+     c. DSS-3431, Request for Financial Information has been obtained from the
+        bank, and it shows a substantial past balance that is not currently in the
+        account.
+
+     d. The account shows a substantial withdrawal or withdrawals over a period of
+        time.
+
+2.   During the evaluation some potential questions to consider whether a transfer has
+     occurred and whether it was for reasons other than to gain or retain eligibility for
+     Medicaid are:
+
+     a. What is the a/b’s age, general health, living arrangement, and amount of assets
+        retained to meet future needs at the time of the transfer?
+
+     b. Does the case record document any inquiry by the applicant, their spouse,
+        representative, or other interested party about asset limits for Medicaid, long-
+        term care budgeting, etc.?
+
+     c. Has the a/b consulted or hired an attorney for estate planning purposes? If the
+        individual saw an attorney, this does not necessarily mean the a/b was trying
+        to hide assets.
+
+     d. Does the individual(s) who provided the knowledgeable statements stand to
+        gain in any way from the transfer?
+
+     e. Is there evidence of regular donations/gifts to charities, religious organizations,
+        or family members?
+
+     f. Is there evidence of one-time gifts by an a/b who did not anticipate needing
+        institutional services?
+
+     g. Did the a/b attempt to dispose of the asset for its current market value?
+
+     h. After the transfer occurred, was there a traumatic onset (e.g., traffic accident)
+        of disability or blindness?
+
+     i. After the transfer occurred, was there a diagnosis of a previously undetected
+        disabling condition?
+
+     j. After reviewing, there may be an indication that more information is needed.
+
+                                        11
+              Continue to follow policy for requesting information. If the a/b fails to
+              provide the requested information, follow steps in VI. B. below.
+
+D. Time Frames for Completing the Transfer of Assets Evaluation
+
+   Time frames for completing the transfer of assets evaluation for institutional services will
+   depend on if the a/b is making an initial or subsequent request. Follow instructions as
+   outlined below.
+
+   1.     Initial Request
+
+          When institutional services are approved prior to completion of the transfer of
+          assets evaluation, the local agency must ensure that the following steps are
+          completed no later than three full calendar months following the date of
+          authorization.
+
+          a. When all other eligibility criteria are met for institutional services, do not
+             delay approval of institutional services to complete the transfer of assets
+             review. This is true even when an a/b notifies the agency in advance that a
+             transfer has already occurred.
+
+          b. All notices should be sent so the beginning date of a prospective sanction
+             period, if applicable, can be applied by the first day of the fourth month
+             following the date institutional services are authorized and activated by the
+             caseworker. For example, institutional services are authorized and activated in
+             July. The agency has August, September and October to complete the
+             evaluation. The sanction must start no later than November 1.
+
+          c. If the evaluation is completed earlier, the sanction will start the first day of the
+             month following timely notice.
+
+          d. If the beneficiary fails to provide information needed to evaluate for transfer
+             of assets follow procedures in VI. B. below.
+
+   2.     Subsequent Request
+
+          A subsequent request can occur after a termination for failure to provide requested
+          information to evaluate for a transfer of assets or an individual went home and
+          was re-admitted.
+
+          a. If an a/b has already received institutional services and was terminated for
+             failure to provide information requested to complete the transfer of assets
+             evaluation.
+
+              (1)     They may NOT receive another approved period of institutional
+                      services before completing the transfer of assets evaluation.
+
+              (2)     Complete the entire transfer of assets evaluation prior to authorizing a
+                      new institutional services period.
+
+
+                                              12
+          b. If a discharged a/b has cooperated and completed the transfer of assets
+             evaluation in the past and was re-admitted,
+
+              (1)     Approve a new institutional services period while conducting the
+                      transfer of assets evaluation for the additional months since discharge.
+
+              (2)     This additional transfer of assets evaluation must be completed no later
+                      than three full calendar months following the date of activation and
+                      authorization.
+
+          c. If the a/b was discharged and re-admitted following a previously authorized
+             institutional services period and a sanction was already imposed, the sanction
+             must continue until it ends.
+
+              (1)     Only budget for PLA programs during the sanction.
+
+              (2)     In-Home Health Services and Supplies and Personal Care Services
+                      costs are sanctioned during this period and will not be paid.
+
+   3.     Ongoing LTC, CAP or PACE Beneficiary has reported transfer or a transfer is
+          discovered
+
+          a. This could be reported or discovered at recertification or change in
+             circumstance. Always evaluate information found during the exparte process
+             that may indicate any changes that a transfer has been made.
+
+          b. The evaluation should be completed no later than three full calendar months
+             following the date of the reported or discovered transfer.
+
+          c. Follow instructions in D.1. a. above.
+
+          d. If the beneficiary fails to provide information needed to evaluate for transfer
+             of assets follow procedures in VI. B. below.
+
+E. Procedures When a Transfer Cannot be Determined
+
+   Institutional Services cannot continue to be paid if a transfer evaluation cannot be completed.
+
+   1.     If the a/b fails to provide the information requested to complete the transfer of
+          assets evaluation, follow timely notification policy in MA-2420, Notice and
+          Hearings Process.
+
+   2.     Terminate institutional services. The a/b cannot continue to receive institutional
+          services and will not be eligible for institutional services to resume unless a
+          complete transfer of assets evaluation can be made.
+
+   3.     If an ongoing PLA beneficiary terminated from institutional services for failure to
+          provide information to complete the transfer of assets evaluation makes a
+          subsequent request for institutional services:
+
+          a. Do not approve additional months of institutional services until a complete
+                                             13
+                     transfer of assets evaluation has been completed and any applicable sanctions
+                     have been applied and expired.
+
+                  b. Follow the procedures above to complete a transfer of assets evaluation.
+
+                  c. Refer to D. above for timeframes to complete the transfer of assets evaluation.
+
+          4.      If a new application or new request for institutional services is submitted for an
+                  individual who was previously terminated from institutional services for failure to
+                  provide information to determine a transfer of assets evaluation:
+
+                  a. Do not approve additional months of institutional services until the transfer of
+                     assets evaluation has been completed.
+
+                  b. Follow the procedures above to complete a transfer of assets evaluation.
+
+                  c. Follow application processing requirements until evaluation is complete.
+
+                  d. Follow application processing requirements for requesting information.
+
+          5.      Ensure all actions are thoroughly documented. Refer to III. D. above.
+
+VI.   TRACKING TRANSFER OF ASSETS EVALUATION PERIOD
+
+      Do not delay LTC, CAP or PACE eligibility decisions for a pending transfer of assets
+      evaluation, unless the a/b has already had a period of institutional services authorized and
+      did not provide information to complete a transfer of assets evaluation.
+
+      A. Local Agency Responsibility
+
+          When a transfer of assets evaluation is completed after authorizing institutional services,
+          the local agency must ensure that the process is completed timely.
+
+          1.      It is the responsibility of the local agency to have procedures in place to ensure
+                  the evaluation is completed no later than three full calendar months following
+                  the date institutional services are authorized and activated by the caseworker.
+
+          2.      Counties may be liable for charge backs of Medicaid expenditures when ineligible
+                  beneficiaries continue to receive institutional services longer than 3 full calendar
+                  months to complete the transfer of asset evaluation.
+
+      B. Penalties for Failure to Provide TOA Information
+
+          If the a/b fails to provide the information requested to complete the transfer of assets
+          evaluation:
+
+          1.      Send timely notice and terminate institutional services only.
+
+                  a. Notify the a/b and authorized representative, if applicable.
+                                                     14
+                  b. Notify the a/b’s Pre-paid Health Plan (PHP), if applicable, following
+                     procedures in XIII. D.
+
+           2.     Evaluate eligibility for all other MAGI or non-MAGI programs and authorize, if
+                  eligible.
+
+           3.     Enter a sanction for failure to provide transfer of asset information in NCFAST.
+                  See NCFAST Job Aid: Creating or Disregarding an Active Sanction for
+                  instructions. Institutional services cannot be approved again for the current or any
+                  future institutionalization without a complete transfer of assets evaluation.
+
+       C. Reconsideration Period
+
+           1.     Institutional Services cases that have terminated for failure to provide information
+                  requested to complete the transfer of assets evaluation may be reopened if:
+
+                  a. The request to reopen is received no later than the 90th calendar day following
+                     termination and
+
+                  b. The a/b is not receiving in any other Medicaid program.
+
+                  c. If the 90th calendar day falls on a non-business day, allow the a/b until the
+                     next business day to make the request.
+
+           2.     The following criteria must be met prior to reopening a terminated case. Refer to
+                  MA-2352 Change in Circumstance, Terminations and Reopening
+
+                  a. The case was terminated for failure to provide the required information needed
+                     to complete the transfer of assets evaluation.
+
+                  b. All information needed to reopen the case must be received by the 90th
+                     calendar day following termination.
+
+                  c. If no transfers are found, the certification begin date is the first day of the
+                     month following the month of termination. The certification end date is the
+                     end date of the certification period in the original case.
+
+                  d. For an a/b that has an uncompensated transfer, Review XI. below to determine
+                     the sanction period and start date.
+
+           3.     If the a/b continues to have coverage in another Medicaid program, and they
+                  provide the requested information at any point after termination of institutional
+                  services, treat as a change in circumstance. Reminder, authorize eligibility for no
+                  more than 12 months prior to the reported change.
+
+VII.   ALLOWABLE TRANSFERS (NON-TRUSTS)
+
+       This section will explain what types of transfers that are considered allowable. DO NOT
+       apply a sanction to the following transfers.
+
+                                                     15
+A. Compensated Transfer
+
+   1.     A transfer is compensated when the asset is transferred or exchanged in return for
+          money or any other tangible object, service, or benefit that is equal to or greater
+          than the equity of the transferred asset.
+
+   2.     Some transfers that are adequately compensated may still be non-allowable
+          transfers because of other requirements (e.g. annuities, purchases of life estates,
+          etc.) and should be evaluated for possible sanctions.
+
+B. Transfer of the Homesite
+
+   1.     When evaluating for transfers, the homesite is defined as any property in which the
+          a/b or financially responsible person has an ownership interest; and
+
+          a. Is used as their principal place of residence or the principal place of residence
+             of their spouse or a dependent relative, or
+
+          b. Was used as the principal place of residence by the a/b, their spouse or
+             dependent relative during the lookback period or
+
+          c. They intend to return to it or intended to return to it during the lookback
+             period.
+
+             Once ownership is established in a new principal place of residence, even if it
+             occurs on or after the lookback date, the former principal place of residence
+             becomes non-homesite property.
+
+             Refer to MA-2230, Financial Resources, for the definition of the homesite and
+             contiguous property and for policy used to determine asset eligibility.
+
+   2.     Transfer of the homesite without receiving compensation of equivalent value is an
+          allowable transfer only when it is transferred to one of the following:
+
+          a. Legal spouse, or
+          b. Natural, adopted, or stepchild under age 21 at time of transfer, or
+          c. Blind/disabled (determined by SSA) child of any age, or
+
+          d. Sibling who:
+
+              (1)    Is a co-owner of the home and
+
+              (2)    Has been residing in the home for a period of at least one year
+                     immediately before the a/b entered a nursing facility or requests CAP
+                     or PACE.
+
+          e. Natural, adopted, or stepchild(ren) age 21 or over who:
+
+                                              16
+                   (1)    Resided in the home for at least two years immediately before the a/b
+                          entered a nursing facility or requests CAP or PACE, and
+
+                   (2)    Provided care to the a/b to permit them to live at home rather than in a
+                          nursing facility throughout the 2-year period, and
+
+                   (3)    Provides documentation that the adult child(ren) resided in the home
+                          during the two years, and
+
+                   (4)    Provides documentation that the adult child(ren) provided necessary care.
+
+                   For example, four children rotate months living with and caring for their
+                   parent in the parent’s home. They have taken turns doing this for three years
+                   when the parent must go into a nursing home. The parent transfers their home
+                   to their four children. This is an acceptable transfer.
+
+       3.     Evaluate the transfer of a homesite that was made income producing as a non-
+              allowable transfer. This is allowable only if it is transferred to a specified person
+              as indicated in VII.B.2 above.
+
+    C. Transfer to the Legal Spouse or Blind/Disabled Child
+
+       1.     Any resource or income transferred (in addition to the transfer of the homesite
+              described above) to the legal spouse or blind/disabled child of any age is
+              allowable.
+
+       2.     The blind/disabled child must have been determined blind/disabled according to
+              SSA standards. Verification must be provided.
+
+VIII. ALLOWABLE TRANSFERS TO A TRUST
+
+    A. Transfers to a Trust for the "Sole Benefit" of an Allowable Person
+
+       1.     Transfers by the a/b or any person with legal authority to act in place of or on
+              behalf of the a/b to another party for the "sole benefit" of certain “allowable
+              persons” may not be sanctioned.
+
+       2.     An allowable person is:
+
+              a. The a/b’s legal spouse, or
+
+              b. The a/b’s blind/disabled (determined by SSA) natural, adopted, or stepchild of
+                 any age, or
+
+              c. Other unrelated disabled individual (determined by SSA) under age 65.
+
+       3.     To be allowable, a transfer to a third party for the "sole benefit" must meet the
+              following criteria:
+
+              a. The asset cannot benefit anyone in any way but the allowable person at the
+                 time of the transfer and in the future.
+                                                  17
+              Trustee Rule: The trust may provide reasonable compensation for a trustee
+              managing funds. Reasonable compensation is based on the time involved to
+              manage the trust and the prevailing rate of compensation. Evaluate each
+              situation on a case-by-case basis to determine if the compensation is
+              reasonable.
+
+          b. The transfer must be in the form of a trust document (or similar legal
+             document) which legally specifies the conditions under which the transfer was
+             made, who can benefit, and the amount of the benefit.
+
+          c. The trust (or legal document) must provide that the transferred funds are spent
+             on behalf of the allowable person within their lifetime (except for Special Needs
+             and Pooled Trusts described below).
+
+          d. Determine if the beneficiary is expected to live long enough to receive the
+             transferred funds based on their age at the time the trust is created and the
+             disbursement schedule of the funds. Use the Life Expectancy Table to
+             determine the beneficiary's life expectancy at the time of the transfer.
+
+              (1)    If the funds will be spent on the beneficiary in their lifetime, it is an
+                     allowable transfer.
+
+              (2)    If any portion of the funds are not expected to be disbursed to the
+                     beneficiary, this is a non-allowable transfer.
+
+   4.     The transferred assets/income is countable to the intended beneficiary if that person
+          applies for Medicaid (or is part of a budget unit applying for Medicaid). Refer to
+          MA-2230, Financial Resources.
+
+B. Transfers To Special Needs Trusts
+
+    Refer to MA-2230 Financial Resources XI. C. Types of Trusts for definitions.
+
+   1.     Transfers of the a/b’s assets to a Special Needs trust are an allowable transfer:
+
+          a. If made prior to the a/b turning age 65, and
+
+          b. When the terms of the trust meet all the criteria in MA-2230, Financial
+             Resources, XI.
+
+   2.     Any transfer made to a Special Needs Trust after the a/b turns age 65 must be
+          evaluated as a Transfer of Assets.
+
+   3.     A Special Needs Trust may be established by the parent, grandparent, legal
+          guardian, court, or by the disabled individual.
+
+   4.     The disabled individual must establish the trust on and after December 13,
+          2016, to be a Special Needs Trust. Prior to the date, the trust will not be
+          considered as a Special Needs Trust.
+                                              18
+         5.      Forward a copy of the trust document to DHB, Third Party Recovery Section, 2508
+                 Mail Service Center, Raleigh, N.C. 27699-2508.
+
+      C. Transfers To Pooled Trusts
+
+         Refer to MA-2230 Financial Resources XI. C. Types of Trusts for definitions.
+
+         1.      Transfers of the a/b’s assets made to a Pooled Trust on or after July 1, 2026,
+                 regardless of age, are allowable as long as it meets all criteria described in MA-
+                 2230 Financial Resources XI C.4.
+                 Note: Transfers to Pooled Trusts made prior to July 1, 2026 for an individual age
+                 65 and older must still be evaluated for a transfer of assets.
+
+         2.      Any disbursement from a Pooled Trust that is not for the sole benefit of the
+                 individual must be evaluated for a Transfer of Assets. Evaluate disbursements at
+                 application and each redetermination.
+
+      D. Purchase of An Irrevocable Burial Contract
+
+         Assets used to purchase an irrevocable burial contract are an allowable transfer and create
+         a trust when:
+
+         1.      The contract is purchased for the benefit of the a/b, their spouse, child under 21, or
+                 blind/disabled child of any age, and
+
+         2.      The contract lists each burial item and/or service, and
+
+         3.      The services are equal to the transferred assets’ value.
+
+IX.   NON-ALLOWABLE TRANSFERS
+
+      This section will explain the types of transfers that are non-allowable. Some transfers have
+      special rules based on the type of asset transferred. Apply the following rules.
+
+      A. Date of Transfer for Real Property or Interest in Real Property
+
+         The date of transfer for real property is the day the deed is signed by the grantor,
+         delivered, and accepted by the grantee. Unless fraud is suspected, it is presumed this is the
+         date recorded on the front of the deed. The deed does not have to be notarized or
+         registered to be a valid title transfer. However, a deed of gift must be registered
+         within 2 years to remain valid.
+
+      B. Transfer of Contiguous Property When The A/B or A/B’s Spouse Does Not Have
+         Ownership Interest in the Principal Place of Residence.
+
+          Refer to XV. Transfer of Assets Glossary definition for Contiguous Property.
+
+         1.      Up to $12,000 value of contiguous property is excluded in determining resource
+                 eligibility (See MA-2230, Financial Resources) when the a/b or the a/b’s spouse
+                 does not have ownership interest in the principal place of residence. This
+                                                     19
+          exclusion is not a homesite exclusion. For contiguous property to be excluded as
+          the homesite, the a/b must have an ownership interest in the principal place of
+          residence.
+
+   2.     If a non-allowable transfer of contiguous property is made and the a/b or the a/b’s
+          spouse does not have an ownership interest in the principal place of residence,
+          determine the sanction period using the total uncompensated value of the property.
+          Do not subtract the $12,000 in determining the value of the property.
+
+C. Joint Ownership of Liquid Assets
+
+   1.     Evaluate for transfer of assets when the a/b takes any action that eliminates their
+          ownership or reduces their control of a liquid asset. Examples include when the a/b
+          adds another individual(s) to a bank account or certificate of deposit.
+
+
+
+
+                                            20
+   2.     Determine if a resulting trust exists. The transfer is a resulting trust if:
+
+          a. The asset is in another person’s name, but it is held for the benefit of the a/b
+             and
+
+          b. The person holding the asset retains no legal interest in the asset and will not
+             benefit from the disposal of the asset.
+
+          c. If a resulting trust is verified, there is no sanctionable transfer.
+
+   3.     The date of transfer depends on the action:
+
+          a. The date of transfer for an "or" account is the date the asset is actually reduced.
+
+          b. The date of transfer for an "and" account is the date the a/b reduces their
+             control of the asset.
+
+D. Transfers Involving Countable Trusts
+
+   Any time the a/b, financially responsible spouse, or parent creates a trust or becomes the
+   beneficiary of a trust, report it to DHB, Third Party Recovery Section. The telephone
+   number is (919) 527-7690. The fax number is (919) 831-1812.
+
+   1.     Except for the specific trusts described in VIII. above, evaluate trusts created by
+          the a/b with their funds as either:
+
+          a. An available asset to the a/b, or
+
+          b. A transfer of asset.
+
+   2.     Refer to MA-2230, Financial Resources, to determine what portion of the trust is
+          an available asset to the a/b. The amount that is unavailable to the a/b is subject to
+          a transfer sanction.
+
+   3.     Revocable Trust
+
+          Refer to XV. Transfer of Assets Glossary definitions for Revocable and
+          Irrevocable Trusts.
+
+          a. The date of transfer for a revocable trust is the date a disbursement from the
+             trust is made to someone other than the a/b.
+
+          b. The uncompensated value of the transfer is the actual amount paid to an
+             individual other than a/b.
+
+   4.     Irrevocable Trusts
+
+          a. The date of transfer is the date the trust is established.
+
+          b. The uncompensated value is the portion of the trust that was made unavailable
+                                               21
+                   to the a/b on the date the trust is established. Do not subtract any payments
+                   made from the trust after the trust was established.
+
+              c. Additions to existing trusts are considered a new transfer based on the date of
+                 the addition. Additions include undistributed interest earned on the trust
+                 principal.
+
+    E. Stream of Income
+
+       1.      A stream of income is income received on regular basis such as a pension or rental
+               income from property.
+
+       2.      Income produced from a life estate is countable to the life estate holder regardless
+               of who receives the income. Refer to MA-2230 Financial Resources VII. A. 4.a.
+
+       3.      When a stream of income is transferred or diverted, each payment is
+               considered as a separate transfer.
+
+    F. Transfer of Income Producing Property
+
+       1.      If a homesite becomes income producing, it remains a homesite for transfer of
+               asset purposes if it meets the criteria in VII.B.1. Evaluate transfer of home sites,
+               including those that have become income producing.
+
+       2.      If income producing property that meets the 6% net annual income test (See MA-
+               2230, Financial Resources, for policy on the 6% net annual income test.), is
+               transferred, evaluate for transfer of assets.
+               The uncompensated value is the value of the property less any compensation
+               received less any amount used to pay off an encumbrance. Do not deduct $6,000.
+
+       3.      When evaluating a transfer of income producing property, do not consider as a
+               stream of income.
+
+    G. Inheritance
+
+       A transfer also occurs when an individual takes action to waive or renounce an inheritance
+       to which they are entitled.
+
+X. TRANSFERS THAT MAY OR MAY NOT BE ALLOWED
+
+    A. Annuities
+
+       Evaluate all annuities held by the a/b, or the a/b’s spouse to determine if they are a
+       resource. (See MA-2230, Financial Resources.) If the annuity is a countable resource, do
+       not evaluate for transfer of assets sanction. If the annuity is not a resource, evaluate for a
+       possible transfer of asset following the policy below. Use the additional resource,
+       Annuities located on the DHB Medicaid Training Resources, as a guide.
+
+       1.      The uncompensated value for non-allowable purchases of annuities is the full
+               purchase price. Use the full purchase price to calculate the sanction.
+
+                                                   22
+2.   Annuities that are purchased or changed during the lookback period, that do not
+     meet the criteria below are considered an uncompensated transfer. Determine a
+     sanction period for the purchase amount plus any additions to the annuity.
+
+     a. The following requirements apply to all annuities whether they are determined
+        to be a resource or not:
+
+        (1)     North Carolina Medicaid must be named remainder beneficiary in the
+                first position for all annuities created or changed on or after November
+                1, 2007, when the a/b is applying for or receiving institutional
+                services, CAP services, or PACE services. This requirement also
+                applies to annuities held by the a/b’s spouse. Use the information
+                obtained from the DHB-5111, Annuity Verification Form.
+
+               (a) If there is a community spouse and/or any child under age 21 or a
+                   disabled child of any age when the purchase or change takes place,
+                   North Carolina Medicaid may be named in the next position after
+                   those individuals.
+
+               (b) If North Carolina Medicaid is not named as a remainder
+                   beneficiary or not named in the correct position within the time
+                   frames for providing necessary information, the purchase, or
+                   change to the annuity is a transfer of assets for the original full
+                   purchase price plus any additions.
+
+                The amount North Carolina Medicaid can receive, as a beneficiary, is
+                limited to the amount that Medicaid paid on behalf of the Medicaid
+                beneficiary.
+
+        (2)     Changes include any action(s) taken by an individual that changes the
+                course of payment of the annuity or that changes the treatment of the
+                income or principal of the annuity. Changes include but are not limited
+                to:
+
+               (a) Additions to principal
+
+               (b) Elective withdrawals
+
+               (c) Requests to change the distribution of the annuity
+
+               (d) Elections to annuitize the contract- (convert into a series of payments)
+
+        (3)     Changes do not include:
+
+               (a) address changes,
+
+               (b) death or divorce of a remainder beneficiary,
+
+               (c) child turning 21, or
+
+                                       23
+           (d) changes beyond the control of the individual such as change in the policy
+               of the issuer.
+
+    (4)    If the annuity is a countable resource, the a/b will likely be ineligible
+           for Medicaid due to excess resources. In this case no transfer of assets
+           sanction can be applied.
+
+b. The following requirements apply to annuities not determined to be a resource:
+
+    (1)    Assets of an a/b used to purchase or change an existing annuity after
+           November 1, 2007, will not be considered as a transfer of assets if, in
+           addition to North Carolina’s Medicaid program named as a beneficiary,
+           the annuity meets the following conditions: (Note: This requirement
+           does not apply to an annuity held by the a/b’s spouse).
+
+           The annuity was sold by a bank, insurance company, or other person
+           engaged in the business of the sale of commercial annuities and
+
+           (a) The annuity is considered either:
+
+                1)     An individual retirement annuity, or
+
+                2)     A deemed Individual Retirement Account (IRA) under a
+                       qualified employer plan. or
+
+           (b) The annuity is purchased with proceeds from one of the following:
+
+                1)     A traditional IRA; or
+
+                2)     Certain accounts or trusts which are treated as traditional IRAs;
+                       or
+
+                3)     A simplified retirement account; or
+
+                4)     A simplified employee pension account; or
+
+                5)     A Roth IRA.
+
+                       Note: To determine if an annuity is established under any
+                       of the provisions in a. and b. above, rely on verification
+                       from the financial institution, employer, or employer
+                       association that issued the annuity. It is the responsibility of
+                       the a/b, or the a/b’s representative to produce this
+                       documentation.
+                                              OR
+
+           (c) The annuity meets all the following requirements:
+
+                1)     The annuity is irrevocable and does not allow the policy
+                       holder to assign or transfer the ownership or income of the
+                                  24
+                                     policy to a third party; and
+
+                             2)      The purchase price of the annuity is expected to be paid
+                                     back in full during the actual or expected lifetime of the
+                                     annuitant, (Follow procedures in IX.A.1. a. (2) above to
+                                     determine if the beneficiary is expected to live long
+                                     enough to receive full payments), and
+
+                             3)      The annuity provides for payments in equal amounts
+                                     during the term of the annuity, with no deferral and no
+                                     balloon payments.
+
+B. Promissory Notes, Loans, Mortgages, or Other Property Agreements
+
+   A promissory note, loan, mortgage, or other property agreement must have a current
+   market value at least equal to the value of the transferred asset. Consider a promissory
+   note, loan, mortgage, or other property agreement that does not meet all the criteria below
+   a transfer of assets.
+
+   1.      Determine the sanction period using the remaining balance owed on the note,
+           loan, mortgage, or other property agreement at the date of application or request
+           for institutional services.
+
+   2.      The purchase/establishment or receipt of a promissory note, loan, mortgage, or
+           other property agreement is considered an uncompensated transfer unless the
+           repayment agreement meets the criteria below.
+
+           a. The total value of the note, loan, mortgage, or other property agreement is
+              expected to be paid back in full during the actual or expected lifetime of the
+              lender/beneficiary, and
+
+           b. Repayment must be made in equal amounts during the term of the note, loan,
+                 mortgage, or other property agreement with no deferral payments and no
+                 balloon payments, and
+
+           c. The agreement prohibits the cancellation of the balance upon the death of the
+                 lender.
+
+   Use the Life Expectancy Table to determine the lender/beneficiary’s life expectancy at the
+   time of purchase to determine if note, loan, mortgage, or other property agreement is
+   expected to be paid back in full during the individual’s lifetime.
+
+C. Life Estate
+
+   Life estate is a limited interest in real property. A life estate holder does not have full title
+   to the property but has the right to use the property for their lifetime or for a specified
+   period.
+
+   1.      Exclude a life estate interest as an asset in determining eligibility for Medicaid.
+
+   2.      Evaluate for transfer of assets when the a/b, or the a/b’s spouse transfers real
+                                                25
+     property and retains a life estate. (See X.D. below for transfers of remainder
+     interest in real property.)
+
+     a. The date of transfer is the day the deed is signed by the grantor, delivered, and
+        accepted by the grantee.
+
+     b. The uncompensated value is the equity of the remainder interest granted, less
+        compensation received. Refer to MA-2230, Financial Resources, for
+        instructions on determining the equity value of a remainder interest.
+
+3.   Evaluate for transfer of assets when an a/b, or the a/b’s spouse transfers a life
+     estate interest.
+
+     a. The date of transfer is the day the deed is signed by the grantor, delivered, and
+        accepted by the grantee.
+
+     b. Determine if current market value was received for the life estate. Refer to the
+        Life Estate and Remainder Interest Tables website,
+        https://secure.ssa.gov/poms.nsf/lnx/0501140120.
+
+     c. Multiply the tax value of the real property on the date the life estate is
+        transferred by the corresponding life estate value for the age of the individual
+        whose life determines the length of the life estate. The result is the value of
+        the transferred life estate.
+
+     d. Determine the sanction period. See XI. below.
+
+4.   Evaluate the purchase of a life estate in another individual’s home for a transfer of
+     asset sanction.
+
+     a. At the time of application for institutional services the purchaser has not
+        resided in the home for a period of at least 12 consecutive months following
+        purchase of the life estate. The 12 months begins the date the purchaser moves
+        into the home and ends on the 365th day.
+
+         Vacations, overnight visits, and acute hospital stays should not be deducted
+         from the 12-month period provided this continued to be the individual’s
+         residence.
+
+         (1)     Determine the sanction period based on the purchase price.
+
+         (2)     Continue the sanction period until it is complete even if the person
+                 continues to reside in the home beyond 12 months.
+
+     b. At the time of application for institutional services they had resided in the
+        home for at least 12 consecutive months following purchase of the life estate
+        and:
+
+         (1)     The purchaser paid equal or more than current market value of the life
+                 estate
+                                         26
+              (2)     Determine the sanction period based on the difference between the
+                      amount paid and the current market value of the life estate. See IX.C.5.
+                      below to determine the uncompensated value.
+
+   5.     Evaluate the purchase of a life estate in any property that is not the home of
+          another individual.
+
+          a. Count any amount paid over current market value as a transfer.
+
+          b. The value of the life estate at the time of purchase must at least equal the
+             amount paid. The uncompensated value is the purchase price minus the value
+             of the life estate at the time of purchase.
+
+   6.     Ladybird Deed or Life Estate with Powers- The owner of the property creates a
+          life estate for themself, retaining the power to sell the property, with a remainder
+          interest to someone else, e.g., a child.
+
+          a. Since the life estate holder retains the power to sell the property, its
+             value as a resource is its full equity value. In this situation, the
+             individual has not transferred anything of value, because they can
+             terminate the life estate at any time and restore full ownership to
+             themselves.
+
+          b. Instead, the full value of the asset is considered as a countable resource to the
+             individual (assuming, of course, that it is not an otherwise excluded
+             resource).
+
+D. Remainder Interest in Real Property
+
+   1.     When the a/b, or the a/b’s spouse obtains a remainder interest in real property,
+          determine if the value of the remainder interest is at least equal to the value of the
+          compensation given in return.
+
+          a. Determine if current market value was received for the remainder interest.
+
+          b. Multiply the tax value at the time the remainder interest was obtained by the
+             remainder decimal factor that corresponds to the age of the individual whose
+             life determines the length of the life estate. Subtract any encumbrances
+             applicable to the remainder interest. Refer to the Life Estate and Remainder
+             Interest Tables website. The result is the equity value of the transferred
+             remainder interest.
+
+          c. Compare the equity value of the remainder interest to the value of the
+             compensation received. If the compensation received is less than the equity
+             value of the remainder interest received, this is an uncompensated transfer.
+
+          d. The date of transfer is the date the remainder interest is purchased.
+
+   2.     When the a/b or the a/b’s spouse transfers a remainder interest in real property,
+
+                                              27
+         whether or not a life estate interest was retained, evaluate to determine if the a/b or
+         the a/b’s spouse received compensation at least equal to current market value of
+         the transferred remainder interest in real property.
+
+E. Tenancy-in-Common Interest
+
+   1.    When the a/b, or the a/b’s spouse obtains a tenancy-in-common interest in real
+         property, determine if the current market value of the tenancy-in-common interest
+         is at least equal to value of resources given by the a/b, or the a/b’s spouse.
+
+         a. Determine the value of the tenancy-in-common interest on the date it is
+            obtained. Multiply the tax value of the property at the time of transfer by the
+            tenancy-in- common interest in the property.
+
+         b. Multiply the amount of encumbrance on the property by the tenancy-in-
+            common interest and subtract this amount from the value determined in a.
+            above. The result is the current market value of the tenancy-in-common
+            interest.
+
+         c. If the current market value of the tenancy-in-common interest is less than the
+            value of the compensation given by the a/b, or a/b’s spouse, this is an
+            uncompensated transfer.
+
+         d. The date of transfer is the date the tenancy-in-common interest is obtained.
+
+   2.    When the a/b, or the a/b’s spouse transfers a tenancy-in-common interest in real
+         property, determine if the value of compensation received is at least equal to
+         current market value of the tenancy-in-common interest in real property.
+
+         a. Determine the value of the tenancy-in-common interest on the date of
+            transfer. Multiply the tax value of the property at the time of transfer by the
+            tenancy-in-common interest in the property.
+
+         b. Multiply the amount of encumbrance on the property by the tenancy-in-
+            common interest in the property and subtract this amount from the value
+            determined in a. above. The result is the current market value.
+
+          c. If the current market value of the tenancy-in-common interest is more than
+             the value of the compensation received, this is an uncompensated transfer.
+
+         d. The date of transfer is the date the tenancy-in-common was transferred.
+
+   3.    When the a/b, or a/b’s spouse changes ownership interest in property from fee
+         simple or tenancy-by-the-entirety to tenancy-in- common interest, evaluate for a
+         transfer of assets.
+
+         a. The uncompensated value is the equity in the tenancy-in-common interest,
+            less any compensation received.
+
+         b. For Medicaid eligibility purposes, encumbrances on real property that is held
+                                             28
+               by tenancy-in-common apply to the entire property. The equity in the
+               tenancy- in- common interest in real property is:
+
+               (1)     The current market value of the property multiplied by the tenancy-in-
+                       common share,
+
+               (2)     Less the encumbrances on the property multiplied by the tenancy-in-
+                       common share.
+
+           c. In the event there is an encumbrance that applies to only the tenancy-in-
+              common interest, subtract the full amount of the encumbrance from the result
+              of the current market value of the property multiplied by the tenancy-in-
+              common share. If an encumbrance applies only to the other tenancy-in-
+              common share, do not deduct from the a/b’s tenancy-in-common interest.
+
+F. Single Premium Endowment Policies
+
+   The policy is an endowment investment instrument similar to an annuity that is not
+   actuarially sound. The pure endowment policy pays a benefit only to those individuals who
+   survive a certain period of time. The policy has no cash value and payments are irregular or
+   a balloon payment at maturity.
+   The purchase of a single premium pure endowment policy is considered an
+   uncompensated transfer. Count the total amount of the purchase price of the endowment
+   policy as the uncompensated value of the transfer.
+
+G. Regular Donations/Gifts
+
+   A pattern of giving regular donations/gifts to charities, religious organizations, or family
+   members can indicate intent other than to qualify for Medicaid. For example, the a/b
+   regularly gives each family member $1,000 at Christmas and birthdays. Do not impose a
+   sanction when an asset was transferred solely for a reason other than to become eligible
+   for Medicaid.
+
+   1.     In making the determination, consider the following:
+
+           a. The a/b’s or the a/b’s spouses’ age, general health, living arrangement, and
+              amount of assets retained to meet future needs at the time of the transfer.
+
+           b. How the a/b expected to meet their medical and other living expenses without
+              the transferred asset.
+
+           c. Whether the transfer by the a/b or the a/b’s spouse to a charity, religious
+              organization, or family member was made when the a/b or the a/b’s spouse did
+              not anticipate needing long-term medical care.
+
+   2.     Document the response provided to the considerations listed above. The a/b or the
+          a/b’s spouse or the a/b’s or the a/b’s spouse’s representative must also provide a
+          written description of the gifts/donations, including date, amount, and beneficiary.
+
+   3.     In addition to the written evidence provided as listed above, evidence from other
+                                              29
+          sources may be considered. Examples of other sources include but are not limited
+          to bank records, medical records or oral or written statements from persons
+          knowledgeable about the a/b’s or the a/b’s situation and the transfer of assets.
+
+H. Personal Services and Continuing Care Contracts
+
+   For personal services and continuing care contracts signed during the lookback, the
+   following applies. Please note the agreed upon services may be provided by an agency,
+   private caregiver, or family member.
+
+   1.      Personal services and continuing care contracts are not asset transfers when the
+           value of the transferred assets is an amount that is at least equal to the value of the
+           services to be received, and all the following conditions are met.
+
+          a. A written contract between the a/b or the a/b’s spouse and the provider of the
+             services is signed before services are delivered and payment made. The
+             contract is dated and either party can terminate the contract; and
+
+              (1)       The contract is signed by the a/b or the a/b’s spouse or a representative
+                        legally authorized through a power of attorney, general guardianship,
+                        or guardianship of the estate; and
+
+              (2)       At the time the a/b or the a/b’s spouse receives services provided under
+                        the terms of a personal services contract, the a/b or the a/b’s spouse
+                        who is receiving the services is not residing in a nursing facility or
+                        intermediate care facility for individuals with intellectual disabilities
+                        (ICF/IID).
+
+          b. However, the contract is a transfer of assets if:
+
+              (1)       The a/b receives services under the terms of a personal services contract
+                        while they are residing in a nursing facility or ICF/IID or
+
+              (2)       The a/b’s spouse receives services under the terms of a personal
+                        services contract while they are residing in a nursing facility or
+                        ICF/IID; and
+
+          c. At the time the contract is signed:
+
+              (1)       Services have been recommended in writing and signed by a physician
+                        as necessary to prevent the entry of the a/b, or the a/b’s spouse to a
+                        nursing facility or ICF-IID.
+
+              (2)       Services may not include the providing of companionship, visits, or
+                        spiritual wellbeing; and
+
+          d. The local agency verifies the agreement by reviewing the written contract
+             between the a/b, or the a/b’s spouse, and the provider of the services.
+
+                    The contract must include:
+              (1)      The type, frequency and duration of the services being provided to the
+                                               30
+                     a/b, or the a/b’s spouse, and
+
+             (2)     The amount of assets being transferred by the a/b, or the a/b’s spouse to
+                     the provider of the services.
+
+   2.    If the amount of assets transferred in return for the services is greater than the
+         current market value of the services that can be expected to be received by the
+         a/b, or the a/b’s spouse under the terms of the contract, the a/b or the a/b’s spouse
+         will be considered to have transferred the asset for less than current market value.
+         a. The uncompensated amount is the value of the transferred assets that exceeds
+              the value of the services expected to be provided under the contract.
+
+          b. Establish current market value of the services expected by obtaining a written
+             statement from an area business which provides such services.
+
+          c. If the services cannot be purchased on the open market or a business that
+             provides the service cannot be located, use the state minimum wage amount.
+
+   3.    The a/b must present a detailed statement to the local agency from the provider
+         with the amount and type of services that were received:
+
+          a. At application or request for institutional services, local agencies should
+             request a detailed statement from the date the contract was signed to present.
+
+          b. At recertification, local agencies should request a detailed statement for the
+             past 12 months.
+
+          c. Termination of the contract or failure to receive the services at the frequency
+             and value specified in the contract constitutes an uncompensated transfer. The
+             uncompensated amount is the amount paid which exceeds the current market
+             value of the services received.
+
+   4.    If the a/b, or the a/b’s spouse who has a personal services contract is admitted to a
+         nursing facility or ICF/IID:
+
+          a. From that date forward any contract or the remainder of an existing contract is
+             considered a transfer of assets for less than current market value.
+
+          b. The uncompensated amount is the amount paid which exceeds the current
+             market value of the services received.
+
+   5.    1 through 4 does not pertain to Continuing Care Retirement Communities (CCRC)
+         that provides a continuum of care under a contract. See MA-2230, Financial
+         Resources, X.Q. for policy concerning a CCRC.
+
+I. Transfers for "Love and Consideration"
+
+   1.    Evaluate for transfer of assets when an a/b gives cash, or other applicable assets to
+         a family member, relative, or friend for care or services that were provided for free
+         in the past.
+
+                                             31
+      2.     Unless there was a written agreement for compensation at the time the care or
+             service was received, the transfer is uncompensated.
+
+      3.     If the agreement or the terms of the agreement are contradictory or inconsistent,
+             refer to MA-2300, Application, to evaluate for conflicting information.
+
+XI. TRANSFER SANCTION
+
+   A. Determine the Uncompensated Value of Transfer(s)
+
+      1.     List each non-allowable transfer occurring on or after the lookback date through
+             the current date.
+
+      2.     Determine the date of the transfer.
+
+      3.     Determine the value of each transferred asset based on policy in MA-2230,
+             Financial Resources. For transfers of tenancy-in-common interest in real property,
+             see X.E. above.
+
+             a. Establish the current market value (tax value) at the time of the transfer for
+                each non-allowable transferred asset.
+
+             b. Subtract any encumbrances at the time of transfer to establish the equity of the
+                asset. The remainder is the equity.
+
+             c. Subtract the amount or value received, if any, from the equity. This is the
+                uncompensated value.
+
+             d. See X.A, X.B, and X.C above for exceptions to the rule when evaluating
+                annuities, promissory notes, loans, mortgages, or other property agreements,
+                and life estates.
+
+             e. The value of certain transferred assets can be rebutted. If an asset’s value has
+                already been successfully rebutted as part of the application process, use the
+                established rebutted value.
+
+   B. Determine the Sanction Period Length
+
+      The length of the sanction period is based on the uncompensated value of the transfer.
+      Use DHB-5181, Calculating Penalty Period, as a tool to assist in calculating the penalty
+      period. Determine a sanction period on any uncompensated transfers that occurred after
+      the lookback date.
+
+      1.     Total the uncompensated value of all transfers in the lookback period.
+
+             a. Divide the total uncompensated value for all transfers by the average monthly
+                private NF rate as of the date of the application, institutionalization or request
+                for CAP or PACE. The average monthly private NF rate is $11,904, as of
+                January 1, 2025.
+
+                                                   32
+              Round the amount to 2 decimals. The result is the length of the sanction
+              period. The resulting whole number is the length of sanction months, and any
+              fractional remainder are additional days.
+
+          b. Multiply the remaining fractional amount by 31.
+
+              (1)     The result is the additional number of days to be added to the sanction
+                      period.
+
+              (2)     Drop any fractional portion of a day.
+
+   2.     NC FAST will determine the sanction period, if applicable. Refer to NC FAST Job
+          Aid: Sanction for Transfer of Assets.
+
+C. When to Apply the Sanction
+
+   Use the following policy to determine the start date of the sanction. Use policy A. and B.
+   above to determine the length of the sanction.
+
+   1.      Applying the Sanction to an Ongoing Beneficiary of Institutional Services
+
+           This section explains when to start a transfer of asset sanction for a beneficiary
+           receiving institutional services.
+
+           a. The sanction is applied prospectively for the following beneficiaries:
+
+              (1)     The transfer of asset evaluation was completed after approval of
+                      institutional services and a transfer is found, or
+
+              (2)     An ongoing beneficiary of institutional services reports an asset was
+                      transferred or a transfer is found during recertification
+
+           b. Start the sanction period, the first day of the month following timely notice of
+              the sanction period.
+
+               (1)     Determine the sanction period for the whole months calculated in
+                       B.1.a. above using the DHB-5181 Calculating the Penalty Period.
+
+               (2)    Add the fractional days to the sanction determined in B.1.b. above.
+
+              (3)     Authorize MAGI and CAP cases the day after the last day of the
+                      sanction.
+
+                      (a) Enter the CAP effective date in NC FAST.
+
+                      (b) When the individual becomes eligible for CAP, re-calculate the
+                          deductible for the certification period according to instructions in
+                          MA-2280, Community Alternatives Program (CAP), Medicaid
+                          Eligibility, II.A.9.d. and III.F.
+
+                                              33
+        (4)     For cases with PML, convert the number of days in the sanction-ending
+                month to a dollar amount.
+
+                 (a) Multiply the number of sanction days (if less than the full calendar
+                     month) by $384 (average private daily rate).
+
+                 (b) Add this to the first month’s PML amount regardless of whether
+                     the person has a zero PML.
+
+                 (c) Do not reduce the sanction dollar amount by any UMN or income
+                     protected for spouse or dependents at home.
+
+                 (d) If the full sanction period (including the fractional days) ends on
+                     the last day of the sanction-ending month, do not convert to a
+                     dollar amount. The a/b is ineligible for that entire month.
+
+     c. For a sanction that cannot begin prior to the first day of the month that follows
+        three full calendar months from the date of the report or discovery of a
+        transfer:
+
+         (1)     If the sanction is not imposed until after month 4, this is considered an
+                 agency error. The period beginning with month 4 until the month the
+                 action is effective must be referred to the local DSS Program Integrity
+                 Section for recoupment. Refer to MA-2395, MA-3530 Corrective
+                 Actions and Responsibility for Errors.
+
+         (2)     Impose the remaining sanction period in NC FAST.
+
+                If the entire sanction period ends prior to the month the sanction can be
+                imposed due to notice requirements, refer the entire sanction to the local
+                DSS Program Integrity Section and do not key a sanction period.
+
+2.   Beneficiary is Discharged Prior to Sanction Effective Date
+
+     a. If the beneficiary is discharged from the facility, CAP or PACE prior to the
+        effective date of the sanction, the sanction cannot be imposed.
+
+         (1)     If the sanction has already been keyed. Cancel the sanction in NC
+                 FAST and notify the a/b and authorized representative, if applicable,
+                 of termination of institutional services and the sanction will not be
+                 imposed at this time.
+
+         (2)     Enter a sanction for invalid transfer of assets in NCFAST. No
+                 additional institutional services periods should be authorized. Refer
+
+     b. If cost of care coverage is requested for any future institutionalization, apply
+        the original sanction effective the date that all other eligibility criteria is met.
+
+         (1)     The caseworker should not reevaluate the original sanction unless the
+                 a/b reports a change that may impact the original sanction.
+                                         34
+        (2)     Do not allow another authorized cost of care period while completing
+                any additional transfer of assets evaluation.
+
+     c. Any additional sanctions found cannot be applied until the previous sanction
+        has ended.
+
+3.   Applying the Sanction After Failure to Provide
+
+     This section explains when to start a transfer sanction after an a/b has received
+     institutional services for a prior period and was terminated for failure to provide.
+
+     a. New Application
+
+        (1)     When the individual was terminated from institutional services for
+                failure to provide information to complete the transfer of assets
+                evaluation and found ineligible for all Medicaid programs, follow 90-
+                day reopen procedures, when applicable. After 90 days, a new
+                application must be submitted.
+
+        (2)     In this situation institutional services cannot be approved until the
+                transfer of asset evaluation is completed.
+
+        (3)     Once the individual requesting CAP, PACE, or LTC has provided the
+                requested information and an uncompensated transfer is established, the
+                sanction period begins on the date when they:
+
+                (a) Meet all other eligibility criteria for LTC, CAP or PACE.
+
+                (b) If they had to meet a deductible, it is the date the deductible is met.
+
+        (4)     An a/b who has a deductible does not meet all other eligibility criteria
+                and is not otherwise eligible until the day the deductible is met. The
+                sanction period begins on the day the deductible is met.
+
+                (a) If a deductible is met during the month of entry into a nursing facility,
+                    the sanction period begins the day the deductible is met.
+
+                (b) If the deductible is not met during the month of entry into the nursing
+                    facility, the sanction period begins the first day of the next month, the
+                    first day of long-term care budgeting.
+
+                (c) Start the sanction period, beginning on the date specified in C.2.a.
+                    above.
+
+                    • Determine the sanction period for the whole months calculated
+                      in B.1.a. above.
+
+                    • Add the fractional days to the sanction determined in B.1.b.
+                      above.
+
+                                        35
+               (5)    Authorize CAP cases the day after the last day of the sanction.
+
+                      (a) Enter the CAP effective date in NC FAST.
+
+                      (b) When the individual becomes eligible for CAP, re-calculate the
+                          deductible for the certification period according to instructions in MA-
+                          2280, Community Alternatives Program (CAP),V.
+
+               (6)    For cases with PML, convert the number of days in the sanction-ending
+                      month to a dollar amount.
+
+                      (a) Multiply the number of sanction days (if less than the full calendar
+                          month) by $384 (average private daily rate).
+
+                      (b) Add this to the first month’s PML amount regardless of whether
+                          the person has a zero PML.
+
+                      (c) Do not reduce the sanction dollar amount by any UMN or income
+                          protected for spouse or dependents at home.
+
+                      (d) If the full sanction period (including the fractional days) ends on
+                          the last day of the sanction-ending month, do not convert to a
+                          dollar amount. The a/b is ineligible for that entire month.
+
+           b. New Request/ Transfer of Asset Information Provided After Termination
+
+               (1)    If an active Medicaid beneficiary was terminated from cost of care for
+                      failure to provide but is still receiving in another Medicaid program and
+                      has now provided the information needed for the transfer of assets
+                      evaluation:
+
+                      (a) If an uncompensated transfer is now established, the start date of
+                          the sanction is applied the first day of the month following the
+                          termination month or the date they meet all other eligibility criteria
+                          if not the first day.
+
+                      (b) If no uncompensated transfer is established, there is no sanction.
+                          Restore coverage for institutional services effective the first day of
+                          the month following the termination month.
+
+               (2)    Caseworkers must begin to evaluate the transfer of assets information
+                      within 30 calendar days after the local agency receives the
+                      request/information.
+
+D. Spouses both institutionalized
+
+    1.     When both spouses are institutionalized, requesting CAP, or receiving in- home
+           health services and supplies:
+
+
+                                              36
+           a. Divide the sanction period between the spouses.
+
+           b. The total sanction imposed on both spouses cannot exceed the number of
+              months of the sanction period.
+
+   2.      When the institutionalized spouse is already serving a sanction and the CUSP also
+           becomes institutionalized, evaluate whether the transfer occurred during the
+           CUSP’s lookback. Refer to IV. C. 3 to determine the lookback of each spouse. If
+           so:
+
+           a. Divide the remaining sanction between the two spouses. If the amount is not
+              equal, the larger amount can be given to either spouse.
+
+           b. Determine what is best for both spouses. The total sanction imposed on both
+              spouses cannot exceed the number of months of the sanction period.
+
+   3.      Evaluate for additional transfer of assets by the former Community Spouse
+           (CUSP) on or after the lookback date. A non-allowable transfer by the CUSP after
+           Medicaid eligibility is established for the Institutionalized Spouse (ISP) is not a
+           sanctionable transfer for the ISP.
+
+           Example 1: A 10-month sanction period has been assigned to the institutionalized
+           spouse. After 5 months have passed, the community spouse enters a nursing
+           facility. Divide the remaining 5 months of the sanction period equally between the
+           two. In this case, assign one spouse (e.g. the ISP) a 2-month sanction period and
+           the other spouse (e.g. the CUSP) a 3-month sanction period.
+
+           After admission, it is determined that the former CUSP has a 4-month sanction
+           period for additional transfers. The CUSP now has a 7-month sanction period and
+           the ISP a 2-month sanction period.
+
+           Example 2: An 80-month sanction period has been assigned to the
+           institutionalized spouse. After 65 months have passed, the community spouse
+           enters a nursing facility. The transfer occurred more than 60 months prior to
+           the former CUSP’s institutionalization and application for Medicaid. The
+           remaining sanction period cannot be divided between spouses. The ISP must
+           serve the remaining sanction period.
+
+E. Other Sanction Situations
+
+   1.      The sanction period cannot begin until after any existing sanction period has
+           expired.
+
+   2.      A sanction period cannot be triggered by receipt of in-home health services and
+           supplies. In-home health services can only be sanctioned if they are received in a
+           sanction period that began due to receipt of institutional services.
+
+   3.      NC FAST will determine the sanction period based upon the evidence entered.
+           Refer to NC FAST Job Aid: Sanction for Transfer of Assets.
+
+
+                                             37
+F. Sanction Period When an Individual Leaves the Institution, CAP, or PACE
+
+   A sanction period runs continuously from the first date of the sanction period through the
+   end of the sanction, regardless of whether the individual remains in or leaves the
+   institution or continues to need CAP, PACE, or in-home health services and supplies.
+
+G. Lifting or Reducing the Sanction Period
+
+   1.      When transferred assets are returned to the a/b, evidence must be edited.
+
+   2.      Assets are considered returned when:
+
+           a. The actual asset is transferred back to the a/b, or
+
+           b. The a/b receives current market value as compensation for the asset after the
+              transfer. Value may be received in cash or money spent on the client's behalf.
+              Examples of money spent on the client's behalf are:
+
+               • children pay for private LTC,
+
+               • buy a burial plot for their parents, or
+
+               • pay old bills for their parents.
+
+           c. The cash or money spent on the client’s behalf does not have to come from the
+              person to whom the asset was originally transferred.
+
+           d. Verify any money spent on the client's behalf is, in fact, paid. For example, the
+              nursing facility verifies the outstanding bill has been paid.
+
+   3.      When the transferred assets (all or a portion) are returned after institutional
+           services have been denied or terminated due to a sanction period being assigned,
+           the sanction period must be recalculated. This may result in the entire sanction
+           being “erased” or a shortened sanction period.
+
+   4.      The returned assets are countable to the a/b in determining eligibility for the entire
+           period they were previously not in the a/b’s name.
+
+           a. For a pending application:
+
+              •   Determine resource eligibility for institutional services based on the date of
+                  application.
+
+              •   Reverify assets considering the returned assets as if a/b owned them
+                  throughout the sanction period.
+
+              •   Erase the sanction period beginning with the first month of the sanction
+                  period.
+
+           b. For an ongoing beneficiary:
+
+                                              38
+             •   Reverify assets considering the returned assets as if a/b owned them
+                 throughout the sanction period.
+
+             •   Re-determine eligibility for institutional services based on the current
+                 value of all assets owned. If assets are over the allowable limit, follow
+                 procedures to allow for reduction of reserve.
+
+             •   The sanction period is erased beginning with the first month of the
+                 sanction period.
+
+          c. When only a portion of the transferred asset is returned to the a/b, update evidence in
+             NC FAST and recalculate the sanction period.
+
+             •   Reverify assets considering the returned assets as if a/b owned them
+                 throughout the sanction period.
+
+             •   Re-determine eligibility for institutional services based on the current
+                 value of all assets owned. If assets are over the allowable limit, follow
+                 procedures to allow for reduction of reserve.
+
+             •   Modify the sanction period. Refer to NC FAST Job Aid: Editing or End
+                 Dating Sanctions.
+
+H. Budgeting During Sanction Period
+
+   1.     If an a/b is sanctioned for payment of nursing home cost of care, CAP or in- home
+          health services and supplies due to transfer of assets, continue to determine
+          eligibility for all other MAGI and non-MAGI Medicaid programs.
+
+   2.     If an a/b is sanctioned for payment of PACE services due to transfer of assets and
+          does not disenroll from the PACE Program, evaluate for MQB only. (Refer to
+          MA-2275, Program of All-Inclusive Care for the Elderly.)
+
+          (a) Individuals enrolled in the PACE program are ineligible for all other
+              Medicaid programs, (excluding MQB) during the sanction period.
+
+          (b) If ineligible for MQB deny the application or terminate PACE. Notify the a/b
+              following procedures in MA-2275, Program of All-Inclusive Care for the
+              Elderly (PACE).
+
+          (c) Always explain that disenrollment from PACE is an option and refer them to
+              the PACE organization. PACE a/bs that disenroll from PACE must be
+              evaluated for all other Medicaid programs.
+
+   3.     Budget as PLA. Refer to MA-2260, Financial Eligibility Regulations-PLA and
+          MA-2270, Long Term Care Need and Budgeting. If it is determined that an
+          individual must meet a deductible, see XI.C.2. above.
+
+   4.     Continue to allow the community spouse resource protection when the spouse in
+          LTC is budgeted PLA because of a transfer of assets sanction. (However, the
+          community spouse income allowance does not apply in PLA budgeting.)
+                                            39
+XII. REBUTTAL
+
+   A. General
+
+      When an uncompensated transfer has occurred, the a/b must be given the right to provide a
+      rebuttal prior to a sanction being imposed.
+
+      1.     Use the DHB-5161, Transfer of Asset Below Current Market Value, to notify the
+             a/b and authorized representative, if applicable, of the following:
+
+             •     The length of the sanction period,
+             •     The right to rebut the value of the asset transferred,
+             •     The right to rebut the presumption or provide evidence to prove the transfer
+                   was made exclusively for a purpose other than establishing or retaining
+                   Medicaid eligibility,
+             •     The right to prove the compensation received is greater than established,
+             •     The right to prove the a/b has been defrauded,
+             •     The right to prove the asset has been returned, or
+             •     The right to prove intent to dispose asset at current market value.
+
+       2.       Also advise the a/b that they may provide proof that:
+
+              •    All or a portion of the asset has been returned, or
+
+             •    After the date of transfer, the money was spent for the benefit of the a/b or
+                  the a/b’s spouse.
+
+                  Follow notification procedures in XII.B. below.
+
+      3.     The a/b, or the a/b’s spouse must show convincing evidence that:
+
+             • The transferred asset is less than the value established by the local agency, or
+
+             • The value of compensation received is greater than the value established, or
+
+             • At least two attempts to dispose of the asset for current market value, or
+
+                • All or a portion of the asset has been returned, or
+
+             • The money has been spent for the benefit of the a/b, or the a/b’s spouse, or
+
+             • The asset was transferred solely for a purpose other than qualifying for
+               Medicaid.
+
+             The evidence presented (written or oral) must be more persuasive than all
+                                                   40
+          evidence presented to the contrary.
+
+   4.     The rebuttal evidence may include:
+
+           •   A/b’s (spouse/legal representative) statement regarding the circumstances of
+               the transfer, including the specific reason the asset(s) was transferred,
+
+           •   The date of transfer,
+
+           •   The name and relationship of the person(s) to whom the asset was
+               transferred,
+
+           •   Any compensation received.
+
+   5.     Examples of evidence include:
+
+           •   oral or written statements from persons knowledgeable about the situation,
+
+           •   medical records,
+
+           •   bank records.
+
+B. Rebutting the Value of the Transferred Asset and Amount of Compensation
+   Received
+
+   1.     To prove that the value of transferred asset is less than the value established by the
+          local agency, the a/b, or the a/b’s spouse must provide a signed written statement
+          from a knowledgeable person located in the same geographic area in which the
+          property is located. The knowledgeable person cannot be a family member, friend
+          or someone who stands to gain from the transaction.
+
+          a. The statement must include:
+
+               •   A description of the asset that clearly identifies the asset,
+
+               •   A specific statement as to the value of the asset and when the value was
+                   determined,
+
+               •   The reason for establishing the lesser value,
+
+               •   The basis for the source’s knowledge of the value of the property.
+
+          b. A “knowledgeable person” is an individual:
+
+               •   Involved in the sale or appraisal of the type of asset in question,
+
+               •   Involved in the financing of sales of the type of asset in question,
+
+               •   An official of the local property tax jurisdiction, or
+
+               •   Other person who can establish in the written statement that they are
+                                               41
+             knowledgeable of the value of the type of asset in question.
+
+     c. The “same geographic area in which the asset was located” is the same area as
+        covered by local radio, television, newspaper or other media.
+
+2.   If the evidence provided proves that the value of the transferred asset is less than
+     the value established under policy, recalculate the uncompensated value using the
+     lesser value.
+
+     a. If no compensation was received for the transferred asset, shorten the sanction
+        period according to the reduced value of the transferred asset.
+
+     b. If partial compensation was received, that is at least equal to the reduced value
+        of the transferred asset, do not impose a sanction period.
+
+     c. If partial compensation was received that is less than the reduced value of the
+        transferred asset, shorten the sanction period according to the reduced
+        uncompensated value of the transfer.
+
+3.   To prove that the value of compensation received in return for a transferred asset is
+     greater than the value established under policy, the a/b, or the a/b’s spouse must
+     provide convincing evidence of the greater value.
+
+     a. For compensation received in the form of real or personal property, use the
+        evidence listed in XII.B.1. above.
+
+     b. If the evidence provided proves that the value of the compensation received
+        for a transferred asset is greater than the value established by the local agency,
+        recalculate the uncompensated value of the transfer based on the greater value
+        of the compensation.
+
+     c. If compensation was received that is at least equal to the value of the
+        transferred asset, do not impose a sanction.
+
+     d. If partial compensation was received that is less than the value of the
+        transferred asset, shorten the sanction period to the reduced uncompensated
+        value of the transfer.
+
+     e. Examples of evidence include:
+
+         •   cancelled checks,
+         •   receipts,
+         •   bills of sale,
+         •   records of a bank or other financial institution that establishes the value
+             of compensation received.
+
+4.   To prove that all or a portion of a transferred asset has been returned, the a/b or the
+     a/b’s spouse must provide evidence establishing the return of the asset.
+
+     a. The asset may be returned beyond the time required to provide evidence. When
+                                        42
+         an a/b states an asset has been returned, allow the a/b an additional 12 days to
+         provide the evidence.
+
+     b. Do not apply a sanction when the entire transferred asset is returned.
+
+     c. When a portion of the transferred asset is returned, reduce the value of the
+        transferred asset by the value of the asset returned. Recalculate the sanction
+        period based on the reduced value of the transferred asset.
+
+     d. Examples of evidence include:
+
+         •   property deeds,
+         •   closing statements,
+         •   property tax records,
+         •   financial statements,
+         •   records of banks or other financial institutions,
+         •   deeds of trust,
+         •   title transfer records,
+         •   contracts and other legally binding agreements.
+
+5.   To prove that money has been spent for the benefit of the a/b, or the a/b’s spouse
+     after the date of the transfer, the a/b or the a/b’s spouse must present evidence
+     showing the money has been spent on the a/b’s behalf.
+
+     a. The asset may be returned beyond the time required to provide evidence.
+        When an a/b states an asset has been returned, allow the a/b an additional 12
+        days to provide the evidence.
+
+     b. Do not impose a sanction when the amount of money spent for the benefit of
+        the a/b or the a/b’s spouse after the date of the transfer is at least equal to the
+        uncompensated value of the transfer.
+
+     c. Examples of evidence include:
+
+         •   cancelled checks,
+         •   receipts,
+         •   bills of sale,
+         •   bank or other financial institution records, or
+         •   other records that prove the amount of money spent,
+         •   the date on which it was spent,
+         •   any goods or services purchased for the a/b or the a/b’s spouse
+         •   the a/b or the a/b’s spouse was the beneficiary of the benefit from these
+             expenditures.
+
+6.   When the amount of money spent for the benefit of the a/b, or the a/b’s spouse
+     after the date of the transfer is less than the value of the transferred asset:
+
+     a. Reduce the uncompensated value of the transfer by the amount of money
+        spent for the benefit of the a/b or a/b’s spouse.
+
+                                         43
+          b. Shorten the sanction period according to the reduced uncompensated value of
+             the transfer.
+
+C. Establishing That a Transfer of Assets Was for a Reason Solely Other Than to
+   Become Eligible for Medicaid
+
+   Do not impose a sanction when an asset was transferred solely for a reason other than to
+   become eligible for Medicaid. The following situations establish that an asset was
+   transferred solely for a reason other than to become eligible for Medicaid:
+
+   1.     The asset was stolen. Convincing evidence must be provided which may include
+          but is not limited to a report to law enforcement officials.
+
+   2.     The a/b has been defrauded.
+
+          a. Refer the case to protective services and/or if there is a legal representative, the
+             clerk of court, to pursue possible reversal of the action and return of the asset to
+             the a/b.
+
+          b. Do not apply a transfer sanction when Adult Protective Services investigates and
+             determines that the a/b is a victim of fraud and did not take the action with the
+             intent of becoming eligible for Medicaid.
+
+          c. Convincing evidence must be provided which may include but is not limited to
+             a report to law enforcement officials.
+
+   3.     The a/b or the a/b’s spouse is a victim of exploitation. The a/b, or the a/b’s spouse
+          must provide convincing evidence which may include:
+
+          a. Proof that includes substantial evidence that the a/b, or the a/b’s spouse is a
+             victim of exploitation due to the illegal or improper use of a disabled adult or
+             their assets for another’s profit or advantage.
+
+          b. Proof of a request to the local agency for adult protective services for the a/b
+             or the a/b’s spouse.
+
+          c. The a/b or the a/b’s spouse must provide convincing evidence which may
+             include but is not limited to a report to law enforcement officials.
+
+   4.     The a/b, or the a/b’s spouse is a victim of actual or threatened abuse. The a/b or the
+          a/b’s spouse must provide convincing evidence:
+
+          a. Proof that includes convincing evidence that the a/b, or the a/b’s spouse is a
+             victim of actual or threatened abuse due to the willful infliction of physical
+             pain, injury or mental anguish, unreasonable confinement, or the willful
+             deprivation by a caretaker of services which are necessary to maintain mental
+             and physical health, and
+
+          b. Proof of a request to the local agency for adult protective services for the a/b, or
+             the a/b’s spouse.
+
+                                              44
+     c. The a/b, or the a/b’s spouse must provide convincing evidence that may include
+        but is not limited to a report to law enforcement officials.
+
+5.   The transfer of assets occurred as part of a regular, in frequency and amount,
+     pattern of giving. The convincing evidence must include written records that
+     clearly document the pattern of giving. Records include but are not limited to
+     bank account records and property transfer records.
+
+6.   In situations other than those noted in XII.C. 1. through 5. above, when an a/b or
+     an a/b’s spouse alleges that the transfer of assets was made solely for a reason
+     other than to become eligible for Medicaid, evaluate the evidence presented. The
+     evidence might establish another reason for the transfer. However, if establishing
+     Medicaid eligibility for institutional services or in-home health services and
+     supplies after receiving institutional services was also considered, the transfer was
+     not exclusively for a purpose other than to establish or retain Medicaid eligibility.
+
+     In making the determination, consider the following:
+
+     a. The a/b’s or the a/b’s spouses’ age, general health, living arrangement, and
+        amount of assets retained to meet future needs at the time of the transfer.
+
+     b. How the a/b expected to meet their medical and other living expenses without
+        the transferred asset.
+
+     c. Whether the case record documents any inquiry by the a/b, the a/b’s spouse,
+        representative, or other interested party about asset limits for Medicaid, or
+        other eligibility requirements for Medicaid.
+
+     d. Whether the a/b, or the a/b’s, spouse, legal representative, or other interested
+        party consulted or hired an attorney for estate planning purposes.
+
+     e. Whether the individuals who provided the knowledgeable statements
+        concerning the circumstances of the transfer stand to gain in any way from the
+        transfer. Whether the transfer is a one-time gift by the a/b, or the a/b’s spouse
+        to a charity, religious organization, or family member made when the a/b, or
+        the a/b’s spouse did not anticipate needing long-term medical care.
+
+     f. Whether a traumatic event (e.g., traffic accident) of disability or blindness
+        happened causing the need for a healthy individual to need institutional
+        services
+
+         •   Example: An a/b, age 40, was in good health when they gave their
+             vacation cottage to their nephew. The next day the a/b was in an
+             automobile accident. Their injuries require long-term care. The transfer
+             was not made to become eligible for Medicaid because they could not
+             anticipate their need for LTC services.
+
+7.   Document the response provided to the considerations listed in XIII.C.6. a. above.
+     The a/b or the a/b’s spouse or the a/b’s or the a/b’s spouse’s legal representative
+     must also provide a complete written accounting of the transfer, including all
+                                        45
+               relevant documentation that shows the following:
+
+               a. The a/b or the a/b’s spouse’s purpose for transferring the asset
+
+               b. The a/b or the a/b’s spouse’s attempts to dispose of the asset at current market
+                  value
+
+               c. The a/b or the a/b’s spouse’s reasons for accepting less than current market
+                  value such as:
+
+                   (1)     A forced sale was done under reasonable circumstances
+
+                   (2)     Little or no market demand exists for the type of asset transferred; or
+
+                   (3)     The asset was transferred to settle a legal debt approximately equal to the
+                           current market value of the transferred assets; and
+
+               d. The a/b, or the a/b’s spouse’s relationship, if any, to the persons to whom the
+                  asset was transferred.
+
+               e. In addition to the written evidence provided, evidence from other sources may
+                  be considered. Examples of other sources include but are not limited to:
+
+                    •    bank records,
+                    •    medical records or
+                    •    oral or written statements from persons knowledgeable about the a/b’s
+                         situation and the transfer of assets.
+
+XIII. DECISION AND NOTIFICATION PROCEDURES (DENIAL/REBUTTAL/UNDUE
+      HARDSHIP)
+
+    When it is determined that a non-allowable transfer has occurred and a sanction period is to be
+    applied, notify the a/b and the authorized representative, if applicable, in writing of the
+    sanction period and rebuttal procedures. Local agencies must have procedures in place to
+    ensure that this process continues timely. Delays of required notification can significantly
+    affect the ability to complete the transfer of assets evaluation within the required timeframes
+    resulting in charge backs to the county for failure to complete within three full calendar
+    months following the authorization.
+
+    A. Determination of Medicaid Eligibility
+
+       Do not delay the determination of Medicaid eligibility, including institutional services,
+       while completing a transfer of assets evaluation. This includes all MAGI and non-MAGI
+       programs. An a/b may be eligible or ineligible for Medicaid regardless of a transfer of
+       assets.
+
+        1.     If the a/b is found ineligible for Medicaid, a sanction for transfer of assets cannot
+               be applied. Stop the evaluation of the transfer of assets.
+
+        2.     If the a/b is found eligible for Medicaid, is approved for institutional services, and
+                                                   46
+          the transfer of assets evaluation is pending,
+
+          a. Notify the a/b and authorized representative, if applicable:
+
+              (1)     Of eligibility for institutional services, and
+
+              (2)     That evaluation for transfer of assets is still pending.
+
+          b. Once the evaluation of the transfer is complete:
+
+              (1)     If the evaluation later reveals no sanctions, send a DSS-8110
+                      adequate notice notifying the a/b, and authorized representative, if
+                      applicable, of continued coverage.
+
+              (2)     If the evaluation reveals a non-allowable transfer and a sanction period,
+                      follow procedures in XIII B. below to notify the a/b and authorized
+                      representative, if applicable, of their right to rebut.
+
+   3.     If the a/b is found eligible for PLA Medicaid, is requesting assistance for a
+          subsequent period of institutional services because they were terminated for
+          failure to provide transfer of assets information and evaluation of a transfer of
+          assets is pending, (remember a new institutional services period cannot be
+          approved until the transfer of assets evaluation is completed):
+
+          a. Notify the a/b and authorized representative, if applicable:
+
+              (1)     Of eligibility for non-institutional services, and
+
+              (2)     That eligibility for institutional services is still pending.
+
+                     This is a manual notice.
+
+          b. Once the evaluation of the transfer is complete:
+
+              (1)    If the evaluation later reveals no sanctions, send a revised DSS-8110
+                     notice authorizing eligibility for nursing home cost of care, CAP or
+                     PACE.
+
+              (2)     If the evaluation reveals a non-allowable transfer and a sanction period,
+                      follow procedures in XIII.B. below.
+
+B. Notifying Individual of Sanction and Right to Rebut
+
+   1.     If the transfer of assets evaluation reveals that a non-allowable transfer has
+          occurred and the sanction length can be determined, use the DHB-5097, Request
+          for Information, and the DHB-5161, Transfer of Asset Below Current Market
+          Value, to notify the a/b and authorized representative, if applicable:
+
+          a. They are ineligible for institutional services and/or in-home health services
+             and supplies, due to transfer of assets.
+
+                                                47
+     b. The transfer(s) considered:
+         •    the length of the sanction period,
+         •    the right to rebut the value of the asset transferred,
+         •    the right to rebut the presumption or provide evidence to prove the
+              transfer was made exclusively for a purpose other than establishing
+              Medicaid eligibility,
+         •    the right to prove compensation has been received,
+         •    the right to prove the a/b has been defrauded,
+         •    The right to prove the asset has been returned, prove the money has been
+              spent on behalf of the individual, or right to prove intent to dispose
+              asset at current market value. See XI. above.
+
+        Refer to MA-2230, Financial Resources, for requirements to rebut the value of
+        the asset.
+
+2.   Follow application processing procedures when requesting information from an
+     applicant. Send at least two requests for information to the applicant. Refer to
+     MA-2300, Applications.
+
+3.   Allow the beneficiary 12 calendar days to provide evidence to rebut the reason
+     for the transfer, rebut the established value of the transferred asset, etc. Allow an
+     additional 12 calendar days if evidence is not received within the first 12 days.
+
+4.   The local agency has 12 calendar days to make a decision after the information is
+     received. If the local agency determines additional information is needed, allow an
+     additional 12 calendar days for the a/b to provide the information.
+
+5.   If the a/b proves that the transfer was not made to become eligible for Medicaid,
+     document the case record and notify the a/b and authorized representative, if
+     applicable, by DSS-8110 that the sanction will not be imposed.
+
+6.   If the a/b provides evidence that:
+
+     • rebuts the established value of the transferred asset
+
+     • that compensation has been received
+
+     • that all or a portion of the asset has been returned
+
+     • money has been spent on their behalf.
+
+     a. Recalculate the sanction period, document the case record and notify the a/b
+        and authorized representative, if applicable, of the change.
+
+     b. If the change results in no sanction, notify the a/b and authorized
+        representative, if applicable, in writing that the sanction will not be
+        imposed.
+                                          48
+           c. If the change results in a shorter sanction period, notify the a/b and
+              authorized representative, if applicable, in writing of the new sanction
+              period using the DHB-5113, Notification of Right to Request an Undue
+              Hardship Waiver (Transfer of Assets).
+
+   7.     If an applicant for institutional services fails to rebut the sanction,
+           either by failing to provide information within the time frame described in XIII.B.
+          above or the information they provide does not rebut the sanction, send a DHB-
+          5113, Notification of Right to Request an Undue Hardship Waiver (Transfer of
+          Assets), to notify the applicant and authorized representative, if applicable, of
+          ineligibility and right to request an undue hardship waiver.
+
+   8.     If a beneficiary of institutional services fails to rebut the sanction,
+          either by failing to provide information within the time frame described in XIII.B.
+          above or the information they provide does not rebut the sanction, send a DHB-
+          5113, Notification of Right to Request an Undue Hardship Waiver (Transfer of
+          Assets), to notify the applicant and authorized representative, if applicable, of
+          ineligibility and right to request an undue hardship waiver.
+
+C. Undue Hardship
+
+   If, after all evaluation and rebuttal steps have been completed, it is determined that a non-
+   allowable transfer has occurred, notify the a/b and authorized representative, if applicable,
+   in writing of the sanction length and the undue hardship waiver process using DHB-5113,
+   Notification of Right to Request an Undue Hardship Waiver (Transfer of Assets). The
+   request for an undue hardship waiver must be made to the local agency within 12 calendar
+   days from the date of the notice. Refer to MA-2245, Undue Hardship Waiver for Transfer
+   of Assets, for policy and procedures for determining if a transfer of assets sanction should
+   be waived.
+
+   1.     If an applicant is not granted an undue hardship waiver because:
+
+           a. They failed to request the waiver, or the information provided does not
+              establish that undue hardship exists,
+
+           b. Apply the sanction as directed in XI. C. above. The individual is not eligible
+              for institutional services until the sanction ends.
+
+           c. Select the correct denial reason, NC FAST will send a DSS-8109, Your
+              Application for Benefits is Being Denied or Withdrawn.
+
+   2.     If an ongoing beneficiary who is requesting institutional services is not granted an
+          undue hardship waiver because:
+
+           a. They failed to request the waiver, or the information provided does not
+              establish that undue hardship exists,
+
+           b. Apply the sanction as directed in XI. C. above. The individual is not eligible
+              for institutional services until the sanction ends.
+                                              49
+          c. Select the correct change reason, NCFAST will send a DSS-8110, Notice of
+             Modification, Termination, or Continuation of Public Assistance. Notice
+             must be timely.
+
+   3.     If an ongoing beneficiary that is already receiving institutional services is not
+          granted an undue hardship waiver because:
+
+          a. They failed to request the waiver, or the information provided does not
+             establish that undue hardship exists,
+
+          b. Apply the sanction as directed in XI. C. above. The individual is not eligible
+             for institutional services until the sanction ends.
+
+          c. Select the correct change reason, NC FAST will send a DSS-8110, Notice of
+             Modification, Termination, or Continuation of Public Assistance. Notice
+             must be timely.
+
+   4.     For instructions on applying the sanction in NCFAST, refer to NCFAST Job Aid
+          Sanctions for Transfers of Assets.
+
+   5.     After the timely notice period has expired:
+
+          a. Notify the facility that the beneficiary is no longer eligible for payment of
+             nursing home cost of care.
+
+          b. For CAP beneficiaries, notify the CAP lead agency/case manager that the a/b
+             is no longer eligible for CAP.
+
+          c. For PACE beneficiaries, notify the PACE organization by sending the DHB-
+             5106, Medicaid/PACE Referral.
+
+   6.     Although an a/b under a transfer of assets sanction may not be eligible for
+          assistance with institutional services, they may be eligible for other Medicaid
+          covered services.
+
+          a. Evaluate for all other programs and if the a/b remains eligible for PLA
+             Medicaid,
+
+          b. Notify the a/b and authorized representative, if applicable, of the decision.
+
+          c. Select the correct change reason. NC FAST will send a DSS-8110, Notice of
+             Modification, Termination, or Continuation of Public Assistance. Notice must
+             be timely.
+
+         Note: Beneficiaries under a transfer of assets sanction and enrolled in the PACE
+         Program are ineligible for Medicaid in any aid program/category except MQB.
+         Refer to MA- 2275, Program of All-Inclusive Care for the Elderly.
+
+D. Beneficiaries enrolled in a Pre-paid Health Plan (PHP)
+                                              50
+             For beneficiaries enrolled in a PHP, the PHP must be notified of changes to eligibility of
+             institutional services. Send a copy of the DSS-8110, Notice of Modification,
+             Termination, or Continuation of Public Assistance to the DHB Business Support by
+             email the same day when:
+
+             1.      A beneficiary terminates due to failure to provide information needed to
+                     complete the transfer of assets evaluation or due to a sanction being imposed.
+
+             2.      A beneficiary regains eligibility due to providing the information, successfully
+                     rebutting the sanction or an appeal.
+
+        E. Hearing Process
+
+             Refer to MA-2420, Notice and Hearings Process, regarding the hearing process.
+
+XIV.    TRACKING TRANSFER OF ASSETS SANCTION PERIOD
+
+        NC FAST will track the sanction period once all evidence is updated and the recommended
+        sanction is accepted.
+
+        1.        When a sanction is accepted, eligibility for affected programs will show as ineligible
+                  until the sanction period ends.
+
+        2.        The Assets Transfer evidence in NC FAST should be updated once a transfer of assets
+                  evaluation has been completed. This may occur when processing an application, a
+                  redetermination, an exparte recertification for an SSI beneficiary, reported by the a/b,
+                  or notified by any source that a transfer has occurred.
+
+        3.        The Assets Transfer evidence must be updated for all cases, even if there have been
+                  no non-allowable transfers. Example- Homesite was transferred to an allowable
+                  person. There is no transfer sanction, but the evidence should still reflect that there
+                  was a transfer.
+
+        4.        An a/b who is ineligible for institutional services due to a transfer of assets sanction
+                  may be authorized for other Medicaid covered services.
+
+                  a. Authorize Medicaid under PLA provided the a/b meets all other Medicaid
+                     eligibility factors.
+
+                  b. Make sure all evidence is updated to reflect any transfers made by the a/b and
+                     sanctions are correct. Refer to NC FAST Job Aid Sanctions for Transfers of Assets.
+
+                  c. Once a sanction is applied, it continues until it is completed. The sanction period
+                     continues and costs for in-home health services and supplies will not be paid if the
+                     institutionalized a/b returns to private living.
+
+  XV.   TRANSFER OF ASSETS GLOSSARY
+
+        Refer to MA-200 Definitions for additional terms relating to transfers of assets.
+
+                                                          51
+Actuarially Sound - A promissory note, annuity, mortgage, or loan established to pay off the
+entire asset value over the actual or expected lifetime of the annuitant/lender is actuarially
+sound. The annuitant/lender is expected to live long enough to receive an amount that is equal
+to or greater than the amount originally invested. The total amount of proceeds must be
+designed to be paid out in equal regular payments during the term of the agreement, with no
+deferral and no balloon payments.
+
+Annuity - An annuity is a type of trust. An individual pays an entity a lump sum of money in
+return for the right to receive fixed, periodic payments, either for life or a term of years. This
+includes the investment portion of a single premium pure endowment life insurance policy.
+
+Annuitant - An annuitant is the person who receives the income payments of an annuity
+policy at maturity date for life or for a specified period. The annuitant may or may not be the
+same as the owner.
+Beneficiary of an annuity - The beneficiary is the person who receives any benefit that is
+paid upon death of the annuitant prior to the maturity date of the annuity.
+
+Compensation - Something received as payment for an asset. Payment is usually considered
+to be cash, but other forms of payment include in-kind income, real or personal property,
+support and maintenance, services, or assumption of a legal debt.
+
+Contiguous Property- A property that is one continuous plot of land or several plots of
+adjoining land. Contiguous means being in actual contact: touching along a boundary or at a
+point.
+
+Cost of Care - The amount of money charged to an individual for NF or ICF-IID level of
+care, nursing facility level of care in a Swing bed or in acute care hospital bed, waiver services
+for the Community Alternatives Program or Program of All-Inclusive Care for the Elderly
+(PACE).
+
+Current Market Value - The value of an asset if sold on the open market. For real and
+personal property, it is the tax assessed value of the property, unless that value is rebutted and
+a different value established. Refer to MA-2230, Financial Resources, for instructions on
+establishing and rebutting the tax value.
+
+Equity - The equity of real or personal property is the current market value (see definition
+above) less any encumbrances (mortgages, liens, or judgments) on the property.
+
+Convincing Evidence - Refers to the quality and convincing force of the evidence rather than
+to the quantity of the evidence.
+
+Homesite - When applying the transfer policy, the homesite is defined as any property the
+a/b or financially responsible person has an ownership interest and
+
+•   Which is currently used (or during the lookback period was used) as their principal place
+    of residence, or to which they intend (or intended) to return, or
+•   Which is currently used (or during the lookback period was used), as the principal place of
+    residence of their spouse or his dependent relative.
+
+It includes the land the home sits on and all buildings and land contiguous to the home.
+                                                52
+See MA-2230, Financial Resources, for the definition of homesite when determining resource
+eligibility.
+
+In-Home Health Services and Supplies - Medically necessary services provided to an
+applicant/beneficiary (a/b) by a Medicaid certified provider can be sanctioned due to a
+transfer of assets. These services include the following:
+
+•   Durable Medical Equipment (DME) and related medical supplies such as wheelchairs,
+    walkers, canes, hospital beds, oxygen and oxygen equipment.
+
+•   Home Health Services covers home health aide services, skilled nursing, physical therapy,
+    speech pathology and audiology, and occupational therapy provided by a Medicaid
+    certified home health agency.
+
+•   Personal Care Services (PCS) are personal care activities such as bathing, toileting,
+    monitoring vital signs, housekeeping and home management tasks.
+
+Institutional Services - These services include services provided in a nursing facility (NF),
+intermediate care facility for individuals with intellectual disabilities (ICF-IID), nursing facility
+level of care in a Swing bed or in acute care hospital bed, services provided through the
+Community Alternatives Program (CAP), or Program of All-Inclusive Care for the Elderly
+(PACE). These services can be sanctioned due to a transfer of assets. This does not include
+acute hospital care regardless of length of stay.
+
+Institutionalized for Transfer of Assets - As defined for a transfer of assets review,
+institutionalized is an individual receiving institutional services in a nursing facility (NF),
+intermediate care facility for individuals with intellectual disabilities (ICF-IID), nursing facility
+level of care in a Swing bed or in acute care hospital bed, services provided through the
+Community Alternatives Program (CAP) or Program of All-Inclusive Care for the Elderly
+(PACE). This is different from the definition of institutionalized for long-term care budgeting
+or institutional living arrangement when determining state/county residency.
+
+Irrevocable Trust- A type of living trust, that details an individual’s assets and how the
+individual would like them to be distributed to their beneficiaries. However, unlike a
+revocable trust, irrevocable trusts are pretty much set in stone. Some exceptions allow for
+changes if all the beneficiaries agree to them, but the proposed updates must go through a
+lengthy approval process, which can include going before a judge.
+
+Legal Representative - A person acting for and legally authorized to execute a contract for
+the a/b, such as but not limited to a general guardian, guardian of the estate, parent of a minor
+child, power of attorney, fiduciary (agent), conservator or any trustee managing the a/b’s
+resources. Legal authorization requires a separate legal document except for parents of minor
+children.
+
+Lookback Date - The beginning of the lookback period and the earliest date transfers of
+assets are reviewed when evaluating an a/b for institutional services. The lookback date
+depends on when an individual applies for Medicaid and is admitted to a NF or ICF/IID or
+requests CAP or PACE services.
+
+Lookback Period- The period that is reviewed for transfer of assets. It begins with the
+
+                                                53
+lookback date and ends with the starting point. The lookback period is 60 months prior to the
+starting point.
+
+Rebuttal - The process by which an a/b, the a/b’s spouse or legal representative proves
+through a greater weight of evidence factors that eliminate or decrease a sanction period.
+
+Remainder Beneficiary-The person(s) entitled to an annuity’s principal, possibly including
+income that has been accumulated and added to principal, after the death of the annuitant.
+
+Revocable Trust- A living trust that outlines the assets the individual wants to give a
+beneficiary and how the assets will be distributed. Revocable trusts often name the grantor as
+the trustee, allowing for full control of the trust.
+
+Sanction Period - The period of time in which an a/b is ineligible for Medicaid payment of
+institutional services and in-home health services. The sanction period is also referred to as a
+penalty period.
+
+Starting Point- The point in time determined to begin establishing a lookback date for
+transfer of assets review when an a/b has been admitted to a NF or ICF/IID or requested CAP
+or PACE services.
+
+Transfer - To change ownership or title from one person(s) to another. A transfer also occurs
+when an individual takes action to waive or renounce assets or an inheritance to which they are
+entitled or when an individual takes any action that eliminates their ownership or reduces their
+control of an asset. For example, changing fee simple property to tenancy-in-common property
+or adding an additional owner to a savings account is considered a transfer.
+
+Uncompensated Value - The difference between the market value less any encumbrance
+(the equity) of the asset at the time of the transfer and any payment or compensation
+received. The uncompensated value is the amount upon which the sanction is based.
+
+Undue Hardship - The application of the sanction period would deprive the individual of
+medical care, such that the individual’s health or life would be endangered, or of food,
+clothing, shelter, or other necessities of life.
+
+
+
+
+                                               54
+

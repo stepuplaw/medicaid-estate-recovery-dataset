@@ -1,0 +1,153 @@
+Source URL: https://dam.assets.ohio.gov/image/upload/tax.ohio.gov/government/sb_124_aud_memo_tod.pdf
+Retrieved: 2026-09-23
+
+                                                                          Division of Tax Equalization
+                                                                          P.O. Box 530
+                                                                          Columbus, Ohio 43216-0530
+                                                                          (614) 466-5744 FAX (614) 752-9822
+                                                                          www.tax.ohio.gov
+
+
+
+
+TO:       All County Auditors
+Through: Shelley Wilson, Executive Administrator, Tax Equalization Division
+FROM:     Edward C. Samsel, Legal Counsel for the Tax Equalization Division
+RE:       Transfer on Death Deeds - S.B. 124
+DATE:     January 22, 2010
+
+
+Amended Substitute Senate Bill 124 (SB 124), effective December 28, 2009, changes the way
+transfer on death (TOD) beneficiary designation to real property is created and administered.
+
+                                  Highlights of Major Changes
+
+The first major change is that the creation of a TOD beneficiary is done by affidavit instead of by
+deed. Accordingly, each owner of a parcel of real property may designate a TOD beneficiary
+without effectuating a transfer of property using the cumbersome transfer “to oneself and others”
+exception. Since no transfer is made at all to create a TOD beneficiary, the county auditor is not
+involved in that process and no conveyance fee issues arise. The owner simply records the
+affidavit with the county recorder. The transfer will occur when the surviving beneficiary
+attempts to transfer the property into the beneficiary’s name. At that time, the county auditor is
+involved and a conveyance fee will most likely be due.
+The second major change is that individuals that own property as survivorship tenants are now
+entitled to create a TOD beneficiary. The details are explained below. For purposes of this
+information release, tenants by the entirety are not discussed, per se, but they are treated like
+survivorship tenants.
+
+                         Creating a TOD Designation- R.C. § 5302.22
+
+On or after December 28, 2009, a TOD beneficiary designation will be created by affidavit
+instead of by deed. An individual who is a sole owner, a tenant in common, or a survivorship
+tenant may designate one or more beneficiaries by executing a TOD designation affidavit,
+together with the individual’s spouse, if any, and recording that affidavit with the county
+recorder, who will record it in the same manner as deeds are recorded. If the affidavit is executed
+by an individual with a spouse, the dower rights of the spouse are subordinate to the vesting of
+title to the real property in the TOD beneficiary.
+The TOD designation affidavit must be verified before a person authorized to administer oaths
+and shall include (1) a description of the real property with a reference to an instrument of record
+containing that description; (2) if less than the entire interest is to be transferred, a statement
+describing that specific interest; (3) a statement that the individual executing the affidavit is the
+owner of the real property, and whether married or not; (4) if the owner is married, a statement
+by the owner’s spouse that the spouse’s dower rights are subordinate to the vesting of title to the
+real property in the TOD beneficiary; and (5) a statement designating one or more TOD
+beneficiaries. To be effective, the affidavit must be recorded with the county recorder prior to the
+death of the individual executing the affidavit. The affidavit need not be supported by
+consideration and need not be delivered to the TOD beneficiary to be effective.
+                                                 1
+If a sole owner or tenant in common executes a TOD designation affidavit, title to the real
+property will vest in the beneficiary upon the death of that individual. If a survivorship tenant
+executes a TOD designation affidavit, title will vest in the surviving survivorship tenants, if any,
+upon the death of that individual. Upon the death of the last surviving survivorship tenant, title
+will then vest in the TOD beneficiary or beneficiaries.
+To take title, the TOD beneficiary must survive the deceased owner, meaning the beneficiary
+must be in existence on the date of death of the deceased owner. If the TOD beneficiary is a
+trustee of a trust, who has died, resigned, or otherwise been replaced by a successor trustee of the
+trust on the date of death of the deceased owner, the successor trustee shall be considered the
+TOD beneficiary, even though the successor trustee is not named as a TOD beneficiary in the
+affidavit.
+                    Characteristics of a TOD Designation - R.C. § 5302.23
+1. If more than one TOD beneficiary exists, the beneficiaries shall take title in equal shares as
+   tenants in common, unless the deceased owner designated other than equal shares or has
+   designated that the beneficiaries shall take title as survivorship tenants.
+2. If none of the designated TOD beneficiaries or contingent beneficiaries exist on the date of
+   the deceased owner’s death, the interest of the deceased owner shall be distributed as part of
+   probate estate.
+3. If there are two or more TOD beneficiaries and the deceased owner has designated that those
+   beneficiaries shall take title as survivorship tenants, then no designated contingent TOD
+   beneficiaries shall take title to the real property unless none of the TOD beneficiaries
+   survives the deceased owner on the date of the deceased owner’s death.
+4. A TOD beneficiary may be a natural (i.e., human being) or legal (e.g., corporation) person,
+   except that if two or more TOD beneficiaries are designated as survivorship tenants, all the
+   beneficiaries must be natural persons. If two or more contingent TOD beneficiaries are
+   designated as survivorship tenants, all the contingent beneficiaries must be natural persons.
+5. A natural person who is designated a TOD beneficiary solely in that person’s capacity as a
+   trustee of a trust is not considered a natural person for purposes of designating TOD
+   beneficiaries as survivorship tenants.
+6. The designation of a TOD beneficiary may be revoked or changed at any time, by the owner
+   of the interest or by the surviving survivorship tenants of the interest, by executing and
+   recording, prior to the death of the owner or surviving survivorship tenants, a new TOD
+   designation affidavit stating the revocation or change in that designation. The new TOD
+   designation affidavit shall automatically supersede and revoke all prior recorded TOD
+   designation affidavits concerning the real property or interest therein identified in the new
+   affidavit, provided that the prior recorded affidavit was executed before the later recorded
+   affidavit.
+7. If the owners hold title to the real property in a survivorship tenancy, the death of all except
+   the last survivorship tenant automatically terminates and nullifies any TOD beneficiary
+   designation made solely by the deceased tenants without joinder by the last surviving
+   survivorship tenant. Such termination is effective on the date of death of a deceased
+   survivorship tenant, without the last surviving tenant taking any affirmative act of revocation.
+   If the last surviving survivorship tenant dies with no TOD beneficiary designation, the entire
+   interest of the last surviving survivorship shall be distributed as part of that tenant’s probate
+   estate.
+                                                 2
+8. A TOD designation affidavit designating a TOD beneficiary is not testamentary. That TOD
+   shall supersede any attempted testate or intestate transfer of that real property or interest in
+   real property. In other words, the property will transfer to the designated beneficiary by
+   operation of law pursuant to the affidavit.
+9. The execution and recording of a TOD designation affidavit shall be effective to terminate
+   the designation of a TOD beneficiary on a TOD deed involving the same real property or
+   interest in real property that was recorded prior to December 28, 2009.
+10. The execution and recording of a TOD designation affidavit shall be effective to bar the
+    vesting of any dower rights in a subsequent spouse of the owner of real property who
+    executed that affidavit, unless the affidavit is revoked or changed.
+
+                        Transferring TOD Property - R.C. § 5302.222
+
+The transfer of real property designated in a TOD designation affidavit shall be recorded by
+presenting to the county auditor of the county in which the property is located and filing with the
+county recorder of that county an affidavit of confirmation executed by the TOD beneficiary.
+The affidavit of confirmation must be verified before a person authorized to administer oaths and
+shall include (1) the name and address of each TOD beneficiary that survived the deceased
+owner or is in existence on the date of the deceased owner’s death; (2) if the TOD beneficiary is
+a trustee of a trust who has been replaced by a successor trustee, the name and address of the
+successor trustee along with a copy of the recorded successor trustee affidavit described in R.C.
+§ 5302.171; (3) the date of death of the deceased owner; (4) a description of the real property or
+interest in real property; and (5) the name of each TOD beneficiary who has not survived the
+deceased owner.
+The affidavit of confirmation shall be accompanied by a certified copy of the death certificate for
+the deceased owner and a certified copy of the death certificate for each TOD beneficiary who
+has not survived the deceased owner. The county recorder shall make an index reference in the
+record of deeds to the affidavit of confirmation.
+Note: if the title to the real property that is the subject of a TOD designation affidavit is
+registered pursuant to Ch. 5309, the transfer of the property to the TOD beneficiary shall be
+pursuant to R.C. § 5309.081, where, apparently, the TOD beneficiary will be treated like a
+survivorship tenant under that statute.
+
+                    Application of Statutes - R.C. §§ 5302.02 and 5302.24
+
+The provisions of R.C. § 5302.22 as they existed prior to December 28, 2009, apply to all TOD
+instruments executed before that date. The provisions of amended R.C. § 5302.22 apply to all
+TOD instruments executed on or after that date. The provisions of R.C. §§ 5302.22, 5302.222,
+and 5302.23, as amended, do not affect any deed that was executed and recorded prior to
+December 29, 2009, or any TOD beneficiary designation made pursuant to R.C. § 5302.22, as it
+existed prior to December 28, 2009. If that deed or designation is valid before that date, it
+continues to be valid on or after that date. A grantee of that deed need not execute a TOD
+designation affidavit that designates the same TOD beneficiary as in the deed, unless the grantee
+chooses to do so.
+
+
+
+
+                                                3
+

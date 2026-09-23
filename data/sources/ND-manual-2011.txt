@@ -1,0 +1,1646 @@
+Source URL: https://www.nd.gov/dhs/policymanuals/45001/Printed%20Docuemntation/Medicaid%20Estate%20Recovery%20Print%201-7-11%20done.pdf
+Retrieved: 2026-09-23
+
+          Medicaid Estate Recovery Policy
+
+                       Service Chapter 450-01
+
+
+
+
+North Dakota Department of Human Services
+       600 East Boulevard Dept. 325
+         Bismarck, ND 58505-0250
+                Medicaid Estate Recovery Policy
+Division 10                                              Service 450
+Program 450                                               Chapter 01
+
+
+                   Table of Contents
+
+Medicaid Estate Recovery Policy 450-01
+
+  Definitions 450-01-01
+
+
+  Authority 450-01-05
+
+
+  Purpose of Estate Recovery 450-01-10
+
+
+  Administration 450-01-15
+     State Responsibilities 450-01-15-01
+       Training 450-01-15-01-01
+          Assisting County Staff 450-01-15-01-05
+          Filing Claims in Decedents’ Estates 450-01-15-01-10
+          Evaluating and Resisting Claim Disallowances
+            450-01-15-01-15
+          Receiving and Accounting for Monies Received
+            450-01-15-01-20
+       County Responsibilities 450-01-15-05
+          Maintaining Records 450-01-15-05-01
+          Collection Activities 450-01-15-05-05
+          Assisting State Staff 450-01-15-05-10
+
+
+  Medicaid Claims 450-01-20
+     Limits on Medicaid Claims 450-01-20-01
+       Age of Medicaid recipients 450-01-20-01-01
+       Surviving Spouse 450-01-20-01-05
+       Surviving Child Under Age Twenty-One 450-01-20-01-10
+       Surviving Adult Child with Disabilities 450-01-20-01-15
+       Deceased Spouse 450-01-20-01-20
+       Traced Assets 450-01-20-01-25
+     Limits on Medicaid Collections from Estates 450-01-20-05
+       Insolvent Estates 450-01-20-05-01
+
+
+
+
+         North Dakota Department of Human Services
+                Medicaid Estate Recovery Policy
+Division 10                                               Service 450
+Program 450                                                Chapter 01
+
+       Funeral Expenses 450-01-20-05-05
+       Expenses of Last Illness 450-01-20-05-10
+       Expenses of Administering the Estate 450-01-20-05-15
+       Other Claims with Priority Greater than Medicaid Claims
+        450-01-20-05-20
+       Waiver of Claim 450-01-20-05-25
+
+
+  Collection of Personal Property by Affidavit 450-01-25
+     Legal Requirements 450-01-25-01
+     Forms Used 450-01-25-05
+     When Forms are Used 450-01-25-10
+       Learning of Client's Death 450-01-25-10-01
+       What Property can be Collected 450-01-25-10-05
+       Joint Tenancy Property 450-01-25-10-10
+       Motor Vehicles and Mobile Homes 450-01-25-10-15
+       Personal Property Without Title 450-01-25-10-20
+       Securities 450-01-25-10-25
+     How to Use Forms 450-01-25-15
+       Encouraging Freezing of Accounts 450-01-25-15-01
+       Beginning the Collection Process 450-01-25-15-05
+       Follow-up 450-01-25-15-10
+
+
+  Collections in Decedents' Estate Proceedings 450-01-30
+     Beginning a Decedent's Estate Proceeding 450-01-30-01
+     Making the Department's Claim 450-01-30-05
+     Estate Debts 450-01-30-10
+     Sales of Estate Property 450-01-30-15
+     Interest on Claims 450-01-30-20
+     Spousal Impoverishment Prevention Cases 450-01-30-25
+     Enforcing Claims 450-01-30-30
+
+
+  When Agency May Commence Estate Proceedings 450-01-35
+
+
+
+
+         North Dakota Department of Human Services
+                 Medicaid Estate Recovery Policy
+Division 10                                                   Service 450
+Program 450                                                    Chapter 01
+
+  Appendix 450-01-40
+     Affidavit for Collection of Personal Property of the Decedent
+       450-01-40-01
+     Letter Notice 450-01-40-05
+     Affidavit for Collection of Personal Property of the Decedent -
+        ND Dept. of Transportation - Motor Vehicle Division
+        450-01-40-10
+     Application for Certificate of Title & Registration of a Vehicle
+       450-01-40-15
+     Department's Claim Against Estate 450-01-40-20
+
+
+
+
+         North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                       Service 450
+Program 450                                                        Chapter 01
+
+
+Medicaid Estate Recovery Policy 450-01
+Definitions 450-01-01
+(Revised 1/15/2011 ML#3253)
+View Archives
+
+
+
+This is a list of words and phrases used throughout the Estate Recovery
+Manual. Each is followed by an explanation.
+
+
+Assign
+When used as a noun, means a person who acquires an interest in property
+pursuant to a written or oral assignment of that property from a person
+with the legal right to assign it; and, when used as a verb, means the act
+of conveying or transferring an interest in property.
+
+
+Bona fide purchaser for value
+Any person who provides consideration, including money or property, to a
+seller or transferor of real property or personal property equal to the fair
+market value of the property sold or transferred.
+
+
+Child
+The offspring and adopted offspring of a parent, but does not include an
+individual who is a stepchild, a foster child, a grandchild, or any more
+remote descendant.
+
+
+County agency
+The county social service board.
+
+
+Department
+The North Dakota Department of Human Services.
+
+
+Decedent’s estate proceeding
+A probate or an intestacy proceeding.
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                       Service 450
+Program 450                                                        Chapter 01
+
+Devise
+When used as a noun, means a testamentary disposition of real or personal
+property; and, when used as a verb, means to dispose of real or personal
+property by will.
+
+
+Devisee
+A person designated in a will to receive a devise.
+
+
+Disabled
+When referring to an adult child with disabilities, means a natural or
+adopted son or daughter (of the deceased Medicaid recipient) who met
+workers with disability, SSI, or SSA disability criteria at the time the
+department’s claim was asserted.
+
+
+Estate
+Includes all property of the decedent.
+
+
+Financial institution
+An organization authorized to do business under state or federal laws
+relating to financial institutions, and includes a bank, trust company,
+savings bank, building and loan association, savings and loan association,
+and credit union.
+
+
+Heir
+Any individual, including the surviving spouse, who is entitled under
+intestate succession to the assets of a decedent who died wholly or
+partially intestate.
+
+
+Individual
+A human being.
+
+
+Interest
+Any form of legal, beneficial, equitable or ownership interest.
+
+
+Intestacy Proceeding
+A judicial proceeding concerning the estate of an intestate.
+
+
+
+
+              North Dakota Department of Human Services
+                          Medicaid Estate Recovery
+Division 10                                                        Service 450
+Program 450                                                         Chapter 01
+
+
+
+Intestate
+One who dies without leaving any valid will or who dies leaving a valid will
+that is ineffective to dispose of all of a decedent's estate.
+
+
+Intestate succession
+Succession to assets of a decedent who dies intestate.
+
+
+Joint tenancy
+Owning property as joint tenants with right of survivorship.
+
+
+Joint tenants with right of survivorship
+Ownership of property held under circumstances that entitle one or more
+owners to the whole of the property on the death of the other owner or
+owners.
+
+
+Legal title
+Legal ownership by a person.
+
+
+Life estate
+An interest in property that terminates upon the death of a measuring life.
+
+
+Person
+Any individual, corporation, association, firm, partnership, trust, estate or
+other form of entity.
+
+
+Personal property
+All tangible and intangible personal property, wherever located, including
+chattels and movables, boats, vehicles, furniture, personal effects,
+livestock, tools, farming implements, cash, currency, negotiable papers,
+securities, contracts, and contract rights.
+
+
+Personal representative
+Includes executor, administrator, successor personal representative,
+special administrator, and persons who perform substantially the same
+function under the law governing their status.
+
+
+
+              North Dakota Department of Human Services
+                         Medicaid Estate Recovery
+Division 10                                                        Service 450
+Program 450                                                         Chapter 01
+
+
+
+Probate
+A judicial proceeding concerning the estate of a decedent who left a will, or
+to establish or dispute the existence or validity of a will.
+
+
+Property
+Includes both real and personal property or any interest therein and means
+anything that may be the subject of ownership.
+
+
+Real property
+Land, wherever located, including improvements and fixtures thereon, and
+every estate, interest, and right in that land, including fee simple, terms
+for years, life estates, leasehold interests, condominiums or time share
+properties.
+
+
+Recipient of property:
+
+  1. Any survivor, heir, assign, devisee under a will, beneficiary of a trust,
+     transferee or other person to whom property passes upon the death of
+     the decedent, either by law, intestate succession, contract, will, trust
+     instrument or otherwise; and
+  2. Any subsequent transferee of such property, or proceeds from the
+     sale thereof, through any form of conveyance that is not a bona fide
+     purchaser for value.
+
+
+Security
+Includes any note, stock, treasury stock, bond, debenture, membership
+interest in a limited liability company, evidence of indebtedness, certificate
+of interest or participation in an oil, gas, or mining title or lease or in
+payments out of production under such a title or lease, collateral trust
+certificate, transferable share, voting trust certificate or, in general, any
+interest or instrument commonly known as a security, or any certificate of
+interest or participation, any temporary or interim certificate, receipt, or
+certificate of deposit for, or any warrant or right to subscribe to or
+purchase, any of the foregoing.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                     Service 450
+Program 450                                                      Chapter 01
+
+Successors
+Persons, other than creditors, who are entitled to property of a decedent
+under the decedent’s will, except that the department, and its agents, may
+act as successors for purposes of collecting amounts owed to the
+department.
+
+
+Survivor
+Any person who, as a co-tenant, is automatically entitled to an expanded
+share of real or personal property upon the death of a fellow co-tenant.
+
+
+Survivorship
+An interest in property that expires upon the death of an individual
+whereby the interest of the individual’s co-owners automatically expands to
+the same extent without necessity for any act of transfer or distribution.
+
+
+Tenancy in common
+Ownership of property by an individual, together with one or more other
+persons, which ownership interest shall not pass by survivorship upon the
+death of the individual.
+
+
+
+
+               North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                   Service 450
+Program 450                                                    Chapter 01
+
+
+Authority 450-01-05
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Medicaid estate recovery is authorized and restricted by federal law, 42
+U.S.C. § 1396p(b) and 42 U.S.C. § 1396u(c)(1)(A), and state law,
+N.D.C.C. §§ 50-24.1-02.3 and 50-24.1-07. General assistance recovery is
+authorized by N.D.C.C. § 50-01-21. Basic Care Assistance, Expanded
+SPED, and Adult Foster Care recovery is authorized under N.D.C.C. § 50-
+24.5-08. Human Service Center and State Hospital services recovery is
+authorized under N.D.C.C. § 50-06.3-07. The “probate code,” N.D.C.C.
+Title 30.1, is applicable to all North Dakota estate proceedings.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                     Service 450
+Program 450                                                      Chapter 01
+
+
+Purpose of Estate Recovery 450-01-10
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Estate recovery serves to reimburse federal and state taxpayers for costs
+of services furnished to recipients. The North Dakota legislature has
+historically appropriated Medicaid estate recoveries to the Medicaid
+program, where those funds are used to assist other Medicaid recipients.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                     Service 450
+Program 450                                                      Chapter 01
+
+
+Administration 450-01-15
+
+
+State Responsibilities 450-01-15-01
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+The department makes and manages claims in the estates of deceased
+Medicaid recipients, deceased spouses of deceased Medicaid recipients,
+deceased recipients of Basic Care Assistance, Expanded SPED (Service
+Payments to the Elderly and Disabled), deceased recipients of obsolete
+programs (Aid to the Aged, Aid to the Blind, Aid to the Disabled), deceased
+recipients of services at the Developmental Center at Grafton, the State
+Hospital, and the Human Service Centers, and deceased parents of certain
+recipients of services at the Developmental Center at Grafton and the State
+Hospital.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                     Service 450
+Program 450                                                      Chapter 01
+
+Training 450-01-15-01-01
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Department staff provide training to county staff concerning subjects
+encompassed within this manual chapter.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                     Service 450
+Program 450                                                      Chapter 01
+
+Assisting County Staff 450-01-15-01-05
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Department staff assist county staff by providing technical assistance,
+responding to questions, and corresponding with or calling individuals who
+are reluctant to comply with county staff requests made pursuant to
+affidavits for recovery. County staff assist the department by sending
+affidavits for collection (See Section 450-01-40-10) for automobiles,
+mobile homes, and other personal property, when appropriate.
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                        Service 450
+Program 450                                                         Chapter 01
+
+Filing Claims in Decedents’ Estates 450-01-15-01-10
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+State staff file claims in decedents’ estates and, as requested, provide
+verification of the basis for claims made. County staff inform the state staff
+if the county is aware of an estate, property, etc., and inform state staff if
+the county knows that family members will wait out the three-year period
+before filing a probate.
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                       Service 450
+Program 450                                                        Chapter 01
+
+Evaluating and Resisting Claim Disallowances
+450-01-15-01-15
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+State staff evaluate disallowances of claims made in decedents’ estates
+and, if a disallowance appears to be inaccurately made, state staff petition
+for allowance of the claim. State staff support petitions for allowance as
+necessary to convince the court of the validity of a claim.
+
+
+
+
+              North Dakota Department of Human Services
+                      Medicaid Estate Recovery
+Division 10                                                   Service 450
+Program 450                                                    Chapter 01
+
+Receiving and Accounting for Monies Received
+450-01-15-01-20
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+State staff receive payment from estates, and remittances from county
+staff of amounts collected through affidavits for recovery, voluntary
+repayments, and collections made by county staff from decedents’ estates
+through any other means available. State staff assure that any funds
+received from decedents’ estates are properly accounted for, credited to
+the appropriate estate, and credited to the appropriate funding source.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                    Service 450
+Program 450                                                     Chapter 01
+
+County Responsibilities 450-01-15-05
+
+Maintaining Records 450-01-15-05-01
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+County staff maintain case file records as required by manual section 449-
+10-40-05 to assure necessary information is available to accomplish estate
+collections. County staff secure asset information as required by manual
+section 510-05-65-45 with respect to spousal impoverishment prevention
+cases to assure necessary information is available to accomplish estate
+collections.
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                         Service 450
+Program 450                                                          Chapter 01
+
+Collection Activities 450-01-15-05-05
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+County staff are responsible to prepare and issue letter notices
+immediately upon learning of the recipient’s death (See Section 450-01-
+40-05) advising financial institutions of impending affidavits for collection,
+prepare and issue affidavits for collection (See Section 450-01-40-01),
+respond to questions from family members of decedents, and from other
+creditors, and account for amounts collected consistent with county and
+state requirements. An affidavit for collection (See Section 450-01-40-10)
+is used to collect such items as automobiles, mobile homes, and other
+personal property.
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                       Service 450
+Program 450                                                        Chapter 01
+
+Assisting State Staff 450-01-15-05-10
+(Revised 1/15/2011 ML #3250)
+View Archives
+
+
+
+County staff advise state staff of matters of local knowledge and, upon
+request, review files maintained by the county social service office, the
+county recorder, and the county treasurer, and provide pertinent
+information to state staff.
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                        Service 450
+Program 450                                                         Chapter 01
+
+Medicaid Claims 450-01-20
+
+Limits on Medicaid Claims 450-01-20-01
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Claims may be made at any time, including from the estate of the recipient
+or any responsible relative of the recipient, for Medicaid benefits incorrectly
+provided. Medicaid benefits correctly paid are not subject to recovery
+during the lifetime of a recipient, or while a deceased recipient is survived
+by certain relatives.
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                       Service 450
+Program 450                                                        Chapter 01
+
+Age of Medicaid recipients 450-01-20-01-01
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+A claim may not be made for Medicaid benefits except from the estate of
+the recipient or the recipient's spouse for benefits correctly provided:
+
+ 1. On and after October 1, 1993, to individuals age fifty-five or older; or
+ 2. Before October 1, 1993, to individuals age sixty-five and older.
+
+
+
+
+              North Dakota Department of Human Services
+                      Medicaid Estate Recovery
+Division 10                                                   Service 450
+Program 450                                                    Chapter 01
+
+Surviving Spouse 450-01-20-01-05
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+An otherwise valid claim for recovery of Medicaid benefits correctly
+provided may not be enforced against a decedent's estate while a spouse
+survives the decedent. An informational claim may be provided to the
+personal representative, and interested persons may be advised of the
+existence of a claim, and may voluntarily pay that claim.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                    Service 450
+Program 450                                                     Chapter 01
+
+Surviving Child Under Age Twenty-One 450-01-20-01-10
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+An otherwise valid claim for recovery of Medicaid benefits correctly
+provided may not be enforced against a decedent’s estate while a child
+under age twenty-one survives the decedent. An informational claim may
+be provided to the personal representative, and interested persons may be
+advised of the existence of a claim, and may voluntarily pay that claim.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                     Service 450
+Program 450                                                      Chapter 01
+
+Surviving Adult Child with Disabilities 450-01-20-01-15
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+An otherwise valid claim for recovery of Medicaid benefits correctly
+provided may not be enforced against a decedent’s estate while an adult
+child with disabilities survives the decedent. An informational claim may be
+provided to the personal representative, and interested persons may be
+advised of the existence of a claim, and may voluntarily pay that claim.
+This provision is intended to assure that the adult child who is disabled
+receives property from the decedent’s estate, and is not intended to benefit
+siblings or other relatives of the adult child who is disabled.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                      Service 450
+Program 450                                                       Chapter 01
+
+Deceased Spouse 450-01-20-01-20
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+A claim for recovery of Medicaid benefits correctly provided against the
+estate of an initially surviving spouse of a deceased Medicaid recipient may
+be enforced to the extent the estate of the initially surviving spouse is
+comprised of assets that may be traced to assets in which the Medicaid
+recipient once had an interest, to the extent of that interest.
+
+
+A claim may not be enforced against the estate of a spouse of a Medicaid
+recipient who predeceases the Medicaid recipient.
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                       Service 450
+Program 450                                                        Chapter 01
+
+Traced Assets 450-01-20-01-25
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+A claim for recovery of Medicaid benefits correctly provided against the
+estate of an initially surviving spouse of a deceased Medicaid recipient may
+be enforced to the extent the estate of the initially surviving spouse is
+comprised of assets that may be traced to assets in which the Medicaid
+recipient once has an interest, to the extent of that interest. In accordance
+with N.D.C.C. § 50-24.1-07(5), "[a]ll assets in the decedent's estate of the
+spouse of a deceased medical assistance recipient are presumed to be
+assets in which that recipient had an interest at the time of the recipient's
+death."
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                        Service 450
+Program 450                                                         Chapter 01
+
+Limits on Medicaid Collections on Estates 450-01-20-05
+
+Insolvent Estates 450-01-20-05-01
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+If a decedent’s estate has insufficient property to pay all claims and debts
+(is insolvent), claims are paid in order of priorities established by law.
+
+
+     “On the death of any recipient of medical assistance who was a
+     resident of a nursing facility, intermediate care facility for the
+     mentally retarded, or other medical institution . . . or who was
+     fifty-five years of age or older when the recipient received the
+     assistance, and on the death of the spouse of the deceased
+     recipient, the total amount of medical assistance paid on behalf
+     of the recipient . . . must be allowed as a preferred claim
+     against the decedent’s estate after payment, in the following
+     order, of:
+
+              1. Funeral expenses not in excess of three
+                 thousand dollars;
+              2. Expenses of the last illness, other than those
+                 incurred by medical assistance;
+              3. Expenses of administering the estate, including
+                 attorney's fees approved by the court;
+              4. Claims made under chapter 50-01 [General
+                 Assistance];
+              5. Claims made under chapter 50-24.5 [Basic
+                 Care Assistance, Expanded SPED, and Adult
+                 Foster Care]; and
+              6. Claims made under chapter 50-06.3 [Human
+                 Service Centers] and on behalf of the state
+                 hospital; and
+              7. Claims made under subsection 4 [of section
+                 NDCC 50-24.1-07 - Clawback].”
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                        Service 450
+Program 450                                                         Chapter 01
+
+Funeral Expenses 450-01-20-05-05
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Funeral expenses may be paid from funds set aside for that purpose under
+Medicaid or SSI rules.
+
+
+  1. If funds have been set aside for funeral expenses, a claim [by a
+     relative or funeral home] may not be made for funeral expenses
+     against the estate except to the extent the funds set aside for the
+     funeral total less than $6,000 [principal].
+  2. If funds have not been set aside for funeral expenses, up to $3,000
+     may be used for that purpose from the estate.
+  3. If an amount less than $6,000 (principal) has been set aside, not
+     including interest, estate assets may be used, provided that no more
+     than a total of $6,000 may be paid from the funeral set-aside and
+     estate assets in combination, and no more than a total of $3,000 in
+     estate assets may be used for funeral expenses.
+
+
+PLEASE REFER TO THE EXAMPLES IN THIS SECTION.
+
+
+Costs of flowers, grave markers, headstones, gifts to clergy or soloists, and
+any other similar funeral expenses, may be paid from either a funeral set-
+aside or from the decedent’s estate, provided the established total cost
+limits are not exceeded. Memorial monies may also be used for funeral
+expenses as they are not part of the estate.
+
+
+Term insurance is an exempt asset excluded for Medicaid eligibility
+purposes, and is not subject to estate recovery. Because it is excluded for
+eligibility purposes, it is an asset that is not available for designation as
+funeral expenses. Inquires should be directed to the state estate recovery
+staff if the beneficiary named is the estate or the department.
+
+
+Final payments for telephone, utilities, rent, etc., may not be paid from
+non-burial accounts after date of death. Unpaid recipient liability and other
+medical bills and unpaid guardianship fees may not be paid from non-
+funeral funds after date of death unless those bills are for expenses of last
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                        Service 450
+Program 450                                                         Chapter 01
+
+illness, and Medicaid did not pay for any expenses of last illness. State staff
+determine what is a valid claim for expenses of last illness.
+
+
+Examples:
+
+
+ 1. Burial account $6,000 principal, $1,500 interest - all $7,500 can be
+    paid toward the funeral with the estate paying nothing. If the funeral
+    bill was only for $5,000, then an affidavit for collection should be sent
+    to the funeral home collecting $2,500 and the estate would pay
+    nothing.
+ 2. Burial account $4,000 principal, $2,500 interest - all $6,500 can be
+    paid toward the funeral with the estate paying up to $2,000. If the
+    funeral bill was only for $7,000, the estate would only pay $500. If the
+    funeral bill was only for $5,000, then an affidavit for collection should
+    be sent to the funeral home collecting $1,500 and the estate would pay
+    nothing.
+ 3. If the recipient had no burial account, then the estate would pay up to
+    $3,000.
+ 4. Burial account principal $6,000, no interest, and no money from the
+    estate can be used. If the funeral bill was only for $5,000, then an
+    affidavit for collection should be sent to the funeral home collecting
+    $1,000 and the estate would pay nothing.
+ 5. Burial account of $6,000 principal, $1,000 interest, $2,500 of MA assets
+    designated for burial - all $9,500 can be used toward the burial with
+    the estate paying nothing. If the funeral bill was only for $5,000, then
+    an affidavit for collection should be sent to the funeral home collecting
+    $4,500 and the estate would pay nothing.
+ 6. Burial account of $3,000 principal, $1,000 interest, and $2,500 of MA
+    assets designated for burial - all $6,500 can be used toward the burial
+    with an additional $500 from the estate’s assets. If the funeral bill was
+    only for $5,000, then an affidavit for collection should be sent to the
+    funeral home collecting $1,500 and the estate would pay nothing.
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                       Service 450
+Program 450                                                        Chapter 01
+
+Expenses of Last Illness 450-01-20-05-10
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Medicaid often pays expenses of last illness. In such cases, medical
+providers who have not received payment of recipient liability may also
+make claims for expenses of last illness. If there is more than one claim for
+expenses of last illness, and the estate has insufficient assets to pay all
+expenses of last illness, the available funds are properly divided between
+those claims of equal priority on a pro rata basis. State staff determine
+what is a valid claim for expenses of last illness.
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                       Service 450
+Program 450                                                        Chapter 01
+
+Expenses of Administering the Estate 450-01-20-05-15
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Expenses of administering the estate consist of the costs incurred by a
+personal representative in managing the estate, including the expense of
+employing assistants, including the lawyers who represent them. The
+expenses must be reasonable. The expenses must be related to activities
+required to preserve and manage the estate. Reimbursement for the costs
+of hiring a lawyer is authorized only when the lawyer’s work is necessary
+for the benefit of the entire estate. Reimbursement is disallowed if the legal
+services are performed primarily for the personal interest of the personal
+representative, or another individual, and not for the benefit of the estate
+as a whole.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                     Service 450
+Program 450                                                      Chapter 01
+
+Other Claims with Priority Greater than Medicaid Claims
+450-01-20-05-20
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Claims under N.D.C.C. ch. 50-01 are for County General Assistance, claims
+under N.D.C.C. ch. 50-24.5 are for Basic Care Assistance, Expanded SPED,
+and Adult Foster Care, claims under N.D.C.C. ch. 50-06.3 are for Human
+Service Center and State Hospital services, and claims under N.D.C.C. §
+50-24.1-07(4) are for Clawback. The department assures the correct
+allocation of collections if any of these agencies or services has a claim.
+
+
+The United States government’s claim for recovery of SSA and SSI
+overpayments has greater priority than claims by other creditors, including
+those of county social services and the department.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                     Service 450
+Program 450                                                      Chapter 01
+
+Waiver of Claim 450-01-20-05-25
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Federal estate recovery law (42 U.S.C. § 1396p(b)(3)) requires states to
+have available a process under which a state will waive recovery in cases of
+undue hardship. North Dakota limits claims for undue hardship to surviving
+spouses, children under age twenty-one, and adult children with
+disabilities.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                     Service 450
+Program 450                                                      Chapter 01
+
+Collection of Personal Property by Affidavit 450-01-25
+
+Legal Requirements 450-01-25-01
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+North Dakota laws provide that twenty days after the death of a decedent,
+any person indebted to the decedent or having possession of tangible
+personal property or an instrument evidencing a debt, obligation, stock, or
+chose in action belonging to the decedent shall make payment of the
+indebtedness or deliver the tangible personal property or an instrument
+evidencing a debt, obligation, stock, or chose in action to the department,
+as successor, for collection of amounts owed to it upon being presented an
+affidavit made by or on behalf of the successor stating that:
+
+
+  1. The value of the entire estate subject to distribution or succession
+     under chapters 30.1-01 through 30.1-23, wherever located, less liens
+     and encumbrances, does not exceed fifty thousand dollars.
+  2. Twenty days have elapsed since the death of the decedent.
+  3. An application or petition for the appointment of a personal
+     representative is not pending or has not been granted in any
+     jurisdiction.
+  4. The claiming successor is entitled to payment or delivery of the
+     property.
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                        Service 450
+Program 450                                                         Chapter 01
+
+Forms Used 450-01-25-05
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+The form “affidavit for collection” (See Section 450-01-40-01), created for
+use by county agency staff, identifies all relevant laws. Forms created by
+other sources may be ineffective as creditors are otherwise not permitted
+to act as “successors,” and all other successors must wait thirty days,
+rather than twenty, before presenting an affidavit for collection.
+
+
+If the decedent’s funds are held in a P.O.D. or survivorship account, or if
+someone still has signature authority to draw funds from that account, the
+account may be accessed before thirty days after the decedent’s death. A
+financial institution holding such an account is discharged by law from all
+claims concerning those funds if it pays from the account “in accordance
+with the terms of the account.” A letter notice (See Section 450-01-40-05)
+must be sent to the financial institution (immediately upon learning of the
+recipient’s death) holding an account in such cases will prevent the
+financial institution from being discharged, and the financial institution will
+typically respond by freezing the account. The letter says: “Pursuant to
+N.D.C.C. § 30.1-31-19(2), this is notice from a successor of the deceased
+party that payments should not be permitted in accordance with the terms
+of any multiple party account in which the deceased party had an interest.”
+
+
+Other form letters may be used in particular circumstances to provide
+information to anyone concerned about the county agency’s use of an
+affidavit for collection.
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                       Service 450
+Program 450                                                        Chapter 01
+
+When Forms are Used 450-01-25-10
+
+Learning of Client’s Death 450-01-25-10-01
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+County social services staff may learn of a recipient’s death by contact
+from health care providers, relatives, or funeral service providers, or by
+reviewing published death notices. If the client received Medicaid benefits
+after age fifty-five, and is not survived by a spouse, a child under age
+twenty-one, or a disabled child, review file information. If it appears that,
+immediately before death, the decedent’s assets (not including jointly held
+real property) had a total value of less than $50,000, collection efforts
+should begin immediately.
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                       Service 450
+Program 450                                                        Chapter 01
+
+What Property can be Collected 450-01-25-10-05
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Affidavits for collection may be used to collect accounts and personal
+property. Use an affidavit for collection if the decedent is known to have
+owned valuable personal property, such as securities (capital credits,
+stocks, bonds, and mutual funds), motor vehicles, mobile homes (if not
+placed on a foundation), livestock, and farm and commercial equipment
+and machinery.
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                       Service 450
+Program 450                                                        Chapter 01
+
+Joint Tenancy Property 450-01-25-10-10
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Ownership of property as joint tenants with right of survivorship is
+common. Ownership of accounts that are payable on death (“P.O.D.”) is
+also common. These arrangements are not effective to transfer ownership
+of an account when the decedent’s estate is insufficient to pay debts and
+claims against the estate. When an account in a financial institution is
+owned in joint tenancy or is a P.O.D. account, the notice and affidavit for
+collection may properly be used.
+
+
+Many other arrangements, such as mutual funds, variable annuities, and
+other securities, refer to the ownership interest as an “account,” and may
+be owned in joint tenancy or offer “beneficiary” rights when an owner dies.
+If owned in joint tenancy, or with a P.O.D. feature, these property interests
+are not appropriate for use of an affidavit for collection, as they are not
+maintained in a financial institution.
+
+
+
+
+              North Dakota Department of Human Services
+                         Medicaid Estate Recovery
+Division 10                                                           Service 450
+Program 450                                                            Chapter 01
+
+Motor Vehicles and Mobile Homes 450-01-25-10-15
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Affidavits for collection should be used to obtain valid titles to motor
+vehicles and mobile homes. The North Dakota Department of
+Transportation has a form affidavit for collection (See Section 450-01-40-
+10) available on its website, and use of that form is recommended if you
+have a title. If you do not have a title, the Application for Certificate of Title
+& Registration of a Vehicle (See Sections 450-01-40-15 and 450-01-40-10)
+should be used to obtain a title. County agency staff who need to obtain a
+clear title to a motor vehicle or mobile home should consider:
+
+
+  1. Whose name is on the existing title? County agency staff may use an
+     affidavit for collection if the motor vehicle or mobile home was owned
+     solely by the decedent, or by tenancy in common, but not by joint
+     tenancy or life estate.
+  2. An affidavit for collection is appropriate for a motor vehicle or mobile
+     home only if the county agency has or can obtain physical possession
+     of the property.
+  3. A motor vehicle or mobile home obtained by affidavit for collection
+     must thereafter be converted to cash. Affidavits for collection should
+     not be used to obtain such property if it has limited value, or if selling
+     it may be difficult due to condition or other factors.
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                      Service 450
+Program 450                                                       Chapter 01
+
+Personal Property Without Title 450-01-25-10-20
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Affidavits for collection may be used to obtain ownership of personal
+property that has no “paper” title. Examples of such personal property
+include livestock and farm and commercial equipment and machinery. If
+county agency records indicate the decedent had legal title to such
+personal property, before issuing affidavits for collection of that property,
+county agency staff should consider the same factors identified concerning
+motor vehicles and motor homes. With respect to livestock, additional
+factors of assuring adequate care must be considered. If the decedent has
+identified personal property as being used in conjunction with the operation
+of the decedent’s farm or other business, the decedent may properly be
+treated as having legal title to that personal property, unless the county
+agency records include an indication that the personal property is owned in
+joint tenancy.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                     Service 450
+Program 450                                                      Chapter 01
+
+Securities 450-01-25-10-25
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Transfers of securities are often accomplished through “transfer agents.”
+When presented with an affidavit for collection, a transfer agent properly
+will change the registered ownership on the books of the entity that issued
+the security. County agency staff may need to remind transfer agents that
+they are required to do so under law. A stockbroker’s services may be
+required to sell a security. A stockbroker may be able to help identify the
+transfer agent for a security. County agency staff may contact local
+stockbrokers for assistance.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                      Service 450
+Program 450                                                       Chapter 01
+
+How to Use Forms 450-01-25-15
+
+Encouraging Freezing of Accounts 450-01-25-15-01
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+If the decedent’s funds were held in a P.O.D. or survivorship account, or if
+someone without an interest in an account has signature authority to draw
+funds from that account, immediately prepare and send a letter notice (See
+Section 450-01-40-05) warning that claims against the financial institution
+will not be discharged by payments in accordance with the type of account.
+Send the notice by telefacsimile if necessary. A telephone call may be wise
+in some circumstances, but must be immediately followed by the written
+notice. This letter notice must be sent to the financial institutions
+immediately upon learning of the death.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                     Service 450
+Program 450                                                      Chapter 01
+
+Beginning the Collection Process 450-01-25-15-05
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+To avoid any over collections, preliminarily review the Medicaid Benefits
+Paid screen in TECS or the Client Medicaid Benefits Paid screen in Vision to
+determine the approximate amount of the claim. If the value of the
+apparent estate exceeds the allowable funeral expenses, contact the clerk
+of district court in the county in which the decedent lived to determine if
+anyone has begun a decedent’s estate proceeding. If not, prepare affidavits
+for collection (See Section 450-01-40-01) for transmittal to all holders of
+the decedent’s liquid assets and personal property easily converted to
+cash, except for property set aside for the decedent’s funeral. Transmit
+those affidavits for collection so they are in the hands of the intended
+recipient on the twentieth day after death, or as soon thereafter as
+possible.
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                        Service 450
+Program 450                                                         Chapter 01
+
+Follow-up 450-01-25-15-10
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Contact, by telephone or letter, anyone who does not respond to the
+affidavit for collection within ten working days. Explanations may be
+required, particularly if the affidavit is presented to someone who is not
+familiar with the process.
+
+
+An institution in which the decedent maintained an account may demand a
+copy, or even a certified copy, of a death certificate. Such demands are not
+permitted under the law, but have sometimes become “bank policy.”
+Contact the department’s estate recovery staff if a financial institution
+insists, after the county agency staff have explained that the law does not
+require a successor to produce a death certificate, and that death
+certificates are not generally available to the public. An institution in which
+the decedent maintained a joint or P.O.D. account may assert that the
+funds should properly go to the joint tenant or P.O.D. payee. Contact the
+department’s estate recovery staff if a financial institution insists that the
+funds should go to the joint tenant or P.O.D. payee after the county agency
+staff have explained that the estate is insolvent.
+
+
+Competing claims may arise about funds recovered by use of affidavits for
+recovery. The most common sources of those claims are medical providers
+who have not been paid in full (particularly for recipient liability) and
+funeral service providers. Contact the department’s estate recovery staff
+for assistance with those claims. The department will assure that recovered
+funds are disbursed consistently with the claims priority laws.
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                       Service 450
+Program 450                                                        Chapter 01
+
+Collections in Decedents' Estate Proceedings 450-01-30
+
+Beginning a Decedent’s Estate Proceeding
+450-01-03-01
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Decedents’ estate proceedings are begun with an application or petition.
+State law requires copies of those documents to be furnished to the
+department. N.D.C.C. § 50-24.1-07(3). Unless claims against the estate
+are paid in full, property in the estate must be sold to pay the claims. The
+personal representative must furnish a statement of assets and
+disbursements if the department’s claim is not paid in full. N.D.C.C. § 50-
+24.1-07(3).
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                       Service 450
+Program 450                                                        Chapter 01
+
+Making the Department's Claim 450-01-30-05
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+The department files its claim with the clerk of district court, and sends a
+copy to the county agency involved, within ninety days after the
+department receives the application or petition that begins the decedent’s
+estate proceedings. Before filing its claim, department estate recovery staff
+send to the county agency involved a copy of the application or petition
+that begins the decedent’s estate proceedings. The county agency may
+send its claim for General Assistance to the personal representative (or to
+the personal representative's lawyer) and file its claim with the clerk of
+district court, within the same ninety days, using the department’s Claim
+Against Estate form with appropriate changes to correctly describe the
+General Assistance claim. The department's Claim Against Estate (See
+Section 450-01-40-20) includes a written demand for notice.
+
+
+
+
+              North Dakota Department of Human Services
+                         Medicaid Estate Recovery
+Division 10                                                          Service 450
+Program 450                                                           Chapter 01
+
+Estate Debts 450-01-30-10
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+A will cannot alter the obligation of paying the decedent’s debts first. A
+professionally prepared will always directs that the decedent's debts be
+paid first. A claim is made in every estate, irrespective of a will, since a will
+only determines the distribution of the estate after all debts have been
+satisfied.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                     Service 450
+Program 450                                                      Chapter 01
+
+Sales of Estate Property 450-01-30-15
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Family members can purchase property of a decedent’s estate at fair
+market value, thus becoming bona fide purchasers for value. [Fair market
+value (FMV) for estate recovery purposes is different than FMV for Medicaid
+eligibility purposes.] Any transfer to a family member of property of a
+decedent’s estate makes the family member a “recipient of property.”
+Transfers of estate property may be voided if made to the personal
+representative or the personal representative’s spouse, agent, or business
+in which the personal representative has a substantial financial interest.
+The family can pay the Medicaid claim in lieu of selling the decedent’s
+property.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                      Service 450
+Program 450                                                       Chapter 01
+
+Interest on Claims 450-01-30-20
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+“Unless otherwise provided in any judgment in another court entered
+against the personal representative, allowed claims bear interest at the
+legal rate for the period commencing sixty days after the time for original
+presentation of the claim has expired unless based on a contract making a
+provision for interest, in which case allowed claims bear interest in
+accordance with that provision.” N.D.C.C. § 30.1-19-06(5).
+
+
+
+
+              North Dakota Department of Human Services
+                         Medicaid Estate Recovery
+Division 10                                                         Service 450
+Program 450                                                          Chapter 01
+
+Spousal Impoverishment Prevention Cases
+450-01-30-25
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+
+ 1. Spousal impoverishment cases often involve couples with substantial
+    assets. The same individuals who counsel couples on how to retain the
+    greatest amount of assets while securing Medicaid benefits for an
+    institutionalized spouse are typically present to help resist any Medicaid
+    claim made in the community spouse's estate. If the department lacks
+    access to any record of the asset transfers involved in achieving
+    eligibility, we may be unable to meet our burden of proof when the
+    Medicaid claim is resisted.
+ 2. In spousal impoverishment cases, the department files claims in the
+    estates of community spouses who initially survive the institutionalized
+    Medicaid recipient spouse. Success of these claims may depend on
+    having accurate information on SFN 52, Spousal Assets. If the couple
+    has made transfers in anticipation of meeting the spousal asset
+    requirements, county agency staff must accurately identify all property
+    (account numbers, insurance policy numbers, property descriptions)
+    and correctly indicate in the final two columns the institutionalized
+    spouse’s previous ownership of assets. SFN 52, Spousal Assets, must
+    be used by the county agency in spousal impoverishment cases. This
+    form must be sent to the state office for inclusion in estate files. If this
+    form was not sent in to the state office when the application was
+    approved, it should be sent in immediately upon learning of the estate
+    proceedings.
+ 3. When any Medicaid recipient over age fifty-five dies leaving a surviving
+    spouse, the department cannot enforce a claim during that spouse's
+    lifetime. The department files a claim in the decedent’s estate of the
+    initially surviving spouse. At that time, the claim for repayment of
+    Medicaid benefits furnished to the institutionalized spouse may only be
+    paid out of assets in the community spouse's estate in which the
+    institutionalized spouse once had an interest. Thus, when the
+    department is able to make a claim, the assets must be “traced” in the
+    community spouse's estate back to the community spouse.
+ 4. The asset assessment will be of very limited use if county agency staff
+    rely, without verification, on statements made by the individuals
+    concerning the assets, incomplete descriptions of assets (such as listing
+    bank accounts and insurance policies without identifying numbers),
+
+
+
+
+              North Dakota Department of Human Services
+                        Medicaid Estate Recovery
+Division 10                                                      Service 450
+Program 450                                                       Chapter 01
+
+    misidentifying ownership of assets (saying assets individually owned
+    when they are actually jointly owned or vice versa), or that fail to
+    identify ownership of all assets.
+ 5. The Medicaid applications, and subsequent redeterminations, often
+    accurately describe the asset transfers that occur in the months
+    following an application. Applications may include accurate asset
+    descriptions and verifications. The file may include correspondence to
+    and from the applicant and those acting on behalf of the applicant. All
+    of this information is extremely valuable to making an effective claim.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                      Service 450
+Program 450                                                       Chapter 01
+
+Enforcing Claims 450-01-30-30
+Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+The department collections staff will take reasonable actions to assure that
+the department’s claims (and when present, the county agency claims) are
+paid within the limits of available funds in the decedent’s estate. This may
+include itemizing claims, disputing a personal representative’s denial of a
+claim, disputing actions taken by the personal representative with respect
+to estate property or other claims, and appealing adverse court decisions.
+Department estate recovery staff may request the county agency’s
+assistance with producing file material, inspecting estate property, or
+securing information from knowledgeable local sources.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                     Service 450
+Program 450                                                      Chapter 01
+
+When Agency May Commence Estate Proceedings
+450-01-35
+
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+A claim cannot be made against real property, or in an estate with property
+worth more than $50,000, without the appointment of a personal
+representative. If three years pass after a decedent’s death before
+commencement of estate proceedings, creditors’ claims are barred
+thereafter in that estate. Occasionally, when a decedent has an estate, but
+no decedent’s estate proceedings have been commenced by any of the
+decedent’s family members or devisees, the department will begin
+decedent’s estate proceedings, or ask the county agency to do so, to avoid
+having claims barred by the passage of three years after the decedent’s
+death.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                               Service 450
+Program 450                                                Chapter 01
+
+Appendix 450-01-40
+
+Affidavit for Collection of Personal Property of the
+Decedent 450-01-40-01
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Click here to view and/or print this document.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                               Service 450
+Program 450                                                Chapter 01
+
+Letter Notice 450-01-40-05
+(Revised 1/1/2011 ML #3253)
+View Archives
+
+
+
+Click here to view and/or print this document.
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                 Service 450
+Program 450                                                  Chapter 01
+
+Affidavit for Collection of Personal Property of the
+Decedent - ND Dept. of Transportation - Motor Vehicle
+Division 450-01-40-10
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Click here to view and/or print this document (SFN 2916).
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                                 Service 450
+Program 450                                                  Chapter 01
+
+Application for Certificate of Title & Registration of a
+Vehicle 450-01-40-15
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Click here to view and/or print this document (SFN 2872).
+
+
+
+
+              North Dakota Department of Human Services
+                       Medicaid Estate Recovery
+Division 10                                               Service 450
+Program 450                                                Chapter 01
+
+Department's Claim Against Estate 450-01-40-20
+(Revised 1/15/2011 ML #3253)
+View Archives
+
+
+
+Click here to view and/or print this document.
+
+
+
+
+              North Dakota Department of Human Services
+

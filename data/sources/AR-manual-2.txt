@@ -1,0 +1,1410 @@
+Source URL: https://humanservices.arkansas.gov/wp-content/uploads/Packet-for-Posting-Medical-Services-Policy-Section-A-116-H-100-H-400-H-600-and-H-700.pdf
+Retrieved: 2026-09-23
+Note: fetched with curl (simple user agent) because the Python fetcher got 403
+
+MEDICAL SERVICES POLICY MANUAL, SECTION X
+                                          Error! No text of specified style in document.
+
+                                                 A-116 Premiums For The Adult Expansion Group
+
+
+
+
+A-116 Premiums For The Adult Expansion Group
+MS Manual 08/29/22
+
+A program participant who has income of at least 100% of the federal poverty level will pay a
+premium of no more than 2% of their income to a health insurance carrier.
+Individuals who are medically frail and receiving traditional Medicaid will not be required to pay
+a premium.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                 H-100 Long-Term Services and Supports
+
+
+
+
+H-100 Long-Term Services and Supports
+MS Manual 08/29/2022
+
+The policies located in Section H of this manual describe programs and procedures that are
+unique to the Long Term Services and Supports eligibility groups. These sections include:
+
+    1. Income Trusts (MS H-110-116);
+    2. Spousal Impoverishment Rules (MS H-200);
+    3. Transfer of Resources (MS H-300);
+    4. Post-Eligibility rules (MS H-400);
+    5. Long-Term Care Insurance Partnership Program (MS H-500);
+    6. Estate Recovery (MS H-600); and
+    7. Undue Hardship Waiver (MS H-700).
+
+H-110 Income Trusts
+MS Manual 08/29/2022
+
+An individual with income in excess of the income limit may establish an income trust for the
+purpose of becoming Health Care eligible. This type of trust is commonly referred to as a Miller
+Income Trust.
+
+H-111 Requirements for an Income Trust
+MS Manual 08/29/2022
+
+A Miller Income Trust must meet the following conditions:
+
+    1. Terms and Other Conditions
+
+        The trust must be irrevocable. It can be terminated or amended only by mutual
+        agreement between the Department of Human Services (DHS) and the trustee.
+
+        The trust may be used to establish Health Care eligibility for individuals determined to
+        be medically in need of care in a nursing facility or assisted living facility or PACE.
+
+        The trust must have been created either by the individual or by the individual’s child,
+        spouse, sibling, attorney-in-fact or Power of Attorney, guardian, or representative payee
+        as determined by the Social Security Administration. Establishment of a Miller Income
+        Trust by these individuals previously listed will be considered as valid for the purposes
+        of Health Care eligibility.
+
+        The trust must have been established on or after August 11, 1993.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                               H-100 Long-Term Services and Supports
+
+
+
+     The trust can only be funded from Social Security, pension, and all other income payable
+     to an individual, including income earned by the trust account. If assets other than
+     income, such as real or personal property, are placed in the trust, the individual cannot
+     be eligible for facility services under the income trust provisions.
+
+     The trust must contain a provision that all assets remaining in the trust at the
+     individual’s death will be transferred to DHS up to an amount equal to medical
+     payments made by DHS on behalf of the individual subsequent to establishment of the
+     trust.
+
+  2. Consideration of Income
+
+     An individual with gross monthly countable income (excluding VA A&A and CME/UME)
+     that exceeds the federal cap of three (3) times the SSI payment for an individual living in
+     their own home, may establish eligibility through an income trust.
+
+     Individuals are not required to place all their income into a Miller Income Trust to be
+     eligible for Health Care. Any income other than VA A&A and CME/UME that exceeds the
+     income limit must be placed into the trust.
+
+     Income received by an individual and placed in the trust, or an individual’s income paid
+     to the trust by direct deposit, is not countable income for eligibility purposes but will be
+     countable toward patient liability. Patient liability is calculated from all gross income
+     regardless of whether or not it is placed in the trust.
+
+     The income (other than income accumulated by the trust) must be income payable to
+     the individual, and the income must first be received by the individual before being
+     placed in the trust. If the individual assigns the right to receive any or all of the income
+     to the trust, the income assigned is no longer considered income to the individual under
+     SSI rules. Such an assignment will be considered a disqualifying transfer. However, for
+     purposes of this section, if an individual authorizes the income to be paid into the trust
+     by direct deposit from the payor, the direct deposit will not be considered an
+     assignment (disqualifying transfer).
+
+     Income in excess of the income limit that is received directly by an individual must be
+     transferred to the trust immediately upon receipt. Any income that is not transferred
+     into a Miller Income Trust in the month it is received will be counted when determining
+     eligibility.
+
+     If in any month the individual’s income that exceeds the income limit is not placed in the
+     trust, the individual is not eligible for Health Care benefits or vendor payment in that
+     month.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                              H-100 Long-Term Services and Supports
+
+
+
+     The income must be placed into and maintained in a single trust account.
+
+     If an individual receives income on an irregular basis (such as royalty or farm rental
+     income or lump sum payments such as SSA retroactive benefits) the income must be
+     placed into the trust when it is received.
+
+     If an individual receives income paid jointly to themselves and another person(s), the
+     facility resident’s share of the income must be separated from the shares owned by the
+     other person(s) before depositing the facility resident’s share in the trust account. No
+     income belonging to any other individual may be placed in the income trust of a Health
+     Care recipient.
+
+  3. Fees and Other Disbursements
+
+     When no relatives are available to serve as the trustee, a commercial institution such as
+     a bank can be named as trustee. Commercially reasonable administrative fees that are
+     charged by the commercial institution may be allowed as trustee fees. The fee will be
+     considered commercially reasonable if the fee is consistent with administrative fees
+     charged to other customers for similar services. Trustee fees will not be allowed except
+     in these instances. The bank service charges for maintaining the bank account are
+     allowable fees.
+
+  4. Trustee Responsibilities
+
+     A trustee may serve without bond or supervision of any court.
+
+     Prior to a distribution from the trust, the trustee must notify the eligibility worker
+     responsible for the case of any fees, income taxes, or other payments that must be
+     made from the trust before these disbursements can be made. The advance notice must
+     be made no later than the month that precedes the month in which the disbursements
+     will be made.
+
+     After certification of the case, no disbursements of any kind can be made by the trustee
+     until the trustee has been provided a current Notice of Action with the post-eligibility
+     budget completed by the system. (See MS H-410.)
+
+     Any disbursements made that are not for the benefit of the recipient, the community
+     spouse, or other dependents as specified on the Notice of Action and in the electronic
+     record will be considered a transfer of resources, and a penalty period may be applied.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                  H-100 Long-Term Services and Supports
+
+
+        Payments must be made from the trust each month only in the amounts specified on
+        the Notice of Action and in the electronic record. The payments must be made directly
+        to the designated recipient, i.e., to the recipient or responsible person for the personal
+        needs allowance (PNA); to the community spouse or dependent(s) for their allowances;
+        to the recipient or responsible party for the recipient’s non-covered medical expenses;
+        to the recipient of court-ordered child support or court-ordered spousal support or
+        both; and to the facility for the patient’s share of cost.
+
+        While an individual is receiving Health Care benefits in a facility, no disbursements other
+        than those specified on the Notice of Action and in the electronic record may be made.
+
+        The trust records shall be open to inspection and for copying by DHS, and periodic
+        reporting may be required at the discretion of DHS.
+
+        If the trustee becomes aware of any change in circumstances that will affect the
+        recipient’s eligibility or the amounts being distributed monthly from the trust, the
+        trustee shall be responsible for notifying the eligibility worker of such changes. Changes
+        to be reported include without limitation income changes, increase or decrease of cost
+        of non-covered medical expenses, recipient death or departure from the facility,
+        community spouse entering a facility, etc.
+
+        The trustee must notify the eligibility worker if in any month the funds are not disbursed
+        according to the Notice of Action or if the balance in the trust account exceeds the
+        maximum allowed as specified in MS H-113, Post-Eligibility Procedures, so that the
+        worker can adjust the facility payment(s) for the month(s) in which the vendor payment
+        is affected.
+
+H-112 Income Trust Application Process
+Refer to Health Care Procedures Manual for more information.
+MS Manual 08/29/2022
+
+Individuals with income above the federal cap who inquire regarding Health Care eligibility in a
+facility or for the Waiver program will be given information regarding eligibility limits under the
+income trust provisions along with a resource assessment (Re. MS E- 500) if requested.
+Individuals with excess resources cannot establish eligibility through an income trust.
+
+NOTE: If an individual receives income from a LTC insurance policy that puts them over the
+income limit, an income trust is not required unless the other countable income, without
+counting the LTC insurance payments, puts them over the income limit.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                 H-100 Long-Term Services and Supports
+
+
+H-113 Post-Eligibility Procedures
+MS Manual 08/29/2022
+
+   1. Post-Eligibility Consideration of Income
+
+       The total net countable income of an individual will be included in the post-eligibility
+       consideration. Net income will be calculated as for all other Health Care eligible
+       individuals in the post-eligibility process.
+
+   2. Begin Date of Eligibility
+
+       Eligibility for facility care or Waiver services shall not begin prior to the month in which
+       the trust is established. A trust is considered established when the completed document
+       is signed by the applicant and the trustee.
+
+       It must be verified prior to beginning eligibility that the individual’s income that exceeds
+       the program income limit has been placed in the trust.
+
+   3. Trust Balance Exceeds Divisor
+
+       There is no penalty for transfer of income into an income trust fund. However, if the
+       balance of the trust at the end of any month (excluding any deposits that represent
+       income for the following month and any spousal, dependent, or non-covered medical
+       expenses amounts specified on the Notice of Action and in the electronic record that
+       were not disbursed for the month) exceeds the amount of the current divisor used for
+       transfer of resources (Appendix R), the individual will not be eligible again for facility
+       care payment until the first of the month after the month in which the balance in the
+       trust has been spent down for the benefit of the facility resident.
+
+       NOTE: This only applies to facility payments.
+
+H-114 Changes to an Income Trust
+Refer to Health Care Procedures Manual for more information.
+MS Manual 08/29/2022
+
+   1. Medicare and Other Third Party Payments
+
+       If in any month or part of a month a patient is in a Medicare bed or has other third party
+       coverage which lessens or eliminates the obligation of the trustee to pay the facility for
+       the patient’s share of cost as computed in the electronic record, the funds that would
+       have been paid to the facility in that month shall remain in the trust and may not be
+       disbursed for reasons other than for the recipient’s medical care for which there is no
+       other third party liability.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                  H-100 Long-Term Services and Supports
+
+
+    2. Individual Leaves Facility
+        If an individual leaves a facility for a therapeutic home visit up to fourteen (14) days or
+        for a hospital visit up to five (5) days, Health Care benefits and vendor payment will
+        continue, and the trustee will make disbursements in that month as specified on the
+        Notice of Action and in the electronic record.
+
+        If an individual improves to the extent that they are able to return home and are
+        deemed unlikely to need continuing care in a facility according to written medical
+        statement, the Health Care case must be closed. However, the trust must be maintained
+        according to the terms of the trust, i.e., the individual’s income must continue to go into
+        the trust; no other individual’s income may be put into the trust, etc. Disbursements
+        may be made only for medical care, food, clothing, transportation, and shelter for the
+        individual.
+
+    3. Changes in Community Spouse or Dependent Status
+        If a community spouse or dependent who has been receiving a monthly income
+        allowance from the facility resident enters a facility, has an income change, divorces the
+        recipient, or dies, the eligibility worker in charge of the case must be notified within ten
+        (10) days by the recipient, representative, trustee, or other responsible party. No
+        additional disbursements for the spouse or dependent can be made until the eligibility
+        worker has revised the post-eligibility budget and provided the trustee with a copy of
+        the Notice of Action.
+
+H-115 Renewals with an Income Trust
+MS Manual 08/29/2022
+
+In addition to the required verification of other eligibility factors at annual renewal, the
+eligibility worker will verify that the amount required to make the client income-eligible has
+been placed in the trust and disbursements made as required since the last renewal. This may
+be done by viewing bank statements or other trustee records that may be available.
+
+H-116 Termination of an Income Trust
+Refer to Health Care Procedures Manual for more information.
+MS Manual 08/29/2022
+
+Since income trusts are irrevocable, they cannot be terminated while the individual is still alive,
+except when:
+
+    •   Office of Chief Council (OCC) determines an error was made in the establishment of the
+        trust;
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                               H-100 Long-Term Services and Supports
+
+
+  •   The individual has repaid Health Care all payments made since the establishment of the
+      income trust;
+  •   Individual is moving out of state and will be establishing an income trust in the other
+      state; or
+  •   Other extraordinary circumstance.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                    H-400 Post-Eligibility
+
+
+H-400 Post-Eligibility
+MS Manual 08/29/2022
+
+The eligibility groups Nursing Facility, Assisted Living Facility, PACE recipients in a nursing facility,
+and PACE recipients in the community who have met income eligibility by establishing a Miller
+Income Trust all require certain procedures to complete the determination of eligibility. These
+eligibility procedures are explained in the following sections.
+
+H-402 Consideration of Income
+MS Manual 08/29/2022
+
+After the IS has been determined to be resource eligible for Long-Term Services and Supports
+(LTSS), income of the IS and CS will be considered as follows:
+
+    1. Income Not From A Trust
+
+        •    Income received solely in the name of either spouse will be considered income only
+             to that spouse. Refer to MS E-432 #5 for “Veteran’s Benefits” exceptions.
+
+        •    If payment of income is made in the names of both the IS and CS, half will be
+             considered available to the CS and half to the IS.
+
+        •    If payment of income is made in the names of the IS or the CS or both and another
+             person, the income will be considered available to each spouse in proportion to
+             each spouse’s interest. If payment is made with respect to both spouses, and no
+             such interest is specified, one half (1/2) of the joint interest will be considered
+             available to each spouse.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                   H-400 Post-Eligibility
+
+
+    2. Income From A Trust
+        Income from a trust will be considered available to each spouse as provided by the trust.
+        In the absence of a specific provision in the trust, the income will be considered
+        available to each spouse as according to the rules in 1. a-c above or as directed by the
+        Office of Chief Counsel (OCC) opinion. If the IS or CS established the trust, refer to MS H-
+        304 for consideration of income from the trust.
+    3. Income Through Property With No Instrument Establishing Ownership
+        When income is from property that has no instrument establishing ownership (for
+        example, income-producing heir’s property), half of the income will be considered to be
+        available to the IS and half to the CS.
+
+H-403 Rebutting Consideration of Income
+MS Manual 08/29/2022
+
+The eligibility worker will advise the applicant or representative of the income that will be
+considered in the gross income test of the institutionalized spouse (IS).
+
+If the IS or representative disagrees with the treatment of ownership interest in income (other
+than from a trust) required by MS H-402, the IS or the representative will be given the
+opportunity to rebut the presumption of ownership. To successfully rebut the presumption of
+full or partial ownership, the IS or the representative must provide the following within thirty
+(30) days of the date on the Notice of Action:
+
+    1. A written, signed statement by the IS alleging ownership, the reason for the applicant’s
+       receipt of the income, or for their name appearing as an owner on the payment of the
+       income;
+    2. Corroborating signed statements from the other owner(s);
+    3. A change in the instrument of ownership removing the IS’s name from the instrument or
+       a change that redirects the income to the actual owner(s); and
+    4. Copies of the original and revised documents reflecting the change.
+
+A successful rebuttal will result in a finding that supports the individual’s allegation regarding
+ownership of the income.
+
+If the individual elects not to rebut the consideration of ownership interest, the eligibility worker
+will obtain a written statement from the individual that documents their election.
+
+If the individual elects not to rebut, does not provide a rebuttal within the allotted time, or does
+not provide all of the required evidence, the income produced from the presumed ownership
+interest will be used in the individual’s eligibility determination.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                  H-400 Post-Eligibility
+
+
+If the individual submits all required evidence within the allotted time, the individual’s
+ownership interest will be determined and the findings will be documented in the case record.
+The income from the actual ownership interest (that is, the interest determined by the rebuttal)
+will be used in the eligibility determination.
+
+When the individual has successfully rebutted ownership of all or a portion of the income,
+income payments will be considered available to the IS in proportion to their interest (if any).
+
+NOTE: This section does not apply to federal, state, or other entitlements, pensions, or
+retirement benefits.
+
+H-410 Factors Used to Determine Cost of Care
+MS Manual 08/29/2022
+
+Nursing facility recipients are required to contribute all of their monthly income, minus certain
+approved deductions, to the cost of their facility care. Health Care pays the balance of the
+monthly charges due based on a per diem rate according to the individual's Level of Care.
+
+NOTE: ARChoices and DDS Waiver recipients do not contribute to the cost of their care. For the
+contribution to the cost of care guidelines for Assisted Living and PACE recipients, refer to MS H-
+412 and MS H-413.
+
+After determination of resource eligibility and the post-eligibility consideration of income (or
+upon request by the applicant or recipient, their spouse, or their representative), the Nursing
+Home Net Income, Community Spouse Minimum Monthly Maintenance Needs Allowance
+(CSMNA), Community Spouse Monthly Income Allowance (CSMIA), and any Family Member
+Allowances (FMA) will be computed in the eligibility system and a Notice of Action will be sent
+for the appropriate time period.
+
+Steps for determining the amount of income to be applied to the cost of care are shown below:
+
+    1. Total Earned and Unearned Income
+
+        Total all income of the recipient by type and amount with the following exceptions:
+
+            •   For State Human Development Centers and Arkansas Health Center residents,
+                interest income is not counted in the monthly budget.
+
+            •   VA Aid and Attendance payments and VA CME/UME will not be counted as
+                income.
+
+            •   Mandatory deductions and work-related expenses will be deducted from gross
+                earnings.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                               H-400 Post-Eligibility
+
+
+         •   Court-ordered child support and court-ordered spousal support will be
+             deducted from earned or unearned income.
+
+         •   An additional amount of up to the current SSI/SPA will be deducted from the
+             earnings of residents in ten-bed Intermediate Care Facilities for Individuals with
+             Intellectual Disabilities (ICF/IID) and State Human Development Centers. Refer
+             to MS H-430.
+
+         •   LTC insurance payments, whether paid to the facility or directly to the recipient,
+             are not considered in the eligibility process but are counted toward cost of care.
+
+  2. Income Trust Fees (if applicable)
+
+     Deduct the applicable income trust fees. Refer to MS H-111 #3.
+
+         •   The monthly service charge for maintaining the trust bank account and
+
+         •   Commercially reasonable administrative fees charged by the commercial
+             institution serving as trustee
+
+  3. Personal Needs Allowance
+
+     Deduct the personal needs allowance (PNA).
+
+         •   Subtract a forty-dollar ($40) PNA for most facility residents.
+             NOTE: Facility residents whose only income is SSI will be allowed to keep thirty
+             dollars ($30) as their PNA. The PNA of an SSI recipient who also has other
+             income is forty dollars ($40). Refer to MS H-420.
+
+         •   Single veterans and spouses of veterans with no dependents whose VA pensions
+             have been reduced to $90 will be given the full ninety dollars ($90) as a personal
+             needs allowance. An additional forty dollars ($40) will not be given. A ninety
+             dollar ($90) PNA will not be given to any individual whose VA pension has not
+             been reduced to ninety dollars ($90) by the Veterans Administration (VA). If VA
+             later reduces the pension to ninety dollars ($90), an income adjustment will be
+             made. Individuals should contact the Veterans Administration if they believe
+             they are entitled to a ninety-dollar ($90) reduced pension.
+
+         •   For residents of ICF/IIDs and State Human Development Centers with earned
+             income, forty dollars ($40) may be given as a PNA in addition to a disregard of
+             earned income up to the current SSI SPA.
+
+         •   For nursing facility residents with earned income, forty dollars ($40) may be
+             given as a PNA in addition to a disregard of up to one-hundred dollars ($100) of
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                H-400 Post-Eligibility
+
+
+             their monthly earnings, provided there is documentation that a physician has
+             prescribed employment activity as a therapeutic or rehabilitative measure.
+             Refer to MS H-430.
+
+  4. Community Spouse Monthly Income Allowance (CSMIA)
+
+         •   A community spouse (CS) may be entitled to a portion of the Institutionalized
+             Spouse’s (IS) income. The total amount of the IS’s income to which the CS is
+             entitled is the CSMIA. It is calculated by adding the Minimum Monthly
+             Maintenance Needs Allowance (CSMNA) and the Excess Shelter Allowance and
+             subtracting the community spouse’s own income. The CSMNA is capped at a
+             Maximum Monthly Maintenance Needs Allowance amount. The excess shelter
+             allowance, CSMNA, and Maximum Monthly Maintenance Needs Allowance
+             change annually. They are set by the federal government and are based on the
+             Consumer Price Index.
+
+         •   Shelter costs may include rent or mortgage (including principal and interest),
+             prorated taxes and insurance (including personal property taxes and insurance
+             on household contents if paid yearly), condominium or cooperative fee
+             (including maintenance charges), and the standard utility allowance.
+
+         •   Shelter costs must be verified. Utilities need not be verified.
+
+             NOTE: The standard utility allowance is not allowed if utilities are included in
+             rent or if someone else is paying the utilities. If only partial utilities are included
+             in rent (for example, water), the full utility allowance may be used.
+
+         •   The CSMIA will only be deducted to the extent contributed by the IS. If the IS
+             contributes an amount less than the computed CSMIA, only the actual amount
+             contributed will be deducted from the IS’s gross income, meaning, the actual
+             contributions will be deducted instead of the computed CSMIA. Refer to MS H-
+             416.
+
+         •   An IS may not contribute more than the CSMIA unless under a court order, or
+             unless a hearing officer has determined the CS needs income greater than the
+             CSMNA. Refer to MS H-208.
+
+         •   If a court orders the IS to contribute a larger amount for the support of the CS,
+             then the amount of support ordered by the court will be used instead of the
+             CSMIA. Any amount ordered by a court will not be subject to the limit on the
+             CSMNA.
+
+  5. Family Member Allowance (FMA) When There is a Spouse in the Home
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                               H-400 Post-Eligibility
+
+
+         •   A dependent family member may be entitled to an allowance. See MS Glossary
+             for definition of dependent family member.
+
+         •   The FMA is computed for each dependent family member by deducting the
+             family member’s income from the CSMNA and by dividing the result by three
+             (3).
+
+         •   The FMA will only be deducted from the IS’s income to the extent that it is
+             actually contributed by the IS. If the IS contributes an amount less than the
+             FMA, only the actual amount contributed will be deducted from the IS’s gross
+             income (that is, the actual contribution) will be deducted instead of the
+             computed FMA. Refer to MS H-415.
+
+             NOTE: A CS who is an SSI recipient, or who has children receiving SSI, will have
+             the right to choose whether to accept a CSMIA or FMA. The result of accepting
+             an allowance may be reduction or termination of SSI benefits and Health Care. A
+             dependent family member receiving SSI (parent or sibling of the IS) will also be
+             given the same choice.
+
+  6. Protected Maintenance Allowance for Dependent Children When There is No Spouse in
+     the Home
+
+         •   In certain cases, an allowance may be given from the eligible individual's income
+             for the protected maintenance of dependent children living in the home when
+             there is no spouse in the home.
+
+         •   Eligibility for the individual in a facility must be established before consideration
+             is given for protected maintenance. If there are dependent children under
+             eighteen (18) years of age the combined income of the children must be less
+             than the Medically Needy Income Level (MNIL) for the appropriate number of
+             children in the household to qualify for protected maintenance. Refer to MS O-
+             710 for MNILs.
+
+         •   In addition to meeting the stated income limitations, the countable resources of
+             the dependent children must be within the AABD resource limitations to qualify
+             for protected maintenance.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                              H-400 Post-Eligibility
+
+
+  7. Non-covered Medical Expenses
+
+     Non-covered medical expenses of all facility recipients that are not subject to payment
+     by a third party will be deducted. Per 42 CFR § 435.725, this includes incurred expenses
+     for medical or remedial care that are not subject to payment by a third party,
+     including-
+
+         •   Medicare and other health insurance premiums, deductibles, or coinsurance
+             charges and
+
+         •   Necessary medical or remedial care recognized under state law but not covered
+             under the state’s Health Care plan, subject to reasonable limits the agency may
+             establish on amounts of these expenses
+
+     Reasonable limits on amounts for necessary medical or remedial care not covered under
+     Health Care:
+
+         •   The non-covered expenses must be incurred no earlier than the three-month
+             period preceding the month of application.
+
+         •   The non-covered expenses must be prescribed by a Medical professional (for
+             example, a physician, dentist, optometrist, chiropractor, etc.).
+
+         •   Payments for cosmetic or elective procedures (for example, face lifts or
+             liposuction) will not be allowed except when prescribed by a medical
+             professional.
+
+         •   The expense amount is the least of the fee recognized by Health Care,
+             Medicare, or the average cost allowed by a commercial health insurance plan in
+             Arkansas.
+
+         •   Expenses incurred as a result of the imposition of a transfer of assets penalty
+             are not allowed.
+
+         •   Expenses resulting from the failure to obtain prior approval from applicable
+             private insurance, Medicare, or Health Care, due to the service being medically
+             unnecessary, are not allowed.
+
+         •   Deduction is not allowed for procedures allowed by Health Care when prior
+             authorization is denied due to the service being medically unnecessary.
+
+         •   Expenses when a third party (including Health Care) is liable for the expenses,
+             even if provided by an out-of-network provider, are not allowed.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                             H-400 Post-Eligibility
+
+
+        •   General health insurance premiums paid by someone other than the recipient
+            (excluding the community spouse) who is not a financially responsible relative
+            and repayment is not expected to be paid back to the third party by the
+            recipient, are not allowed.
+
+    The medical expenses must be verified as currently due and unpaid. Future anticipated
+    expenses may be used when it is verified that these expenses have occurred with
+    regularity in the past and will continue to occur with regularity in the future. Only the
+    non-covered medical expenses for the facility recipient may be deducted.
+
+    When there is a contract between an applicant and a medical provider and regular
+    payments on a medical bill are being made, the monthly payment will be deducted as a
+    noncoverable medical expense. When there is no contract, the monthly amount of the
+    medical expense being paid may be deducted, with verification that regular payments
+    are being made.
+
+    Deduction of medical expenses is not allowed for nursing facility and ICF/IID residents
+    for items and services included in the state’s Reimbursement Cost Manual as allowable
+    cost items (items the facility will provide). Examples of these include wheelchairs, canes,
+    crutches, walkers, ambulance services or enrollment fees for ambulance services (unless
+    there is not a Health Care enrolled ambulance provider in the area), other
+    transportation services, over-the-counter pain killers, antacids, laxatives, cough syrups,
+    suppositories, anti- diarrhea medication, diapers, band-aids, bandages, peroxide,
+    antiseptics. Facilities are required to provide these items and services at no additional
+    charge to the recipient.
+
+    An income offset for the purchase of eyeglasses, contact lenses, hearing
+    aids, prostheses, and dentures can be made only if the following
+    procedure is followed:
+
+        •   The items must be prescribed by a physician or other licensed
+            medical practitioner.
+
+        •   The items must be a part of the recipient’s plan of care. It must
+            be determined by the facility interdisciplinary team that the
+            recipient’s quality of life will be enhanced and that they are able
+            to utilize the item(s).
+
+        •   The request must be approved by the facility’s Quality
+            Assessment and Assurance Committee.
+
+        •   The cost of the item(s) must be determined.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                              H-400 Post-Eligibility
+
+
+        •   The recipient or authorized representative must provide the
+            eligibility worker with verification of the above. The recipient or
+            authorized representative must not make the purchase or pay the
+            medical bill until the eligibility worker has made an adjustment to
+            the patient liability.
+
+    Other allowable medical expenses (if not subject to payment by a third party) include
+    without limitation: health insurance premiums, deductibles, and coinsurance;
+    prescription drugs not in the Health Care formulary; and physician, hospital, and dental
+    charges; etc. These are not subject to approval through the facility’s Quality Assessment
+    and Assurance Committee. However, prior to making the purchase or paying the bill, the
+    recipient or authorized representative must provide the eligibility worker with proof
+    that the item or items were prescribed by a physician or other licensed medical
+    practitioner, including proof of the cost. A copy of the health insurance bill can be used
+    for proof of health insurance premiums, deductibles, and coinsurance.
+
+    Medicare premiums deducted from SSA payments prior to buy-in are not allowed as
+    they will be reimbursed. The only allowable medical deductions will be the recipient’s
+    noncovered medical expenses. Medical expenses of family members cannot be
+    deducted from facility income.
+
+    NOTE: There is no monthly limit on the number of prescription drugs for facility
+    recipients receiving vendor payment, as long as the prescribed medicine is within the
+    Health Care formulary. Health Care facility recipients who are not certified for vendor
+    payment are limited to three (3) prescriptions per month. Nursing facility hospice
+    recipients are eligible for three (3) prescriptions drugs per month, with the option of
+    receiving up to six (6) prescriptions with prior authorization.
+
+    Medical expenses can be of three types:
+
+        •   Monthly - Expenses regularly incurred each month such as the Medicare Part D
+            enhanced plan portion of premiums above the benchmark;
+        •   Nonmonthly - Expenses which are not incurred monthly but are incurred
+            periodically, such as quarterly insurance premiums; or
+        •   One-time - Expenses incurred such as hearing aids.
+
+    If the eligibility worker is unable to determine within a fair degree of certainty what the
+    non- covered medical expenses will be, then no medical expenses will be deducted from
+    the income.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                  H-400 Post-Eligibility
+
+
+    8. Net Income
+
+        After deduction of any applicable excluded earnings, income trust fees, personal needs
+        allowance, maintenance allowances, court-ordered child support, court-ordered spousal
+        support, and non-covered medical expenses, the net amount remaining will be the
+        amount the individual is expected to apply to the cost of care.
+
+        If all of the IS’s gross income is depleted at any step in the computation, the amount
+        applied to the vendor payment (cost of care) will be zero dollars ($0).
+
+        After the post-eligibility budget is completed, a copy of the information will be provided
+        to each spouse. If the budget is completed prior to application, at the request of either
+        spouse, the information will only be provided to the spouse making the request.
+
+H-412 Contribution to the Cost of Care for Assisted Living Facilities
+MS Manual 08/29/2022
+
+Assisted Living Facility (ALF) Waiver recipients are allowed to keep a flat ninety and eight
+hundredths of a percent (90.8%) rounded up of the SSI/SPA for room and board. This will allow
+the individual to purchase food from the facility, or elsewhere, if they prefer. In addition to the
+charge for room and board, a monthly personal allowance will be deducted. The personal
+allowance will be based on (nine percent) 9% of the SSI/SPA and rounded up. Both will increase
+each January with the SSA/SSI Cost of Living Increases. See Appendix S for current amounts.
+
+The following expenses are to be deducted from the cost of care for the ALF recipient in the
+following order:
+
+   1. Room and board payment
+       NOTE: If the individual is receiving assistance through HUD, the deduction can only be for
+       the amount the individual is actually paying.
+
+   2. Personal needs allowance (PNA)
+
+   3. Court-ordered child support and court-ordered spousal support
+
+   4. Monthly medical insurance premiums
+
+   5. Non-covered medical expenses including over-the-counter medications and medical
+      supplies
+
+   6. Spousal support payments for the community spouse and Family Member Allowance (MS
+      H-410 #4-6)
+
+   7. Applicable income trust fees (MS H-111 #3)
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                   H-400 Post-Eligibility
+
+
+   8. Earnings up to the monthly SSI/SPA amount if employment is prescribed as therapeutic
+      by the attending physician
+
+       The ALF recipient’s income, minus room and board, personal allowance, and certain
+       other expenses, will be contributed to their cost of care each month.
+
+H-413 Contribution to the Cost of Care for PACE
+MS Manual 08/29/2022
+
+Post-eligibility treatment of income provisions will apply to PACE participants upon entry into a
+nursing facility using the procedures for Long-Term Services and Supports (LTSS) nursing facility
+Health Care. Refer to MS H-410.
+
+For PACE participants in the community, there is no cost of care unless the individual has income
+over the income limit and has established an income trust. For income trust guidelines, refer to
+MS H-110.
+
+The eligibility worker will calculate a patient liability amount for those PACE participants in
+nursing homes and those who are eligible through establishing an Income Trust. The patient
+liability amount will be calculated in the electronic record. The PACE provider will collect and
+retain the patient liability. For individuals in nursing facilities, a personal needs allowance (PNA)
+equal to the current nursing facility PNA, any applicable community spouse allowances, family
+allowances, court-ordered child support, court-ordered spousal support, and excess medical
+expenses will be deducted from the PACE participant’s monthly income. Refer to MS H-410.
+
+For individuals in the community who are eligible through establishing an income trust, income
+in excess of the current LTSS Health Care limit will also be paid to the PACE provider. A personal
+needs allowance equal to the current LTSS/PACE limit of three (3) times the current SSI standard
+payment amount (SPA), plus any applicable spousal or family support or excess medical
+expenses will be deducted before making payment to the PACE provider.
+
+
+
+
+H-416 Verification or Refusal of Contributions
+MS Manual 08/29/2022
+
+Prior to certification of the Institutionalized Spouse (IS), the IS or representative must indicate
+that the IS plans to contribute the Community Spouse Monthly Income Allowance (CSMIA) and
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                H-400 Post-Eligibility
+
+
+the Family Member Allowance (FMA) specified on the Notice of Action during the period of
+institutionalization.
+
+Otherwise, no allowances for the CS or other family members will be used in determining
+Nursing Home Net Income. The CSMIA and FMA will only be deducted to the extent actually
+contributed by the IS.
+
+If the CS does not want to accept the contribution from the IS, the CS may decline the income.
+
+
+
+
+H-430 Earnings of Intermediate Care Facilities for Individuals with
+Intellectual Disabilities (ICF/IID) Facility Residents
+MS Manual 08/29/2022
+
+Residents of ICF/IID facilities, including residents of State Human Development Centers, who
+have earned income may be given an earnings disregard of up to an amount equal to the
+current SSI standard payment amount (SPA) in addition to the forty dollars ($40)personal needs
+allowance.
+
+Nursing facility residents with earnings may be given a disregard of up to one-hundred ($100) of
+their monthly earnings, provided there is documentation that a physician has prescribed
+employment activity as a therapeutic or rehabilitative measure. If a nursing home resident
+receiving skilled care reports earnings, the Division of Provider Services and Quality Assurance
+(DPSQA) Office of Long-Term Care (OLTC) should be contacted and requested to reevaluate
+medical necessity.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                   H-400 Post-Eligibility
+
+
+All nursing facility and ICF/IID residents must first pass the gross income test, with
+no disregards allowed. If found eligible, the consideration of earnings will be as
+follows.
+
+   1. Ten-Bed ICF/IID Facilities and State Human Development Centers
+
+       Earnings of residents of these facilities must be taken into consideration for both
+       eligibility and net income determinations. If residents pass the gross income eligibility
+       test, their earnings will be included in the net income determination. In determining the
+       net income to be applied toward the vendor payment, first subtract the mandatory
+       deductions (for example, federal and state income taxes) from gross income and, from
+       the remaining earned income, up to an amount equal to the current SSI SPA for personal
+       needs. Refer to MS H-410 for consideration of earnings at certification.
+
+   2. Fluctuating Earnings
+
+       If the earnings of ICF/IID facility residents stay below the SSI SPA, no reporting of
+       fluctuations is needed.
+
+       The facility administrator will report to the eligibility worker any month in which a
+       resident’s earnings exceed the SSI SPA.
+
+       If earnings consistently stay above the SSI SPA, they may be averaged (MS E-415),
+       provided the facility administrator will agree to report to the eligibility worker:
+
+            •   every six (6) months when earnings are fairly stable; or
+
+            •   more frequently if the resident loses employment, changes jobs, or has earnings
+                in any month which are more than fifteen dollars ($15) above the computed
+                average.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                   H-400 Post-Eligibility
+
+
+H-440 Effective Eligibility Dates for Nursing Homes and Intermediate
+Care Facilities for Individuals with Intellectual Disabilities (ICF/IID)
+Services
+MS Manual 08/29/2022
+
+The effective date of eligibility of an applicant for nursing home and ICF/IID depends on three (3)
+factors:
+
+    1. Date of Entry
+
+        The individual’s date of entry into a participating facility is indicated on the DCO-0702,
+        Notice of Admission, Discharge or Transfer From a Facility, which is completed by the
+        facility and forwarded to both the DPSQA Office of Long-Term Care and the County
+        Office for initial certification. Vendor payments cannot begin prior to the individual’s
+        date of entry into a facility.
+
+    2. Date of Medical Necessity
+
+        Medical necessity is determined by the DPSQA Office of Long-Term Care. The medical
+        necessity decision is transmitted to the County Office and the facility by the DHS-0704,
+        Evaluation of Medical Need Criteria, which classifies the patient for a specific level of
+        care. If a DHS-0704 is received by the County Office on an applicant that classifies them
+        for a specific level of care, medical necessity exists to the date of the individual’s entry
+        or to the date of application if the patient was accepted as private pay only until the
+        application for Health Care was made. However, if the patient is in an ICF/IID facility or
+        was subject to Pre-Admission Screening and Annual Resident Review (PASARR), medical
+        necessity begins on the DHS-0704 decision date for ICF/IID or PASARR date for PASARR
+        residents, and Health Care and vendor payment cannot begin prior to this date.
+
+    3. Date of Categorical Eligibility
+
+         Categorical eligibility for facility care and services under the AABD criteria can be
+        established to begin three (3) months prior to the date of application provided all
+        eligibility conditions are met. If categorical eligibility is established by receipt of SSI or
+        Foster Care, the date to begin vendor payment is not governed by the three-month
+        retroactive eligibility limitation as applied under the AABD eligibility criteria. Even
+        though categorical eligibility may be established prior to application, the begin date for
+        Health Care and vendor payment cannot be prior to the decision date on the DHS-0704
+        for ICF/IID applicants or PASARR date for individuals subject to PASARR.
+
+    4. Authorization of services cannot be made until all three (3) factors have been met.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                    H-400 Post-Eligibility
+
+
+H-450 Approval of an Applicant Who is in a Medicare Bed
+MS Manual 08/29/2022
+
+When Medicare approves individuals for skilled nursing care/extended care, the facility receives
+reimbursement in the form of Medicare per diem and Health Care coinsurance (if applicable) for
+up to 100 days, provided the individual continues to meet Medicare criteria.
+
+Applications for Medicare approved admissions will be processed in the same manner and
+timeframe as applications for non-Medicare approved admissions, except that nursing home
+services will not be authorized until Medicare benefits have been exhausted. Medicare pays
+100% of facility expenses for only 20 days. After this time, the individual becomes liable for
+coinsurance, which cannot be paid by Health Care until the case is opened.
+
+The monthly Medicare per diem amount will not be considered when determining income
+eligibility, but it will be treated as a third-party resource to be applied to the cost of care in a
+facility.
+
+If at some point, the individual fails to meet Medicare criteria or exhausts his/her benefits,
+Medicare will stop payment. The facility will notify the eligibility worker of the change in status.
+On the day following termination of Medicare benefits, the eligibility worker may authorize
+facility services to be effective on that date, provided the individual continues to meet all Long-
+Term Services and Supports (LTSS) requirements.
+
+H-481 Case Adjustments for Lump Sum Payments in Prior Months
+MS Manual 08/29/2022
+
+When a eligibility worker learns that a recipient, who does not have an Income Trust, received a
+lump sum benefit in a prior month which caused ineligibility for the month of receipt only, it will
+not be necessary to close the case if the recipient regained eligibility the month following the
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                   H-400 Post-Eligibility
+
+
+receipt of the lump sum. If the recipient has lost eligibility for more than one month, then the
+case will be closed, and a new application will be required.
+
+Overpayment reports for Long-Term Services and Supports (LTSS) and other Health Care
+categories will be submitted to recover any Health Care payments made during the month of
+ineligibility.
+
+Refer to MS Section M. If the facility has retained the lump sum benefits, no overpayment is
+required to recoup the vendor payments.
+
+H-490 Absences from Long-Term Care Facilities
+MS Manual 08/29/2022
+
+All facilities are required to report to the County Office certain recipient absences from the
+facility. Absences will be reported for death, discharge, and transfer. Overnight home visits and
+hospitalizations will not be reported. Admissions to the Arkansas State Hospital (Little Rock) will
+be reported as discharges.
+
+Death or Discharge
+
+Upon notification from the facility reporting the death or discharge of a recipient, the County
+Office will initiate action to close the recipient’s case. Advance notice is not required for closure
+due to death.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                  H-400 Post-Eligibility
+
+
+Home Visits
+
+A recipient receiving Long-Term care services has the right to make overnight home visits
+whenever they desire, provided the visits are consistent with the recipient’s required level of
+care and their attending physician’s orders. This includes authorized home visits during the
+thirty (30) days in which institutional status is achieved.
+
+The DPSQA Office of Long-Term Care is responsible for monitoring recipient home visits and
+their consistency with the patient’s required level of care. For example, a skilled care patient
+who makes overnight home visits might require reclassification action by Long-Term Care.
+
+Facility services may continue during a recipient’s absence due to therapeutic home visit
+without regard to the cumulative number of days absent during a calendar year. However, a
+fourteen (14) consecutive day limit is placed on each home visit for payment purposes.
+
+Home visits of less than fourteen (14) days will not be reported by facilities to the County Office.
+The date left counts as the first day of absence. When there is an indication that the recipient is
+expected to return to the facility within fourteen (14) days, the County Office will take no action.
+
+For home visits that exceed fourteen (14) consecutive days facilities will report the date left and
+a discharge on the fifteenth consecutive day of absence. When there is no indication that the
+recipient is expected to return to the facility within fourteen (14) days, the County Office will
+initiate action to close the case.
+
+        •   Cases suspended or closed can be reinstated without new application if the
+            recipient returns to the facility within nintety (90) days of the date left on home
+            visit.
+
+        •   If the reevaluation falls due during the period of suspension, it will not be
+            completed until the client reenters the facility.
+
+        •   If the individual does not reenter the facility within ninety (90) days, a new
+            application will be required to reopen the case.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                   H-400 Post-Eligibility
+
+
+H-493 Operations Plan - Relocation of Recipients
+MS Manual 08/29/2022
+
+The Division of Provider Services and Quality Assurance (DPSQA) Office of Long-Term Care
+(OLTC) will initiate all relocation actions of Agency recipients in facilities that are closed for any
+reason other than a disaster. Such reasons include decertification by the federal government or
+the DPSQA, loss of licenses, voluntary withdrawal from the Health Care Program, or cancellation
+of agreement by the DPSQA. Since federal regulations require all program recipients to be
+relocated within thirty (30) days of the termination date, it is essential that specific procedures
+be established to ensure that recipients are relocated with maximum safety and well-being.
+
+Authority to initiate, direct and monitor all relocation actions is delegated to the Assistant
+Director of the Office of Long-Term Care, by the Director of the DPSQA.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                 H-600 Estate Recovery
+
+
+
+H-600 Estate Recovery
+MS Manual 08/29/2022
+
+The Omnibus Budget Reconciliation Act of 1993 and Arkansas Act 415 of 1993 mandate recovery
+of medical payments correctly made from August 13, 1993 and later from the estates of:
+
+    •   Individuals of any age who were considered to be permanently institutionalized, who
+        received medical services in a nursing or ICF/IID facility, and who were required to pay
+        all but a minimal amount of income for their care, and
+
+    •   Individuals fifty-five (55) years of age and older who received medical services in a
+        nursing or ICF/IID facility or in a home and community based waiver program, whether
+        or not they were considered to be permanently institutionalized.
+
+Estate recovery will not be made from the estate of deceased individuals when:
+
+    •   There is a surviving spouse, dependent children under twenty-one (21) years of age, or
+        children who are blind or have a disability (as determined by SSA disability guidelines),
+
+    •   Recovery will create an undue hardship for other surviving family members, or
+
+    •   Recovery is not cost effective.
+
+Estate recovery will not be made from resources that were protected as a result of the
+individual having a Qualified Long Term Care Insurance Partnership Policy. The maximum
+amount protected at estate recovery will be the amount protected when eligibility was
+established. If any of the protected resources have been spent or given away, only the amount
+remaining will be protected at estate recovery.
+
+Estate recovery will not be made from interests acquired through grant of a beneficiary deed,
+per Arkansas Act 570 of 2021 when:
+
+    •   The beneficiary deed was properly excuted and recorded; and
+
+    •   Documentation has been provided to the entity seeking recovery.
+
+H-630 Recovery Procedures
+MS Manual 08/29/2022
+
+State law requires in most cases that the appointed personal representative of the estate of a
+deceased person shall promptly mail to the creditors of an estate, including the Department of
+Human Services (DHS), a copy of the notice of their appointment that has been published in the
+newspaper. The published notice is to include the requirement that all claims against the estate
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                   H-600 Estate Recovery
+
+
+
+be submitted within six (6) months of the date of publication of the first notice. A copy of the
+petition for probate of a will or administration of an estate and the decedent’s Social Security
+number will be attached to the notice forwarded to DHS.
+
+After receiving notice of the opening of an estate or filing of an “Affidavit for the Collection of a
+Small Estate”, the TPL Unit will check the MMIS System to determine if the decedent received
+Health Care benefits in a nursing facility, ICF/IID facility, or under a home and community based
+waiver program.
+
+Property interest established by a properly excuted and recorded beneficiary deed are not
+subject to estate recovery.
+
+TPL will not pursue recovery if:
+
+    1. There is a surviving spouse;
+
+    2. There are surviving minor children;
+
+    3. There are surviving children of any age who are blind or permanently and totally
+       disabled as defined in 42 U.S.C. §§ 1381 et seq;
+
+    4. In cases of a home, there is a son or daughter currently lawfully residing in the home
+       where they have been residing for at least two (2) years immediately before the
+       recipient’s admission to the medical institution, and who establishes to the satisfaction
+       of the State that they provided care to the recipient that permitted the recipient to
+       reside in the home rather than in an institution;
+
+    5. In cases of a home, there is a sibling currently lawfully residing in the home, and the
+       sibling was residing in the home at least one (1) year immediately before the date of the
+       recipient’s admission to the medical institution; or,
+
+    6. The recovery is not cost effective.
+
+For factors one (1) through five (5) of the above-listed (MS H-630), recovery is not waived.
+Instead, it may be postponed until the individuals identified in those factors die or move from
+the home.
+
+If benefits were paid for services in a nursing facility, ICF/IID facility, or home and under a home
+and community based waiver program, TPL will mail to the personal representative or the
+distributee of a small estate a Notice of Estate Recovery (DHS-20), advising of the intent to
+recover Health Care payments and of the procedures for requesting a hardship waiver.
+
+A payment profile for the decedent will be ordered from the Division of Medical Services (DMS).
+When the payment profile is received, a claim against the estate will be prepared for the
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                  H-600 Estate Recovery
+
+
+
+signature of the Director of DMS. The claim will be filed with the appropriate Probate Clerk and
+a copy mailed to the personal representative, attorney for the estate, or distributee of the
+estate.
+
+If no benefits were paid, no further action will be taken.
+
+H-640 Application for a Hardship Waiver
+MS Manual 08/29/22
+
+The personal representative or distributee of an estate may apply for a hardship waiver at the
+time notice of the estate is given to DHS, or within 30 days after receiving notice from DHS of
+intent to recover Health Care payments and the procedures for requesting a hardship waiver
+(DHS- 20). Refer to MS H-730 for procedures.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                 H-700 Undue Hardship Waiver
+
+
+
+H-700 Undue Hardship Waiver
+MS Manual 08/29/2022
+
+An individual may request an Undue Hardship Waiver:
+
+    1. When denied eligibility due to excess home equity;
+
+    2. When denied nursing facility vendor payment due to a transfer of resources/income for
+       less than fair market value; or
+
+    3. After receiving notice from the Department of Human Services (DHS) of intent to
+       recover Health Care payments through the Estate Recovery process.
+
+The individual or authorized representative will need to provide the eligibility worker
+verification to support the allegation of hardship.
+
+H-710 Hardship Waiver for Home Equity
+MS Manual 08/29/2022
+
+An individual who is denied eligibility due to excess home equity may request an Undue
+Hardship Waiver. (Re. MS E-517) An example of a situation in which an undue hardship may
+exist is if the individual makes an allegation that the home equity should not be counted
+because of a legal impediment to selling or transferring the home.
+
+The eligibility worker will submit all Home Equity Undue Hardship Waiver requests and
+supporting documentation to the Division of County Operations LTSS Unit. A decision on the
+hardship waiver will be made by the Division of County Operations (DCO) Hardship Waiver
+Committee. The eligibility worker will send the committee decision and information about the
+right to appeal the decision to the person who applied for the waiver. If the person who applied
+for the waiver disagrees with the DHS decision, they may appeal the decision within thirty (30)
+days of receipt of the notice about the DHS decision (MS J-100).
+
+H-720 Hardship Waiver for Transfer of Resources/Income
+MS Manual 08/29/2022
+
+Once the eligibility worker has determined that this transfer does not meet an exception found
+at MS H-309 and it has been determined that the resource or income was not transferred
+exclusively for some other purpose through a rebuttal found at MS H-312-313, a hardship
+waiver may be pursued. An individual who is denied Waiver services or nursing facility vendor
+payment due to a transfer of resources or income for less than fair market value may request an
+Undue Hardship Waiver.
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                  H-700 Undue Hardship Waiver
+
+
+
+No penalty period for uncompensated transfer will be imposed upon an institutionalized or
+Waiver individual to the extent that it is determined that denial of eligibility would work an
+undue hardship. Undue hardship exists if each condition below is met:
+
+    1. Counting uncompensated value would make an individual ineligible;
+
+    2. Lack of assistance would deprive the individual of food, shelter, and care determined to
+       be medically necessary;
+
+    3. The individual’s total resources are not great enough to pay for facility care for one (1)
+       month; and
+
+    4. The resource(s) cannot be recovered from the individual(s) to whom the resource(s) was
+       transferred without compensation due to loss, destruction, theft, or other extraordinary
+       circumstance.
+
+Undue hardship does not exist when applying the transfer provisions would merely cause the
+individual inconvenience or would restrict their lifestyle without putting them at risk of serious
+deprivation.
+
+The individual or the individual’s authorized representative may apply for an undue hardship
+waiver. In addition, a representative from the facility in which an individual is residing may apply
+for an undue hardship waiver on behalf of the client with either the consent of the client or their
+personal representative. To ensure consistency with decisions regarding what constitutes a
+hardship, the eligibility worker will route all applications for an undue hardship waiver to the
+Division of County Operations LTSS Unit.
+
+A decision on the hardship waiver will be made by the DCO Hardship Waiver Committee. The
+eligibility worker will send the committee’s decision and information about the right to appeal
+the decision to the person who applied for the waiver. If the person who applied for the waiver
+disagrees with the committee’s decision, they may appeal the decision within thirty (30) days of
+receipt of the notice about the decision (MS J-100).
+
+H-730 Hardship Waiver for Estate Recovery
+MS Manual 08/29/2022
+
+The personal representative or distributee of an estate may apply for a hardship waiver at the
+time that notice of the estate is given to DHS or within thirty (30) days after receiving notice
+from DHS of intent to recover Health Care payments and the procedures for requesting a
+hardship waiver (DHS-20). To apply for a waiver, the representative or distributee must mail a
+statement setting forth the facts that constitute the undue hardship to:
+MEDICAL SERVICES POLICY MANUAL, SECTION H
+                                                 H-700 Undue Hardship Waiver
+
+
+
+                   Third Party Liability Unit
+                   Attention: Decedents’ Estates
+                   P. O. Box 1437, Slot S296
+                   Little Rock, AR 72203-1437
+
+The statement must set forth the facts that constitute the undue hardship. Tax returns, income
+statements or other documents that support the position that estate recovery would work an
+undue hardship on the survivors must be submitted. The Third Party Liability Unit will send the
+hardship request and supporting documents to the DCO Hardship Waiver Committee. In
+determining the existence of an undue hardship, the DCO Hardship Waiver Committee will
+consider factors including, but not limited to the following:
+
+    1. The estate asset that is subject to recovery is the sole-income producing asset of a
+       beneficiary of the estate;
+
+    2. Without receipt of the proceeds of the estate, a beneficiary would become eligible for
+       federal or state benefits;
+
+    3. Allowing a beneficiary to receive the inheritance from the estate would enable a
+       beneficiary to discontinue eligibility for federal or state benefits;
+
+    4. The estate asset subject to recovery is a home with a value of fifty percent (50%) or less
+       of the average price of a home in the county where the homestead is located, as of the
+       date of the decedent’s death; and
+
+    5. Other compelling circumstances.
+
+A determination that hardship does not exist will be made if the individual created the hardship
+through estate planning in which assets were divested in order to avoid estate recovery.
+
+A decision on the hardship waiver will be made by the DCO Hardship Waiver Committee.
+
+The committee’s decision and information about the right to appeal the decision will be sent by
+certified mail, return receipt requested, to the person who applied for the waiver. If the person
+who applied for the waiver disagrees with the committee’s decision, they may appeal the
+decision within thirty (30) days of receipt of the notice about the decision (MS J-100).
+
+If recovery is not made due to the determination of hardship, DHS may decide to recover at a
+later time if the conditions which caused the original hardship cease to exist.
+                                    FINANCIAL IMPACT STATEMENT
+                          PLEASE ANSWER ALL QUESTIONS COMPLETELY
+DEPARTMENT            Department of Human Services
+DIVISION              County Operations
+PERSON COMPLETING THIS STATEMENT Jason Callan
+TELEPHONE 501-320-6540                FAX                         EMAIL: Jason.Callan@dhs.arkansas.gov
+
+To comply with Ark. Code Ann. § 25-15-204(e), please complete the following Financial Impact
+Statement and file two copies with the questionnaire and proposed rules.
+
+SHORT TITLE OF THIS
+RULE                                     Medical Services Policy Section A-116, H-100, H-400, H-600 and
+                                         H-700
+
+1. Does this proposed, amended, or repealed rule have a financial impact?             Yes              No
+
+2. Is the rule based on the best reasonably obtainable scientific, technical,
+   economic, or other evidence and information available concerning the
+   need for, consequences of, and alternatives to the rule?                           Yes              No
+
+3. In consideration of the alternatives to this rule, was this rule determined
+   by the agency to be the least costly rule considered?                              Yes              No
+
+    If an agency is proposing a more costly rule, please state the following:
+
+    (a)   How the additional benefits of the more costly rule justify its additional cost;
+
+
+
+    (b)   The reason for adoption of the more costly rule;
+
+
+
+    (c)   Whether the more costly rule is based on the interests of public health, safety, or welfare, and if
+          so, please explain; and;
+
+
+    (d)   Whether the reason is within the scope of the agency’s statutory authority; and if so, please
+          explain.
+
+
+4. If the purpose of this rule is to implement a federal rule or regulation, please state the following:
+
+    (a)   What is the cost to implement the federal rule or regulation?
+
+Current Fiscal Year                                          Next Fiscal Year
+
+General Revenue       $                                     General Revenue          $
+Federal Funds         $                                     Federal Funds            $
+Cash Funds                                                  Cash Funds
+                                                                                                Revised June 2019
+     Special Revenue                                             Special Revenue
+     Other (Identify)                                            Other (Identify)
+
+     Total                 $                                      Total                  $
+
+       (b)      What is the additional cost of the state rule?
+
+        Current Fiscal Year                                          Next Fiscal Year
+
+        General Revenue        $2,255,451                             General Revenue        $2,655,458
+        Federal Funds          $5,691,875                             Federal Funds          $6,701,335
+        Cash Funds                                                    Cash Funds
+        Special Revenue                                               Special Revenue
+        Other (Identify)                                              Other (Identify)
+
+        Total                  $7,947,327                             Total                  $ 9,356,792
+
+
+ 5. What is the total estimated cost by fiscal year to any private individual, entity and business subject to the
+    proposed, amended, or repealed rule? Identify the entity(ies) subject to the proposed rule and explain how
+    they are affected.
+
+     Current Fiscal Year                                             Next Fiscal Year
+     $                                                               $
+
+
+
+ 6.     What is the total estimated cost by fiscal year to state, county, and municipal government to implement
+        this rule? Is this the cost of the program or grant? Please explain how the government is affected.
+
+     Current Fiscal Year                                             Next Fiscal Year
+     $ 2,255,451                                                     $ 2,655,458
+
+
+
+
+7.     With respect to the agency’s answers to Questions #5 and #6 above, is there a new or increased cost
+       or obligation of at least one hundred thousand dollars ($100,000) per year to a private individual,
+       private entity, private business, state government, county government, municipal government, or to
+       two (2) or more of those entities combined?
+                                                                  Yes           No
+       If YES, the agency is required by Ark. Code Ann. § 25-15-204(e)(4) to file written findings at the
+       time of filing the financial impact statement. The written findings shall be filed simultaneously
+       with the financial impact statement and shall include, without limitation, the following:
+
+       (1) a statement of the rule’s basis and purpose;
+       This rule change allows Long Term Services and Supports (LTSS) applicants/recipients the
+       added deductions of court ordered child support and spousal support in their patient liability
+       budget. Also, there is an adjustment to Miller Income Trust requirements. Individuals no
+       longer have to place all income into a Miller Income Trust, only the amount that causes the
+       individual to be ineligible must be transferred. In addition, this rule change prohibits estate
+       recovery from assets that are transferred by beneficiary deed.
+
+                                                                                                   Revised June 2019
+(2) the problem the agency seeks to address with the proposed rule, including a statement of whether
+    a rule is required by statute;
+This rule is required due to an agreement between DHS and the legislature concerning the
+patient liability update and the Miller Income Trust update. Legislation was proposed but
+pulled due to the agreement. Act 570 addresses the change to the estate recovery process.
+
+(3) a description of the factual evidence that:
+        (a) justifies the agency’s need for the proposed rule; and
+        (b) describes how the benefits of the rule meet the relevant statutory objectives and justify
+             the rule’s costs;
+This rule change is a result of legislation that was proposed for the Miller Income Trust and
+Act 570 for the estate recovery change.
+
+(4) a list of less costly alternatives to the proposed rule and the reasons why the alternatives do not
+    adequately address the problem to be solved by the proposed rule;
+There are no less costly alternatives.
+
+(5) a list of alternatives to the proposed rule that were suggested as a result of public comment and
+    the reasons why the alternatives do not adequately address the problem to be solved by the
+    proposed rule;
+N/A
+
+(6) a statement of whether existing rules have created or contributed to the problem the agency seeks
+    to address with the proposed rule and, if existing rules have created or contributed to the
+    problem, an explanation of why amendment or repeal of the rule creating or contributing to the
+    problem is not a sufficient response; and
+The existing rule did not allow a deduction in the patient liability budget for court ordered
+child support and spousal support and does not allow for partial income to be placed in a
+Miller Income Trust. Changes to the estate recovery process for beneficiary deeds is mandated
+by Act 570. These changes will have a positive impact on LTSS applicants and recipients.
+
+(7) an agency plan for review of the rule no less than every ten (10) years to determine whether,
+    based upon the evidence, there remains a need for the rule including, without limitation,
+    whether:
+        (a) the rule is achieving the statutory objectives;
+        (b) the benefits of the rule continue to justify its costs; and
+        (c) the rule can be amended or repealed to reduce costs while continuing to achieve the
+            statutory objectives.
+The Agency will develop a plan to review the impact of this rule within a designated time
+frame to ensure that there is still a positive impact to the LTSS applicant/recipient.
+
+
+
+
+                                                                                         Revised June 2019
+

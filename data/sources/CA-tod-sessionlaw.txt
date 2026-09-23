@@ -1,0 +1,18 @@
+Source URLs:
+ https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220SB315
+ https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB1305
+Retrieved: 2026-09-23
+Note: WebFetch extraction, not verbatim (leginfo.legislature.ca.gov times out for scripts)
+
+SB-315 (Roth), Revocable transfer on death deeds
+Chapter Number: 215 (Stats. 2021, ch. 215)
+Date Approved by Governor: September 22, 2021; filed with Secretary of State September 22, 2021
+Legislative Counsel's Digest (quoted by WebFetch): "Existing law makes these provisions inoperative on January 1, 2022. This bill would revise and recast those provisions, and instead make them operative until January 1, 2032."
+Other points reported: beneficiary liability for unsecured debts through sections on personal liability and abatement rules; "Common Questions" note the TOD deed does not affect Medi-Cal eligibility; California Law Revision Commission to study and report by January 1, 2031.
+
+SB-1305 (Roth), 2019-2020 session
+Chapter Number: 238 (Stats. 2020, ch. 238)
+Date Approved by Governor: September 28, 2020; filed with Secretary of State September 28, 2020
+Digest: "This bill would extend the operative date of those provisions until January 1, 2022."
+
+Original act: AB 139 (Gatto, Ch. 293, Stats. 2015), five-year pilot set to expire January 1, 2021 (per Senate Judiciary Committee analysis of SB 1305, saved as CA-tod-sb1305-analysis.txt). Prob. Code Sec. 5600(a): part applies to transferors who die on or after January 1, 2016.

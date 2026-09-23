@@ -1,0 +1,314 @@
+Source URL: https://www.legis.ga.gov/api/legislation/document/20252026/249061
+Retrieved: 2026-09-23
+
+     26                                                                                   HB 413/AP
+
+     House Bill 413 (AS PASSED HOUSE AND SENATE)
+     By: Representatives Jenkins of the 136th, Huddleston of the 72nd, Campbell of the 171st,
+     Ridley of the 22nd, and Byrd of the 20th
+
+
+
+
+                                      A BILL TO BE ENTITLED
+                                                AN ACT
+
+
+ 1   To amend Code Section 31-10-26 of the Official Code of Georgia Annotated, relating to
+ 2   certified copies of vital records, duplicates, and data, so as to provide for vital record access
+ 3   to certain grantee beneficiaries; to amend Chapter 17 of Title 44 of the Official Code of
+ 4   Georgia Annotated, relating to transfer-on-death deeds, so as to modify certain provisions
+ 5   regarding transfer-on-death deeds; to provide for property of solvent and of insolvent estates;
+ 6   to provide for the acceptance of a real estate transfer; to provide for revocation; to provide
+ 7   for limitations; to provide for curing defects; to amend Chapter 3 of Title 53 of the Official
+ 8   Code of Georgia Annotated, relating to year's support, so as to provide for precedence of
+ 9   transfer-on-death deeds; to amend Chapter 1 of Title 2 of the Official Code of Georgia
+10   Annotated, relating to general provisions relative to agriculture, so as to prohibit certain local
+11   government entities from regulating certain livestock or owners; to provide for related
+12   matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.
+
+
+13             BE IT ENACTED BY THE GENERAL ASSEMBLY OF GEORGIA:
+
+
+
+
+                                                H. B. 413
+                                                   -1-
+     26                                                                                    HB 413/AP
+
+14                                             SECTION 1.
+15   Code Section 31-10-26 of the Official Code of Georgia Annotated, relating to certified copies
+16   of vital records, duplicates and data, is amended by revising subparagraph (a)(1)(A) as
+17   follows:
+18          "(A) A certified copy of a vital record in that registrar's or custodian's custody or
+19          abstract thereof to any applicant having a direct and tangible interest in the vital record,
+20          including, but not limited to, any grantee beneficiary designated by a record owner in
+21          a deed titling an interest in real estate in a transfer-on-death form as provided in
+22          subsection (a) of Code Section 44-17-2;"
+
+
+23                                             SECTION 2.
+24   Chapter 17 of Title 44 of the Official Code of Georgia Annotated, relating to
+25   transfer-on-death deeds, is amended by revising Code Section 44-17-2, relating to
+26   requirements, as follows:
+27    "44-17-2.
+28        (a)(1) An interest in real estate may be titled in a transfer-on-death form by recording a
+29        deed, signed by the record owner of the interest, designating a grantee beneficiary or
+30        beneficiaries of the interest.
+31        (2) The record owner shall have the same legal capacity required to enter into a contract
+32        in order to execute a transfer-on-death deed. Such deed shall transfer ownership of such
+33        interest upon the death of the record owner.
+34        (3) An attorney in fact shall not be authorized to execute a transfer-on-death deed on
+35        behalf of a record owner.
+36        (4) A transfer-on-death deed need not be supported by consideration.
+37        (5) In a transfer-on-death deed, the record owner shall be authorized but not restricted
+38        to:
+
+
+
+
+                                                 H. B. 413
+                                                    -2-
+     26                                                                                 HB 413/AP
+
+39         (A) Designate one or more alternate grantee beneficiaries whose property interests are
+40         contingent upon a primary grantee beneficiary who either predeceases the record owner
+41         or dies during the acceptance period before accepting the property; and
+42         (B) Convey a beneficiary interest to an express trust by naming the trustee as a
+43         designated grantee beneficiary.
+44        (6) In a transfer-on-death deed, the record owner shall not be authorized to:
+45         (A) Create or declare an express trust pursuant to Code Section 53-12-20; or
+46         (B) Create a beneficial interest in real property pursuant to Article 8 of Chapter 12 of
+47         Title 53.
+48        (7) A real estate transfer tax declaration form shall not be filed with a transfer-on-death
+49        deed filed by the record owner.
+50    (b) The signature, consent, or agreement of or notice to a grantee beneficiary or
+51    beneficiaries of a transfer-on-death deed shall not be required for any purpose during the
+52    lifetime of the record owner.
+53        (c)(1) A transfer-on-death deed shall transfer ownership of the record owner's interest
+54        in real estate to each grantee beneficiary upon both of the following being complete after
+55        the death of the record owner:
+56         (A) Execution of the affidavit required by subsection (d) of this Code section; and
+57         (B) Recording such affidavit as required by subsection (e) of this Code section.
+58        (2) An interest in real estate passing pursuant to a transfer-on-death deed may be
+59        accepted by each designated grantee beneficiary who is either a sui juris individual, a
+60        trustee, or any other legal entity over which such individual has proper authority. If a
+61        designated grantee beneficiary is a ward or minor, a legal guardian or legal conservator
+62        may accept such interest in real estate pursuant to a transfer-on-death deed on behalf of
+63        such ward or minor.
+
+
+
+
+                                                H. B. 413
+                                                   -3-
+     26                                                                                  HB 413/AP
+
+64        (3) A designated grantee beneficiary shall not accept such interest in real estate on behalf
+65        of another designated grantee beneficiary, except as provided for in paragraph (2) of this
+66        subsection.
+67    (c)(d) Each designated grantee beneficiary wishing to To accept real estate pursuant to a
+68    transfer-on-death deed, a designated grantee beneficiary shall execute an affidavit
+69    affirming:
+70        (1) Verification of the record owner's death;
+71        (2) Whether the record owner and the designated grantee beneficiary were married at the
+72        time of the record owner's death; and
+73        (3) The deed book and page number of the recorded transfer-on-death deed; and
+74        (3)(4) A legal description of the real estate.
+75    (d)(e) The designated grantee beneficiary shall attach a copy of the record owner's death
+76    certificate to the affidavit provided for in subsection (c) (d) of this Code section. For a
+77    record owner's death occurring on or after July 1, 2024 2026, the designated grantee
+78    beneficiary shall record such affidavit, real estate transfer tax declaration form, and related
+79    documents with the office of the clerk of superior court of the county where the real estate
+80    is located within nine months of the record owner's death or the interest in the property
+81    shall revert to the deceased record owner's estate; provided, however, that for a record
+82    owner's death occurring before July 1, 2024, such recording of the affidavit provided for
+83    in subsection (c) of this Code section and related documents by the designated grantee
+84    beneficiary or beneficiaries shall not be subject to the nine-month time limitation.
+85    (f) Notwithstanding the provisions of paragraph (1) of subsection (c) of this Code section
+86    to the contrary, a designated grantee beneficiary affidavit recorded pursuant to this Code
+87    section before July 1, 2026, in which one or more of the named designated grantee
+88    beneficiaries of a transfer-on-death deed explicitly accepts the interests being conveyed by
+89    such deed on behalf of all or some of the designated grantee beneficiaries named in the
+
+
+
+
+                                                 H. B. 413
+                                                    -4-
+      26                                                                                   HB 413/AP
+
+ 90    affidavit shall be effective to accept such interests if executed by at least one of the
+ 91    designated grantee beneficiaries accepting such interests.
+ 92        (g)(1) The personal representative of the estate of a deceased record owner shall provide
+ 93        each designated grantee beneficiary with notice of the transfer-on-death deed in
+ 94        accordance with the same requirements and conditions as provided in Code
+ 95        Section 53-5-8.
+ 96         (2)(A) The personal representative of the solvent estate of a deceased record owner
+ 97         shall be authorized to incur expenses for mortgage payments, property taxes, and any
+ 98         repairs that render the property in imminent danger of being destroyed if not completed
+ 99         as solely determined by the personal representative or the city or county code
+100         enforcement until the interest in such property is accepted by a designated grantee
+101         beneficiary or beneficiaries. The estate shall be entitled to repayment of such expenses
+102         incurred during such time and shall have a priority special lien against the property for
+103         any amount that is not repaid within one year after such acceptance. Such lien shall be
+104         inferior to any liens for property taxes or previously recorded security deeds.
+105         (B) If the special lien has not been paid in full at the expiration of the one-year period,
+106         the estate shall have 30 days to file a claim of lien in the office of the clerk of superior
+107         court of the county where the property is located. The lien shall attach to the property
+108         for a period of 365 days from the recording date of the lien in the same manner as
+109         provided in Code Section 44-14-367.
+110         (C) No later than two business days after the date the claim of lien is filed of record,
+111         the estate shall send a true and accurate copy of the claim of lien by registered mail,
+112         certified mail, or statutory overnight delivery to the owner of the property.
+113         (D) The estate shall have the right to commence a foreclosure of the lien prior to its
+114         expiration in the same manner as the enforcement of mechanic's liens pursuant to Code
+115         Section 44-14-361.
+
+
+
+
+                                                 H. B. 413
+                                                    -5-
+      26                                                                                  HB 413/AP
+
+116        (3) In the event that a property which is part of an insolvent estate is subject to imminent
+117        danger of foreclosure, condemnation, or destruction, after receiving notice by a secured
+118        lender or government entity, the personal representative of such insolvent estate shall be
+119        authorized to record an affidavit of notice in the office of the clerk of superior court of
+120        the county where the property is located to which the notice of imminent foreclosure,
+121        condemnation, or destruction shall be attached. If no designated grantee beneficiary has
+122        completed the requirements of subsections (d) and (e) of this Code section, the estate's
+123        personal representative shall have the right to sell the property and pay off all debts, and
+124        any remaining proceeds shall revert back to the estate.
+125    (h) Each designated grantee beneficiary shall be deemed as having direct and tangible
+126    interest in real estate for the purpose of applying for the issuance of a certified copy of the
+127    certificate of death of such record owner pursuant to subparagraph (a)(1)(A) of Code
+128    Section 31-10-26."
+
+
+129                                            SECTION 3.
+130   Said chapter is further amended by revising subsection (a) and by adding a new subsection
+131   to Code Section 44-17-4, relating to revocation or amendment, as follows:
+132    "(a) A record owner of an interest in real estate who has titled such interest in a
+133    transfer-on-death deed form and designated a beneficiary or beneficiaries in the manner
+134    provided in this chapter may revoke such designation of the grantee beneficiary or
+135    beneficiaries at any time prior to the death of such record owner, by executing,
+136    acknowledging, and recording in the office of the clerk of superior court of the county
+137    where the real estate is located an instrument revoking such designation. The instrument
+138    of revocation shall refer to the initial transfer-on-death deed, shall be signed by the record
+139    owner or such record owner's duly authorized attorney-in-fact, and such signature shall be
+140    attested by an officer as provided in Code Section 44-2-15 and attested by two one other
+141    witnesses witness. Such revocation may be included in another deed or other instrument
+
+
+                                                  H. B. 413
+                                                     -6-
+      26                                                                               HB 413/AP
+
+142    of conveyance that is recorded. The signature, consent, or agreement of or notice to the
+143    designated grantee beneficiary or beneficiaries to the revocation shall not be required."
+144    "(d) In any case where the record owner subsequently sells or conveys an interest in real
+145    estate before such record owner's death or conveys an interest in real estate to a trustee of
+146    such record owner's express trust, or where the death of a sole designated grantee
+147    beneficiary occurs before acceptance, the transfer-on-death deed intended for conveyance
+148    to the designated grantee beneficiary is rendered revoked."
+
+
+149                                          SECTION 4.
+150   Said chapter is further amended by revising Code Section 44-17-5, relating to grantee
+151   beneficiary rights and prior death of designated grantee beneficiary, as follows:
+152    "44-17-5.
+153    (a) A grantee beneficiary or the beneficiaries of a transfer-on-death deed shall take the
+154    interest in real estate of the record owner at the death of such record owner upon the
+155    acceptance of such interest pursuant to Code Section 44-17-2, free and clear of any claims
+156    or interest as to a person who became the spouse of the record owner subsequent to the
+157    execution of the transfer-on-death deed, subject to all recorded conveyances, assignments,
+158    contracts, mortgages, liens, and security pledges made by the record owner or to which the
+159    record owner was subject during the lifetime of such record owner, including, but not
+160    limited to, any recorded executory contract of sale, option to purchase, lease, license,
+161    easement, mortgage, deed of trust or lien, and to any interest conveyed by the record owner
+162    that is less than all of the record owner's interest in the property; provided, however, that
+163    a nonconsensual lien against the grantee beneficiary or beneficiaries shall not attach to the
+164    property until the recording of the affidavit described in subsections (d) and (e) of Code
+165    Section 44-17-2. A transfer-on-death deed takes precedence and priority over all unsecured
+166    debts of the record owner's estate filed upon the death of the record owner, unless the
+167    property is unredeemed.
+
+
+                                               H. B. 413
+                                                  -7-
+      26                                                                                HB 413/AP
+
+168    (b) If one or more of the designated grantee beneficiaries dies prior to the death of the
+169    record owner, the transfer to those beneficiaries who predecease the record owner shall
+170    lapse and shall be deemed revoked, and the lapsed interest shall be split evenly among the
+171    remaining designated grantee beneficiaries who are living at the time of the death of the
+172    record owner and shall not revert to the estate. Similarly, if one or more of the designated
+173    grantee beneficiaries die after the death of the record owner, but before acceptance of the
+174    property, the transfer to such beneficiaries who die after the record owner shall lapse and
+175    shall be deemed revoked, and the lapsed interest shall be split evenly among the remaining
+176    designated grantee beneficiaries who are living at the time of the death of the record owner
+177    and shall not revert to the estate. In the event the grantee beneficiary or beneficiaries are
+178    designated in the deed to be joint tenants with right of survivorship, the death of one or
+179    more of the designated grantee beneficiaries prior to the death of the record owner shall not
+180    invalidate an otherwise validly created joint tenancy estate as to those designated grantee
+181    beneficiaries who are living at the time of the death of the record owner."
+
+
+182                                          SECTION 5.
+183   Chapter 3 of Title 53 of the Official Code of Georgia Annotated, relating to year's support,
+184   is amended by revising Code Section 53-3-5, relating to filing of petition, as follows:
+185    "53-3-5.
+186    (a) Except as provided by subsection (a) of Code Section 44-17-5, upon Upon the death
+187    of any individual leaving an estate solvent or insolvent, the surviving spouse or a guardian
+188    or other person acting in on behalf of the surviving spouse or in on behalf of a minor child
+189    may file a petition for year's support in the probate court having jurisdiction over the
+190    decedent's estate. If the petition is brought by a guardian acting on behalf of a minor child,
+191    no additional guardian ad litem shall be appointed for such minor child unless ordered by
+192    the court.
+
+
+
+
+                                               H. B. 413
+                                                  -8-
+      26                                                                                  HB 413/AP
+
+193    (b) The petition shall set forth, as applicable, the full name of the surviving spouse, the full
+194    name and birthdate birth date of each surviving minor child, and a schedule of the property,
+195    including household furniture, that the petitioner proposes to have set apart as year's
+196    support. The petition shall describe fully and accurately any real property the petitioner
+197    proposes to have set apart as year's support with a legal description sufficient under the
+198    laws of this state to pass title to the real property.
+199    (c) A petition for year's support shall be filed within 24 months of the date of death of the
+200    decedent."
+
+
+201                                            SECTION 6.
+202   Chapter 1 of Title 2 of the Official Code of Georgia Annotated, relating to general provisions
+203   relative to agriculture, is amended by revising subsection (a) of Code Section 2-1-6, relating
+204   to preemption of local ordinances relating to production of agricultural or farm products, as
+205   follows:
+206    "(a) No county, municipality, consolidated government, or other political subdivision of
+207    this state shall adopt or enforce any ordinance, rule, regulation, or resolution regulating
+208    crop management or animal husbandry practices involved in the production of agricultural
+209    or farm products on any private property or any livestock or owner located on any private
+210    property or public road as such terms are defined in Chapter 3 of Title 4."
+
+
+211                                            SECTION 7.
+212   This Act shall become effective upon its approval by the Governor or upon its becoming law
+213   without such approval.
+
+
+214                                            SECTION 8.
+215   All laws and parts of laws in conflict with this Act are repealed.
+
+
+
+
+                                                 H. B. 413
+                                                    -9-
+

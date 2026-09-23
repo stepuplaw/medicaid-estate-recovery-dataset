@@ -1,0 +1,4 @@
+Source URL: https://www.courtlistener.com/api/rest/v4/search/?q=%22lady%20bird%20deed%22%20OR%20%22enhanced%20life%20estate%22%20OR%20%22ladybird%20deed%22&type=o&court=wva%20wvactapp%20wvsd%20wvnd%20ca4
+Retrieved: 2026-09-23
+
+{"count":0,"next":null,"previous":null,"results":[]}

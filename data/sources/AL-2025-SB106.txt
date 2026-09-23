@@ -1,0 +1,480 @@
+Source URL: https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB106-eng.pdf
+Retrieved: 2026-09-23
+
+                            SB106 ENGROSSED
+
+
+
+1   SB106
+
+2   WTSR5EE-2
+
+3   By Senators Smitherman, Williams, Kelley, Roberts, Waggoner,
+
+4   Coleman-Madison, Albritton, Livingston
+
+5   RFD: Judiciary
+
+6   First Read: 05-Feb-25
+
+
+
+
+                                Page 0
+                           SB106 Engrossed
+
+ 1
+ 2
+ 3
+
+ 4
+ 5                               A BILL
+ 6                           TO BE ENTITLED
+ 7                               AN ACT
+ 8
+ 9         Relating to the Alabama Small Estates Act; to amend
+10   Sections 43-2-690, 43-2-691, 43-2-692, 43-2-693, 43-2-694,
+11   43-2-695, 43-2-696, 43-8-40, and 43-8-252, Code of Alabama
+12   1975; to further provide for the summary distribution of the
+13   sum of a decedent's estate which contains personal property
+14   valued at a certain maximum amount with authorized adjustments
+15   allowed based on the Consumer Price Index, which includes the
+16   homestead allowance, exempt property, and family allowance as
+17   adjusted; and to add Sections 43-2-691.1, 43-2-697, 43-2-698,
+18   and 43-8-23 to the Code of Alabama 1975, to specify that the
+19   probate court has jurisdiction to manage these small estates
+20   under a modified and streamlined small estate distribution
+21   process.
+22   BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+23         Section 1. Sections 43-2-690, 43-2-691, 43-2-692,
+24   43-2-693, 43-2-694, 43-2-695, 43-2-696, 43-8-40, and 43-8-252,
+25   Code of Alabama 1975, are amended to read as follows:
+26         "§43-2-690
+27         This division shall be known as the "Revised Alabama
+28   Small Estates Act."
+
+                                 Page 1
+                              SB106 Engrossed
+
+29         "§43-2-691
+30         For the purposes of this division, the following words
+31   and phrases shall have the following meanings respectively
+32   ascribed to them by this section:
+33         (1) DEVISEES. The persons who are entitled to the
+34   personal property of a decedent under the terms of a
+35   testamentary disposition.
+36         (1) DECEDENT. A deceased person who is not survived by
+37   a minor child who is not the child of the surviving spouse, if
+38   any, and whose estate is subject to summary distribution under
+39   this division.
+40         (2) DISTRIBUTEES. The persons who are entitled to the
+41   personal property of a decedent under the terms of a
+42   testamentary disposition or under the Alabama descent and
+43   distribution statutes.
+44         (3)(2) ESTATE. All the personal property of a decedent
+45   who owns no real property at the time of his or her death for
+46   which title does not pass by operation of law.
+47         (4) HEIRS. The persons who are entitled to the personal
+48   property of a decedent under the Alabama descent and
+49   distribution statutes.
+50         (5)(3) PERSON. The term includes natural persons and
+51   corporations.A natural person, corporation, organization,
+52   other legal entity, or any trust or trustee.
+53         (6)(4) PERSONAL REPRESENTATIVE. The term includes anAn
+54   executor, administrator, administrator with the will annexed,
+55   and special administrator, and successor personal
+56   representative.
+
+                                  Page 2
+                           SB106 Engrossed
+
+57         (5) SELF-PROVED WILL. A will that is self-proved in
+58   accordance with either Section 43-8-132 or 43-8-133.
+59         (6) SMALL ESTATE. An estate having a value that does
+60   not exceed the small estate amount.
+61         (7) SMALL ESTATE AMOUNT. The sum as adjusted from time
+62   to time based on the Consumer Price Index formula set forth in
+63   Section 43-8-116 of the homestead allowance under Section
+64   43-8-110, exempt property under Section 43-8-111, and the
+65   family allowance under Sections 43-8-112 and 43-8-113.
+66         (8) SUMMARY DISTRIBUTION. The procedure provided in
+67   this division to distribute the small estate of a decedent
+68   without the appointment of a personal representative.
+69         (9) SURVIVING SPOUSE. The spouse of the decedent at the
+70   time of decedent's death, provided the spouse is a surviving
+71   spouse under Section 43-8-252 and is not an individual
+72   claiming to be a spouse under common law, whether or not such
+73   common law marriage allegedly occurred before or after January
+74   1, 2017."
+75         "§43-2-692
+76         (a) The surviving spouse, if there is one, otherwise
+77   the distributees of an estate of personal property only, may
+78   initiate a proceeding for summary distribution of the estate
+79   by filing a verified petition in the office of the judge of
+80   probate of the county in which the decedent was domiciled at
+81   death alleging the conditions provided in subsection (b). The
+82   petition shall include a description of the estate of the
+83   decedent. No bond shall be required to be filed with the
+84   petition.
+
+                                 Page 3
+                               SB106 Engrossed
+
+ 85            (a) A person, or a person duly authorized to act for
+ 86   the person, entitled to an interest in a small estate under
+ 87   this division may initiate a proceeding for summary
+ 88   distribution of the estate by filing a verified petition in
+ 89   the office of the judge of probate of the county in which the
+ 90   decedent was domiciled at death. No bond shall be required to
+ 91   be filed with the petition. If the decedent died with a
+ 92   self-proved will, the self-proved will shall be filed with the
+ 93   petition.
+ 94            (b) The surviving spouse or distributee shall have a
+ 95   defeasible right to the personal property of the decedent
+ 96   without awaiting the appointment of a personal representative
+ 97   or the probate of a will if all of the following conditions
+ 98   exist:
+ 99            (1) The value of the entire estate does not exceed
+100   twenty-five thousand dollars ($25,000). This figure shall be
+101   adjusted annually for changes in the Consumer Price Index by
+102   the State Finance Director who shall notify each judge of
+103   probate of the newly adjusted figure.
+104            (2) The decedent died a resident of this state.
+105            (3) No petition for the appointment of a personal
+106   representative is pending or has been granted.
+107            (4) At least 30 days have elapsed since the notice of
+108   the filing of the petition was published as hereinafter
+109   provided.
+110            (5) All funeral expenses of the decedent have been
+111   paid, or alternatively, that arrangements for the payment out
+112   of the estate of the decedent of all unpaid funeral expenses
+
+                                    Page 4
+                            SB106 Engrossed
+
+113   have been made by the surviving spouse or other distributee.
+114         (6) If the decedent died intestate, the awards due
+115   under Alabama descent and distribution statutes to the
+116   surviving spouse and to the child or children have been
+117   determined by the judge of probate.
+118         (7) If the decedent died testate, a document purporting
+119   to be his or her will, which on its face, is properly
+120   executed, witnessed, and attested in compliance with Alabama
+121   law, has been duly filed in the office of the judge of
+122   probate.
+123         (8) Notice of the filing of a petition for a summary
+124   distribution under this division shall be published once in a
+125   newspaper of general circulation in the county in which the
+126   decedent was domiciled, or if there is no newspaper of general
+127   circulation in the county, then notice thereof shall be posted
+128   at the county courthouse for one week.
+129         (9) All claims against the decedent's estate have been
+130   paid or arrangements for the payment out of the estate of the
+131   decedent have been made by the surviving spouse or other
+132   distributee according to the following priority:
+133         a. First, to each person entitled to payment for any
+134   funeral expenses owed by the decedent or his or her estate.
+135         b. To the judge of probate for fees and charges
+136   incurred in the proceedings for summary distribution.
+137         c. To any person entitled to payment for expenses
+138   incurred in the decedent's last illness.
+139         d. To the State of Alabama, the county, and any
+140   municipality therein for taxes assessed on the estate of the
+
+                                  Page 5
+                            SB106 Engrossed
+
+141   decedent previous to his or her death.
+142         e. To each secured creditor.
+143         f. To each unsecured lienholder.
+144         g. To each remaining general unsecured creditor of the
+145   decedent.
+146         h. To each surviving spouse, child, or other
+147   distributee who is entitled to take under Alabama's descent
+148   and distribution laws, or, alternatively, to each devisee
+149   entitled to take under any testamentary disposition of the
+150   decedent.
+151         (b) The petition for summary distribution shall provide
+152   the following information and allege the following conditions:
+153         (1) The decedent died domiciled in this state and was
+154   domiciled in the county in which the petition is filed.
+155         (2) The decedent's estate is a small estate.
+156         (3) A description of the personal property constituting
+157   the decedent's estate and the value.
+158         (4) No petition for the appointment of a personal
+159   representative is pending nor has one been granted.
+160         (5) The name, address, age, capacity, and relationship
+161   to the decedent of: (i) the petitioner; (ii) each person who
+162   would be entitled to an interest in the decedent's estate
+163   under the laws of descent and distribution of this state; and
+164   (iii) each person entitled to an interest in the decedent's
+165   estate under any will of the decedent filed with the petition.
+166   "Capacity" as used in this subdivision means whether the
+167   person is 19 years of age or older and whether the person is
+168   of sound mind.
+
+                                  Page 6
+                               SB106 Engrossed
+
+169            (6) If the decedent was survived by a spouse, that the
+170   decedent's surviving spouse is entitled to the decedent's
+171   estate.
+172            (7) If the decedent died without a surviving spouse and
+173   without a self-proved will which does not dispose of all of
+174   the small estate, the names of the persons who are entitled to
+175   the decedent's estate under the descent and distribution
+176   statutes of this state and their respective shares.
+177            (8) If the decedent died with a will.
+178            (9) If the decedent died with no surviving spouse and
+179   with a self-proved will, the names of the persons who are
+180   entitled under such self-proved will to a share or interest in
+181   the decedent's estate and their respective shares or
+182   interests.
+183            (10) All funeral expenses of the decedent have been
+184   paid or arrangements for the payment out of the estate of the
+185   decedent of all unpaid funeral expenses have been made by or
+186   on behalf of the petitioner.
+187            (11) All claims against the decedent's estate have been
+188   paid or arrangements for the payment out of the estate of the
+189   decedent have been made by the petitioner.
+190            (c) Upon the filing of a petition for summary
+191   distribution under this division both of the following shall
+192   occur:
+193            (1) Notice of the filing of the petition shall be
+194   published once in a newspaper of general circulation in the
+195   county in which the decedent was domiciled or, if there is no
+196   newspaper of general circulation in the county, the notice of
+
+                                     Page 7
+                               SB106 Engrossed
+
+197   the filing shall be posted at the county courthouse for one
+198   week.
+199            (2) The petitioner shall notify the Alabama Medicaid
+200   Agency of the filing of the petition as provided in Section
+201   43-2-698 and shall provide proof of such notice to the probate
+202   court.
+203            (d) The probate court shall not enter an order
+204   directing summary distribution pursuant to a petition under
+205   this division unless:
+206            (1) At least 30 days have elapsed since the notice of
+207   the filing of the petition was published as provided in
+208   subsection (c);
+209            (2) At least 30 days have elapsed since the Alabama
+210   Medicaid Agency received notice of the filing of the petition;
+211   and
+212            (3) It appears to the probate court that all of the
+213   conditions for summary distribution provided in this
+214   subsection have been met and that the petition is due to be
+215   granted."
+216            "§43-2-693
+217            When all of (a) Upon finding that the applicable
+218   conditionsrequirements enumerated in subsection (b) of Section
+219   43-2-692 occurthis division have been met, the judge of
+220   probate shall enter an order directing a summary distribution
+221   of the estate delineating the portion of the small estate that
+222   each person identified in the order is entitled.
+223            (b) The order issued by the court under subsection (a)
+224   shall be final and conclusive as to all items and matters
+
+                                    Page 8
+                            SB106 Engrossed
+
+225   shown, and appeals must be taken in the manner provided for
+226   from any other final decree of the court in connection with
+227   the administration of decedents' estates."
+228         "§43-2-694
+229         Upon delivering a copy of the judge of probate's
+230   judge's order fordirecting summary distribution, or an
+231   affidavit executed by any person having knowledge of the fact
+232   and alleging the concurrence of the conditions listed in
+233   subsection (b) of section 43-2-692 showing the defeasible
+234   right therein, together with a copy of the decedent's will if
+235   the claim is under such will, such spouse or distributee shall
+236   be the persons entitled to summary distribution of the
+237   decedent's estate under this division shall be entitled to
+238   have the decedent's property or the evidence of the decedent's
+239   ownership in such property transferred to him them by any
+240   person owing any money to the decedent's estate, having
+241   custody of any personal property of the decedent or acting as
+242   a registrar or transfer agent of any evidence of interest,
+243   indebtedness, property, or right of the deceased therein."
+244         "§43-2-695
+245         The defeasible right of the surviving spouse or
+246   distributeesa person to summary distribution of a decedent's
+247   estate provided for by this division shall be subject only to
+248   any preexisting rights to administer the estate or probate the
+249   will, or to the superior rights of any other person to such
+250   personal property."
+251         "§43-2-696
+252         The person making payment, delivery, transfer, or
+
+                                  Page 9
+                            SB106 Engrossed
+
+253   issuance of personal property or evidence thereof pursuant to
+254   an order for summary distribution issued under this division
+255   the affidavit prescribed in section 43-2-694 shall be
+256   discharged and released to the same extent as if made to a
+257   personal representative of the decedent, and hethe person
+258   shall not be required to see the petitionapplication thereof
+259   or to inquire into the truth of any statement in the
+260   affidavitpetition if made by any other person. If any person
+261   to whom such orderaffidavit is delivered refuses to pay,
+262   deliver, transfer, or issue any personal property or evidence
+263   thereof, itthe personal property may be recovered or its
+264   payment, delivery, transfer, or issuance compelled in an
+265   action brought for such purpose by or on behalf of the person
+266   entitled thereto under sectionsSections 43-2-691.1, 43-2-692,
+267   and 43-2-695 upon proof of the defeasible right declared by
+268   such sections. Any person to whom payment, delivery, transfer
+269   or issuance is made shall be answerable and accountable
+270   therefor to any personal representative of the estate or to
+271   the surviving spouse or minor children of the decedent who
+272   shall proceed against such person, or to any other person
+273   having a superior right to the decedent's estate."
+274         "§43-8-40
+275         If an estate is not a small estate under Section
+276   43-2-691 that is being distributed as a summary distribution
+277   under Division 10 of Article 18 of Chapter 2 of Title 43, then
+278   anyAny part of the estate of a decedent not effectively
+279   disposed of by the decedent's his will passes to the
+280   decedent's his heirs as prescribed in the following sections
+
+                                 Page 10
+                            SB106 Engrossed
+
+281   of this chapter."
+282         "§43-8-252
+283         (a) A person who is divorced from the decedent or whose
+284   marriage to the decedent has been annulled is not a surviving
+285   spouse unless, by virtue of a subsequent marriage, hethe
+286   person is married to the decedent at the time of death. A
+287   decree of separation whichthat does not terminate the status
+288   of husband and wife is not a divorce for purposes of this
+289   section.
+290         (b) For purposes of sectionsSections 43-2-690 through
+291   43-2-698, 43-8-40 through 43-8-49, 43-8-55 through 43-8-58,
+292   43-8-70 through 43-8-76, 43-8-90, 43-8-91, and 43-8-110
+293   through 43-8-113, a surviving spouse does not include:
+294         (1) A person who obtains or consents to a final decree
+295   or judgment of divorce from the decedent or an annulment of
+296   their marriage, which decree or judgment is not recognized as
+297   valid in this state, unless they subsequently remarry;
+298   participate in a marriage ceremony purporting to marry each to
+299   the other, or subsequently live together as man and wife;
+300         (2) A person who, following a decree or judgment of
+301   divorce or annulment obtained by the decedent, marries,
+302   participates in a marriage ceremony with a third person; or
+303         (3) A person who is a party to a valid proceeding
+304   concluded by an order purporting to terminate all marital
+305   property rights."
+306         Section 2. Sections 43-2-691.1, 43-2-697, 43-2-698, and
+307   43-8-23 are added to the Code of Alabama 1975, to read as
+308   follows:
+
+                                 Page 11
+                            SB106 Engrossed
+
+309         §43-2-691.1
+310         (a) During the pendency of a summary disposition, any
+311   person entitled to the homestead allowance under Section
+312   43-8-110, exempt property under Section 43-8-111, or the
+313   family allowance under Sections 43-8-112 and 43-8-113 may file
+314   a verified petition in the office of the judge of probate in
+315   which the summary distribution is pending. The petition shall
+316   set forth the person's entitlement to the exemption and
+317   allowances. The probate court, upon review and approval of the
+318   petition, may enter an order for disbursing the exemption and
+319   allowances from the small estate to the person in accordance
+320   with Sections 43-8-110, 43-8-111, or 43-8-112 and 43-8-113.
+321         (b) The remainder of the small estate of a decedent
+322   domiciled in Alabama at the time of the decedent's death,
+323   following the exemption and allowances disposition made in
+324   accordance with subsection (a) that meets all of the
+325   conditions of this division, shall be distributed as follows:
+326         (1) To the surviving spouse of the decedent.
+327         (2) If the decedent died with a self-proved will and
+328   with no surviving spouse, to those persons entitled to the
+329   decedent's estate under such will, and to those persons
+330   entitled to share in the decedent's estate under the laws of
+331   descent and distribution of this state for the part of the
+332   decedent's estate not effectively disposed of by the
+333   decedent's self-proved will.
+334         (3) If the decedent died without a surviving spouse and
+335   without a self-proved will, to those persons entitled to share
+336   in the decedent's estate under the laws of descent and
+
+                                 Page 12
+                            SB106 Engrossed
+
+337   distribution of this state.
+338         §43-2-697
+339         Whenever fraud had been perpetrated in connection with
+340   any proceeding or in any statement filed under this division
+341   or if fraud is used to avoid or circumvent the provisions or
+342   purposes of this division, any person injured by these actions
+343   may obtain appropriate relief against the perpetrator of the
+344   fraud or receive restitution from any person, other than a
+345   bona fide purchaser, benefiting from the fraud, whether
+346   innocent or not. Any proceeding must be commenced within one
+347   year after the discovery of the fraud or from the time when
+348   the fraud should have been discovered, but no proceeding may
+349   be brought against anyone who did not perpetrate the fraud
+350   later than five years after the time of the commission of the
+351   fraud. This section has no effect on remedies related to fraud
+352   perpetrated against a decedent during the decedent's lifetime
+353   which affects the succession of the decedent's estate.
+354         §43-2-698
+355         The small estate amount shall at all times be equal to
+356   the combined maximum amount of the homestead allowance, exempt
+357   property, and family allowance provided under Sections
+358   43-8-110 through 43-8-113, as adjusted pursuant to Section
+359   43-8-116.
+360         §43-8-23
+361         In the event the estate qualifies as a small estate
+362   under Section 43-2-691, the summary distribution proceedings
+363   for a small estate under Division 10 of Article 18 of Chapter
+364   2 of Title 43 are available to the small estate.
+
+                                    Page 13
+                            SB106 Engrossed
+
+365         Section 3. This act shall become effective on October
+366   1, 2025.
+
+
+
+
+                                Page 14
+                            SB106 Engrossed
+
+367
+368
+369   Senate
+
+
+
+370   Read for the first time and referred ................05-Feb-25
+371   to the Senate committee on Judiciary
+372
+373   Read for the second time and placed   ................20-Feb-25
+374   on the calendar:
+375    0 amendments
+376
+377   Read for the third time and passed    ................18-Mar-25
+378   as amended
+379          Yeas 33
+380          Nays 0
+381          Abstains 0
+382
+383
+384                                    Patrick Harris,
+385                                    Secretary.
+386
+
+
+
+
+                                 Page 15
+

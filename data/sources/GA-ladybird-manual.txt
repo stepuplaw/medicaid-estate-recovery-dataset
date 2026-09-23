@@ -1,0 +1,3055 @@
+Source URL: https://pamms.dhs.ga.gov/dfcs/medicaid/2322/
+Retrieved: 2026-09-23
+
+2322 Life Estate and Remainder Interests :: Policy and Manual Management System (PAMMS) 
+
+ Policy and Manual Management System (PAMMS) 
+
+ Georgia Department of Human Services 
+
+ Division of Family and Children Services 
+
+ ADA and Section 504 
+
+ Civil Rights 
+
+ Voter Registration 
+
+ Child Welfare Services 
+
+ Child Welfare Policy Manual 
+
+ Chapter 1 Administration 
+
+ 1.0 Administration of Child Welfare Services 
+
+ 1.1 Access, Distribution and Review of Child Welfare Policies 
+
+ 1.4 Non-Discriminatory Child Welfare Practices 
+
+ 1.5 Americans with Disabilities Act (ADA)/Section 504 and Reasonable Modifications 
+
+ 1.6 Indian Child Welfare Act (ICWA) and Transfer of Responsibility for Placement and Care to a Tribal Agency 
+
+ 1.7 Monitoring, Reviews, Reporting, and Independent Audits 
+
+ 1.8 Volunteer Services 
+
+ 1.9 Public Review and Inspection of Child and Family Services Review Materials and Federal Plans 
+
+ 1.10 Child Fatality Review 
+
+ 1.11 Specific Goals in State Law for Children in Foster Care Over 24 Months 
+
+ 1.12 Review of Payments and Approval Standards 
+
+ 1.13 Sex Trafficking Overview 
+
+ 1.14 Emergency Operations Plans 
+
+ 1.15 Child Abuse Protocol 
+
+ 1.16 Civil Rights Complaint Process 
+
+ Chapter 2 Information Management 
+
+ 2.0 Introduction to Information Management 
+
+ 2.1 Case Record Maintenance 
+
+ 2.2 Adoption Case Records 
+
+ 2.3 Adoption Assistance Case Records 
+
+ 2.5 Health Insurance Portability and Accountability Act (HIPAA) 
+
+ 2.6 Confidentiality/Safeguarding Information 
+
+ 2.8 Subpoenas (Testimony and Case Records) 
+
+ 2.9 Open Records Act of Georgia 
+
+ 2.10 J.J. v. Ledbetter Parent or Guardian Request for Information 
+
+ 2.11 Public Access to Records in Child Fatality and Near Fatality Cases 
+
+ Chapter 3 Intake 
+
+ 3.0 Introduction to Intake 
+
+ 3.1 Receiving Intake Reports 
+
+ 3.2 Making an Intake Decision 
+
+ 3.3 Intakes Involving Active Cases 
+
+ 3.4 Intakes Involving Substance Use or Abuse, Prenatal Abuse, or Fetal Alcohol Syndrome Disorder (FASD) 
+
+ 3.5 Intakes Involving Infants Born Alive 
+
+ 3.6 Intakes Involving Family Violence, Domestic Violence or Intimate Partner Violence 
+
+ 3.7 Intakes Involving Human Trafficking 
+
+ 3.8 Intakes Involving Unaccompanied Homeless Youth 
+
+ 3.9 Intakes Involving DFCS or Child Placement Agency Foster or Adoptive Homes 
+
+ 3.10 Intakes Involving Foster Care Kinship Placements 
+
+ 3.11 Intakes Involving Residential and Non-Residential Facilities 
+
+ 3.12 Intakes Involving Public or Private Non-Residential Schools and Overnight Camps 
+
+ 3.13 Intakes Involving Child Death, Near Fatality or Serious Injury 
+
+ 3.14 Special Circumstance Intakes Involving Child Withdrawn from Public School 
+
+ 3.15 Special Circumstance Intakes Involving Juvenile or Superior Court (No Maltreatment) 
+
+ 3.16 Special Circumstance: Intakes Involving Child in Need of Services (No Maltreatment) 
+
+ 3.17 Special Circumstance Intakes Involving Safe Place for Newborns 
+
+ 3.18 Special Circumstance Intakes Involving Prenatal Exposure (No Maltreatment) 
+
+ 3.19 Special Circumstance Intakes Involving Voluntary Placement Agreements (VPA) 
+
+ 3.20 Special Circumstance Intakes Involving Voluntary Surrender of Parental Rights 
+
+ 3.21 Special Circumstance Intakes Involving Short Term Emergency Care (Emergency or Illness) 
+
+ 3.22 Special Circumstance Intakes Involving Short Term Emergency Care (Human Trafficking) 
+
+ 3.23 Special Circumstance Intakes Involving Temporary Protective Custody of a Child by Physician 
+
+ 3.24 Mandated Reporters 
+
+ 3.25 Sharing Intake Reports with Law Enforcement, District Attorney or Military 
+
+ 3.26 Screen-Out Refer Process 
+
+ 3.27 Administrative Opening 
+
+ 3.28 Information and Referrals 
+
+ 3.29 Request for Courtesy Interviews 
+
+ 3.30 Non-Incident Request Types (DJJ, ICPC, PAD and PFC) 
+
+ 3.31 Intakes Involving a Child in Need of Services (Maltreatment) 
+
+ 3.32 Assigned Response Time 
+
+ Chapter 4 Initial Safety Assessment (ISA) 
+
+ 4.0 Introduction to Initial Safety Assessment 
+
+ 4.1 Preparing for the Initial Safety Assessment 
+
+ 4.2 Conducting the Initial Safety Assessment 
+
+ 4.3 Purposeful Contacts During Initial Safety Assessments 
+
+ Chapter 5 Investigations 
+
+ 5.0 Introduction to Investigations 
+
+ 5.1 Conducting an Investigation 
+
+ 5.2 Purposeful Contacts During an Investigation 
+
+ 5.3 Making an Investigation Determination 
+
+ 5.4 Notifications in Investigations 
+
+ 5.5 Child Protective Services Administrative Reviews 
+
+ 5.9 Family Refuses to Cooperate During an Investigation 
+
+ Chapter 6 Special Investigations 
+
+ 6.0 Introduction to Special Investigations 
+
+ 6.1 Preparing for Special Investigations 
+
+ 6.2 Purposeful Contacts in Special Investigations 
+
+ 6.3 Conducting Special Investigations on DFCS or Child Placing Agency Foster or Adoptive Homes 
+
+ 6.4 Conducting Special Investigations on Foster Care Kinship Placements 
+
+ 6.5 Conducting Special Investigations on Residential or Non-Residential Facilities 
+
+ 6.6 Conducting Special Investigations on Public or Private Non-Residential Schools 
+
+ 6.7 Conducting Special Investigations of a Child Death, Near Fatality, or Serious Injury 
+
+ 6.8 Making a Special Investigation Determination 
+
+ 6.9 Notifications in Special Investigations 
+
+ 6.10 Reporting of a Child Death, Near Fatality or Serious Injury 
+
+ 6.11 Special Investigations and Policy Violations Review Process 
+
+ Chapter 7 Family Support Services 
+
+ 7.0 Introduction to Family Support Services 
+
+ 7.1 Conducting Family Support Services Assessments 
+
+ 7.2 Purposeful Contacts During Family Support Services 
+
+ 7.3 Making a Family Support Services Determination 
+
+ 7.4 Agreement Strategy 
+
+ Chapter 8 Family Preservation Services 
+
+ 8.0 Introduction to Family Preservation Services 
+
+ 8.1 Initiation of Family Preservation Services 
+
+ 8.2 Purposeful Contacts with Families Receiving Family Preservation Services 
+
+ 8.3 Case Planning 
+
+ 8.4 Case Evaluation 
+
+ 8.5 Case Closure 
+
+ Chapter 9 Eligibility 
+
+ 9.1 Foster Care Maintenance Payments 
+
+ 9.2 Applying for Medical Services at Initial Entry and Exit 
+
+ 9.3 Applying for Initial Funding 
+
+ 9.4 Removal from the Home 
+
+ 9.5 Reasonable Efforts 
+
+ 9.6 Aid to Families with Dependent Children (AFDC) Relatedness Criteria 
+
+ 9.9 IV-E Reimbursability 
+
+ 9.10 Special Situations (Trial Home Visits, Runaway, Parenting Youth in Foster Care and Out-of-State IV-E Foster Care) 
+
+ 9.12 Child Support 
+
+ Chapter 10 Foster Care 
+
+ 10.0 Introduction to Foster Care 
+
+ 10.1 Placement of a Child 
+
+ 10.2 Placement of a Child via Voluntary Placement Agreement (VPA) 
+
+ 10.3 Changes in Placement 
+
+ 10.4 Selecting a Placement Resource 
+
+ 10.10 Comprehensive Child and Family Assessment (CCFA) 
+
+ 10.11 Medical, Dental, and Developmental Needs 
+
+ 10.12 Psychological and Behavioral Health Needs 
+
+ 10.13 Educational Needs 
+
+ 10.14 Promoting Normalcy for Children in Foster Care 
+
+ 10.15 Child Safety Equipment 
+
+ 10.16 Childcare 
+
+ 10.17 Early Childhood Education 
+
+ 10.18 Purposeful Contacts in Foster Care 
+
+ 10.19 Visitation 
+
+ 10.20 Preserving Sibling Connections 
+
+ 10.21 Expectant or Parenting Youth in Foster Care 
+
+ 10.22 Permanency Planning 
+
+ 10.23 Case Planning 
+
+ 10.24 Trial Home Visit 
+
+ 10.25 Youth Absent Without Permission (AWOP) 
+
+ 10.26 Case Closure 
+
+ 10.27 Aftercare 
+
+ 10.28 End of Life Decisions for Children in Foster Care 
+
+ Chapter 11 Adoption 
+
+ 11.0 Introduction to Adoption 
+
+ 11.1 Adoption Preparation 
+
+ 11.2 Putative Father Registry & Birth Certificates 
+
+ 11.3 Placement with Siblings 
+
+ 11.4 Wait List 
+
+ 11.5 Child Life History 
+
+ 11.6 Foster Parent Adoption Consideration Evaluation 
+
+ 11.7 Child Specific Recruitment Efforts 
+
+ 11.8 Adoption Pre-Placement Staffing & Visitation 
+
+ 11.9 Adoption Placement Signing 
+
+ 11.10 Post-Placement Supervision 
+
+ 11.11 Family Moves to Another State Prior to Finalization 
+
+ 11.12 Adoption Placement Disruptions 
+
+ 11.13 Support Services: Post Adoptive Placement & Post Adoption 
+
+ 11.14 Finalizing the Adoption 
+
+ 11.15 Post Adoption Contact Agreement 
+
+ 11.16 Child Re-Enters Foster Care Following Adoption Finalization 
+
+ 11.17 Adoption Reunion Registry 
+
+ 11.18 Placement of a Georgia Child Into Another State for the Purpose of Adoption 
+
+ 11.19 Placement of a Child From Another State Into Georgia for the Purpose of Adoption 
+
+ 11.20 Disruption of an Interstate Compact on the Placement of Children (ICPC) Child 
+
+ 11.21 Interstate Compact on the Placement of Children (ICPC) Private or Independent Adoption - Georgia Is Sending State 
+
+ 11.22 Interstate Compact on the Placement of Children (ICPC) Private or Independent Adoption - Georgia Is Receiving State 
+
+ 11.23 Independent Adoption Investigations - Appointed by the Court 
+
+ 11.24 Independent Adoption - Family Evaluation for the Purpose of Adoption by a Third Party 
+
+ Chapter 12 Adoption Assistance 
+
+ 12.0 Introduction to Adoption Assistance 
+
+ 12.1 Eligibility - Adoption Assistance Payments, Medicaid & Non-Recurring 
+
+ 12.2 Adoption Assistance Application 
+
+ 12.3 Adoption Assistance Specialized Rate 
+
+ 12.4 Supplemental Security Income (SSI) & Adoption Assistance 
+
+ 12.5 Negotiating the Adoption Assistance Agreement 
+
+ 12.6 Reviewing and Signing the Adoption Assistance Agreement 
+
+ 12.7 Initiating Adoption Assistance Benefits 
+
+ 12.8 Subsequent Determinations - Deferred Adoption Assistance 
+
+ 12.9 Continuation, Renegotiation or Termination of Adoption Assistance Benefits 
+
+ 12.10 Adoption Assistance Benefits - After 18 
+
+ 12.11 Verification of Continuing Eligibility for Adoption Assistance Benefits 
+
+ 12.12 Adoption Assistance Medicaid 
+
+ 12.13 Status Changes 
+
+ 12.14 Family Relocates 
+
+ 12.15 Recovery of Adoption Assistance Overpayments 
+
+ 12.16 Special Services 
+
+ Chapter 13 Independent Living Program 
+
+ 13.0 Introduction to the Independent Living Program 
+
+ 13.1 Eligibility and Enrollment 
+
+ 13.2 Casey Life Skills Assessment 
+
+ 13.3 Written Transitional Living Plan 
+
+ 13.4 Transition from Foster Care 
+
+ 13.5 Individual Development Accounts (IDA) 
+
+ 13.6 Credit Reports for Youth in Foster Care 
+
+ 13.7 Youth Rights and Responsibilities 
+
+ 13.8 State Identification 
+
+ 13.9 Driver Education and Licensure 
+
+ 13.10 Medical Insurance for Youth 18 Years of Age and Older and the Georgia Advance Directive for Health Care 
+
+ 13.11 Post Foster Care Resources 
+
+ 13.13 National Youth in Transition Database (NYTD) 
+
+ 13.14 Asset Inventory 
+
+ 13.15 Events 
+
+ 13.16 Vendor Contracts 
+
+ Chapter 14 Resource Development 
+
+ 14.0 Introduction to Resource Development 
+
+ 14.1 Safety and Quality Standards (SQS) 
+
+ 14.5 Family Child Care and Personal Care Home Operation in Foster Homes 
+
+ 14.6 Recruitment and Retention 
+
+ 14.7 Inquiries and Information Sessions 
+
+ 14.8 Pre-Service Training 
+
+ 14.9 Continued Parent Development 
+
+ 14.10 Initial Family Evaluation 
+
+ 14.11 Individualized Assessment 
+
+ 14.13 Family Re-evaluation 
+
+ 14.14 Family Evaluation Addendums 
+
+ 14.15 Household Approval Status 
+
+ 14.16 Working with Caregivers 
+
+ 14.17 Foster Parent Bill of Rights and Grievance Procedure 
+
+ 14.18 Supervision of Children 
+
+ 14.20 Discipline and Behavior Management 
+
+ 14.21 Actions During Special Investigations 
+
+ 14.22 Policy Violations 
+
+ 14.23 Home Closure 
+
+ 14.24 Inter-County and Inter-Agency Partnerships 
+
+ Chapter 15 Interstate Compact on the Placement of Children (ICPC) 
+
+ 15.0 Introduction to Interstate Compact on the Placement of Children 
+
+ 15.1 Placements Subject to ICPC Jurisdiction 
+
+ 15.2 Placement of Georgia Children into Other States (Georgia as the Sending State) 
+
+ 15.3 Placement of Children from Other States into Georgia (Georgia as the Receiving State) 
+
+ 15.4 ICPC Expedited Placements 
+
+ 15.5 ICPC Placement Supervision 
+
+ 15.6 Court Jurisdiction Cases and Other ICPC Components 
+
+ 15.7 ICPC Related Travel Expenses 
+
+ 15.8 Border Agreements 
+
+ Chapter 16 Room Board Watchful Oversight (RBWO) 
+
+ 16.0 Introduction to Room Board and Watchful Oversight 
+
+ 16.1 Program Designation Types 
+
+ 16.2 Performance Based Placement 
+
+ 16.3 RBWO Placement Referral 
+
+ 16.4 Specialty Program Designation, Children in DJJ & DFCS Joint Custody, and Capacity Waiver 
+
+ 16.5 Specialized Foster Care Per Diem 
+
+ 16.6 Age Requirements for Child Caring Institutions (CCI) 
+
+ 16.7 Discharge Planning 
+
+ 16.8 Minimum Standards 
+
+ Chapter 17 Legal 
+
+ 17.0 Introduction to Court and Legal Process 
+
+ 17.1 The Juvenile Court Process 
+
+ 17.2 Case Review/Permanency Plan Hearings 
+
+ 17.3 Court Orders and Placement Authority 
+
+ 17.4 Mediation 
+
+ 17.5 Continuances 
+
+ 17.6 Public Access to Dependency Proceedings 
+
+ 17.7 Dependency Resulting from Substance Abuse 
+
+ 17.8 Caregiver’s Right to be Notified and Heard 
+
+ 17.9 Court Review of Custodial Orders 
+
+ 17.10 Court Appointed Special Advocate (CASA) and Guardian Ad Litem (GAL) 
+
+ 17.11 Termination of Parental Rights (TPR) 
+
+ 17.12 Voluntary Surrender of Parental Rights 
+
+ 17.13 Court Transfer of Jurisdiction 
+
+ 17.14 Establishing Paternity via Paternity Acknowledgement 
+
+ 17.15 Legitimation 
+
+ 17.16 Fair Hearings 
+
+ 17.17 Enlistment in the Armed Forces 
+
+ Chapter 18 Support Services to Preserve or Reunify Families 
+
+ 18.0 Introduction to Support Services to Preserve or Reunify Families 
+
+ 18.1 Early Intervention 
+
+ 18.2 Promoting Safe and Stable Families (PSSF) 
+
+ 18.3 Prevention of Unnecessary Placement (PUP) 
+
+ 18.4 Parent Aide Services 
+
+ 18.5 Homestead 
+
+ 18.6 Wrap-Around Services 
+
+ 18.7 Childcare Services in Child Protective Services (CPS) 
+
+ Chapter 19 Case Management 
+
+ 19.1 Milestones of Solution Based Casework (SBC) 
+
+ 19.2 Family Developmental Stages and Tasks 
+
+ 19.3 Solution-Focused Family Team Meetings 
+
+ 19.4 Case Transfer 
+
+ 19.5 Case Consultation 
+
+ 19.6 Supervisor Staffing 
+
+ 19.7 Avoiding Conflicts of Interest When Approving Caregivers 
+
+ 19.8 Criminal Records Checks (CRC) 
+
+ 19.9 Safety Screenings 
+
+ 19.10 Analyzing DFCS History 
+
+ 19.11 Safety Assessment 
+
+ 19.12 Safety Plan & Management 
+
+ 19.13 Family Functioning Assessment 
+
+ 19.14 Action Planning 
+
+ 19.15 Developing Contact Standards for Purposeful Contacts and Collaterals Contacts 
+
+ 19.16 Collateral Contacts 
+
+ 19.17 Service Provision 
+
+ 19.18 Targeted Case Management 
+
+ 19.19 Genogram 
+
+ 19.20 Diligent Search 
+
+ 19.21 Unable to Locate 
+
+ 19.22 Missing Children 
+
+ 19.23 Paternity Testing 
+
+ 19.24 Family Treatment Court 
+
+ 19.25 Drug Screens 
+
+ 19.26 Case Management Involving Substance Abuse or Use 
+
+ 19.27 Plan of Safe Care for Infants Prenatally Exposed to Substances or a Fetal Alcohol Spectrum Disorder (FASD) 
+
+ 19.28 Children 1st and Babies Can’t Wait 
+
+ 19.29 Coordination of Care with Hospitals 
+
+ Chapter 20 Special Circumstances 
+
+ 20.0 Introduction to Special Circumstances 
+
+ 20.1 Child Withdrawn from Public School 
+
+ 20.2 Juvenile or Superior Court (No Maltreatment) 
+
+ 20.3 Child In Need of Services (No Maltreatment) 
+
+ 20.4 Safe Place for Newborns 
+
+ 20.5 Infants Prenatally Exposed to Substances (No Maltreatment) 
+
+ 20.6 Voluntary Placement Agreement 
+
+ 20.7 Voluntary Surrender of Parental Rights 
+
+ 20.8 Short Term Emergency Care (Emergency or Illness) 
+
+ 20.9 Short Term Emergency Care (Human Trafficking) 
+
+ 20.10 Temporary Protective Custody of Child by Physician 
+
+ Chapter 22 Kinship 
+
+ 22.0 Introduction to Kinship 
+
+ 22.1 Use of Voluntary Kinship Caregivers in Child Protective Services 
+
+ 22.2 Use of Kinship Caregivers in Foster Care 
+
+ 22.3 Kinship Assessment 
+
+ 22.4 Kinship Foster Home Evaluation 
+
+ 22.5 Kinship Foster Home Re-evaluation 
+
+ 22.6 Waiver of Non-Safety Approval Standards for Kinship Foster Homes 
+
+ 22.7 Family Evaluation for Relative Adoptions 
+
+ 22.8 Financial and Non-Financial Supports for Children in Foster Care or Who Have Achieved Permanency 
+
+ 22.9 Subsidy Review 
+
+ 22.11 Guardianship in Child Protective Services 
+
+ 22.12 Temporary Custody to a Third Party in Child Protective Services 
+
+ Appendix A: Manual Transmittals 
+
+ Appendix B: County Letters 
+
+ Appendix C: Forms and Tools 
+
+ CSBG 
+
+ 100 Program Overview 
+
+ 200 Board Governance 
+
+ 300 Community Needs Assessment 
+
+ 400 Community Action Plan 
+
+ 500 Fiscal Management 
+
+ 600 Types of Income 
+
+ 700 Client Eligibility 
+
+ 800 Americans with Disabilities Act (ADA) and Section 504 
+
+ 900 Fair Hearing 
+
+ LIHEAP 
+
+ 100 Program Overview 
+
+ 200 Program Authorization 
+
+ 300 Detect and Prevent Fraud and Abuse 
+
+ 400 Vendor Management 
+
+ 500 Weatherization 
+
+ 600 Program Monitoring 
+
+ 700 Fair Hearing 
+
+ 800 Americans with Disabilities Act and Section 504 
+
+ Medicaid 
+
+ Table of Contents 
+
+ 2000 General Medicaid Information 
+
+ 2000 General Program Overview 
+
+ 2001 Computer Matches Overview 
+
+ 2002 Income And Eligibility Verification System 
+
+ 2003 IRS And BEERS Information Security 
+
+ 2004 Clearinghouse 
+
+ 2005 SSN Validation 
+
+ 2010 Confidentiality 
+
+ 2011 Health Information Portability and Accountability Act of 1996 
+
+ 2015 Mandated Reporting 
+
+ 2020 Americans with Disabilities Act (ADA) and Section 504 
+
+ 2025 Civil Rights 
+
+ 2050 Application Processing 
+
+ 2050 Application Processing Overview 
+
+ 2051 Verification 
+
+ 2052 Continuing Medicaid Determination 
+
+ 2053 Retroactive Medicaid 
+
+ 2054 Emergency Medical Assistance 
+
+ 2055 Sponsored Aliens 
+
+ 2060 ABD Medicaid Application Processing 
+
+ 2065 Family Medicaid Application Processing 
+
+ 2066 Placement Outside The Home 
+
+ 2067 Presumptive Eligibility Medical Assistance 
+
+ 2068 Special Considerations 
+
+ 2069 Express Lane Eligibility 
+
+ 2100 Classes of Assistance 
+
+ 2101 ABD Medicaid Classes of Assistance Overview 
+
+ 2111 Supplemental Security Income (SSI) Medicaid 
+
+ 2113 PICKLE (Public Law 94-566) 
+
+ 2115 Disabled Adult Child (Public Law 99-643) 
+
+ 2116 Former SSI-Disabled Child 
+
+ 2117 Disabled Widow(er) 
+
+ 2119 Disabled Widow(er) Age 60-64 (Public Law 100-203) 
+
+ 2121 Widow(er) 1984 (Public Law 99-272) 
+
+ 2123 Protected Medicaid 1972 (Public Law 92-603) 
+
+ 2131 Elderly Disabled Waiver Program 
+
+ 2132 New Option Waiver and Comprehensive Supports Waiver Program 
+
+ 2133 TEFRA/Katie Beckett 
+
+ 2135 Hospice Care 
+
+ 2136 Institutionalized Hospice 
+
+ 2137 Hospital 
+
+ 2139 Independent Care Waiver Program 
+
+ 2141 Nursing Home 
+
+ 2143 Qualified Medicare Beneficiaries 
+
+ 2144 Specified Low-Income Medicare Beneficiaries 
+
+ 2145 Qualifying Individuals - 1 
+
+ 2146 Low Income Subsidy (Extra Help for Medicare Part D) 
+
+ 2147 Qualified Disabled Working Individuals 
+
+ 2149 Georgia Medicaid for Workers with Disabilities 
+
+ 2150 ABD Medically Needy 
+
+ 2160 Family Medicaid Overview 
+
+ 2162 Parent/Caretaker with Children 
+
+ 2166 Transitional Medical Assistance (TMA) 
+
+ 2170 Four Months Extended Medicaid 
+
+ 2174 Newborn Medicaid 
+
+ 2182 Children Under 19 Years of Age 
+
+ 2184 Pregnant Women 
+
+ 2186 Planning For Health Babies® 
+
+ 2194 PeachCare for Kids® 
+
+ 2195 Pathways 
+
+ 2196 Family Medicaid Medically Needy 
+
+ 2198 Women’s Health Medical Assistance 
+
+ 2200 Basic Eligibility Criteria 
+
+ 2201 Basic Eligibility Criteria Overview 
+
+ 2205 Aged, Blind, Disabled Requirement for ABD Medicaid 
+
+ 2215 Citizenship / Immigration / Identity 
+
+ 2220 Enumeration 
+
+ 2225 Residency 
+
+ 2230 Third Party Liability 
+
+ 2235 Length of Stay for ABD Medicaid 
+
+ 2240 Level of Care 
+
+ 2245 Living With A Specified Relative / Tax Filer / Non-Filer Status 
+
+ 2250 Cooperation With Division of Child Support Services 
+
+ 2255 Age (Family Medicaid) 
+
+ 2256 Pathways Qualifying Activities Reporting 
+
+ 2300 Resources 
+
+ 2300 ABD Medicaid Resources Overview 
+
+ 2301 Family Medicaid Resources Overview 
+
+ 2302 Ownership of Resources in ABD Medicaid 
+
+ 2303 Determining the Countable Value of Resources for ABD Medicaid 
+
+ 2304 Treatment of Resources For ABD Medicaid 
+
+ 2305 Commingled Funds 
+
+ 2306 Agent Orange 
+
+ 2307 Austrian Social Insurance Payments 
+
+ 2308 Automobiles / Vehicles 
+
+ 2309 Bonds - Municipal, Corporate, Government 
+
+ 2310 Bonds - U.S. Savings 
+
+ 2311 Burial Contracts (Pre-Paid or Pre-Need) and Burial Space Items 
+
+ 2312 Burial Funds 
+
+ 2313 Contracts: Promissory Notes, Loans, and Property Agreements 
+
+ 2314 Disaster Assistance 
+
+ 2315 Dividends, Accrued 
+
+ 2316 Homeplace: ABD Medicaid 
+
+ 2317 Homeplace: Family Medicaid 
+
+ 2318 Home Replacement Funds 
+
+ 2319 Household Goods and Personal Effects 
+
+ 2320 Inheritances and Unprobated Estates 
+
+ 2321 Japanese American and Aleutian Restitution Payments 
+
+ 2322 Life Estate and Remainder Interests 
+
+ 2323 Life Insurance Policies 
+
+ 2324 Lump Sums 
+
+ 2325 Patient Fund Account (NH) 
+
+ 2326 Prepayments and Deposits (NH) 
+
+ 2327 Property Essential to Self-Support 
+
+ 2328 Property Rights 
+
+ 2329 Real Property: Non-Homeplace 
+
+ 2330 Relocation Assistance 
+
+ 2331 Repair/Replacement Funds 
+
+ 2332 Retirement Funds 
+
+ 2333 Safe Deposit Box 
+
+ 2334 Savings and Checking Accounts 
+
+ 2335 Stocks and Mutual Fund Shares 
+
+ 2336 Trust Property, Medicaid Qualifying (Prior to OBRA ’93) 
+
+ 2337 Trust Property - OBRA ‘93 
+
+ 2338 Trust Property 
+
+ 2339 Annuities 
+
+ 2340 Uniform Gifts to Minors 
+
+ 2341 Victims’ Compensation 
+
+ 2342 Transfer of Assets 
+
+ 2343 German Reparation Payments 
+
+ 2344 Qualified Tuition Savings Program (529 Plans) 
+
+ 2345 Undue Hardship Provision for ABD Medicaid 
+
+ 2346 Special Needs Trust 
+
+ 2347 Loans (Borrower) 
+
+ 2348 Long-Term Care Insurance Partnership 
+
+ 2349 Personal Care Contracts 
+
+ 2398 Estate Recovery for ABD Medicaid 
+
+ 2399 Treatment of Resources by Resource Type Chart 
+
+ 2400 Income 
+
+ 2401 Medicaid Income Overview 
+
+ 2403 Ownership of Income 
+
+ 2405 Treatment of Income 
+
+ 2407 Qualified Income Trust 
+
+ 2410 Rental Income 
+
+ 2415 Self-Employment 
+
+ 2418 VA Income 
+
+ 2420 Military Pay 
+
+ 2430 Living Arrangement and In-Kind Support and Maintenance for ABD Medicaid 
+
+ 2499 Treatment of Income in Medical Assistance 
+
+ 2500 ABD Financial Responsibility and Budgeting 
+
+ 2500 ABD Financial Responsibility and Budgeting Overview 
+
+ 2501 Marital Relationship 
+
+ 2502 Deeming (ABD) 
+
+ 2503 Couples 
+
+ 2504 Determining Countable Income 
+
+ 2505 Income Deductions 
+
+ 2506 Medicaid Individual Budgeting 
+
+ 2507 Spouse to Spouse Deeming 
+
+ 2508 Parent to Child Deeming 
+
+ 2509 Couple Budgeting 
+
+ 2510 Medicaid Cap Budgeting 
+
+ 2550 Patient Liability/Cost Share 
+
+ 2551 Patient Liability/Cost Share Overview 
+
+ 2552 Patient Liability/Cost Share Deductions 
+
+ 2553 Protection of Income 
+
+ 2554 Diversion of Income 
+
+ 2555 Incurred Medical Expenses 
+
+ 2557 Averaging Income and Incurred Medical Expenses 
+
+ 2558 Significant Change in Income or IME 
+
+ 2559 Patient Liability / Cost Share Budgeting 
+
+ 2575 Nursing Home Vendor Payment 
+
+ 2576 Vendor Payment Authorization 
+
+ 2577 Limited Stays 
+
+ 2578 SSI Recipients 
+
+ 2579 SSI 1619 Individuals 
+
+ 2580 SSI Recipients Temporarily in a Nursing Home 
+
+ 2581 Swing Beds 
+
+ 2582 Temporary Absence from Nursing Home 
+
+ 2600 Family Medicaid Assistance Units and Budget Groups 
+
+ 2610 MAGI Budget Groups / Assistance Units 
+
+ 2620 Non-MAGI Budget Groups / Assistance Units 
+
+ 2640 Paternity 
+
+ 2650 Family Medicaid Budgeting 
+
+ 2650 Family Medicaid Budgeting Overview 
+
+ 2653 Prospective Budgeting 
+
+ 2655 Family Medicaid Deductions 
+
+ 2657 Penalized Individuals 
+
+ 2659 Contract Employees 
+
+ 2661 Responsibility Budgeting (Family Medicaid) 
+
+ 2663 Non-Modified Adjusted Gross Income (MAGI) Budgeting 
+
+ 2667 Transitional Medical Assistance Budgeting 
+
+ 2669 MAGI Budgeting 
+
+ 2671 Family Medicaid Medically Needy Budgeting 
+
+ 2700 Case Management 
+
+ 2700 Case Management Overview 
+
+ 2701 Notification 
+
+ 2706 Medicaid Renewals 
+
+ 2708 ABD Medicaid Changes 
+
+ 2712 Family Medicaid Changes Overview 
+
+ 2713 Family Medicaid Changes in Residence 
+
+ 2714 Family Medicaid AU/BG Composition Changes 
+
+ 2715 Family Medical Assistance Changes In Income 
+
+ 2716 Family Medicaid Miscellaneous Changes 
+
+ 2720 Continuous Coverage For Pregnant Women 
+
+ 2750 DCH Reports-Ex Parte Lists 
+
+ 2751 SSA Medicare Savings Programs Applications 
+
+ 2752 DCH Presumptive Reports 
+
+ 2756 Medicare Buy-In 
+
+ 2760 Case Record Maintenance 
+
+ 2800 Assistance to Children in Placement 
+
+ 2801 Assistance To Children In Placement Overview 
+
+ 2805 Funding Sources 
+
+ 2810 Foster Care Funding and Medicaid Application Processing 
+
+ 2812 Department of Juvenile Justice Medicaid Application Processing 
+
+ 2815 Foster Care and Medical Assistance 
+
+ 2817 Adoption Assistance Medicaid 
+
+ 2818 Chafee Independence Program Medicaid 
+
+ 2819 Former Foster Care Medicaid 
+
+ 2820 Legal Status 
+
+ 2825 AFDC Relatedness 
+
+ 2826 AFDC Deprivation - Unemployed Parent 
+
+ 2830 AFDC Deductions 
+
+ 2835 AFDC Relatedness Budgeting 
+
+ 2840 IV-E Budgeting 
+
+ 2845 SSI Eligible Child 
+
+ 2848 Relative Care Placement 
+
+ 2850 Special Considerations 
+
+ 2851 Child Support Referrals 
+
+ 2852 Medicaid Application Processing for Out of State Children Placed In Georgia 
+
+ 2853 Foster Care CMO Procedures 
+
+ 2860 IV-E Reimbursability 
+
+ 2870 Redeterminations For Children In Placement 
+
+ 2880 Ineligibility For IV-E 
+
+ 2883 Standard Filing Unit 
+
+ 2885 Transition from Foster Care to Adoption Assistance 
+
+ 2890 Foster Care Medicaid Age 18 to 21 
+
+ 2900 Referrals 
+
+ 2900 Referral Overview 
+
+ 2901 Division of Aging Services (DHS) 
+
+ 2903 Brain and Spinal Injury Trust Fund 
+
+ 2905 Cancer State Aid Program 
+
+ 2907 Champions for Children 
+
+ 2908 Children’s Medical Services 
+
+ 2910 Child Support Services 
+
+ 2920 Domestic Violence 
+
+ 2925 The Food Stamp Program (DHS/DFCS) 
+
+ 2926 GeorgiaCares 
+
+ 2928 Georgia Hearing Aid Distribution Program 
+
+ 2930 EPSDT Services 
+
+ 2931 Medicare Part D and Low-Income Subsidy 
+
+ 2933 Georgia Pediatric Program 
+
+ 2935 Non-Emergency Medical Transportation Broker System 
+
+ 2936 Exceptional Transportation Services 
+
+ 2937 Ombudsman 
+
+ 2938 Georgia Family Healthline 
+
+ 2939 Money Follows The Person 
+
+ 2940 Prescription / Medical Prior Approval (DMA) 
+
+ 2942 Public Health 
+
+ 2945 Refugee Resettlement Program 
+
+ 2947 Healthcare Facility Regulation (DCH) 
+
+ 2950 Rehabilitation Services 
+
+ 2955 Service Options Using Resources In A Community Environment (SOURCE) 
+
+ 2960 Temporary Assistance For Needy Families (TANF) 
+
+ 2980 Voter Registration 
+
+ 2985 Women, Infant and Children (WIC) Services 
+
+ Appendix A1 - ABD Financial Limits TOC 
+
+ Appendix A2 - Family Medicaid Financial Limits TOC 
+
+ Appendix B Hearings 
+
+ Appendix B - Hearings TOC 
+
+ Appendix B Hearings 
+
+ Appendix B Appeal 
+
+ Appendix B OSAH Responsibilities 
+
+ Appendix C - Medicaid Issuance 
+
+ Appendix E - Glossary 
+
+ Appendix F - Forms TOC 
+
+ Forms Overview 
+
+ Appendix G - MT Cover Letters TOC 
+
+ Appendix H - Medicaid Admin TOC 
+
+ SNAP Policy Manual 
+
+ 3000 General Program Overview 
+
+ 3005 Confidentiality 
+
+ 3010 Voter Registration 
+
+ 3020 Mandated Reporting of Child Abuse or Neglect 
+
+ 3025 Americans with Disabilities Act (ADA) and Section 504 
+
+ 3030 Civil Rights 
+
+ 3035 Verification 
+
+ 3040 Health Information Portability and Accountability Act of 1996 
+
+ 3100 Application Process Overview 
+
+ 3105 Application Processing 
+
+ 3110 Expedited Application Processing 
+
+ 3115 Special Considerations for Applications 
+
+ 3120 Authorized Representative 
+
+ 3125 Disaster Supplemental Nutrition Assistance Program (DSNAP) 
+
+ 3200 Assistance Units Overview 
+
+ 3205 Assistance Units 
+
+ 3210 Categorical Eligibility 
+
+ 3215 Residents of Battered Women and Children Shelters 
+
+ 3220 Residents of Drug and Alcohol Treatment Centers 
+
+ 3225 Residents of Group Living Arrangements 
+
+ 3230 Residents of Homeless Shelters 
+
+ 3235 Seasonal Farmworkers (Migrant or Non-Migrant) 
+
+ 3240 Strikers 
+
+ 3245 Students 
+
+ 3300 Basic Eligibility Criteria Overview 
+
+ 3305 Cooperation with Eligibility Investigations 
+
+ 3310 Lawbreakers 
+
+ 3315 Intentional Program Violations 
+
+ 3320 Citizenship/Alien Status 
+
+ 3325 Enumeration 
+
+ 3335 Identity 
+
+ 3340 Residency 
+
+ 3345 SNAP E&T Work Requirement Overview 
+
+ 3350 Work Registration 
+
+ 3355 Able-Bodied Adults Without Dependents (ABAWD) 
+
+ 3360 E&T Participation Requirement 
+
+ 3365 E&T Enrollment Process 
+
+ 3370 E&T Participation Activities 
+
+ 3375 Work Support Services 
+
+ 3380 Failure to Comply with Work Requirements 
+
+ 3385 Failure to Perform Required Action 
+
+ 3400 Financial Eligibility Criteria Overview 
+
+ 3405 Resources 
+
+ 3415 Real Property 
+
+ 3420 Income 
+
+ 3425 Self-Employment Income 
+
+ 3430 Military Pay 
+
+ 3500 Computer Matches Overview 
+
+ 3505 Income and Eligibility Verification System (IEVS) 
+
+ 3510 National Accuracy Clearinghouse (NAC) 
+
+ 3515 Clearinghouse 
+
+ 3520 Social Security Administration (SSA) Prisoner Verification Inquiry 
+
+ 3525 Social Security Administration (SSA) Death Verification Inquiry 
+
+ 3530 Social Security Number (SSN) Validation 
+
+ 3600 Budgeting Overview 
+
+ 3605 Prospective Budgeting 
+
+ 3610 SNAP Budgeting 
+
+ 3611 Deductions Overview 
+
+ 3612 Earned Income Deduction 
+
+ 3613 Standard Deductions 
+
+ 3614 Excess Medical Deduction 
+
+ 3615 Dependent Care Deduction 
+
+ 3616 Child Support Deduction 
+
+ 3617 Shelter and Utility Deductions 
+
+ 3618 Homeless Shelter Deduction 
+
+ 3620 Budget for an AU with Individuals Who Fail to Comply with Enumeration Requirements 
+
+ 3625 Budget for an AU with IPV Disqualified or Work Sanctioned Individuals or Lawbreakers 
+
+ 3630 Budget for an AU with Sponsored Aliens 
+
+ 3635 Budget for an AU with Ineligible Aliens or Ineligible ABAWDs 
+
+ 3640 Contract Employment Budgeting 
+
+ 3650 Failure to Report Earned Income Budgeting 
+
+ 3700 Ongoing Case Management Overview 
+
+ 3704 Transitional Supplemental Nutrition Assistance Program (TSNAP) 
+
+ 3705 Notification 
+
+ 3710 Recertifications (Renewals) 
+
+ 3715 Interim Changes 
+
+ 3720 Reporting Requirements 
+
+ 3725 Senior Supplemental Nutrition Assistance Program (Senior SNAP) 
+
+ 3730 Periodic Reporting 
+
+ 3800 Issuance Overview 
+
+ 3805 Electronic Benefits Transfer (EBT) 
+
+ 3810 Issuance 
+
+ Appendix A Financial Standards 
+
+ Appendix A Financial Standards Overview 
+
+ Appendix A SNAP Income Limits 
+
+ Basis of Issuance Tables (AU Sizes 1-10) FY26 with cents 
+
+ Basis of Issuance Tables (AU Sizes 11-20) FY26 
+
+ Basis of Issuance Tables (AU Sizes 1-10) FY26 
+
+ Basis of Issuance Tables (AU Sizes 11-20) FY26 with cents 
+
+ Appendix B Hearings 
+
+ Hearings Overview 
+
+ Responsibilities of the Office of State Administrative Hearings (OSAH) 
+
+ Initial Hearings 
+
+ Final Appeals 
+
+ Responsibilities of the Office of General Counsel (OGC) 
+
+ Administrative Disqualification Hearings (ADH) 
+
+ Appendix C Manual Transmittal Cover Letters 
+
+ MT 87 Cover Letter 
+
+ MT 86 Cover Letter 
+
+ MT 85 Cover Letter 
+
+ MT 84 Cover Letter 
+
+ MT 83 Cover Letter 
+
+ MT 82 Cover Letter 
+
+ MT 81 Cover Letter 
+
+ MT 80 Cover Letter 
+
+ MT 79 Cover Letter 
+
+ MT 78 Cover Letter 
+
+ MT 77 Cover Letter 
+
+ MT 76 Cover Letter 
+
+ MT 75 Cover Letter 
+
+ MT 74 Cover Letter 
+
+ MT 73 Cover Letter 
+
+ MT 72 Cover Letter 
+
+ MT 71 Cover Letter 
+
+ MT 70 Cover Letter 
+
+ MT 69 Cover Letter 
+
+ MT 68 Cover Letter 
+
+ MT 67 Cover Letter 
+
+ MT 66 Cover Letter 
+
+ MT 65 Cover Letter 
+
+ MT 64 Cover Letter 
+
+ MT 63 Cover Letter 
+
+ MT 62 Cover Letter 
+
+ MT 61 Cover Letter 
+
+ MT 60 Cover Letter 
+
+ MT 59 Cover Letter 
+
+ MT 58 Cover Letter 
+
+ MT 57 Cover Letter 
+
+ MT 56 Cover Letter 
+
+ MT 55 Cover Letter 
+
+ MT 54 Cover Letter 
+
+ MT 53 Cover Letter 
+
+ MT 52 Cover Letter 
+
+ MT 51 Cover Letter 
+
+ MT 50 Cover Letter 
+
+ MT 49 Cover Letter 
+
+ MT 48 Cover Letter 
+
+ MT 47 Cover Letter 
+
+ MT 46 Cover Letter 
+
+ MT 45 Cover Letter 
+
+ MT 44 Cover Letter 
+
+ MT 43 Cover Letter 
+
+ MT 42 Cover Letter 
+
+ MT 41 Cover Letter 
+
+ MT 40 Cover Letter 
+
+ MT 39 Cover Letter 
+
+ MT 38 Cover Letter 
+
+ MT 37 Cover Letter 
+
+ MT 36 Cover Letter 
+
+ MT 35 Cover Letter 
+
+ MT 34 Cover Letter 
+
+ MT 33 Cover Letter 
+
+ MT 32 Cover Letter 
+
+ MT 31 Cover Letter 
+
+ MT 30 Cover Letter 
+
+ MT 29 Cover Letter 
+
+ MT 28 Cover Letter 
+
+ MT 27 Cover Letter 
+
+ MT 26 Cover Letter 
+
+ MT 25 Cover Letter 
+
+ MT 24 Cover Letter 
+
+ MT 23 Cover Letter 
+
+ MT 22 Cover Letter 
+
+ MT 21 Cover Letter 
+
+ MT 20 Cover Letter 
+
+ MT 19 Cover Letter 
+
+ MT 18 Cover Letter 
+
+ MT 17 Cover Letter 
+
+ MT 16 Cover Letter 
+
+ MT 15 Cover Letter 
+
+ MT 14 Cover Letter 
+
+ MT 13 Cover Letter 
+
+ MT 12 Cover Letter 
+
+ MT 11 Cover Letter 
+
+ MT 10 Cover Letter 
+
+ MT 9 Cover Letter 
+
+ MT 8 Cover Letter 
+
+ MT 7 Cover Letter 
+
+ MT 6 Cover Letter 
+
+ MT 5 Cover Letter 
+
+ MT 4 Cover Letter 
+
+ MT 3 Cover Letter 
+
+ MT 2 Cover Letter 
+
+ MT 1 Cover Letter 
+
+ Appendix D Case Record Maintenance and Document Management 
+
+ Appendix E Glossary 
+
+ Appendix F Forms 
+
+ OSAH Form 1 Food Stamps 
+
+ Form 47 Food Stamp Program in Georgia 
+
+ Form 47 Arabic Food Stamp Program in Georgia (Arabic) 
+
+ Form 47 Bosnian Food Stamp Program in Georgia (Bosnian) 
+
+ Form 47 Burmese Food Stamp Program in Georgia (Burmese) 
+
+ Form 47 Chinese Food Stamp Program in Georgia (Chinese) 
+
+ Form 47 Farsi Food Stamp Program in Georgia (Farsi) 
+
+ Form 47 French Food Stamp Program in Georgia (French) 
+
+ Form 47 Gujarati Food Stamp Program in Georgia (Gujarati) 
+
+ Form 47 Hindi Food Stamp Program in Georgia (Hindi) 
+
+ Form 47 Japanese Food Stamp Program in Georgia (Japanese) 
+
+ Form 47 Korean Food Stamp Program in Georgia (Korean) 
+
+ Form 47 Nepali Food Stamp Program in Georgia (Nepali) 
+
+ Form 47 Portuguese Food Stamp Program in Georgia (Portuguese) 
+
+ Form 47 Russian Food Stamp Program in Georgia (Russian) 
+
+ Form 47 SP Food Stamp Program in Georgia (Spanish) 
+
+ Form 47 Vietnamese Food Stamp Program in Georgia (Vietnamese) 
+
+ Form 74 SNAP Manual 
+
+ Form 104 Statement of Child Care Expense 
+
+ Form 126 Self-Employment Work Calendar 
+
+ Form 126 SP Self-Employment Work Calendar (Spanish) 
+
+ Form 127 Self-Employment Work Calendar Log 
+
+ Form 127 SP Self-Employment Work Calendar Log (Spanish) 
+
+ Form 139 Contribution Statement 
+
+ Form 139 SP Contribution Statement (Spanish) 
+
+ Form 173 Verification Checklist 
+
+ Form 173 Arabic Verification Checklist Form (Arabic) 
+
+ Form 173 Bosnian Verification Checklist Form (Bosnian) 
+
+ Form 173 Burmese Verification Checklist Form (Burmese) 
+
+ Form 173 Chinese Verification Checklist Form (Chinese) 
+
+ Form 173 Farsi Verification Checklist Form (Farsi) 
+
+ Form 173 French Verification Checklist Form (French) 
+
+ Form 173 Gujarati Verification Checklist Form (Gujarati) 
+
+ Form 173 Hindi Verification Checklist Form (Hindi) 
+
+ Form 173 Japanese Verification Checklist Form (Japanese) 
+
+ Form 173 Korean Verification Checklist Form (Korean) 
+
+ Form 173 Nepali Verification Checklist Form (Nepali) 
+
+ Form 173 Portuguese Verification Checklist Form (Portuguese) 
+
+ Form 173 Russian Verification Checklist Form (Russian) 
+
+ Form 173 SP Verification Checklist Form (Spanish) 
+
+ Form 173 Vietnamese Verification Checklist Form (Vietnamese) 
+
+ Form 173A Appointment Letter 
+
+ Form 173A SP Appointment Letter Form (Spanish) 
+
+ Form 240 Transitional SNAP Fact Sheet Instructions 
+
+ Form 296 Expedited FS 
+
+ Form 297 Application for TANF, Food Stamps or Medical Assistance 
+
+ Form 297 Arabic Application for TANF, Food Stamps or Medical Assistance (Arabic) 
+
+ Form 297 Bosnian Application for TANF, Food Stamps or Medical Assistance (Bosnian) 
+
+ Form 297 Burmese Application for TANF, Food Stamps or Medical Assistance (Burmese) 
+
+ Form 297 Chinese Application for TANF, Food Stamps or Medical Assistance (Chinese) 
+
+ Form 297 Farsi Application for TANF, Food Stamps or Medical Assistance (Farsi) 
+
+ Form 297 French Application for TANF, Food Stamps or Medical Assistance (French) 
+
+ Form 297 Gujarati Application for TANF, Food Stamps or Medical Assistance (Gujarati) 
+
+ Form 297 Hindi Application for TANF, Food Stamps or Medical Assistance (Hindi) 
+
+ Form 297 Japanese Application for TANF, Food Stamps or Medical Assistance (Japanese) 
+
+ Form 297 Korean Application for TANF, Food Stamps or Medical Assistance (Korean) 
+
+ Form 297 Nepali Application for TANF, Food Stamps or Medical Assistance (Nepali) 
+
+ Form 297 Portuguese Application for TANF, Food Stamps or Medical Assistance (Portuguese) 
+
+ Form 297 Russian Application for TANF, Food Stamps or Medical Assistance (Russian) 
+
+ Form 297 SP Application for TANF, Food Stamps or Medical Assistance (Spanish) 
+
+ Form 297 Vietnamese Application for TANF, Food Stamps or Medical Assistance (Vietnamese) 
+
+ Form 297A Rights and Responsibilities 
+
+ Form 297A Arabic Rights and Responsibilities Form (Arabic) 
+
+ Form 297A Bosnian Rights and Responsibilities Form (Bosnian) 
+
+ Form 297A Burmese Rights and Responsibilities Form (Burmese) 
+
+ Form 297A Chinese Rights and Responsibilities Form (Chinese) 
+
+ Form 297A Farsi Rights and Responsibilities Form (Farsi) 
+
+ Form 297A French Rights and Responsibilities Form (French) 
+
+ Form 297A Gujarati Rights and Responsibilities (Gujarati) 
+
+ Form 297A Hindi Rights and Responsibilities (Hindi) 
+
+ Form 297A Japanese Rights and Responsibilities (Japanese) 
+
+ Form 297A Korean Rights and Responsibilities (Korean) 
+
+ Form 297A Nepali Rights and Responsibilities (Nepali) 
+
+ Form 297A Portuguese Rights and Responsibilities (Portuguese) 
+
+ Form 297A Russian Rights and Responsibilities (Russian) 
+
+ Form 297A SP Rights and Responsibilities (Spanish) 
+
+ Form 297A Vietnamese Rights and Responsibilities (Vietnamese) 
+
+ Form 298 Senior SNAP Application 
+
+ Form 298 SP Senior SNAP Application (Spanish) 
+
+ Form 299 Senior SNAP Project Brochure 
+
+ Form 299 SP Senior SNAP Project Brochure (Spanish) 
+
+ Form 333 Food Stamp Program Sanction/Penalty Notice 
+
+ Form 333 SP Food Stamp Program Sanction/Penalty Notice (Spanish) 
+
+ Form 339 Simplified Reporting Requirement (SRR) 
+
+ Form 339 SP Simplified Reporting Requirement (SRR) Form (Spanish) 
+
+ Form 339 Arabic Simplified Reporting Requirement (SRR) Form (Arabic) 
+
+ Form 339 Bosnian Simplified Reporting Requirement (SRR) Form (Bosnian) 
+
+ Form 339 Burmese Simplified Reporting Requirement (SRR) Form (Burmese) 
+
+ Form 339 Chinese Simplified Reporting Requirement (SRR) Form (Chinese) 
+
+ Form 339 Farsi Simplified Reporting Requirement (SRR) Form (Farsi) 
+
+ Form 339 French Simplified Reporting Requirement (SRR) Form (French) 
+
+ Form 339 Gujarati Simplified Reporting Requirement (SRR) Form (Gujarati) 
+
+ Form 339 Hindi Simplified Reporting Requirement (SRR) Form (Hindi) 
+
+ Form 339 Japanese Simplified Reporting Requirement (SRR) Form (Japanese) 
+
+ Form 339 Korean Simplified Reporting Requirement (SRR) Forms (Korean) 
+
+ Form 339 Nepali Simplified Reporting Requirement (SRR) Form (Nepali) 
+
+ Form 339 Portuguese Simplified Reporting Requirement (SRR) Form (Portuguese) 
+
+ Form 339 Russian Simplified Reporting Requirement (SRR) Form (Russian) 
+
+ Form 339 Spanish Simplified Reporting Requirement (SRR) Form (Spanish) 
+
+ Form 339 Vietnamese Simplified Reporting Requirement (SRR) Form (Vietnamese) 
+
+ Form 495 Job Search Record 
+
+ Form 495 SP Job Search Record (Spanish) 
+
+ Form 507 ABAWD Tracking Calendar 
+
+ Form 508 Food Stamp/Medicaid/TANF Renewal 
+
+ Form 508 Arabic Food Stamp/Medicaid/TANF Renewal Form (Arabic) 
+
+ Form 508 Bosnian Food Stamp/Medicaid/TANF Renewal Form (Bosnian) 
+
+ Form 508 Burmese Food Stamp/Medicaid/TANF Renewal Form (Burmese) 
+
+ Form 508 Chinese Food Stamp/Medicaid/TANF Renewal Form (Chinese) 
+
+ Form 508 Farsi Food Stamp/Medicaid/TANF Renewal Form (Farsi) 
+
+ Form 508 French Food Stamp/Medicaid/TANF Renewal Form (French) 
+
+ Form 508 Gujarati Food Stamp/Medicaid/TANF Renewal Form (Gujarati) 
+
+ Form 508 Hindi Food Stamp/Medicaid/TANF Renewal Form (Hindi) 
+
+ Form 508 Japanese Food Stamp/Medicaid/TANF Renewal Form (Japanese) 
+
+ Form 508 Korean Food Stamp/Medicaid/TANF Renewal Form (Korean) 
+
+ Form 508 Nepali Food Stamp/Medicaid/TANF Renewal Form (Nepali) 
+
+ Form 508 Portuguese Food Stamp/Medicaid/TANF Renewal Form (Portuguese) 
+
+ Form 508 Russian Food Stamp/Medicaid/TANF Renewal Form (Russian) 
+
+ Form 508 SP Food Stamp/Medicaid/TANF Renewal Form (Spanish) 
+
+ Form 508 Vietnamese Food Stamp/Medicaid/TANF Renewal Form (Vietnamese) 
+
+ Form 516 Record of Attendance and Performance Report 
+
+ Form 516 SP Record of Attendance and Performance Report (Spanish) 
+
+ Form 524 TANF Community Outreach Services (TCOS) Brochure 
+
+ Form 524 SP TANF Community Outreach Services (TCOS) Brochure (Spanish) 
+
+ Form 528 Supplemental Nutrition Assistance Program (SNAP) Periodic Report 
+
+ Form 528 SP Supplemental Nutrition Assistance Program (SNAP) Periodic Report (Spanish) 
+
+ Form 713 Interagency/Interoffice Referral and Follow-Up 
+
+ Form 713G Grandparents Raising Grandchildren (GRG) 
+
+ Form 799 DFCS Communication 
+
+ Form 805 ABAWD Volunteer Work Verification 
+
+ Form 805 SP ABAWD Volunteer Work Verification (Spanish) 
+
+ Form 806 Medical Statement 
+
+ Form 806 SP Medical Statement (Spanish) 
+
+ Form 809 Verification of Earned Income 
+
+ Form 809 SP Verification of Earned Income (Spanish) 
+
+ Form 820 Third Party Verification of Citizenship 
+
+ Form 821 Statement of Shelter Costs 
+
+ Form 821 SP Statement of Shelter Costs (Spanish) 
+
+ Form 826 Ineligible ABAWD Time-Limit Adverse Action Notice 
+
+ Form 826 SP Ineligible ABAWD Time-Limit Adverse Action Notice (Spanish) 
+
+ Form 826A Ineligible ABAWD Time-Limit Second Three Month Adverse Action Notice 
+
+ Form 826A SP Ineligible ABAWD Time-Limit Second Three Month Adverse Action Notice (Spanish) 
+
+ Form 840 Medical Transportation Expense Log Instructions 
+
+ Form 840 Medical Transportation Expense Log Instructions (Spanish) 
+
+ Form 841 Food Loss Replacement 
+
+ Form 841 Food Loss Replacement (Spanish) 
+
+ Form 846 Change Report 
+
+ Form 846 Arabic Change Report (Arabic) 
+
+ Form 846 Bosnian Change Report (Bosnian) 
+
+ Form 846 Burmese Change Report (Burmese) 
+
+ Form 846 Chinese Change Report Form (Chinese) 
+
+ Form 846 Farsi Change Report Form (Farsi) 
+
+ Form 846 French Change Report Form (French) 
+
+ Form 846 Gujarati Change Report Form (Gujarati) 
+
+ Form 846 Hindi Change Report Form (Hindi) 
+
+ Form 846 Japanese Change Report Form (Japanese) 
+
+ Form 846 Korean Change Report Form (Korean) 
+
+ Form 846 Nepali Change Report Form (Nepali) 
+
+ Form 846 Portuguese Change Report Form (Portuguese) 
+
+ Form 846 Russian Change Report Form (Russian) 
+
+ Form 846 SP Change Report Form (Spanish) 
+
+ Form 846 Vietnamese Change Report (Vietnamese) 
+
+ Form 858 Comparable Workfare Guide 
+
+ Form 858 SP Comparable Workfare Guide (Spanish) 
+
+ Form 859 SNAP Consolidated Work Requirements Notice 
+
+ Form 859 SP SNAP Consolidated Work Requirements Notice (Spanish) 
+
+ Form 864 SNAP Works Screening and Referral Tool 
+
+ Form 875 Verification of Educational Assistance Income 
+
+ Form 875 SP Verification of Educational Assistance Income (Spanish) 
+
+ Form 880 Applying for Food Stamps Required Verification 
+
+ Form 5459 Authorization for Release of Information 
+
+ Form 5459 SP Authorization for Release of Information (Spanish) 
+
+ Form 5460 Notice of Privacy Practices 
+
+ Form 5460 SP Notice of Privacy Practices (Spanish) 
+
+ Form EBT 2 EBT Control Log-County Office EBT Cards (2) 
+
+ Form EBT 3 EBT Control Log-County Office PINS (3) 
+
+ Form EBT 4 EBT Control Log-Receipt of Card/PIN Benefit Representative (4) 
+
+ Form EBT 5 EBT Transfer Control Log-EBT Card Sign In/Sign Out Benefits Representative/Guardian Form (5) 
+
+ Form EBT 6 EBT Control Log-PIN Sign In/Sign Out Benefit Representative/Guardian Form (6) 
+
+ Form EBT 7 EBT Card/PIN Sign Out Authorization (7) 
+
+ Form EBT 8 EBT Family Service Worker/Recipient Receipt Form (8) 
+
+ Form EBT 9 Request for Manual Issuance of Benefits (9) 
+
+ Form EBT 10 Request for Re-Obligations of Benefits (10) 
+
+ Appendix J Customer Complaint Procedures 
+
+ Appendix L Child Support Services Glossary 
+
+ TANF Policy Manual 
+
+ 1000 General Program Overview 
+
+ 1001 TANF (Temporary Assistance for Needy Families) 
+
+ 1002 Confidentiality 
+
+ 1003 Civil Rights 
+
+ 1004 Americans with Disabilities Act (ADA) and Section 504 
+
+ 1005 Domestic Violence 
+
+ 1008 Voter Registration 
+
+ 1010 Mandated Reporting 
+
+ 1011 Health Insurance Portability and Accountability Act (HIPAA) of 1996 
+
+ 1100 Application Processing 
+
+ 1105 Application Processing 
+
+ 1110 Authorized Representative 
+
+ 1200 Assistance Units 
+
+ 1205 Assistance Units 
+
+ 1210 Grandparents Raising Grandchildren (GRG) 
+
+ 1300 Basic Eligibility 
+
+ 1302 Domestic Violence 
+
+ 1305 Age 
+
+ 1310 Citizenship/Alienage 
+
+ 1315 Deprivation 
+
+ 1316 Deprivation Based on Death 
+
+ 1317 Continued Absence from The Home 
+
+ 1318 Deprivation Based on Incapacity 
+
+ 1319 Deprivation Based on Recent Connection to the Work Force 
+
+ 1320 Child Support Enforcement 
+
+ 1325 Enumeration 
+
+ 1330 Identity 
+
+ 1335 Living with a Specified Relative 
+
+ 1340 Residency 
+
+ 1345 Personal Responsibility Requirements 
+
+ 1347 School Attendance 
+
+ 1349 Work Requirements 
+
+ 1351 Sanctions 
+
+ 1355 Application for Other Benefits 
+
+ 1360 Immunization 
+
+ 1365 Living Arrangements of a Minor Head of Household 
+
+ 1370 Pregnancy and Prenatal Care 
+
+ 1380 Cooperation with Eligibility Investigations 
+
+ 1385 Intentional Program Violations 
+
+ 1387 Lawbreakers 
+
+ 1390 Lifetime Limit 
+
+ 1392 Hardship Waiver 
+
+ 1394 Verification 
+
+ 1400 Computer Matches 
+
+ 1401 Computer Matches Overview 
+
+ 1405 Income and Eligibility Verification System (IEVS) 
+
+ 1410 Security for IRS, FTI, and BEERS Information 
+
+ 1415 Clearinghouse 
+
+ 1430 Social Security Number (SSN) Validation 
+
+ 1440 Prisoner Verification Inquiry System 
+
+ 1500 Financial Eligibility Criteria 
+
+ 1501 Financial Overview 
+
+ 1505 Resources 
+
+ 1510 Treatment of Resources by Resource Type 
+
+ 1515 Vehicles 
+
+ 1520 Real Property 
+
+ 1525 Income 
+
+ 1530 Treatment of Income-by-Income Type 
+
+ 1535 Military Pay 
+
+ 1540 Self-Employment 
+
+ 1600 Budgeting 
+
+ 1605 Basic Budgeting 
+
+ 1610 Determining Representative Income and Expenses 
+
+ 1615 Deductions 
+
+ 1620 Responsibility Budgeting 
+
+ 1622 Budgeting the Income of a Stepparent 
+
+ 1624 Budgeting the Income of the Parent(s) of a Minor Head of Household 
+
+ 1626 Budgeting the Income of an Ineligible Parent 
+
+ 1628 Budgeting the Income of the Spouse of a Nonparent Caretaker 
+
+ 1630 Budgeting the Income of an Ineligible Spouse 
+
+ 1632 Budgeting the Income and Resources of a Sponsored Alien 
+
+ 1635 Allocation to an Ineligible Spouse and/or Child 
+
+ 1645 Budgeting Child Support Income 
+
+ 1650 Budgeting Lump Sum Income 
+
+ 1655 Budgeting When A First Sanction is Imposed 
+
+ 1665 Budgeting the Income of a Disqualified Individual 
+
+ 1670 Budgeting the Income of a Penalized Individual 
+
+ 1700 Case Management 
+
+ 1701 Case Management Overview 
+
+ 1705 Notification 
+
+ 1710 Recertifications (Renewals) 
+
+ 1720 Changes 
+
+ 1730 Financial Changes 
+
+ 1735 Changes in Residence 
+
+ 1740 AU Composition Changes 
+
+ 1745 Miscellaneous Changes 
+
+ 1800 Employment Services 
+
+ 1801 Employment Services 
+
+ 1805 Applicant Services 
+
+ 1815 TANF Family Service Plan Development 
+
+ 1820 Work Activities 
+
+ 1825 Subsidized Employment General Requirements 
+
+ 1826 Subsidized Employment Grant Diversion 
+
+ 1827 Subsidized Employment Cash Reimbursement 
+
+ 1830 Employment Support Services 
+
+ 1835 Failure to Participate 
+
+ 1840 Work Support Program 
+
+ 1900 Issuance 
+
+ 1901 Issuance Overview 
+
+ 1905 Issuance 
+
+ 1910 Electronic Benefits Transfer 
+
+ 1915 Managed Accounts 
+
+ Appendix A TANF Financial Standards 
+
+ Appendix B Hearings 
+
+ Appendix B Fair Hearings 
+
+ Appendix B Fair Hearing Responsibilities 
+
+ Appendix B Appealing a Final OSAH Decision 
+
+ Appendix D Case Record Document Management 
+
+ Appendix E Glossary 
+
+ Appendix F Forms 
+
+ Appendix G Manual Transmittal Cover Letters 
+
+ Appendix H TANF Subsidized Employment Program (TSEP) 
+
+ Division of Family and Children Services 
+
+ Division of Aging Services 
+
+ Division of Child Support Services 
+
+ Division of Family and Children Services 
+
+ Office of Budget Administration 
+
+ Office of Facilities and Support Services 
+
+ Office of Financial Services 
+
+ Office of General Counsel 
+
+ Office of Human Resources 
+
+ Office of Information Technology 
+
+ Office of Inspector General 
+
+ Office of Legislative Affairs and Outreach 
+
+ Office of Procurement Services 
+
+ Office of Refugee Services 
+
+ PAMMS Help 
+
+ ​ 
+
+ Division of Family and Children Services 
+
+ Medicaid 
+
+ 2300 Resources
+
+ 2322 Life Estate and Remainder Interests 
+
+ Show Diff 
+
+ PDF 
+
+ Source 
+
+ 2322 Life Estate and Remainder Interests | Medicaid 
+
+ Georgia Division of Family and Children Services
+
+Medicaid Policy Manual 
+
+ Policy Title: 
+
+ Life Estate and Remainder Interests
+
+ Effective Date: 
+
+ July 2022
+
+ Chapter: 
+
+ 2300
+
+ Policy Number: 
+
+ 2322
+
+ Previous MT Number(s): 
+
+ MT 64
+
+ Updated or Reviewed in MT: 
+
+ MT-65
+
+ ​ Requirements
+
+ The value of a life estate interest may or may not be a countable resource.
+The value of a remainder interest is a countable resource for all ABD COAs.
+
+ For Family Medicaid COAs, life estate interest that an individual has a right to use, but not dispose of during his/her life, is excluded as a countable non-liquid resource.
+However, consider any income received from the property.
+
+ ​ Basic Considerations
+
+ ​ Life Estate
+
+ Under a life estate, an individual who owns property transfers ownership of that property to another individual while retaining, for the rest of his or her life (or the life of another person), certain rights to that property.
+
+ The owner of a life estate can sell the life estate but does not have full title to the property.
+The life estate owner cannot sell the property or pass it on as an inheritance.
+
+ However, some states allow life estates with powers, wherein the owner of the property creates a life estate for himself or herself retaining the power to sell the property, with a remainder interest to someone else, such as a child.
+
+ ​ NON-FBR and FBR COAs
+
+ If an A/R owns a life estate with powers, its resource value is its full equity value.
+
+ If an A/R owns a life estate with no powers, use the table on the following page to determine the resource value.
+
+If the property for which an A/R owns a life estate is the A/R’s principal place of residence, apply the homeplace exclusion.
+
+ When the owner of the property gives it to one party in the form of a life estate and designates a second party to inherit it upon the death of the life estate holder, the second party has a remainder interest in the property.
+
+ If an A/R purchases a life estate interest in another individual’s home the purchase price will be considered a transfer of resource, unless the purchaser resides in the home for at least one year (12 months) from the date of purchase (12 months must be consecutive).
+
+ When making the determination of whether the 12-month residency requirement was met look at factors like was the person’s mail delivered there, did they pay property taxes etc.
+Brief rehabilitation stays or vacations do not necessarily negate the residency, but this is a factual inquiry that must be conducted on the particular case.
+If the A/R who purchased the life estate moves out prior to the end of the12 month period, a transfer of assets penalty must be imposed.
+The uncompensated value is the full amount paid for the life estate as if the individual never moved into the home.
+
+ If purchase price was not for fair market value, then a transfer penalty must be applied.
+If the purchaser’s life expectancy is less than the value of the life estate or they make a gift of the life estate impose a transfer penalty.
+
+ ​ Remainder Interest
+
+ The value of a remainder interest in non-homeplace property is a countable resource for all A/Rs.
+
+ If an A/R transfers ownership of real property and retains life interest, he/she has transferred remainder interest. 
+Consider a transfer of resources penalty on the value of the remainder interest.
+
+ ​ Transfer of Assets Penalty
+
+ If an A/R transfers life estate interest, consider a transfer of assets penalty on the value of the life estate interest.
+See 2342 Transfer of Assets .
+
+ ​ Procedures
+
+Step 1
+
+ Obtain copies of legal documents which convey the life estate or remainder interest.
+
+Step 2
+
+ Determine if this has been the primary or only residence of the A/R and that it is not the purchase of a life estate in another person’s property.
+If the life estate meets this criteria, exclude the life estate interest value from countable resources.
+If not, proceed to Step 3. Determine if a transfer of resource penalty should be applied for a remainder interest.
+
+Step 3
+
+ If the A/R has purchased a life estate interest in another’s home, the following conditions must be met for the value of the life estate interest to be excluded from resources:
+
+ The A/R must have resided in the home for a minimum of twelve months after the date of purchase.
+If the A/R moves out of the home prior to the expiration of the twelve-month period, it is the same as if the A/R had never moved into the home.
+
+ Determine if the purchase price of the life estate was for the fair market value.
+
+ Determine if the person’s life expectancy is equal to or greater than the value of the life estate purchased.
+
+ The life estate must not be gifted to anyone.
+
+ If the life estate did not meet all of these criteria, impose a transfer of assets penalty.
+Refer to 2342 Transfer of Assets .
+
+Step 4
+
+ Verify the CMV, minus any encumbrances, of any property in which an A/R owns a life estate interest, or any liquid asset in which an A/R owns a life estate interest, or in which an A/R owns a remainder interest.
+Evaluate as a potential countable asset or transfer of asset.
+
+Step 5
+
+ If the life estate or remainder interest has a countable resource value that puts the A/R over the resource limit, close/deny the case.
+If the life estate results in the imposition of a penalty, the penalty may result in denial/closure or in non-payment of the long-term care Medicaid services.
+Refer to 2342 Transfer of Assets .
+
+ Use the following chart to determine the resource value of a life estate or remainder interest.
+Multiply the CMV, minus any encumbrances, of the property by the life estate or remainder interest decimal that corresponds to the life estate interest holder’s age.
+Always use the life estater’s age to determine the value of a life estate or remainder interest.
+
+ Chart 2322.1 - Unisex Life Estate or Remainder Interest Table 
+
+ AGE 
+ LIFE ESTATE 
+ REMAINDER 
+
+ 0
+
+ .97188
+
+ .02812
+
+ 1
+
+ .98988
+
+ .01012
+
+ 2
+
+ .99017
+
+ .00983
+
+ 3
+
+ .99008
+
+ .00992
+
+ 4
+
+ .98981
+
+ .01019
+
+ 5
+
+ .98938
+
+ .01062
+
+ 6
+
+ .98884
+
+ .01116
+
+ 7
+
+ .98822
+
+ .01178
+
+ 8
+
+ .98748
+
+ .01252
+
+ 9
+
+ .98663
+
+ .01337
+
+ 10
+
+ .98565
+
+ .01435
+
+ 11
+
+ .98453
+
+ .01547
+
+ 12
+
+ .98329
+
+ .01671
+
+ 13
+
+ .98198.
+
+ .01802
+
+ 14
+
+ .98066
+
+ .01934
+
+ 15
+
+ .97937
+
+ .02063
+
+ 16
+
+ .97815
+
+ .02185
+
+ 17
+
+ .97700
+
+ .02300
+
+ 18
+
+ .97590
+
+ .02410
+
+ 19
+
+ .97480
+
+ .02520
+
+ 20
+
+ ..97365
+
+ .02635
+
+ 21
+
+ .97245
+
+ .02755
+
+ 22
+
+ .97120
+
+ .02880
+
+ 23
+
+ .96986
+
+ .03014
+
+ 24
+
+ .96841
+
+ .03159
+
+ 25
+
+ .96678
+
+ .03322
+
+ 26
+
+ .96495
+
+ .03505
+
+ 27
+
+ .96290
+
+ .03710
+
+ 28
+
+ .96062
+
+ .03938
+
+ 29
+
+ .95813
+
+ .04187
+
+ 30
+
+ .95543
+
+ .04457
+
+ 31
+
+ .95254
+
+ .04746
+
+ 32
+
+ .94942
+
+ .05058
+
+ 33
+
+ .94608
+
+ .05392
+
+ 34
+
+ .94250
+
+ .05750
+
+ 35
+
+ .93868
+
+ .06132
+
+ 36
+
+ .93460
+
+ .06540
+
+ 37
+
+ .93026
+
+ .06974
+
+ 38
+
+ .92567
+
+ .07433
+
+ 39
+
+ .92083
+
+ .07917
+
+ 40
+
+ .91571
+
+ .08429
+
+ 41
+
+ .91030
+
+ .08970
+
+ 42
+
+ .90457
+
+ .09543
+
+ 43
+
+ .89855
+
+ .10145
+
+ 44
+
+ .89221
+
+ .10779
+
+ 45
+
+ .88558
+
+ .11442
+
+ 46
+
+ .87863
+
+ .12137
+
+ 47
+
+ .87137
+
+ .12863
+
+ 48
+
+ .86374
+
+ .13626
+
+ 49
+
+ .85578
+
+ .14422
+
+ 50
+
+ .84743
+
+ .15257
+
+ 51
+
+ .83674
+
+ .16126
+
+ 52
+
+ .82969
+
+ .10731
+
+ 53
+
+ .82028
+
+ .17972
+
+ 54
+
+ .81054
+
+ .18946
+
+ 55
+
+ .80046
+
+ .19954
+
+ 56
+
+ .79006
+
+ .20994
+
+ 57
+
+ .77931
+
+ .22069
+
+ 58
+
+ .76822
+
+ .23178
+
+ 59
+
+ .75675
+
+ .24325
+
+ 60
+
+ .74491
+
+ .25509
+
+ 61
+
+ .73267
+
+ .26733
+
+ 62
+
+ .72002
+
+ .27998
+
+ 63
+
+ .70696
+
+ .29304
+
+ 64
+
+ .69352
+
+ .30648
+
+ 65
+
+ .67970
+
+ .32030
+
+ 66
+
+ .66551
+
+ .33449
+
+ 67
+
+ .65098
+
+ .34902
+
+ 68
+
+ .63610
+
+ .36390
+
+ 69
+
+ .62086
+
+ .37914
+
+ 70
+
+ .60522
+
+ .39478
+
+ 71
+
+ .58914
+
+ .41086
+
+ 72
+
+ .57261
+
+ .42739
+
+ 73
+
+ .55571
+
+ .44429
+
+ 74
+
+ .53862
+
+ .46138
+
+ 75
+
+ .52149
+
+ .47851
+
+ 76
+
+ .50441
+
+ .49559
+
+ 77
+
+ .48742
+
+ .51258
+
+ 78
+
+ .47049
+
+ .52951
+
+ 79
+
+ .45357
+
+ .54643
+
+ 80
+
+ .43659
+
+ .56341
+
+ 81
+
+ .41967
+
+ .58033
+
+ 82
+
+ .40295
+
+ .59705
+
+ 83
+
+ .38642
+
+ .61358
+
+ 84
+
+ .36998
+
+ .63002
+
+ 85
+
+ .35359
+
+ .64641
+
+ 86
+
+ .33764
+
+ .66236
+
+ 87
+
+ .32262
+
+ .67738
+
+ 88
+
+ .30859
+
+ .69141
+
+ 89
+
+ .29526
+
+ .70474
+
+ 90
+
+ .28221
+
+ .71779
+
+ 91
+
+ .26955
+
+ .73045
+
+ 92
+
+ .25771
+
+ .74229
+
+ 93
+
+ .24692
+
+ .75308
+
+ 94
+
+ .23728
+
+ .76272
+
+ 95
+
+ .22887
+
+ .77113
+
+ 96
+
+ .22181
+
+ .77819
+
+ 97
+
+ .21550
+
+ .78450
+
+ 98
+
+ .21000
+
+ .79000
+
+ 99
+
+ .20486
+
+ .79514
+
+ 100
+
+ .19975
+
+ .80025
+
+ 101
+
+ .19532
+
+ .80468
+
+ 102
+
+ .19054
+
+ .80946
+
+ 103
+
+ .18437
+
+ .81563
+
+ 104
+
+ .17856
+
+ .82144
+
+ 105
+
+ .16962
+
+ .83038
+
+ 106
+
+ .15488
+
+ .84512
+
+ 107
+
+ .13409
+
+ .86591
+
+ 108
+
+ .10068
+
+ .89932
+
+ 109
+
+ .04545
+
+ .95455
+
+ 2321 Japanese American and Aleutian Restitution Payments 
+ 2323 Life Insurance Policies 
+
+ This page was built using the Georgia Department of Human Services Antora UI .

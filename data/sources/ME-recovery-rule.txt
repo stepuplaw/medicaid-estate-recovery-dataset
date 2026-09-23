@@ -1,0 +1,324 @@
+Source URL: https://www.maine.gov/sos/sites/maine.gov.sos/files/content/assets/c7s005.docx
+Retrieved: 2026-09-23
+Note: docx downloaded with curl, text extracted with python zipfile
+
+
+TABLE OF CONTENTS
+PAGE
+
+5.01 STATUTORY AUTHORITY 1
+
+5.02 DEFINITIONS. 1
+
+5.02-1  Assets   1
+5.02-2  Department  1
+5.02-3  Dependent   1
+5.02-4  Disability  1
+5.02-5  Estate  1
+5.02-6  Health Maintenance Activities  2
+5.02-7  Income  2
+5.02-8  Institutional Care  2
+5.02-9  Legal Interest at Death  2
+5.02-10  Life Estate 2
+5.02-11  Long Term Care Partnership Program  2
+5.02-12  Member  3
+5.02-13  Personal Care Services 3
+
+5.03 ELIGIBILITY.  3
+
+5.04 RECOVERY PROCEDURE  3
+
+5.05 NOTICE  5
+
+5.06 TIME OF CLAIM  5
+
+5.07 GENERAL REQUIREMENTS FOR ALL WAIVERS 5
+
+5.08 WAIVERS 8
+
+5.09 ESTATE RECOVERY EXEMPTION WITH QUALIFIED LONG TERM CARE INSURANCE PARTNERSHIP POLICY 10
+
+5.10 CLAIM REDUCTION 11
+
+5.11 AGENCY REVIEW 12
+
+5.01 STATUTORY AUTHORITY
+
+The following statutory authorities govern the definitions and rules defined under this Section of the MaineCare Benefits Manual:
+
+ 22 M.R.S. §§ 14 (2-I), 42, 3173
+ 22 M.R.S. §3174-GG
+ 42 U.S.C. §1396a (a) (18)
+ 42 U.S.C. §1396p (b)
+ Centers for Medicare and Medicaid Services (CMS,) Medicaid State Plan Amendment (Maine), TN-21-0013 (approved December 16, 2021)
+ P.L. 2021, ch. 398 
+
+5.02 DEFINITIONS
+
+ 5.02-1 Assets means property, real or personal, tangible or intangible, or any interest therein, and anything that may be the subject of ownership. It includes assets conveyed to a survivor, heir or assignee of the deceased Member through a tenancy in common, survivorship, life estate, living trust, joint tenancy in personal property or other similar arrangement.
+
+5.02-2 Department is the Department of Health and Human Services.
+
+5.02-3  Dependent is:
+
+A. A surviving spouse; or
+
+B. A surviving child who is under age twenty-one (21); or
+
+C. A surviving adult child who is blind or permanently and totally disabled.
+
+5.02-4 Disability exists when an individual has been determined to be disabled using the Supplemental Security Income standards by the Social Security Administration or has been determined to be disabled pursuant to the Maine State Retirement System.
+
+5.02-5 Estate includes: 
+
+  A. All real and personal property and other assets included in the Member’s estate, as defined in 18-C M.R.S. §1-201; and 
+
+  B. Any other real and personal property and other assets in which the Member has any legal interest at the time of death, to the extent of that interest, including assets conveyed to a survivor, heir or assign of the deceased through tenancy in common, survivorship, life estate, living trust, joint tenancy in personal property or other arrangement, but not including joint tenancy in real property. 
+5.02 DEFINITIONS (cont.)
+
+5.02-6 Health Maintenance Activities as used in this Chapter include nursing, personal care services and additional activities for a Member who otherwise would perform the activities if the Member were physically and/or cognitively able to do so, and which help the Member to live in the home and community. These additional activities include, but are not limited to, catheterization, ostomy care, preparation of food and tube feedings, bowel treatments, administration of medications, care of skin with damaged integrity, occupational and physical therapy activities such as assistance with prescribed exercise regimes, and transportation.
+
+5.02-7 Income: as defined by 42 U.S.C.§1382a.
+
+5.02-8 Institutional Care as used in this Chapter is care given in any MaineCare reimbursable facility providing twenty-four (24) hour care, food, shelter, and treatment services. This includes but is not limited to private non-medical institutions, nursing facilities, adult family care homes, intermediate care facilities for persons with Intellectual Disabilities (ICF-IID), psychiatric hospitals, residential care facilities, and assisted living facilities.
+
+5.02-9 Legal interest at Death for purposes of this section means a legal interest immediately prior to death.
+
+5.02-10 Life Estate is ownership of real property, of which the Member had a legal interest at death. Ownership is limited to the term of life, usually that of the owner of the life estate, and may have other conditions attached, such as occupancy. Life estates can be acquired by inheritance or by purchase, or can be retained when property is sold, such as when the individual sells the right to ownership after death and retains the right to ownership during their lifetime. 
+ 
+ In order to determine the Member’s legal interest at death in the Life Estate, utilize Appendix E to Chapter 332 of the MaineCare Eligibility Manual - Life Estate and Remainder Interest Table. Using the age of the individual on the date of death, find the amount in the column, "Life Estate" and multiply it by the fair market value of the property at the time of death. This is the amount recoverable by MaineCare against the remainderman of the Life Estate.
+
+5.02-11 Long-term Care Insurance Partnership Program is a program authorized by 22 M.R.S. §3174-GG and allows for a specified amount of assets to be protected from estate recovery if a Member has purchased a qualified long-term care insurance policy. The policy must meet the definition of a “qualified long-term care insurance policy” that is found in section 7702B (b) of the Internal Revenue Code of 1986 and Part 14, Section 4.1 of the MaineCare Eligibility Manual.
+
+The term “long-term care insurance policy” includes a certificate issued under a group insurance contract.
+
+5.02 DEFINITIONS (cont.)
+
+5.02-12 Member is an individual who receives MaineCare benefits. 
+
+5.02-13 Personal Care Services as used in this Chapter are activities of daily living (ADL) and instrumental activities of daily living (IADL) provided to or personally supervised for a Member who does not reside in an institutional setting. ADLs include bed mobility, transfer, locomotion, eating, toilet use, bathing, and dressing. IADLs include meal preparation, routine housework, grocery shopping and storage of purchased groceries, and laundry done either within the residence or at an outside laundry facility. 
+
+5.03 ELIGIBILITY
+
+ Following the death of a Member, the Department shall assert a claim against the estate of that Member or the Member’s beneficiary for MaineCare benefits that the Member received when:
+
+A. The Member owned undisclosed property or other assets during the period when MaineCare benefits were paid for the Member and disclosure of the property or assets at the time benefits were being paid would have rendered the Member ineligible to receive the benefits; or 
+
+B. The Member was fifty-five (55) years of age or older when the Member received MaineCare benefits; or 
+
+C. The Member received or was entitled to receive benefits for nursing facility services, long-term care services, or other institutional care services under a long-term-care insurance policy and MaineCare paid for those services on behalf of the Member. This paragraph shall not apply in the case of an individual who was entitled to receive benefits under an insurance policy meeting the requirement of the Long-term Care Insurance Partnership Program described in Section 5.02-10 to the extent that payments are made under that policy. 
+
+Effective November 24, 2021, the Department’s claim is limited to the amount paid by MaineCare for all nursing facility services, home and community-based services, and related hospital and prescription drug services paid on behalf of the Member.
+
+5.04 RECOVERY PROCEDURE
+
+Assets subject to recovery pursuant to this section will be identified primarily through the MaineCare eligibility process. This method is not intended to be exclusive and assets may be identified through any legal means. 
+
+5.04 RECOVERY PROCEDURE (cont.)
+
+5.04-1 Processing Claims against Assets
+
+When it is determined that a MaineCare Member's estate is subject to recovery, the Department may file:
+
+A. A claim in Probate Court against all assets included in the deceased Member's estate. The process for filing such a claim is governed by existing provisions of the Probate Code regarding creditors' claims. See 18-C M.R.S. Article 3, Part 8. 
+
+B. A claim in any court of competent jurisdiction against real and personal property and other assets in which the Member had any legal interest at death to the extent of that interest. 
+
+C. A claim in any court of competent jurisdiction or any other legal means to recover the cost of medical services provided during a period of inaccurate eligibility. A notice of intent to recover shall be provided prior to filing suit.
+
+D. If asserted against the estate, a claim may not be enforced until:
+
+1. The Member has no surviving spouse; and
+
+2. The Member has no surviving child who is under age twenty-one (21);  or 
+
+3. The Member has no surviving child who is blind or permanently and totally disabled. For the purposes of this section, a surviving child must be blind or determined to be disabled at the time the Department seeks recovery. 
+
+The time the Department seeks recovery means the earlier of (1) the date of the Department’s notice of claim to the legally authorized representative of the estate or known family members or heirs; or (2) the date on which the Department files a claim in Probate Court.*
+
+*The Department shall submit to CMS and anticipates approval for a State Plan Amendment related to these provisions.
+
+E. The Department shall provide heirs, assignees or transferees of a deceased Member an opportunity to pay a claim under this subsection through a voluntary payment arrangement that is acceptable to the Department. The payment arrangement may consist of a payment plan, promissory note, or other payment mechanism.
+
+ 5.04-2 A claim made under this section must be waived if enforcement of the claim would create an undue hardship under criteria described herein or if the costs of collection are 
+5.04 RECOVERY PROCEDURE (cont.)
+
+  likely to exceed the amount recovered. A waiver may be granted in full or in part. A waiver may not be granted if the Member or waiver applicant acted to lose, diminish, divest, encumber or otherwise transfer any value of or title to an asset for the purpose of preventing recovery under this subsection.
+
+ 5.04-3 The Department may accept, hold, transfer title to and sell real property to collect a claim under this subsection. The Department may receive title to real property from a personal representative, special or public administrator, creditor, heir, devisee, assignee or transferee in full or partial satisfaction of a claim under this subsection. 
+
+Claims in subparagraphs above will be pursued against the person who holds the property or asset in which the Member had a legal interest at death, other than a bona fide purchaser for value. If the asset or property is transferred or dissipated with intent to avoid the Department's claim, such action will be considered fraudulent and the person responsible will be held liable.
+
+5.05 NOTICE
+
+A. Reasonable efforts to give notice of Estate Recovery requirements to Members will be made at the time of application for MaineCare.
+
+B. Reasonable efforts to give notice will be provided pursuant to the relevant provisions of the Probate Code or to the legally authorized representative of the Member’s estate when recovery is being sought. If there is no legally authorized representative, the State shall make reasonable efforts to notify known family Members or heirs. If no one comes forward on the Member’s behalf to settle the estate, the State may seek appointment as personal representative as a creditor pursuant to the Probate Code. Notice shall include the action the State intends to take, the basis for the action, the amount sought to be recovered and a copy of these rules.
+
+C. Lack of notice pursuant to this section does not bar application of Estate Recovery.
+
+5.06 TIME OF CLAIM
+
+ A claim will not be enforced until the deceased Member has no surviving dependent. 
+
+5.07 GENERAL REQUIREMENTS FOR ALL WAIVERS
+
+A claim under 5.03(B) may be waived if enforcement of the claim would cause an undue hardship for the person, providing that the person holds a beneficial interest in the Member’s estate, as defined in this Section, and properly requests a hardship waiver. An applicant may request an undue hardship waiver because the applicant is reliant upon the assets of the estate or 
+
+5.07 GENERAL REQUIREMENTS FOR ALL WAIVERS (cont.)
+
+an undue hardship waiver based upon care given to the Member. The specific requirements for each type of waiver are set forth below. To qualify for a waiver, a person who is not a son or daughter of the deceased member must also be an adult, aged eighteen (18) or over. If a determination is made that an undue hardship exists, the Department may waive all or a portion of its claim.
+
+Only one (1) waiver, undue hardship, or undue hardship based on care given will be granted per estate.
+
+A. Application process: A person applying to the Department for consideration of an undue hardship waiver (“the applicant”) must comply with the following: 
+
+  1. An applicant must file an application on a form prescribed by the Department; and 
+
+  2. The request for an undue hardship waiver must be made within six (6) months from the Member’s death or within sixty (60) days from the notice of the Department’s claim, whichever is later; and
+
+  3. The applicant must be either the son or daughter of the Member or an adult aged eighteen (18) or older; and
+
+  4. The Department may require the applicant to submit any information and documentation regarding the applicant’s and all household Member’s finances, tax returns, property, employment, liabilities, expenses, and any other matters relevant and necessary to determine whether an undue hardship would result from recovery. If the information requested by the Department is not provided within sixty (60) days of the written request of the Department, or if the request is materially incomplete the request for an undue hardship waiver may be denied; and
+
+5. The applicant must prove that they have a beneficial interest in the estate:
+
+through a legal right to the property of the estate through a will;
+through the law of intestate succession; or
+must establish to the Department’s satisfaction by providing written documentation that the applicant:
+
+cohabitated with the Member for the five consecutive years prior to the Member’s most recent eligibility for MaineCare benefits; 
+provided significant support for the household and to maintain property in the estate during that time; and 
+
+5.07 GENERAL REQUIREMENTS FOR ALL WAIVERS (cont.)
+
+along with the Member held themselves out to the public as married or in a civil union; and 
+
+Should the applicant’s beneficial interest in the estate be less than 100%, the Department must reduce the undue hardship waiver, if granted, to meet the applicant’s beneficial interest; and
+
+If the applicant is securing agreement from other heirs to increase their legal interest in the estate, the applicant must do so through irrevocable assignment by the other heirs; and
+
+For all applicants claiming a beneficial interest in the estate, if the asset of concern to the applicant is the decedent’s home, the applicant must prove that the home was the applicant’s primary residence for two or more years immediately prior to the death of the MaineCare recipient, that the applicant’s contribution to the upkeep of the house was significant, and that it was the understanding and belief of both the MaineCare recipient and the applicant that this was the home of both the applicant and the MaineCare recipient; and
+
+Only one waiver application per estate may be submitted to the Department. The applicant may only request one type of waiver per application; and 
+
+The Department shall determine whether an undue hardship exists within ninety (90) days from the date of the receipt of all information requested. Appropriate notice of the decision will be sent to the person making the request. All decisions regarding the undue hardship waiver will be provided in writing and provide an explanation if the application is denied. The written decision must also provide information about how to appeal the denial to the Department’s Administrative Hearings Unit.
+
+ B. Limitations on waiver requests: An undue hardship does not exist if any of the following are present: 
+
+The decedent or applicant created the undue hardship by using estate planning, gifting or other methods to divert or shelter assets to avoid estate recovery; or
+
+The circumstances indicate that the undue hardship was created for the purposes of avoiding or defeating recovery, including, but not limited to, undue influence on the decedent by the applicant or other family Members; 
+
+5.07 GENERAL REQUIREMENTS FOR ALL WAIVERS (cont.)
+
+The sole basis for the request is lack of income pursuant to section 5.08(a)(1)(b) below and sale of the real property in the estate will net the applicant more than $10,000.00. In determining whether the sale of real property will net the applicant more than $10,000.00, the Department may establish the value of the real property based upon:
+
+a. Municipal Tax valuation;
+b. An appraisal report issued within the past year;
+c. Real Estate professional’s estimate of fair market value;
+d. Sales history for the real estate; or
+e. Other information establishing a fair market value for the real property.
+
+5.08 WAIVERS
+
+UNDUE HARDSHIP WAIVER
+
+  An applicant may request a waiver of a claim under§5.03(B) if enforcement of the claim would cause an undue hardship for the applicant.
+
+  Eligibility criteria for an undue hardship waiver: The applicant must demonstrate they have a beneficial interest in the estate and that the applicant is dependent upon the assets of the estate, as defined below. 
+
+Dependence upon Estate Assets: The applicant must demonstrate their financial circumstances require them to rely upon the assets of the estate by meeting one of the following criteria:
+
+The estate assets or property received by survival or distribution are part of a business, including a working farm, 
+
+upon which the applicant was dependent for applicant’s livelihood during the decedent’s lifetime, and
+
+the recovery of which by the Department would deprive the applicant of their sole means of livelihood, 
+
+or
+
+The applicant’s household income and asset level combined is less than 180% of the Federal Poverty Income level. The request shall contain a written statement of the circumstances constituting the hardship and all supporting documentation. The income and asset level of the applicant for the 52 weeks 
+5.08 WAIVERS (cont.)
+
+preceding the Member’s death plus the applicant’s income and assets at the time of application shall be used to determine waiver eligibility. The Department may also request the applicant’s previous two years of income preceding the Member’s death and any other financial information that may support the application.
+
+B. UNDUE HARDSHIP WAIVER BASED ON CARE GIVEN EXEMPTION 
+
+MaineCare may exempt a portion of a Member’s estate from estate recovery for health maintenance activities and personal care services performed for the Member by one individual who has a beneficial interest in the Estate. If the current income level of the 
+waiver applicant is below two hundred percent (200%) of the current Federal Poverty Income Level, adjusted for the person’s household size, MaineCare may designate a portion of a Member’s estate as exempt from its estate recovery efforts if a person can demonstrate that health care maintenance activities or personal care services have been provided to a Member, as outlined below:
+
+1. The applicant requesting the care given exemption provided health maintenance activities or personal care services as defined herein to the decedent during part or all of the two (2) years immediately prior to the Member’s death or institutionalization, enabling the decedent to remain at home and avoid institutionalization for an equivalent period of time. The person requesting the exemption must provide corroborating statements from the decedent’s primary care physician or other approved medical care provider acceptable to MaineCare. 
+
+2. Any care given exemption granted will not exceed the value of MaineCare benefits paid on behalf of the Member, which would otherwise be subject to Estate Recovery. Following the approval of the undue hardship waiver based on a care given exemption, the Department will use one of the following formulas to determine the exempt amount: 
+
+If the decedent received 24 hour a day care including health maintenance and personal care activities defined in Sections 5.02-6 and 5.02-12, that enabled the decedent to remain at home and avoid placement in institutional care as described in Section 5.02-8, and MaineCare was not paying for in home services at the time,  the Department may grant an exemption not to exceed thirty-two thousand dollars ($32,000) per year, prorated for each month of approved care given*; or
+
+ b. If the decedent received care including personal care services and/or health maintenance activities less than those services he or she would have received in institutional care as described in Section 5.02-8, the Department may grant an exemption not to 
+
+5.08 WAIVERS (cont.)
+
+  exceed twelve thousand dollars ($12,000) per year, pro-rated for each month of approved care given; or
+
+ c. If the decedent received approved care for three (3) or more health maintenance or personal care activities defined in Section 5.02 everyday, the maximum exemption of twelve thousand dollars ($12,000) per year may be granted; or
+
+ d. If the decedent received approved care for three (3) or more health maintenance or personal care activities defined in Section 5.02 at least three (3) times per week, a maximum exemption of six thousand dollars ($6,000) per year may be granted. 
+
+These allowances are in place to assist the Member in maintaining independent living at home and reduce overutilization of institutional services. In circumstances where an applicant may qualify for more than one level of care, the highest amount for one application will be granted.
+
+3. Health care maintenance activities or personal care services previously used during the application process to reduce a transfer of assets cannot be counted again toward a care given exemption or a claim reduction. 
+
+4. All care given exemptions will be based on and limited to the two (2) year time period immediately prior to the Member’s death or institutionalization. 
+
+5. An applicant may not be granted a waiver pursuant to this section for any services rendered to a Member and for which the applicant received compensation, either monetary or non-monetary. 
+
+5.09 ESTATE RECOVERY EXEMPTION WITH QUALIFIED LTC INSURANCE PARTNERSHIP POLICY
+
+ If a Member covered under a long-term care insurance policy received benefits for which assets or resources were disregarded through the MaineCare Eligibility process as outlined in the MaineCare Eligibility Manual, Part 14, Section 4.1, the Department will not seek adjustment or recovery from the Member’s estate for the amount of assets or resources disregarded. The amount of disregard for estate recovery is equal to the total amount of the insurance benefits paid to or on behalf of the individual.
+
+ Before applying an exemption for a qualified long term care insurance policy described under this subsection, the Department must determine that the policy is a qualifying long term care insurance policy. The Department will verify the policy by reviewing the list of qualified policies posted on the Maine Bureau of Insurance website at http://www.maine.gov/pfr/insurance/.
+
+5.09 ESTATE RECOVERY EXEMPTION WITH QUALIFIED LTC INSURANCE PARTNERSHIP POLICY (cont.)
+
+ The Member needs to ensure that any long term care insurance policy, for which an exemption is sought, qualifies for an exemption under the criteria adopted by the Bureau of Insurance. This can be done by contacting an eligibility specialist in the Department’s Office for Family Independence (OFI).
+
+ Within 60 days of notice of the Department’s claim, the amount of benefits paid to the Member or on the Member’s behalf must be confirmed by the Department. This time period may be extended if reasonable efforts have been made to obtain the confirmation information. If the amount is not confirmed, the Department will use the amount disregarded when eligibility was first determined as the value of the exemption unless a different amount is proven before recovery occurs. Evidence of the amounts paid may be submitted in the form of statements from the insurer or other reliable claims payment information. The Department may request additional information relevant to the exemption prior to final recovery.
+
+5.10 CLAIM REDUCTION
+
+When the collection of the Department’s claim would otherwise deplete the estate fully, the Department, at its discretion may reduce its claim in order to permit whole or partial reimbursement of an heir or devisee for use of personal resources to protect against damage or loss of value to the Member’s vacant* real property occurring during the Member’s last two years that the Member was institutionalized if the Member executed a Department approved Intent to Return Home form and delivered that signed form to the eligibility office. 
+
+For claims of real property upkeep and preservation following the Member’s death, any expenses beyond two years following the death will not be allowed unless the estate provides a plan for payment of the claim that is approved by the Department.
+
+B. The heir or devisee must request such reduction in writing, and the request must be supported by proof of payments made and the reasonableness of such payments.
+
+ All reasonable requests for a claim reduction will be considered on an individual basis. The procedure for making a request is as follows:
+
+A request for claim reduction must be made within six (6) months from the Member’s death or within thirty (30) days from the notice of the Department’s claim, whichever is later.
+
+  2. The request must contain a written statement of the circumstances constituting the claim reduction and all supporting documentation.
+
+C. The Department may request additional information, which must be provided within sixty (60) days of the request. If the information is not provided within sixty (60) days,
+5.10 CLAIM REDUCTION (cont.)
+
+ the request for claim reduction may be denied. The information requested may include but not be limited to the following:
+
+Will or bequest instructions; and/or
+
+Receipts/documentation of personal resources used to maintain property or pay Member debts.
+
+D. All decisions regarding the claim reduction will be provided in writing.
+
+5.11  AGENCY REVIEW
+
+ A decision pursuant to this section is final unless within thirty (30) days of the date of the decision, the person making the request sends a written request for agency review to:
+
+    Estate Recovery
+    Office of MaineCare Services
+    Department of Health and Human Services
+    11 State House Station
+    Augusta, Maine 04333-0011
+
+ The agency review shall be conducted through the Department's Office of Administrative Hearings.
+
+If the person making the request is dissatisfied with the final decisions of the Office of Administrative Hearings, he/she may appeal this final agency decision to the Superior Court.

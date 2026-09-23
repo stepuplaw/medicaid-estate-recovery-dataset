@@ -1,0 +1,304 @@
+Source URL: https://www.oklegislature.gov/cf_pdf/2019-20%20int/sb/SB251%20int.pdf
+Retrieved: 2026-09-23
+
+1                                STATE OF OKLAHOMA
+
+2                   1st Session of the 57th Legislature (2019)
+
+3    SENATE BILL 251                         By: Daniels
+
+4
+
+5
+
+6                                    AS INTRODUCED
+
+7           An Act relating to medical expense recovery; amending
+            63 O.S. 2011, Section 5051.1, which relates to
+8           recovery from tortfeasors of amounts paid for medical
+            expenses; requiring Oklahoma Health Care Authority to
+9           use third party to handle certain processes related
+            to specified medical expense recovery; requiring
+10          Oklahoma Department of Insurance to make certain
+            selection; and providing an effective date.
+11
+
+12
+
+13   BE IT ENACTED BY THE PEOPLE OF THE STATE OF OKLAHOMA:
+
+14       SECTION 1.      AMENDATORY       63 O.S. 2011, Section 5051.1, is
+
+15   amended to read as follows:
+
+16       Section 5051.1.   A.   1.    The payment of medical expenses by the
+
+17   Oklahoma Health Care Authority for or on behalf of or the receipt of
+
+18   medical assistance by a person who has been injured or who has
+
+19   suffered a disease as a result of the negligence or act of another
+
+20   person creates a debt to the Authority, subject to recovery by legal
+
+21   action pursuant to this section.     Damages for medical costs are
+
+22   considered a priority over all other damages and should be paid by
+
+23   the tortfeasor prior to other damages being allocated or paid.
+
+24
+
+
+     Req. No. 929                                                   Page 1
+1        2.   The payment of medical expenses by the Authority for or on
+
+2    behalf of a person who has been injured or who has suffered a
+
+3    disease, and either has a claim or may have a claim against an
+
+4    insurer, to the extent recoverable, creates a debt to the Authority
+
+5    whether or not such person asserts or maintains a claim against an
+
+6    insurer.
+
+7        B.   The Authority shall provide notice to all recipients of
+
+8    medical assistance at the time of application for such assistance of
+
+9    their obligation to report any claim or action, and any judgment,
+
+10   settlement or compromise arising from the claim or action, for
+
+11   injury or illness for which the Authority makes payments for medical
+
+12   assistance.
+
+13       C.   The recipient of medical assistance from the Authority for
+
+14   an injury or disease who asserts a claim or maintains an action
+
+15   against another on account of the injury or disease, or the
+
+16   recipient's legal representative, shall notify the Authority of the
+
+17   claim or action and of any judgment, settlement or compromise
+
+18   arising from the claim or action prior to the final judgment,
+
+19   settlement or compromise.
+
+20       D.   If the injured or diseased person asserts or maintains a
+
+21   claim against another person or tortfeasor on account of the injury
+
+22   or disease, the Authority:
+
+23       1.   Shall have a lien upon payment of the medical assistance to
+
+24   the extent of the amount so paid upon that part going or belonging
+
+
+     Req. No. 929                                                  Page 2
+1    to the injured or diseased person of any recovery or sum had or
+
+2    collected or to be collected by the injured or diseased person up to
+
+3    the amount of the damages for the total medical expenses, or by the
+
+4    heirs, personal representative or next of kin in case of the death
+
+5    of the person, whether by judgment or by settlement or compromise.
+
+6    The lien authorized by this subsection shall:
+
+7             a.    be inferior only to a lien or claim of the attorney or
+
+8                   attorneys handling the claim on behalf of the injured
+
+9                   or diseased person, the heirs or personal
+
+10                  representative,
+
+11            b.    not be applied or considered valid against any
+
+12                  temporary or permanent disability award of the
+
+13                  claimant due under the Workers' Compensation Act,
+
+14            c.    be applied and considered valid as against any insurer
+
+15                  adjudged responsible for medical expenses under the
+
+16                  Workers' Compensation Act, and
+
+17            d.    be applied and considered valid as to the entire
+
+18                  settlement, after the claim of the attorney or
+
+19                  attorneys for fees and costs, unless a more limited
+
+20                  allocation of damages to medical expenses is shown by
+
+21                  clear and convincing evidence;
+
+22       2.   May take any other legal action necessary to recover the
+
+23   amount so paid or to be paid to the injured or diseased person or to
+
+24
+
+
+     Req. No. 929                                                Page 3
+1    the heirs, personal representative or next of kin in case of the
+
+2    death of the person; and
+
+3        3.   Shall have the right to file a written notice of its lien in
+
+4    any action commenced by the injured or diseased person.
+
+5        E.   The Authority, to secure and enforce the right of recovery
+
+6    or reimbursement on behalf of the injured or diseased person, may
+
+7    initiate and prosecute any action or proceeding against any other
+
+8    person or tortfeasor who may be liable to the injured or diseased
+
+9    person, if the injured or diseased person has not initiated any
+
+10   legal proceedings against the other person or tortfeasor.
+
+11       F.   Any person or insurer that has been notified by the
+
+12   Authority of a claim of lien authorized by this section and who,
+
+13   directly or indirectly, pays to the recipient any money as a
+
+14   settlement or compromise of the recipient's claim arising out of the
+
+15   injury shall be liable to the Authority for the money value of the
+
+16   medical assistance rendered by the Authority in an amount not in
+
+17   excess of the amount to which the recipient was entitled to recover
+
+18   from the tortfeasor or insurer because of the injury.
+
+19       G.   A Medicaid special needs trust for the purposes of
+
+20   establishing or maintaining Medicaid eligibility shall not be
+
+21   approved until such time as the Authority has been made whole and
+
+22   paid in full for all paid medical claims which are associated with
+
+23   the action.
+
+24
+
+
+     Req. No. 929                                                   Page 4
+1        H.   A Medicaid recipient must notify the Authority prior to a
+
+2    compromise or settlement against a third party in which the
+
+3    Authority has provided or has become obligated to provide medical
+
+4    assistance.
+
+5        I.   In order to enforce its rights and interests as set forth in
+
+6    this section, the Authority shall use an outside third party to
+
+7    handle all administrative and legal processes directly related to
+
+8    medical expense recovery pursuant to this section.   The outside
+
+9    third party shall be a private entity and shall be selected by the
+
+10   Oklahoma Department of Insurance pursuant to a Request for Proposal.
+
+11       J.   As used in this section:
+
+12       1.   "Medical expenses" includes the cost of hospital, medical,
+
+13   surgical and dental services, care and treatment, rehabilitation,
+
+14   and prostheses and medical appliances, and nursing and funeral
+
+15   services;
+
+16       2.   "Person" includes, in addition to an individual, the
+
+17   guardian of an individual, and the administrator or executor of the
+
+18   estate of an individual, and a corporation; and
+
+19       3.   "Insurer" means any insurance company that administers
+
+20   accident and health policies or plans or that administers any other
+
+21   type insurance policy containing medical provisions, and any
+
+22   nonprofit hospital service and indemnity and medical service and
+
+23   indemnity corporation, actually engaged in business in the state,
+
+24
+
+
+     Req. No. 929                                                  Page 5
+1    regardless of where the insurance contract is written, or plan is
+
+2    administered or where such corporation is incorporated.
+
+3        SECTION 2.   This act shall become effective November 1, 2019.
+
+4
+
+5        57-1-929       TEK       2/12/2019 9:01:50 AM
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+
+     Req. No. 929                                                Page 6
+

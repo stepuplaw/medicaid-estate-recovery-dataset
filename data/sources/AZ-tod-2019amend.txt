@@ -1,0 +1,173 @@
+Source URL: https://www.azleg.gov/legtext/54Leg/1R/laws/0019.pdf
+Retrieved: 2026-09-23
+
+                                                          Senate Engrossed
+
+
+
+
+State of Arizona
+Senate
+Fifty-fourth Legislature
+First Regular Session
+2019
+
+
+
+
+                            CHAPTER 19
+
+                   SENATE BILL 1218
+                                  AN ACT
+
+AMENDING SECTION 33-405, ARIZONA REVISED STATUTES; RELATING TO BENEFICIARY
+DEEDS.
+
+
+                    (TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+                                 - i -
+     S.B. 1218
+
+
+
+
+ 1   Be it enacted by the Legislature of the State of Arizona:
+ 2         Section 1. Section 33-405, Arizona Revised Statutes, is amended to
+ 3   read:
+ 4         33-405. Beneficiary deeds; recording; definitions
+ 5         A. A deed that conveys an interest in real property, including any
+ 6   debt secured by a lien on real property, to a grantee beneficiary
+ 7   designated by the owner and that expressly states that the deed is
+ 8   effective on the death of the owner transfers the interest to the
+ 9   designated grantee beneficiary effective on the death of the owner subject
+10   to all conveyances, assignments, contracts, mortgages, deeds of trust,
+11   liens, security pledges and other encumbrances made by the owner or to
+12   which the owner was subject during the owner's lifetime.
+13         B. A beneficiary deed may designate multiple grantees who take
+14   title as joint tenants with right of survivorship, tenants in common, a
+15   husband and wife as community property or as community property with right
+16   of survivorship, or any other tenancy that is valid under the laws of this
+17   state.   UNLESS THE BENEFICIARY DEED PROVIDES OTHERWISE, THE INTEREST IN
+18   REAL PROPERTY CONVEYED BY A BENEFICIARY DEED IS THE SEPARATE PROPERTY OF
+19   THE NAMED GRANTEE BENEFICIARY AND IS NOT COMMUNITY PROPERTY.
+20         C. A    beneficiary   deed  may   designate   a   successor  grantee
+21   beneficiary. If the beneficiary deed designates a successor grantee
+22   beneficiary, the deed shall state the condition on which the interest of
+23   the successor grantee beneficiary would vest. UNLESS THE BENEFICIARY DEED
+24   PROVIDES OTHERWISE, IF THERE ARE NO GRANTEE BENEFICIARIES NAMED IN THE
+25   BENEFICIARY DEED WHO SURVIVE THE OWNER, THE BENEFICIARY DEED IS VOID AND
+26   SECTION 14-2603 DOES NOT APPLY.
+27         D. If real property is owned as joint tenants with the right of
+28   survivorship or as community property with the right of survivorship, a
+29   deed that conveys an interest in the real property to a grantee
+30   beneficiary designated by all of the then surviving owners and that
+31   expressly states that the deed is effective on the death of the last
+32   surviving owner transfers the interest to the designated grantee
+33   beneficiary effective on the death of the last surviving owner. If a
+34   beneficiary deed is executed by fewer than all of the owners of real
+35   property owned as joint tenants with right of survivorship or community
+36   property with right of survivorship, the beneficiary deed is valid if the
+37   last surviving owner is one of the persons who executes the beneficiary
+38   deed. If the last surviving owner did not execute the beneficiary deed,
+39   the transfer shall lapse and the deed is void. An estate in joint tenancy
+40   with right of survivorship or community property with right of
+41   survivorship is not affected by the execution of a beneficiary deed that
+42   is executed by fewer than all of the owners of the real property, and the
+43   rights of a surviving joint tenant with right of survivorship or a
+44   surviving spouse in community property with right of survivorship shall
+45   prevail over a grantee beneficiary named in a beneficiary deed.
+
+                                      - 1 -
+     S.B. 1218
+
+
+
+
+ 1         E. A beneficiary deed is valid only if the deed is executed and
+ 2   recorded as provided by law in the office of the county recorder of the
+ 3   county in which the property is located before the death of the owner or
+ 4   the last surviving owner. A beneficiary deed may be used to transfer an
+ 5   interest in real property to the trustee of a trust even if the trust is
+ 6   revocable.
+ 7         F. A beneficiary deed may be revoked at any time by the owner or,
+ 8   if there is more than one owner, by any of the owners who executed the
+ 9   beneficiary deed.   To be effective, the revocation must be executed and
+10   recorded as provided by law in the office of the county recorder of the
+11   county in which the real property is located before the death of the owner
+12   who executes the revocation.     If the real property is owned as joint
+13   tenants with right of survivorship or community property with right of
+14   survivorship and if the revocation is not executed by all the owners, the
+15   revocation is not effective unless executed by the last surviving owner.
+16         G. If an owner executes and records more than one beneficiary deed
+17   concerning the same real property, the last beneficiary deed that is
+18   recorded before the owner's death is the effective beneficiary deed.
+19         H. This section does not prohibit other methods of conveying
+20   property that are permitted by law and that have the effect of postponing
+21   enjoyment of an interest in real property until the death of the owner.
+22   This section does not invalidate any deed otherwise effective by law to
+23   convey title to the interests and estates provided in the deed that is not
+24   recorded until after the death of the owner.
+25         I. The signature, consent or agreement of or notice to a grantee
+26   beneficiary of a beneficiary deed is not required for any purpose during
+27   the lifetime of the owner.
+28         J. A beneficiary deed that is executed, acknowledged and recorded
+29   in accordance with this section is not revoked by the provisions of a
+30   will.
+31         K. A beneficiary deed is sufficient if it complies with other
+32   applicable laws and if it is in substantially the following form:
+33                                    Beneficiary Deed
+34               I (we) _________________________ (owner) hereby convey
+35         to _______________ (grantee beneficiary) effective on my (our)
+36         death the following described real property:
+37                                  (Legal description)
+38               If a grantee beneficiary predeceases the owner, the
+39         conveyance to that grantee beneficiary shall either (choose
+40         one):
+
+
+
+
+                                      - 2 -
+     S.B. 1218
+
+
+
+
+ 1              [] Become null and void.
+ 2              [] Become   part   of  the      estate   of   the    grantee
+ 3        beneficiary.
+ 4                                              _________________________
+ 5                                              (Signature of grantor(s))
+ 6               (acknowledgment).
+ 7         L. The instrument of revocation shall be sufficient if it complies
+ 8   with other applicable laws and is in substantially the following form:
+ 9                             Revocation of Beneficiary Deed
+10               The undersigned hereby revokes the beneficiary deed
+11         recorded on ___________ (date), in docket or book __________
+12         at page ________, or instrument number ____________, records
+13         of ________________ county, Arizona.
+14                                          Dated: _______________________
+15                                          ______________________________
+16                                                    Signature
+17               (acknowledgment).
+18         M. For the purposes of this section:
+19         1. "Beneficiary deed" means a deed authorized under this section.
+20         2. "Owner" means any person who executes a beneficiary deed as
+21   provided in this section.
+
+
+
+
+     APPROVED BY THE GOVERNOR MARCH 22, 2019.
+
+     FILED IN THE OFFICE OF THE SECRETARY OF STATE MARCH 22, 2019.
+
+
+
+
+                                      - 3 -
+

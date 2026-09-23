@@ -1,0 +1,375 @@
+Source URL: https://www.medicaid.gov/medicaid/spa/downloads/MA-21-0017.pdf
+Retrieved: 2026-09-23
+Note: PDF downloaded via WebFetch, text extracted with pdftotext
+
+                                           Table of Contents
+
+State/Territory Name: Massachusetts
+
+State Plan Amendment (SPA) #: 21-0017
+
+This file contains the following documents in the order listed:
+
+
+
+1)      Approval Letter
+
+2)      CMS-179
+
+3)      Approved SPA Pages
+DEPARTMENT OF HEALTH & HUMAN SERVICES
+Centers for Medicare & Medicaid Services
+601 E. 12th St., Room 355
+Kansas City, Missouri 64106
+
+
+Medicaid and CHIP Operations Group
+
+
+
+August 1, 2021
+
+MaryLou Sudders, Secretary
+The Commonwealth of Massachusetts
+Executive Office of Health and Human Services
+Office of Medicaid
+One Ashburton Place, Room 1109
+Boston, MA 02108
+
+Re: Massachusetts State Plan Amendment (SPA) 21-0017
+
+Dear Secretary Sudders:
+
+We reviewed your proposed Medicaid State Plan Amendment (SPA) submitted under transmittal
+number (TN) 21-0017. This amendment proposes to XSGDWH WKH GHILQLWLRQ RI XQGXH KDUGVKLS IRU
+HVWDWH UHFRYHU\ XSGDWH WKH VWDWH¶V GHWHUPLQDWLRQ RI FRVW HIIHFWLYHQHVV IRU HVWDWH UHFRYHU\ FODULI\
+WKH SURFHVV IRU H[HPSWLQJ FHUWDLQ DVVHWV IURP HVWDWH UHFRYHU\ IRU $PHULFDQ ,QGLDQV DQG $ODVND
+1DWLYHV DQG XSGDWH WKH OLPLWDWLRQV WR HVWDWH UHFRYHU\ IRU DQ\ SUHPLXPV SDLG RQ EHKDOI RI WKH
+PHPEHU
+
+We conducted our review of your submittal according to statutory requirements in Title XIX of
+the Social Security Act and implementing regulations 42 CFR 433.36. This letter is to inform
+you that Massachusetts Medicaid SPA Transmittal Number 21-0017 is approved effective May
+14, 2021.
+
+If you have any questions, please contact Marie DiMartino at 978-330-8063 or via email at
+Marie.DiMartino@cms.hhs.gov.
+                                            Sincerely,
+
+
+
+                                              James G Scott, Director
+                                              Division of Program Operations
+Revision:   HCFA-PM-95-3 (MB)                                                           Attachment 4.17-A
+May 1995                                                                                           Page 2
+                          State Plan under Title XIX of the Social Security Act
+                                      State: Massachusetts
+                                      General Program Administration
+
+
+                               Liens and Adjustments or Recoveries (cont.)
+
+4.    For claims presented on or after November 15, 2003, but before May 14, 2021, the state defines
+      undue hardship as follows:
+
+      a.    If the sale of real property would be required to satisfy a claim, repayment is waived if an
+            individual who was using the property as a principal place of residence on the date of the
+            recipient’s death meets all of the following conditions: (1) the individual lived in the property
+            on a continual basis for at least a year immediately prior to the recipient becoming eligible and
+            continues to live in the property at the time the Commonwealth first presented its claim for
+            recovery against the recipient’s estate; (2) the individual was left an interest in the property
+            under the deceased recipient’s will, inherited the property under the laws of intestacy, or the
+            recipient’s legal title or interest otherwise passes to the individual by operation of law; (3) the
+            individual is not being forced to sell the property by other devisees or heirs; and (4) at the time
+            the state first presented its claim, the annual gross income of the individual’s family group was
+            less than or equal to 133% of the applicable poverty level income standard.
+
+      b.    The waiver will be conditional for a period of two years from the date that the state or a court of
+            competent jurisdiction determines that the waiver conditions have been met. If, at the end of
+            that period, all circumstances and conditions that must exist for the state to waive recovery still
+            exist and the real property has not been sold or transferred, the waiver will become permanent
+            and binding. If at any time during the two-year period the circumstances and conditions that
+            must exist for the state to waive recovery no longer exist, the state will be notified and the
+            state’s claim will be payable in full.
+
+            Any waivers arising out of notice of claims presented before May 14, 2021, which did not
+            become permanent and binding pursuant to the two-year conditional requirements, and which
+            had not been satisfied and were still subject to the two-year conditional requirements became
+            permanent and binding as of May 14, 2021.
+
+5.    For claims presented before November 15, 2003, that are still outstanding:
+
+      a.    For claims presented between April 1, 1995 and November 15, 2003, that are still outstanding,
+            recovery will be waived if all requirements under the then-existing regulations were met.
+
+      b.    For claims presented before April 1, 1995, a waiver for hardship did not exist.
+
+6. For claims presented on or after May 14, 2021, the state defines undue hardship as follows:
+
+      a.    Waiver of Estate Recovery Due to Residence and Financial Hardship. Recovery will be waived
+            if MassHealth determines all of the following conditions have been met:
+
+            1) if the sale of real property would be required to satisfy a claim; and
+            2) an individual who was using the property as a principal place of residence on the date of the
+            member’s death meets all of the following conditions:
+
+
+
+
+TN: 021-017                           Approval Date: 8/1/21                       Effective Date: 05/14/2021
+Supersedes: 03-024
+Revision:   HCFA-PM-95-3 (MB)                                                            Attachment 4.17-A
+May 1995                                                                                          Page 2a
+                          State Plan under Title XIX of the Social Security Act
+                                      State: Massachusetts
+                                      General Program Administration
+
+
+
+                (a) the individual lived in the property on a continual basis for at least two years prior to the
+                member’s admission to an institution or death and continues to live in the property at the
+                time the MassHealth agency first presented its claim for recovery against the deceased
+                member’s estate;
+                (b) the individual has inherited or received an interest in the property from the deceased
+                member’s estate;
+                (c) the individual is not being forced to sell the property by other devisees or heirs at law;
+                and
+                (d) at the time the MassHealth agency first presented its claim for recovery against the
+                deceased member’s estate, the annual gross income of the individual’s family group was
+                less than or equal to 133% of the applicable poverty level income standard for the
+                appropriate family size.
+
+     b.     Waiver of Estate Recovery Based on Care Provided. For an heir or devisee inheriting a legal
+            interest in the deceased member’s home, MassHealth will waive estate recovery if MassHealth
+            determines to its satisfaction all of the following conditions have been met:
+
+            1) the heir or devisee resided in the member’s home on a continual basis for two years prior to
+               the member’s admission to an institution or death;
+            2) during that time, the member needed and the heir or devisee provided a level of care that
+               avoided the member’s admission to a facility;
+            3) the heir or devisee continues to live in the property at the time the notice of claim is filed;
+            4) the heir or devisee was left an interest in the home under the member’s will, or inherited the
+               property under the laws of intestacy;
+            5) the heir is not being forced to sell the property by other devisees or heirs; and
+            6) the property would have to be sold to satisfy the claim.
+
+     c.     Waiver of Estate Recovery Due to Financial Hardship Based on Income.
+
+            1) The personal representative or public administrator of a member’s estate may apply for a
+               waiver of estate recovery due to financial hardship based on the income of an heir or heirs
+               or devisee or devisees. If there are multiple heirs or devisees, the personal representative or
+               public administrator must apply for an Income-based waiver separately on behalf of each
+               individual. To be considered a qualifying heir or devisee, the personal representative or
+               public administrator of the estate must establish:
+                 (a) The qualifying heir or devisee is inheriting an interest in the member’s estate under
+                 the member’s probate estate; and
+                 (b) The family group of a qualifying heir or devisee has a Gross Income below 400% of
+                 the federal poverty level for the two year period prior to the date the notice of claim is
+                 filed.
+                 If MassHealth determines that both conditions have been met, the heir is considered a
+                 qualifying heir.
+
+              2) MassHealth will waive recovery in an amount equal to the value of the qualifying heir’s
+                 or devisee’s interest in the estate up to a maximum of $50,000 per qualifying heir or
+                 devisee. If there is more than one qualifying heir or devisee in an estate, the total amount
+
+
+TN: 021-017                           Approval Date: 8/1/21                        Effective Date: 05/14/2021
+Supersedes: NEW (03-024)
+Revision:   HCFA-PM-95-3 (MB)                                                         Attachment 4.17-A
+May 1995                                                                                       Page 2b
+                         State Plan under Title XIX of the Social Security Act
+                                     State: Massachusetts
+                                     General Program Administration
+
+
+             3) of the agency’s estate recovery claim waived for qualifying heirs or devisees shall be
+                limited to a total of $100,000.
+
+             4) An estate with qualifying heirs or devisees, regardless of whether or not there are non-
+                qualifying heirs, will be subject to estate recovery based on the lesser of:
+                (a) the value of the estate remaining after deducting the amount waived from the total
+                value of the estate for qualifying heirs and devisees; or
+                (b) the amount of the MassHealth claim remaining after deducting the amount waived
+                from the total value of the MassHealth claim.
+
+             5)    Example 1. The value of the estate is $400,000 and the MassHealth claim is $60,000.
+                  There are two heirs who qualify for the waiver, each with an interest in the estate of
+                  $50,000 or greater. There are also two heirs who do not qualify. In this example, the
+                  waived amount is $100,000 (50,000 + 50,000). After deducting the $100,000 waived
+                  amount from the estate there is $300,000 left in the estate, but after deducting the
+                  $100,000 waived amount from the $60,000 MassHealth claim there is nothing left in the
+                  MassHealth claim. The result is no estate recovery.
+
+             6) Example 2. The value of the estate is $350,000 and the MassHealth claim is $500,000.
+                There are two qualifying heirs, each with an interest in the estate of $50,000 or greater.
+                There are also two non-qualifying heirs. In this example, the waived amount is $100,000
+                (50,000 + 50,000). After deducting the $100,000 waived amount from the estate there is
+                $250,000 left in the estate, and after deducting the $100,000 waived amount from the
+                $500,000 MassHealth claim there is $400,000 remaining in the MassHealth claim. In this
+                example, MassHealth would recover $250,000, since it is less than $400,000.
+
+
+
+
+TN: 021-017                         Approval Date: 8/1/21                       Effective Date: 05/14/2021
+Supersedes: NEW (03-024)
+Revision:   HCFA-PM-95-3 (MB)                                                           Attachment 4.17-A
+May 1995                                                                                           Page 3
+                           State Plan under Title XIX of the Social Security Act
+                                       State: Massachusetts
+                                       General Program Administration
+
+
+                               Liens and Adjustments or Recoveries (cont.)
+
+7.    The following standards and procedures are used by the state for waiving estate recoveries when
+      recovery would cause an undue hardship, and when recovery is not cost-effective: When the state
+      presents its claim, it notifies the estate of the requirements for undue hardship and requests that the
+      estate within 60 days submit verification and documentation that the individual meets the
+      requirements set forth in #6 above. If the state disagrees with the estate’s contention that the
+      requirements for undue hardship have been met, it files suit to enforce its claim and a Court makes the
+      determination as to the state’s rights. Criteria for determining cost-effectiveness are set forth below
+      and are considered on a case-by-case basis.
+
+8.    The state defines cost-effective as follows (include methodology/thresholds used to determine cost-
+      effective): In determining cost-effectiveness, the state considers the costs and availability of
+      resources, the amount of its claim, the assets in the estate, and the likelihood of actual recovery.
+
+      Effective for dates of death on or after May 14, 2021, in probate estates of members where the
+      probate petition certifies under the penalties of perjury that the total assets in a member’s estate are
+      valued at $25,000 or less, MassHealth has determined that it is not cost effective to pursue recovery.
+      In Massachusetts, estates valued at $25,000 or less may be eligible for voluntary administration. After
+      considering the likelihood of actual recovery, amount of recovery, staff time and cost incurred to
+      pursue estate recovery in voluntary probate estates valued at $25,000 or less, MassHealth has
+      determined that it is not cost effective to file a claim in such cases. MassHealth reserves the right to
+      file a claim and recover in such estates if probate filings do not sufficiently identify the value of the
+      estate or if later probate filings or proceedings or investigation identify or establish that the total
+      assets in the estate exceed $25,000.
+
+
+9.    The state uses the following collection procedures (include specific elements contained in the advance
+      notice requirement, the method for applying for a waiver, hearing and appeals procedures, and time
+      frames involved): with respect to claims filed against the recipient’s probate estate, the state may
+      present its claim by filing notice with the Probate Court within four months of the executor or
+      administrator being appointed or by filing a civil suit within one year of date of death; with respect to
+      claims filed against any real and personal property and other assets not includable in the recipient’s
+      probate estate, but in which the recipient immediately prior to death had any legal title or interest, the
+      state may within one year of date of death or within four months of receipt of a complete estate asset
+      form, give notice to the person or entity to whom the recipient’s legal title or interest passed, and in
+      the case of real property, file a written notice of claim with the registry of deeds where the property
+      lies. The state notifies the estate when it presents its claim of the requirements for undue hardship.
+      (See #7 above.) If the estate disallows the state’s claim either because it does not believe the claim to
+      be valid or because of hardship, the state has 60 days to file suit and a Court makes the determination
+      of the state’s rights.
+
+10.   The state uses the following procedure to exempt certain assets from estate recovery for American
+      Indians and Alaska Natives: Upon application for exemption of certain assets from estate recovery by
+      the personal representative or public administrator of the member’s estate, recovery from American
+      Indian and Alaska Natives income, resources, and property will be waived:
+
+
+
+TN: 021-017                           Approval Date: 8/1/21                       Effective Date: 05/14/2021
+Supersedes: 03-024
+Revision:   HCFA-PM-95-3 (MB)                                                           Attachment 4.17-A
+May 1995                                                                                         Page 3a
+                          State Plan under Title XIX of the Social Security Act
+                                      State: Massachusetts
+                                      General Program Administration
+
+
+
+
+     a.     certain income and resources (such as interests in and income derived from tribal land and other
+            resources currently held in trust status and judgment funds from the Indian Claims Commission
+            and the U.S. Claims Court) that are exempt from Medicaid estate recovery by other laws and
+            regulations;
+
+     b.     ownership interest in trust and non-trust property, including real property and improvements:
+            Waiver of Estate Recovery Due to Residence and Financial Hardship. Recovery will be waived
+            if MassHealth determines all of the following conditions have been met:
+
+              1) located on a reservation (any federally recognized Indian tribe’s reservation, pueblo, or
+                 colony, including former reservations in Oklahoma, Alaska Native regions established by
+                 the Alaska Native Claims Settlement Act, and Indian allotments) or near a reservation as
+                 designated and approved by the Bureau of Indian Affairs of the U.S. Department of the
+                 Interior; or
+              2) for any federally recognized tribe not described in 130 CMR 501.013(G)(1)(b)1., located
+                 within the most recent boundaries of a prior federal reservation;
+
+     c.     income left as a remainder in an estate derived from property protected in 130 CMR
+            501.013(G)(1)(b), that was either collected by an Indian or by a tribe or tribal organization and
+            distributed to Indians, as long as the individual can clearly trace it as coming from protected
+            property;
+
+     d.     ownership interests left as a remainder in an estate in rents, leases, royalties, or usage rights
+            related to natural resources, including extraction of natural resources or harvesting of timber,
+            other plants and plant products, animals, fish, or fish products, resulting from the exercise of
+            federally protected rights and income either collected by an Indian or by a tribe or tribal
+            organization and distributed to Indians derived from these sources as long as the individual can
+            clearly trace it as coming from protected sources; or
+
+     e.     ownership interests in or usage rights to items not covered by 130 CMR 501.013(G)(1)(a)
+            through (d) that have unique religious, spiritual, traditional, or cultural significance or rights
+            that support subsistence or a traditional life style according to applicable tribal law or custom.
+
+
+
+
+TN: 021-017                           Approval Date: 8/1/21                       Effective Date: 05/14/2021
+Supersedes: NEW (03-024)
+Revision:   HCFA-PM-95-3 (MB)                                                                  Page 53c
+            May, 1995                                                                         OMB No.:
+                        State Plan under Title XIX of the Social Security Act
+                                       State: Massachusetts
+
+
+
+Citation                  4.17 Lien and Recoveries (cont.)
+
+                               (c) Adjustments or Recoveries: Limitations
+
+                                   The state complies with the requirements of section 1917 (b) (2) of
+                                   the Act and regulations at 42 CFR §433.36 (h)-(i).
+
+                                   (1)   Adjustment or recovery of medical assistance correctly paid
+                                         will be made only after the death of the individual’s surviving
+                                         spouse, and only when the individual has no surviving child
+                                         who is either under age 21, blind, or disabled.
+
+                                   (2)   With respect to liens on the home of any individual who the
+                                         state determines is permanently institutionalized and who must
+                                         as a condition of receiving services in the institution apply
+                                         their income to the cost of care, the state will not seek
+                                         adjustment or recovery of medical assistance correctly paid on
+                                         behalf of the individual until such time as none of the
+                                         following individuals are residing in the individual’s home:
+
+                                         (a)   a sibling of the individual (who was residing in the
+                                               individual’s home for at least one year immediately
+                                               before the date that the individual was institutionalized),
+                                               or
+
+                                         (b)   a child of the individual (who was residing in the
+                                               individual’s home for at least two years immediately
+                                               before the date that the individual was institutionalized)
+                                               who establishes to the satisfaction of the state that the
+                                               care the child provided permitted the individual to reside
+                                               at home rather than become institutionalized.
+
+                                   (3)   No money payments under another program are reduced as a
+                                         means of adjusting or recovering Medicaid claims incorrectly
+                                         paid.
+
+                                   (4)   With respect to dates of death on or after December 31, 2016,
+                                         MassHealth will offset the estate recovery claim by the total of
+                                         any premiums paid to the MassHealth agency on behalf of the
+                                         member when the member was 55 years of age or older.
+
+
+
+
+TN: 021-017                         Approval Date: 8/1/21                   Effective Date: 05/14/2021
+Supersedes: 95-012
+

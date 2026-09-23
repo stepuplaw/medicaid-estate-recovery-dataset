@@ -1,0 +1,540 @@
+Source URL: https://www.arkleg.state.ar.us/Home/FTPDocument?path=%2FBills%2F2023R%2FPublic%2FHB1394.pdf
+Retrieved: 2026-09-23
+
+          Stricken language would be deleted from and underlined language would be added to present law.
+
+
+
+ 1   State of Arkansas
+ 2   94th General Assembly                        A Bill
+ 3   Regular Session, 2023                                                             HOUSE BILL 1394
+ 4
+ 5   By: Representatives Maddox, Lundstrum
+ 6   By: Senator C. Penzo
+ 7
+ 8                                     For An Act To Be Entitled
+ 9                  AN ACT TO AMEND AND UPDATE THE LAW ON SPENDTHRIFT
+10                  TRUSTS; TO ALLOW FOR THE CREATION OF A DOMESTIC ASSET
+11                  PROTECTION TRUST; AND FOR OTHER PURPOSES.
+12
+13
+14                                                 Subtitle
+15                           TO UPDATE THE LAW ON SPENDTHRIFT TRUSTS;
+16                           AND TO ALLOW FOR THE CREATION OF A
+17                           DOMESTIC ASSET PROTECTION TRUST.
+18
+19
+20   BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF ARKANSAS:
+21
+22          SECTION 1.       Arkansas Code Title 28, Chapter 72, is amended to add an
+23   additional subchapter to read as follows:
+24        Subchapter 7 - Spendthrift Trusts and Domestic Asset Protection Trusts
+25
+26          28-72-701.       Definitions.
+27          As used in this subchapter:
+28          (1)    “Adviser” means any person, including without limitation an
+29   accountant, attorney, or investment adviser, who gives advice concerning or
+30   was involved in the creation of, transfer of property to, or administration
+31   of a spendthrift trust or domestic asset protection trust, or who
+32   participated in the preparation of accountings, tax returns, or other reports
+33   related to a trust;
+34          (2)    “Creditor” means a person with a claim;
+35          (3)    "Document" means a will, trust, or instrument;
+36          (4)    "Domestic asset protection trust" means a self-settled, first-
+
+
+
+     *LHR051*                                                                  2/9/2023 11:37:11 AM LHR051
+                                                                              HB1394
+
+
+ 1   party spendthrift trust;
+ 2         (5)   "Remainder beneficiary" means a person entitled to receive
+ 3   principal when an income interest ends;
+ 4         (6)   "Settlor" means:
+ 5               (A)    The person who creates a spendthrift trust or domestic asset
+ 6   protection trust as described in the trust instrument; or
+ 7               (B)    Any person who contributes assets to a spendthrift trust or
+ 8   domestic asset protection trust as to the assets that he or she contributed
+ 9   to the spendthrift trust or domestic asset protection trust except to the
+10   extent of consideration for the assets contributed by that person; and
+11         (7)   “Spendthrift trust” means a trust that, by its terms, imposes a
+12   valid restraint on the voluntary and involuntary transfer of the interest of
+13   the beneficiary.
+14
+15         28-72-702.    Applicability - Third-party spendthrift trust and domestic
+16   asset protection trust - Requirements.
+17         (a)   Unless the document that creates the spendthrift trust or domestic
+18   asset protection trust expressly declares otherwise, this subchapter governs
+19   the construction, operation, and enforcement of all spendthrift trusts or
+20   domestic asset protection trusts in the State of Arkansas, regardless of
+21   whether the trust was created in or outside of the State of Arkansas, if:
+22               (1)    All or part of the lands, rents, issues, or profits affected
+23   are in the State of Arkansas;
+24               (2)    All or part of the personal property, interest of money,
+25   dividends upon stock, and other profits affected are in the State of
+26   Arkansas;
+27               (3)    The declared domicile of the creator of a spendthrift trust
+28   or domestic asset protection trust affecting personal property is in the
+29   State of Arkansas; or
+30               (4)    At least one (1) trustee qualified under subsection (b) of
+31   this section has powers that include maintaining records and preparing income
+32   tax returns for the trust and all or part of the administration of the trust
+33   is performed in the State of Arkansas.
+34         (b)   If a settlor is a beneficiary of a trust of the settlor's own
+35   creation, at least one (1) trustee of the domestic asset protection trust
+36   must be:
+
+                                          2              2/9/2023 11:37:11 AM LHR051
+                                                                                 HB1394
+
+
+ 1                (1)   A natural person who resides and has his or her domicile in
+ 2   the State of Arkansas;
+ 3                (2)   A trust company that:
+ 4                       (A)   Is organized under:
+ 5                             (i)     Federal law;
+ 6                             (ii)    The laws of the State of Arkansas; or
+ 7                             (iii)    The laws of another state; and
+ 8                       (B)   Maintains an office in the State of Arkansas for the
+ 9   transaction of business; or
+10                (3)   A bank that:
+11                       (A)   Is organized under:
+12                             (i)     Federal law;
+13                             (ii)    The laws of the State of Arkansas; or
+14                             (iii) The laws of another state;
+15                       (B)   Maintains an office in the State of Arkansas for the
+16   transaction of business; and
+17                       (C)   Possesses and exercises trust powers.
+18
+19        28-72-703.     Creation - Third-party spendthrift trusts and domestic
+20   asset protection trusts - Ability of settlor to hold other powers.
+21        (a)     A person competent to execute a will or deed may, only by a
+22   document that is duly executed, create a spendthrift trust in real, personal,
+23   or mixed property for the benefit of:
+24                (1)   A person other than the settlor; or
+25                (2)   For a domestic asset protection trust, the settlor or both
+26   the settlor and another person, if the document:
+27                       (A)   Is irrevocable;
+28                       (B)   Does not require that any part of the income or
+29   principal of the trust be distributed to the settlor; and
+30                       (C)   Is not intended to hinder, delay, or defraud known
+31   creditors.
+32        (b)     A document meets the requirements of subsection (a) of this
+33   section even if under the terms of the document the settlor:
+34                (1)   May prevent a distribution from the trust;
+35                (2)   Holds a special lifetime or testamentary power of
+36   appointment that cannot be exercised in favor of the settlor, the settlor's
+
+                                             3             2/9/2023 11:37:11 AM LHR051
+                                                                                 HB1394
+
+
+ 1   estate, a creditor of the settlor, or a creditor of the settlor's estate;
+ 2              (3)     Is a beneficiary of a trust that qualifies as a charitable
+ 3   remainder trust pursuant to 26 U.S.C. § 664, as it existed on January 1,
+ 4   2023, even if the settlor has the right to release the settlor's retained
+ 5   interest in the trust, in whole or in part, in favor of one (1) or more of
+ 6   the remainder beneficiaries of the trust;
+ 7              (4)     Is authorized or entitled to:
+ 8                       (A)   Receive a percentage of the value of the trust each
+ 9   year as specified in the trust instrument of the initial value of the trust
+10   assets or their value determined from time to time pursuant to the trust
+11   instrument, but not exceeding:
+12                             (i)    The amount that may be defined as income
+13   pursuant to 26 U.S.C. § 643(b), as it existed on January 1, 2023; or
+14                             (ii)   With respect to the benefits from any qualified
+15   retirement plan or any eligible deferred compensation plan, the minimum
+16   required distribution as defined in 26 U.S.C. § 4974(b), as it existed on
+17   January 1, 2023;
+18                       (B)   Receive income or principal from a grantor-retained
+19   annuity trust paying out a qualified annuity interest within the meaning of
+20   26 C.F.R. § 25.2702-3(b), as it existed on January 1, 2023, or a grantor
+21   retained unitrust paying out a qualified unitrust interest within the meaning
+22   of 26 C.F.R. § 25.2702-3(c); or
+23                       (C)   Use real property held under a qualified personal
+24   residence trust as described in 26 C.F.R. § 25.2702-5(c), as it existed on
+25   January 1, 2023; or
+26              (5)     Is authorized to:
+27                       (A)   Receive income or principal from the trust, but only
+28   subject to the discretion of another person; or
+29                       (B)   Use real or personal property owned by the trust.
+30        (c)   Except for the power of the settlor to make distributions to
+31   himself or herself without the consent of another person, the provisions of
+32   this section shall not be construed to prohibit the settlor of a spendthrift
+33   trust or domestic asset protection trust from holding other powers under the
+34   trust, regardless of whether the settlor is a cotrustee, including without
+35   limitation the power to:
+36              (1)     Remove and replace a trustee;
+
+                                            4              2/9/2023 11:37:11 AM LHR051
+                                                                                   HB1394
+
+
+ 1                  (2)   Direct trust investments; and
+ 2                  (3)   Execute other management powers.
+ 3         (d)(1)     No specific language is necessary for the creation of a
+ 4   spendthrift trust or domestic asset protection trust.
+ 5                  (2)   It is sufficient if, by the terms of the document, the
+ 6   creator manifests an intention to create a spendthrift trust or domestic
+ 7   asset protection trust.
+ 8
+ 9         28-72-704.      Powers of settlor.
+10         (a)   The settlor of a spendthrift trust or domestic asset protection
+11   trust has only the powers and rights that are conferred to the settlor by the
+12   trust instrument.
+13         (b)   An agreement or understanding, express or implied, between the
+14   settlor and the trustee that attempts to grant or permit the retention of
+15   greater rights or authority than is stated in the trust instrument is void.
+16
+17         28-72-705.      Beneficiaries - Named in writing - Provision for support -
+18   Income.
+19         (a)   The beneficiary of a spendthrift trust or domestic asset
+20   protection trust shall be named or clearly referred to in the document.
+21         (b)   No spouse, former spouse, child, or dependent shall be a
+22   beneficiary unless the person is named or clearly referred to as a
+23   beneficiary in the document.
+24         (c)   The provision for the beneficiary shall:
+25                  (1)   Be for the support, education, maintenance, and benefit of
+26   the beneficiary alone;
+27                  (2)   Be without reference to or limited by:
+28                         (A)   The beneficiary’s needs, station in life, or mode of
+29   life; or
+30                         (B)   The needs of any other person, regardless of whether
+31   the person is dependent upon the beneficiary; and
+32                  (3)   Extend to all of the income from the trust estate devoted
+33   for that purpose by the creator of the trust without exception or deduction
+34   other than for:
+35                         (A)   Costs or fees regularly earned, paid, or incurred by
+36   the trustee for the administration or protection of the trust estate; or
+
+                                             5               2/9/2023 11:37:11 AM LHR051
+                                                                                   HB1394
+
+
+ 1                        (B)   Taxes paid or incurred by:
+ 2                              (i)    The trust estate; or
+ 3                              (ii)   The interest of the beneficiary of the trust.
+ 4        (d)   The existence of a spendthrift trust or domestic asset protection
+ 5   trust shall not depend on the beneficiary's:
+ 6                 (1)   Character;
+ 7                 (2)   Capacity or incapacity; or
+ 8                 (3)   Competency or incompetency.
+ 9
+10        28-72-706.      Discretion of trustee.
+11        (a)   The trustee's discretionary power is absolute, regardless of
+12   whether a valid provision for the accumulation of trust income is made or if
+13   the provision relates to the trust income from real or personal property, in
+14   all cases where the creator of a spendthrift trust or domestic asset
+15   protection trust:
+16                 (1)   Indicates the sum to be applied for or paid to the
+17   beneficiary or makes the application or payment of sums for or to the
+18   beneficiary at the discretion of the trustee;
+19                 (2)   Makes the amount of trust income to be applied for or paid
+20   to the beneficiary at the discretion of the trustee; or
+21                 (3)   Gives the trustee the discretion to pay all or any part of
+22   the trust income to one (1) or more of the beneficiaries.
+23        (b)   A trustee's discretion under subsection (a) of this section shall
+24   not be interfered with for any consideration of the needs, station in life,
+25   or mode of life of the beneficiary, or for any uncertainty or pretext.
+26        (c)   The trustee of a spendthrift trust or domestic asset protection
+27   trust is required to disregard and defeat an assignment or other act,
+28   voluntary or involuntary, that is attempted contrary to the provisions of
+29   this subchapter.
+30
+31        28-72-707.      Restraints on alienation - Exclusive jurisdiction of court.
+32        (a)(1)      A spendthrift trust or domestic asset protection trust
+33   restrains and prohibits the assignment, alienation, acceleration, and
+34   anticipation of any interest of the beneficiary under the trust by the
+35   voluntary or involuntary act of the beneficiary, by operation of law, or any
+36   legal process.
+
+                                             6                2/9/2023 11:37:11 AM LHR051
+                                                                                    HB1394
+
+
+ 1                   (2)   The trust estate, corpus, or capital of a spendthrift trust
+ 2   or domestic asset protection trust shall not be assigned, aliened,
+ 3   diminished, or impaired by any alienation, transfer, or seizure that has the
+ 4   effect of cutting off or diminishing the payments, rents, profits, earnings,
+ 5   or income of the trust estate that would otherwise be currently available for
+ 6   the benefit of the beneficiary.
+ 7          (b)   A mandatory or discretionary payment by the trustee to the
+ 8   beneficiary shall be made only to or for the benefit of the beneficiary and
+ 9   not:
+10                   (1)   By acceleration or anticipation; or
+11                   (2)   To an assignee of the beneficiary or upon an order, written
+12   or oral, given by the beneficiary, regardless of whether the order is a
+13   voluntary contractual act of the beneficiary or is through any legal process,
+14   including without limitation:
+15                          (A)   A judgment;
+16                          (B)   An execution;
+17                          (C)   An attachment;
+18                          (D)   A garnishment;
+19                          (E)   A bankruptcy; or
+20                          (F)   A contract, tort, or duty.
+21          (c)(1)     The beneficiary shall not have the power or capacity to make
+22   any disposition of the trust income:
+23                          (A)   By his or her order, voluntary or involuntary; or
+24                          (B)   Upon the order or direction of any court or courts,
+25   whether bankruptcy or otherwise.
+26                   (2)   The interest of the beneficiary shall not be:
+27                          (A)   Subject to any process of attachment issued against
+28   the beneficiary; or
+29                          (B)   Taken in execution under any form of legal process
+30   directed against the beneficiary or against the trustee, trust estate, or any
+31   part of the income of the trust estate.
+32
+33          28-72-708.      Legal estate of beneficiary in corpus.
+34          (a)   A beneficiary of a spendthrift trust or domestic asset protection
+35   trust has no legal estate in the capital, principal, or corpus of the trust
+36   estate unless under the terms of the trust the beneficiary or a person
+
+                                                7              2/9/2023 11:37:11 AM LHR051
+                                                                                HB1394
+
+
+ 1   deriving title from the beneficiary is entitled to have it conveyed or
+ 2   transferred to him or her immediately or after a term of years or after a
+ 3   life in being.
+ 4        (b)    The income from the corpus is not to be paid to a specific
+ 5   beneficiary or any other beneficiary until any applicable term of years or
+ 6   life passes as described in subsection (a) of this section.
+ 7
+ 8        28-72-709.      Perpetuities.
+ 9        (a)    A spendthrift trust or domestic asset protection trust may not
+10   continue for a period longer than permitted under § 18-3-101 et seq.
+11        (b)(1)      The free alienation of the legal estate by the trustee may not
+12   be suspended for a period exceeding the limit prescribed in any
+13   constitutional or statutory prohibition against perpetuities existing in the
+14   State of Arkansas or in the state where the lands affected by the trust are
+15   situated.
+16                 (2)   Notwithstanding subsection (b)(1) of this section, a
+17   contingent remainder in fee may be created on a prior remainder in fee to
+18   take effect if the person to whom the first remainder is limited dies under
+19   twenty-one (21) years of age, or upon any other contingency by which the
+20   estate of that person may be determined before he or she attains twenty-one
+21   (21) years of age.
+22
+23        28-72-710.      Accumulation of income.
+24        (a)    The accumulation of income of trust property may be directed in
+25   the document creating a spendthrift trust or domestic asset protection trust
+26   for the benefit of one or more beneficiaries to commence within the time
+27   permitted for the vesting of a future interest, but shall not extend beyond
+28   the period limiting the time within which the absolute power of alienation of
+29   property may be suspended.
+30        (b)(1)      If the direction of the accumulation of income of trust
+31   property is for a longer term than is permitted by law, it is void only as to
+32   the excess time, regardless of whether the direction is separable from the
+33   other clauses in the trust.
+34                 (2)   In the case of invalidity of the direction of the
+35   accumulation of income of trust property, the income may be paid and
+36   distributed to the next succeeding beneficiary in interest.
+
+                                           8              2/9/2023 11:37:11 AM LHR051
+                                                                                 HB1394
+
+
+ 1
+ 2        28-72-711.      Alternate provisions - Discretion of settlor.
+ 3        A settlor of a spendthrift trust or domestic asset protection trust may
+ 4   by a document creating a spendthrift trust or domestic asset protection trust
+ 5   make separate, different, or alternate provisions other than what is set
+ 6   forth in §§ 28-72-701 - 28-72-710, so long as the settlor uses express,
+ 7   specific language establishing that intent.
+ 8
+ 9        28-72-712.      Transfer of property to trust - Actions against advisers,
+10   settlors, and trustees - Limitations.
+11        (a)   A person may not bring an action with respect to a transfer of
+12   property to a spendthrift trust or domestic asset protection trust if the
+13   person:
+14                 (1)   Is a creditor when the transfer is made, unless the action
+15   is commenced within:
+16                        (A)   Two (2) years after the transfer is made; or
+17                        (B)   Six (6) months after the person discovers or
+18   reasonably should have discovered the transfer, whichever is later; or
+19                 (2)   Becomes a creditor after the transfer is made, unless the
+20   action is commenced within two (2) years after the transfer is made.
+21        (b)   A person is deemed to have discovered a transfer under subsection
+22   (a) of this section at the time a public record is made of the transfer,
+23   including without limitation at the time of:
+24                 (1)   The conveyance of real property that is recorded in the
+25   office of the county recorder of the county in which the property is located;
+26   or
+27                 (2)   The filing of a financing statement under the Uniform
+28   Commercial Code, § 4-1-101 et seq.
+29        (c)(1)     A creditor shall not be awarded a judgment in an action with
+30   respect to a transfer of property to a spendthrift trust or domestic asset
+31   protection trust unless the creditor proves by clear and convincing evidence
+32   that the transfer of property:
+33                        (A)   Was a fraudulent transfer under the Uniform Voidable
+34   Transactions Act, § 4-59-201 et seq.; or
+35                        (B)   Violates a legal obligation owed to the creditor under
+36   a contract or a valid court order that is legally enforceable by that
+
+                                            9              2/9/2023 11:37:11 AM LHR051
+                                                                                   HB1394
+
+
+ 1   creditor.
+ 2                 (2)   In the absence of clear and convincing evidence, the
+ 3   property transferred is not subject to the claims of the creditor.
+ 4                 (3)   Clear and convincing evidence:
+ 5                        (A)   That is established by a creditor showing that a
+ 6   transfer of property was fraudulent or wrongful does not constitute clear and
+ 7   convincing evidence as to any other creditor; and
+ 8                        (B)   Of a fraudulent or wrongful transfer of property as to
+ 9   a creditor shall not invalidate any other transfer of property.
+10        (d)(1)     If property transferred to a spendthrift trust or domestic
+11   asset protection trust is conveyed to the settlor or to a beneficiary for the
+12   purpose of obtaining a loan secured by a mortgage or deed of trust on the
+13   property and is later reconveyed to the trust, for the purpose of bringing an
+14   action under subsection (a) of this section, the transfer is disregarded and
+15   the reconveyance relates back to the date the property was originally
+16   transferred to the trust.
+17                 (2)   The mortgage or deed of trust on the property shall be
+18   enforceable against the trust.
+19        (e)    A person shall not be awarded a judgment in an action against an
+20   adviser to the settlor or trustee of a spendthrift trust or domestic asset
+21   protection trust unless the person proves by clear and convincing evidence
+22   that the adviser:
+23                 (1) Acted knowingly and in bad faith in violation of the laws of
+24   the State of Arkansas; and
+25                 (2)   Directly caused the damages suffered by the person.
+26        (f)(1)     A person other than a beneficiary or settlor shall not be
+27   awarded a judgment in an action against a trustee of a spendthrift trust or
+28   domestic asset protection trust unless the person proves by clear and
+29   convincing evidence that the trustee:
+30                        (A)   Acted knowingly and in bad faith in violation of the
+31   laws of the State of Arkansas; and
+32                        (B)   Directly caused the damages suffered by the person.
+33                 (2)   As used in subsection (f) of this section, "trustee"
+34   includes a cotrustee and a predecessor trustee.
+35        (g)    If more than one transfer is made to a spendthrift trust or
+36   domestic asset protection trust:
+
+                                           10              2/9/2023 11:37:11 AM LHR051
+                                                                              HB1394
+
+
+ 1              (1)    The subsequent transfer to the spendthrift trust or domestic
+ 2   asset protection trust shall be disregarded for the purpose of determining
+ 3   whether a person may bring an action under to subsection (a) of this section
+ 4   with respect to a prior transfer to the spendthrift trust or domestic asset
+ 5   protection trust; and
+ 6              (2)    Any distribution to a beneficiary from the spendthrift trust
+ 7   or domestic asset protection trust shall be deemed to have been made from the
+ 8   most recent transfer made to the spendthrift trust or domestic asset
+ 9   protection trust.
+10        (h)   Notwithstanding any other provision of law, no action of any kind,
+11   including without limitation an action to enforce a judgment entered by a
+12   court or other body having adjudicative authority, shall be brought at law or
+13   in equity against the trustee of a spendthrift trust or domestic asset
+14   protection trust if, as of the date the action is brought, an action by a
+15   creditor with respect to a transfer to the spendthrift trust or domestic
+16   asset protection trust would be barred pursuant to this section.
+17        (i)   For purposes of this section, if a trustee exercises his or her
+18   discretion or authority to distribute trust income or principal to or for a
+19   beneficiary of the spendthrift trust or domestic asset protection trust, by
+20   appointing the property of the original spendthrift trust or domestic asset
+21   protection trust in favor of a second spendthrift trust or domestic asset
+22   protection trust for the benefit of one (1) or more of the beneficiaries
+23   under the Trustee Division of Trusts Act, § 28-69-701 et seq., the time of
+24   the transfer for purposes of this section shall be deemed to have occurred on
+25   the date the settlor of the original spendthrift trust or domestic asset
+26   protection trust transferred assets into the original spendthrift trust or
+27   domestic asset protection trust, regardless of whether the property of the
+28   original spendthrift trust or domestic asset protection trust may have been
+29   transferred to a second spendthrift trust or domestic asset protection trust.
+30
+31        28-72-713.     Trust administered under laws of another state or
+32   jurisdiction.
+33        (a)   A trust administered under the laws of another state or another
+34   jurisdiction is a spendthrift trust or domestic asset protection trust under
+35   this subchapter if the:
+36              (1)    Trustee of the trust complies with the requirements set
+
+                                         11              2/9/2023 11:37:11 AM LHR051
+                                                                                 HB1394
+
+
+ 1   forth in the trust instrument and the requirements of the laws of the state
+ 2   or jurisdiction from which the trust is being transferred;
+ 3                 (2)   Trustee or other person having the power to transfer the
+ 4   domicile of the trust declares the intent to transfer the domicile of the
+ 5   trust in writing;
+ 6                 (3)   Document declaring the intent to transfer the domicile of
+ 7   the trust is delivered to the trustee, if it is executed by a person other
+ 8   than the trustee; and
+ 9                 (4)   Requirements of this subchapter are satisfied simultaneously
+10   with or immediately after the change of the domicile.
+11        (b)   For purposes of § 28-72-712, if the domicile of an existing trust
+12   is transferred from another state or jurisdiction to this state and the laws
+13   of the other state or jurisdiction are similar to the provisions of this
+14   subchapter, the transfer of the trust is deemed to have occurred:
+15                 (1)   On the date on which the settlor of the trust transferred
+16   assets into the trust, if the applicable law of the trust has at all times
+17   been substantially similar to the provisions of this subchapter; or
+18                 (2)   On the earliest date on which the applicable laws of the
+19   trust were substantially similar to the provisions of this subchapter.
+20
+21        28-72-714.      Applicability to trust or estate.
+22        This subchapter applies to a trust or estate existing or created on or
+23   after the effective date of this act, except as otherwise expressly provided
+24   in the terms of the trust or this subchapter.
+25
+26        SECTION 2.      Arkansas Code § 28-73-505(a), concerning a creditor's claim
+27   against a settlor of a spendthrift or discretionary trust, is amended to read
+28   as follows:
+29        (a)   Whether or not the terms of a trust contain a spendthrift
+30   provision, the following rules apply:
+31                 (1)   During the lifetime of the settlor, the property of a
+32   revocable trust is subject to claims of the settlor's creditors. If a trust
+33   has more than one (1) settlor, the amount the creditor or assignee of a
+34   particular settlor may reach may not exceed the settlor's interest in the
+35   portion of the trust attributable to that settlor's contribution.
+36                 (2)   With Except for a trust created under § 28-72-701 et seq.,
+
+                                          12              2/9/2023 11:37:11 AM LHR051
+                                                                             HB1394
+
+
+ 1   with respect to an irrevocable trust, a creditor or assignee of the settlor
+ 2   may reach the maximum amount that can be distributed to or for the settlor's
+ 3   benefit.   If a trust has more than one (1) settlor, the amount the creditor
+ 4   or assignee of a particular settlor may reach may not exceed the settlor's
+ 5   interest in the portion of the trust attributable to that settlor's
+ 6   contribution.
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+
+                                        13              2/9/2023 11:37:11 AM LHR051
+

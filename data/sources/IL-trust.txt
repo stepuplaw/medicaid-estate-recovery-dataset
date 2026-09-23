@@ -1,0 +1,62 @@
+Source URL: https://web.archive.org/web/20250806083253/https://ilga.gov/Documents/legislation/ilcs/documents/076000030K505.htm
+Retrieved: 2026-09-23
+
+760 ILCS 3/505 
+      (760 ILCS 3/505) 
+      Sec. 505. Creditor's claim against settlor. 
+      (a) Whether or not the terms of a trust contain a spendthrift provision, the following rules apply: 
+           (1) During the lifetime of the settlor, the property 
+
+      of a revocable trust is subject to claims of the settlor's creditors to the extent the property would not otherwise be exempt by law if owned directly by the settlor. 
+
+           (2) With respect to an irrevocable trust, a creditor 
+
+      or assignee of the settlor may reach the maximum amount that can be distributed to or for the settlor's benefit. If a trust has more than one settlor, the amount the creditor or assignee of a particular settlor may reach may not exceed the settlor's interest in the portion of the trust attributable to that settlor's contribution. 
+
+           (3) Notwithstanding paragraph (2), the assets of an 
+
+      irrevocable trust may not be subject to the claims of an existing or subsequent creditor or assignee of the settlor, in whole or in part, solely because of the existence of a discretionary power granted to the trustee by the terms of the trust, or any other provision of law, to pay directly to the taxing authorities or to reimburse the settlor for any tax on trust income or principal that is payable by the settlor under the law imposing the tax. 
+
+           (4) Paragraph (2) does not apply to the assets of an 
+
+      irrevocable trust established for the benefit of a person with a disability that meets the requirements of 42 U.S.C. 1396p(d)(4) or similar federal law governing the transfer to such a trust. 
+
+           (5) After the death of a settlor, and subject to the 
+
+      settlor's right to direct the source from which liabilities will be paid, the property of a trust that was revocable at the settlor's death is subject to claims of the settlor's creditors, costs of administration of the settlor's estate, the expenses of the settlor's funeral and disposal of remains, and statutory awards to a surviving spouse and children to the extent the settlor's probate estate is inadequate to satisfy those claims, costs, expenses, and awards. Distributees of the trust take property distributed after payment of such claims; subject to the following conditions: 
+
+                (A) sums recovered by the personal 
+
+           representative of the settlor's estate must be administered as part of the decedent's probate estate, and the liability created by this subsection does not apply to any assets to the extent that the assets are otherwise exempt under the laws of this State or under federal law; 
+
+                (B) with respect to claims, expenses, and taxes 
+
+           in connection with the settlement of the settlor's estate, any claim of a creditor that would be barred against the personal representative of a settlor's estate or the estate of the settlor is barred against the trust property of a trust that was revocable at the settlor's death, the trustee of the revocable trust, and the beneficiaries of the trust; and 
+
+                (C) Sections 18-10 and 18-13 of the Probate Act 
+
+           of 1975, detailing the classification and priority of payment of claims, expenses, and taxes from the probate estate of a decedent, or comparable provisions of the law of the deceased settlor's domicile at death if not Illinois, apply to a revocable trust to the extent the assets of the settlor's probate estate are inadequate and the personal representative or creditor or taxing authority of the settlor's estate has perfected its right to collect from the settlor's revocable trust. 
+
+           (6) After the death of a settlor, a trustee of a 
+
+      trust that was revocable at the settlor's death is released from liability under this Section for any assets distributed to the trust's beneficiaries in accordance with the governing trust instrument if: 
+
+                (A) the trustee made the distribution 9 months 
+
+           or later after the settlor's death; and 
+
+                (B) the trustee did not receive a written notice 
+
+           from the decedent's personal representative asserting that the decedent's probate estate is or may be insufficient to pay allowed claims or, if the trustee received such a notice, the notice was withdrawn by the personal representative or revoked by the court before the distribution. 
+
+      (b) For purposes of this Section:
+
+           (1) during the period the power may be exercised, 
+
+      the holder of a power of withdrawal is treated in the same manner as the settlor of a revocable trust to the extent of the property subject to the power; and 
+
+           (2) upon the lapse, release, or waiver of the power, 
+
+      the holder is treated as the settlor of the trust only to the extent the value of the property affected by the lapse, release, or waiver exceeds the greater of the amount specified in Section 2041(b)(2) or 2514(e) of the Internal Revenue Code. 
+
+ (Source: P.A. 101-48, eff. 1-1-20; 102-279, eff. 1-1-22 .)

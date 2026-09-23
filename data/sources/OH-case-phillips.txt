@@ -1,0 +1,418 @@
+Source URL: https://web.archive.org/web/20210228215414id_/http://www.supremecourt.ohio.gov/rod/docs/pdf/12/2016/2016-Ohio-2994.pdf
+Retrieved: 2026-09-23
+
+[Cite as Phillips v. McCarthy, 2016-Ohio-2994.]
+
+
+
+                                     IN THE COURT OF APPEALS
+
+                           TWELFTH APPELLATE DISTRICT OF OHIO
+
+                                            PREBLE COUNTY
+
+
+
+
+AMY LEA PHILLIPS, et al.,                         :
+
+        Plaintiffs-Appellants,                    :     CASE NO. CA2015-08-017
+
+                                                  :            OPINION
+   - vs -                                                       5/16/2016
+                                                  :
+
+JOHN B. MCCARTHY, et al.,                         :
+
+        Defendants-Appellees.                     :
+
+
+
+            CIVIL APPEAL FROM PREBLE COUNTY COURT OF COMMON PLEAS
+                               Case No. 13 CV 029855
+
+
+
+Ralph J. Conrad, 33 Donald Drive, Suite 9, Fairfield, Ohio 45014, for plaintiffs-appellants,
+Amy Lea Phillips, Monika Kay Hesse and Linda Sue Blevins
+
+R. Michael DeWine, Ohio Attorney General, Charles F. Geidner, Brent E. Rambo, 30 East
+Broad Street, Columbus, Ohio 43215 and Stanley R. Evans, 100 South Main Avenue,
+Courtview Center, Suite 102, Sidney, Ohio 45365, for defendants-appellees, John B.
+McCarthy and Ohio Department of Job & Family Services
+
+
+
+        RINGLAND, J.
+
+        {¶ 1} Plaintiffs-appellants, Amy Lea Phillips, Linda Sue Blevins, and Monika Kay
+
+Hesse, appeal a decision of the Preble County Court of Common Pleas denying their motion
+
+for summary judgment and awarding summary judgment to the State of Ohio Department of
+
+Job and Family Services and its director, John B. McCarthy. We affirm.
+                                                                      Preble CA2015-08-017
+
+       {¶ 2} This case involves state recovery of Medicaid benefits from a life estate held by
+
+Lawrence Hesse at the time of his death. The subject property is a farm located in Camden,
+
+Ohio. In a series of three conveyances executed in the mid-1980s, Hesse (hereinafter "the
+
+decedent") transferred his ownership interest in the farm to appellants, his three daughters.
+
+The final deed, dated in 1984, specifically reserved a life estate for the decedent in the
+
+remaining one-third portion of the property.
+
+       {¶ 3} Prior to his death in November 2010, the decedent resided in a nursing home
+
+and received Medicaid benefits for approximately one year. After his passing, the Ohio
+
+Department of Job and Family Services ("the Department") filed a lien against the subject
+
+property seeking repayment for the cost of Medicaid benefits disbursed on the decedent's
+
+behalf. To date, the agency has not yet undertaken any action to foreclose upon or
+
+otherwise execute the lien.
+
+       {¶ 4} In April 2013, appellants instituted a quiet title action against the Department.
+
+The parties filed cross motions for summary judgment on stipulated facts. In a decision
+
+rendered in July 2015, the trial court awarded summary judgment to the Department and
+
+dismissed the complaint with prejudice. This appeal followed.
+
+       {¶ 5} We review a trial court's decision on summary judgment de novo. Messer v.
+
+Butler Cty. Bd. of Commrs., 12th Dist. Butler Nos. CA2008-12-209 and CA2009-01-004,
+
+2009-Ohio-4462, ¶ 8. Summary judgment is proper when (1) there are no genuine issues of
+
+material fact, (2) the moving party is entitled to judgment as a matter of law, and (3)
+
+construing the evidence most strongly in the nonmoving party's favor, reasonable minds can
+
+reach but one conclusion adverse to that party. Id.; Civ.R. 56(C).
+
+       {¶ 6} Success on summary judgment lies for the party who sustains its burden of
+
+proof. Typically, the moving party bears the initial burden of informing the court of the basis
+
+for the motion and demonstrating the absence of any genuine issues of material fact.
+                                               -2-
+                                                                        Preble CA2015-08-017
+
+Dresher v. Burt, 75 Ohio St.3d 280, 292-293, 1996-Ohio-107. In accordance with the parties'
+
+stipulation of facts, however, we accept the facts as undisputed and true. Cunningham v. J.
+
+A. Myers Co., 176 Ohio St. 410, 414 (1964). Consequently, our review is limited to whether
+
+the Department was entitled to judgment as a matter of law. Id. We are mindful of these
+
+considerations in reviewing appellants' sole assignment of error.
+
+       {¶ 7} Assignment of Error No. 1:
+
+       {¶ 8} THE TRIAL COURT ERRED BY DENYING APPELLANTS' MOTION FOR
+
+SUMMARY JUDGMENT AND GRANTING APPELLEE'S MOTION FOR SUMMARY
+
+JUDGMENT.
+
+       {¶ 9} Pursuant to federal mandate, following the death of a Medicaid recipient, the
+
+state of Ohio is required to seek reimbursement for the costs of benefits correctly paid on
+
+behalf of that recipient during the recipient's lifetime. In re Estate of Centorbi, 129 Ohio St.3d
+
+78, 2011-Ohio-2267, ¶ 26. See also 42 U.S.C. 1396a(a)(18) and 1396p; Harris v. McRae,
+
+448 U.S. 297, 301, 100 S.Ct. 2671 (1980) (once a state elects to receive federal assistance
+
+to fund its Medicaid program, it must comply with the requirements of Title XIX to the federal
+
+Social Security Act, 42 U.S.C. 1396 et seq.).
+
+       {¶ 10} Initially, Ohio's Medicaid Estate Recovery Program permitted recoupment solely
+
+from assets within the decedent's probate estate. The statutory scheme governing the
+
+administration of Medicaid in Ohio has been revised and renumbered multiple times since the
+
+program's inception. For purposes of this opinion, we shall refer to the rules and regulations
+
+in effect when the decedent applied for and began receiving Medicaid assistance in 2009.
+
+See, e.g., R.C. 5111.11 and 5111.111; Ohio Adm.Code 5101: 1-38-10. Compare Pack v.
+
+Osborn, 117 Ohio St.3d 14, 2008-Ohio-90, ¶ 14 (regarding inclusion of trust assets for
+
+determining Medicaid eligibility, the rules in effect at the time of the claimant's application
+
+govern rather than those in effect when the trust was created); Rodefer v. Colbert, 35 N.E.3d
+                                               -3-
+                                                                       Preble CA2015-08-017
+
+852, 2015-Ohio-1982, ¶ 20, fn. 4 (2d Dist.) (concerning valuation of a life estate for purposes
+
+of Medicaid eligibility, the law in effect when claimant filed her application controls); Admr.,
+
+State Medicaid Estate Recovery Program v. Miracle, 31 N.E.3d 658, 2015-Ohio-1516, ¶ 12
+
+(4th Dist.) (holding that the application for and receipt of benefits subjected the decedent's
+
+assets to estate recovery under Ohio law).
+
+       {¶ 11} We now turn to the two issues advanced by appellants. First, appellants
+
+contend that the Department's lien effectively encumbered their remainder interests because
+
+the decedent's life estate extinguished upon his death by operation of law. Appellants
+
+challenge the timing of the lien, insisting that the Department was authorized to encumber
+
+the property only during the decedent's lifetime. This right of recovery, appellants insist,
+
+terminated along with the decedent's life estate upon his passing.
+
+       {¶ 12} Undoubtedly, at common law, a life estate interest extinguished upon the death
+
+of the measuring life. See Restatement of the Law 1st, Property, Sections 107 and 152
+
+(1936). Nonetheless, state law may, and at times does, depart from common law. See
+
+Osborn at ¶ 12 ("It is a long-standing principle that no person has a vested right to the law
+
+remaining unchanged"). In 2005, The General Assembly amended the Medicaid Estate
+
+Recovery Program to broaden the definition of a recoverable "estate" under Ohio law:
+
+              As used in this section [5111.11] and section 5111.111 of the
+              Revised Code:
+
+              "Estate" includes both of the following:
+
+              (a) All real and personal property and other assets to be
+              administered under Title XXI of the Revised Code and property
+              that would be administered under that title if not for section
+              2113.03 or 2113.031 of the Revised Code;
+
+              (b) Any other real and personal property and other assets in
+              which an individual had any legal title or interest at the time of
+              death (to the extent of the interest), including assets conveyed to
+              a survivor, heir, or assign of the individual through joint tenancy,
+              tenancy in common, survivorship, life estate, living trust, or other
+                                              -4-
+                                                                        Preble CA2015-08-017
+
+              arrangement.
+
+R.C. 5111.11(A)(1). (Emphasis added.)
+
+       {¶ 13} In an effort to further supplant the common law principle of divestiture of certain
+
+interests upon death, the amended recovery statute defines "time of death" thusly:
+
+              "Time of death" shall not be construed to mean a time after
+              which a legal title or interest in real or personal property or other
+              asset may pass by survivorship or other operation of law due to
+              the death of the decedent or terminate by reason of the
+              decedent's death.
+
+R.C. 5111.11(A)(6). For purposes of Medicaid recovery, then, a recipient's life estate interest
+
+transcends physical death and is subject to posthumous encumbrance by state agency.
+
+       {¶ 14} Patently, by implementing the 2005 amendments, the General Assembly
+
+exhibited its intent to circumvent the longstanding tenet of common law relied upon by
+
+appellants.   It is not necessary to arduously analyze the legislative intent or history
+
+underscoring the amendments, however, for the plain meaning of the revised text clearly
+
+renders life estates amenable to Medicaid recovery. Hubbel v. Xenia, 115 Ohio St.3d 77,
+
+2007-Ohio-4839, ¶ 11. Indeed, the inclusion of the nebulous phrase "or other arrangements"
+
+at the close of R.C. 5111.11(A)(1)(b) suggests the legislature's resolve to vitiate any asylum
+
+previously accorded nonprobate assets in the face of Medicaid recovery. See Browning &
+
+Meyer, H.B. 66 and Medicaid Recovery, 16 Ohio Prob. L.J. 42 (2005) ("The new Ohio statute
+
+represents one of the most aggressive collection efforts in the nation").
+
+       {¶ 15} The Fourth Appellate District recently addressed this very issue in Admr., State
+
+Medicaid Estate Recovery Program v. Miracle, 31 N.E.3d 658, 2015-Ohio-1516 (4th Dist.). In
+
+that case, the state filed an action seeking to recover for Medicaid benefits disbursed on
+
+behalf of Doris Reed. Id. at ¶ 1. At the time of her death, Reed held a life estate in real
+
+property situated in West Virginia. Id. at ¶ 2. Applying West Virginia's narrower concept of
+
+estate recovery, the trial court dismissed the complaint. Id. at ¶ 6.
+                                               -5-
+                                                                        Preble CA2015-08-017
+
+       {¶ 16} On appeal, the Fourth District determined that Ohio law governed the case
+
+because Reed applied for and received Medicaid benefits in Ohio. Id. at ¶ 12. Analyzing an
+
+analogous version of the statute, the appellate court found that Ohio law defined a Medicaid
+
+recipient's estate to include interests in non-probate assets held at the time of death,
+
+including life estates. Id. at ¶ 16. In addition, the court upheld the state's right to file suit
+
+against the remaindermen of the real property subject to Reed's life estate. Id. at ¶ 20.
+
+       {¶ 17} In support of its decision, the Fourth District cited certain provisions of the Ohio
+
+Administrative Code construing the manner in which the recovery program was to be
+
+implemented. Id. The regulations require that a Medicaid recovery claim be served on the
+
+person responsible for the recipient's estate such as an executor, administrator, or the like.
+
+Id. Where no such person exists, a claim may be served on "any person who received or
+
+controls probate or non-probate assets inherited from the individual." Id. Because there had
+
+not been a probate estate opened in Ohio, the Miracle court concluded that the state could
+
+file a direct claim against the remaindermen. Id.
+
+       {¶ 18} We concur with the reasoning espoused by our sister court. Accordingly, we
+
+hold that, within the confines of Ohio's Medicaid Estate Recovery Program, a life estate
+
+interest held by a Medicaid recipient does not extinguish upon his or her death. Rather, for
+
+purposes of Medicaid recovery, a life estate interest endures post mortem and represents a
+
+quantifiable asset which the state may encumber by virtue of a properly filed lien. In the
+
+absence of a probate estate, the state may seek recovery of Medicaid benefits from third
+
+parties to whom qualifying assets have passed. Ohio Adm.Code 5101:1-38-10(E)(2)(a).
+
+       {¶ 19} Contrary to appellants' assertions, the Department is not typically authorized to
+
+encumber assets during a Medicaid recipient's lifetime. Ohio Dept. of Job and Family Servs.
+
+v. Tultz, 152 Ohio App.3d 405, 2003-Ohio-1597, ¶ 14 (9th Dist.). Absent certain exceptions
+
+not relevant here, the state must wait until the recipient dies to file a lien against property in
+                                               -6-
+                                                                        Preble CA2015-08-017
+
+pursuit of Medicaid recovery. R.C. 5111.111(A). See also Tultz at ¶ 13-14.
+
+       {¶ 20} Next, appellants alternatively argue that, to the extent Ohio's recovery program
+
+authorizes the Department to encumber the property by filing a lien, the laws prescribing
+
+such action effect a taking of their property requiring just compensation.
+
+       {¶ 21} The takings clauses of the Fifth Amendment to the United States Constitution
+
+and Article I, Section 19 of the Ohio Constitution prohibit the state from taking private
+
+property for public use without just compensation. Different circumstances warrant different
+
+takings analyses. See, e.g., State ex rel. Shelly Materials v. Clark Cty. Bd. of Commrs., 115
+
+Ohio St.3d 337, 2007-Ohio-5022, ¶ 16-19. However, none are implicated by the facts of the
+
+case at bar.
+
+       {¶ 22} In its ruling in favor of the Department, the trial court found that "a Medicaid
+
+recipient's life estate interest in real property is separate and independent from the interest of
+
+the remaindermen [ ] in the property." We agree. The Department is not attempting to
+
+recover against the remainder interests held by appellants. Rather, the Department seeks to
+
+recover against the decedent's estate in general. The amount that is subject to recovery is
+
+limited to the value of the decedent's life estate, further preserving the notion that said
+
+interest is distinct from appellants' remainder interests.
+
+       {¶ 23} In the absence of a probate estate, the Department may recover against
+
+individuals to whom a deceased Medicaid recipient's assets have passed. Miracle, 2015-
+
+Ohio-1516 at ¶ 20. Otherwise, the state would be prevented from recovering against the
+
+value of a Medicaid recipient's life estate following the recipient's death.            Such an
+
+interpretation would negate the broadened definition of a recoverable "estate" imposed by
+
+the 2005 amendments to the statutory scheme.
+
+       {¶ 24} Finally, the Department protests that appellants' reply brief raises a novel issue
+
+regarding whether the application of the 2005 amendments to encumber pre-existing
+                                               -7-
+                                                                      Preble CA2015-08-017
+
+property interests violates constitutional prohibitions against retroactive laws.         After
+
+thoroughly reviewing the record, we can find no assertion of this argument prior to the oblique
+
+reference in appellants' reply brief.
+
+       {¶ 25} It is beyond cavil that a party may not raise issues for the first time on appeal.
+
+State ex rel. Gutierrez v. Trumbull Cty. Bd. of Elections, 65 Ohio St.3d 175, 177 (1992). This
+
+principle precludes an appealing party from proffering new theories in a bid to secure
+
+reversal. Webster v. G & J Kartway, 12th Dist. Preble No. CA2005-06-011, 2006-Ohio-881, ¶
+
+25-26. Similarly, an appellant may not use a reply brief to inject new issues into the appeal.
+
+State ex rel. Colvin v. Brunner, 120 Ohio St.3d 110, 2008-Ohio-5041, ¶ 61. See also App.R.
+
+16(C) and Loc. R. 11(A)(3). Therefore, any new arguments raised in appellants' reply brief
+
+are deemed waived and are not subject to review. Nor does this case involve exceptional
+
+circumstances of the sort that warrant a plain error analysis. Walker v. Shondrick-Nau, 7th
+
+Dist. Noble No. 13 NO 402, 2014-Ohio-1499, ¶ 56-57.
+
+       {¶ 26} After reviewing all arguments properly before this court, we find that the
+
+Department satisfied its burden on summary judgment. As stated, the facts are undisputed.
+
+Regarding the law, life estates are now vulnerable to Medicaid estate recovery in Ohio by
+
+operation of unambiguous statutory amendment. Furthermore, the Department's lien against
+
+the subject property does not amount to a taking in violation of constitutional prohibitions.
+
+Accordingly, the trial court did not err in awarding summary judgment to the Department and
+
+appellants' sole assignment of error is overruled.
+
+       {¶ 27} Judgment affirmed.
+
+
+       PIPER, P.J., and S. POWELL, J., concur.
+
+
+
+
+                                              -8-
+

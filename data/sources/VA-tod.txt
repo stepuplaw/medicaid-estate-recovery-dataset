@@ -1,0 +1,229 @@
+Source URL: https://law.lis.virginia.gov/vacodefull/title64.2/chapter6/article5/
+Retrieved: 2026-09-23
+
+Code of Virginia Code - Article 5. Uniform Real Property Transfer on Death Act 
+
+ Virginia General Assembly /
+
+ LIS Learning Center /
+
+ Privacy Policy /
+
+ LIS home /
+
+ Register Account /
+
+ Login 
+
+ Session Information 
+
+ Bills & Resolutions 
+
+ State Budget 
+
+ Virginia Law 
+
+ Reports to the General Assembly 
+
+ Virginia Law 
+
+ Select Search Type 
+
+ All 
+ Code of Virginia 
+ Administrative Code 
+ Constitution 
+ Charters 
+ Authorities 
+ Compacts 
+ Uncodified Acts 
+
+ Code of Virginia
+
+ Table of Contents » Title 64.2. Wills, Trusts, and Fiduciaries » Chapter 6. Transfers without Qualification » Chapter 6. Transfers without Qualification » Article 5. Uniform Real Property Transfer on Death Act 
+
+ Article 
+
+ Creating a Report: Check the sections you'd like to appear in the report, then use the "Create Report" button at the bottom of the page to generate your report. Once the report is generated you'll then have the option to download it as a pdf, print or email the report.
+
+ Code of Virginia
+Title 64.2. Wills, Trusts, and Fiduciaries
+Chapter 6. Transfers without Qualification
+ 9/23/2026
+
+ Article 5. Uniform Real Property Transfer on Death Act.
+ § 64.2-621. Definitions. As used in this article:
+ "Beneficiary" means a person that receives property under a transfer on death deed.
+ "Designated beneficiary" means a person designated to receive property in a transfer on death deed.
+ "Joint owner" means an individual who owns property concurrently with one or more other individuals with a right of survivorship. "Joint owner" includes a joint tenant with the right of survivorship and tenant by the entirety with the right of survivorship. "Joint owner" does not include a tenant in common.
+ "Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, government or governmental subdivision, agency, or instrumentality, or any other legal or commercial entity.
+ "Property" means an interest in real property located in the Commonwealth that is transferable on the death of the owner.
+ "Transfer on death deed" means a deed or conveyance of a cooperative interest authorized under this article.
+ "Transferor" means an individual who makes a transfer on death deed.
+ 2013, c. 390 ; 2022, c. 309 .
+ § 64.2-622. Applicability. This article applies to a transfer on death deed made before, on, or after July 1, 2013, by a transferor dying on or after July 1, 2013.
+ 2013, c. 390 .
+ § 64.2-623. Nonexclusivity. This article does not affect any method of transferring property otherwise permitted under the law of the Commonwealth.
+ 2013, c. 390 .
+ § 64.2-624. Transfer on death deed authorized. An individual may transfer property to one or more beneficiaries effective at the transferor's death by a transfer on death deed.
+ 2013, c. 390 .
+ § 64.2-625. Transfer on death deed revocable. A transfer on death deed is revocable even if the deed or another instrument contains a contrary provision.
+ 2013, c. 390 .
+ § 64.2-626. Transfer on death deed nontestamentary. A transfer on death deed is nontestamentary.
+ 2013, c. 390 .
+ § 64.2-627. Capacity of transferor. The capacity required to make or revoke a transfer on death deed is the same as the capacity required to make a will.
+ 2013, c. 390 .
+ § 64.2-628. Requirements. A transfer on death deed:
+ 1. Except as otherwise provided in subdivision 2, shall contain the essential elements and formalities of a properly recordable inter vivos deed or document to convey a cooperative interest created pursuant to the Virginia Real Estate Cooperative Act (§ 55.1-2100 et seq.);
+ 2. Shall state that the transfer to the designated beneficiary is to occur at the transferor's death;
+ 3. Shall be recorded before the transferor's death in the land records of the clerk's office of the circuit court in the jurisdiction where the property is located;
+ 4. Shall comply with the requirements for recordation set forth in Chapter 6 (§ 55.1-600 et seq.) of Title 55.1 and shall be indexed by the clerk of court under the name of the transferor as grantor;
+ 5. Unless the transfer is for consideration, shall be exempt from recordation tax as provided by subsection J of § 58.1-811 ;
+ 6. For property owned by joint owners to be effective, shall be executed by all joint owners; and
+ 7. Shall be considered a deed for purposes of complying with the requirements of § 17.1-223 .
+ 2013, c. 390 ; 2022, c. 309 .
+ § 64.2-629. Notice, delivery, acceptance, consideration not required. A transfer on death deed is effective without:
+ 1. Notice or delivery to or acceptance by the designated beneficiary during the transferor's life; or
+ 2. Consideration.
+ 2013, c. 390 .
+ § 64.2-630. Revocation by instrument authorized; revocation by act not permitted. A. Subject to subsection B, an instrument is effective to revoke a recorded transfer on death deed, or any part of it, only if the instrument:
+ 1. Is one of the following:
+ a. A transfer on death deed that revokes the transfer on death deed or part of the transfer on death deed expressly;
+ b. A transfer on death deed that names a designated beneficiary that is inconsistent with the designated beneficiary in a prior transfer on death deed;
+ c. An instrument of revocation that expressly revokes the transfer on death deed or part of the transfer on death deed; or
+ d. An inter vivos deed that conveys real property to another so the transferor is no longer the owner at the time of the transferor's death.
+ 2. Is acknowledged by the transferor after the acknowledgment of the transfer on death deed being revoked and recorded before the transferor's death in the land records of the clerk's office of the circuit court where the deed is recorded.
+ B. If a transfer on death deed is made by more than one transferor:
+ 1. Revocation by a transferor does not affect the transfer on death deed as to the interest of another transferor; and
+ 2. A transfer on death deed of joint owners is revoked only if it is revoked by all of the living joint owners.
+ C. After a transfer on death deed is recorded, it can be revoked only by an effective revocatory instrument recorded prior to the death of the transferor and may not be revoked by a revocatory act taken against or on the original or a copy of the recorded transfer on death deed.
+ D. This section does not limit the effect of an inter vivos transfer of the property.
+ 2013, c. 390 , 2025, c. 85 .
+ § 64.2-631. Effect of transfer on death deed during transferor's life. During a transferor's life, a transfer on death deed does not:
+ 1. Affect an interest or right of the transferor or any other owner, including the right to transfer or encumber the property;
+ 2. Affect an interest or right of a transferee, even if the transferee has actual or constructive notice of the deed;
+ 3. Affect an interest or right of a secured or unsecured creditor or future creditor of the transferor, even if the creditor has actual or constructive notice of the deed;
+ 4. Affect the transferor's or designated beneficiary's eligibility for any form of public assistance;
+ 5. Create a legal or equitable interest in favor of the designated beneficiary; or
+ 6. Subject the property to claims or process of a creditor of the designated beneficiary.
+ 2013, c. 390 .
+ § 64.2-632. Effect of transfer on death deed at transferor's death. A. Except as otherwise provided in the transfer on death deed, in this section, in § 64.2-302 or Article 1.1 (§ 64.2-308.1 et seq.) of Chapter 3, as applicable, or in Chapter 22 (§ 64.2-2200 et seq.) or 25 (§ 64.2-2500 et seq.), on the death of the transferor, the following rules apply to property that is the subject of a transfer on death deed and owned by the transferor at death:
+ 1. Subject to subdivision 2, the interest in the property is transferred to and vests in the designated beneficiary at the death of the transferor in accordance with the deed.
+ 2. The interest of a designated beneficiary is contingent on the designated beneficiary surviving the transferor. The interest of a designated beneficiary that fails to survive the transferor lapses.
+ 3. Subject to subdivision 4, concurrent interests are transferred to the beneficiaries in equal and undivided shares with no right of survivorship.
+ 4. If the transferor has identified two or more designated beneficiaries to receive concurrent interests in the property, the share of one that lapses or fails for any reason is transferred to the other, or to the others in proportion to the interest of each in the remaining part of the property held concurrently.
+ 5. If, after making a transfer on death deed, the transferor is divorced a vinculo matrimonii or his marriage is annulled, the divorce or annulment revokes any transfer to a former spouse as designated beneficiary unless the transfer on death deed expressly provides otherwise.
+ B. Subject to Chapter 6 (§ 55.1-600 et seq.) of Title 55.1, a beneficiary takes the property subject to all conveyances, encumbrances, assignments, contracts, mortgages, liens, and other interests to which the property is subject at the transferor's death. For purposes of this subsection and Chapter 6 (§ 55.1-600 et seq.) of Title 55.1, the transfer and conveyance of the property subject to the transfer on death deed shall be deemed to be effective at the transferor's death.
+ C. If a transferor is a joint owner and is:
+ 1. Survived by one or more other joint owners, the property that is the subject of a transfer on death deed belongs to the surviving joint owner or owners with right of survivorship but remains subject to the naming of the designated beneficiary in the transfer on death deed; or
+ 2. The last surviving joint owner, the transfer on death deed is effective.
+ D. A transfer on death deed transfers property without covenant or warranty of title even if the deed contains a contrary provision.
+ 2013, c. 390 ; 2016, cc. 187 , 269 .
+ § 64.2-633. Disclaimer. A beneficiary may disclaim all or part of the beneficiary's interest as provided by Chapter 26 (§ 64.2-2600 et seq.).
+ 2013, c. 390 .
+ § 64.2-634. Liability for creditor claims and statutory allowances. A. After the death of the transferor, and subject to the transferor's right to direct the source from which liabilities will be paid, property transferred at the transferor's death by a transfer on death deed is subject to claims of the transferor's creditors, costs of administration of the transferor's estate, the expenses of the transferor's funeral and disposal of remains, and statutory allowances to a surviving spouse and children of the transferor including the family allowance, the right to exempt property, and the homestead allowance to the extent the transferor's probate estate is inadequate to satisfy those claims, costs, expenses, and allowances.
+ B. If more than one property is transferred by one or more transfer on death deeds, the liability under subsection A is apportioned among the properties in proportion to their net values at the transferor's death.
+ C. A proceeding to enforce the liability under this section shall be commenced not later than one year after the transferor's death.
+ 2013, c. 390 .
+ § 64.2-635. Optional form of transfer on death deed. The following form may be used to create a transfer on death deed. The other sections of this article govern the effect of this or any other instrument used to create a transfer on death deed:
+ THIS DEED MUST BE RECORDED BEFORE THE DEATH OF THE OWNER(S), OR IT WILL NOT BE EFFECTIVE.
+ THIS DEED IS EXEMPT FROM RECORDATION TAXES UNDER § 58.1-811(J) OF THE CODE OF VIRGINIA OF 1950, AS AMENDED.
+ REVOCABLE TRANSFER ON DEATH DEED
+ THIS REVOCABLE TRANSFER ON DEATH DEED, dated as of the __________ day of _______________, is made by TRANSFEROR or TRANSFERORS (the Grantor(s)), whose address is ________________________________________.
+ This Revocable Transfer on Death Deed is made pursuant to the provisions of the Uniform Real Property Transfer on Death Act, Virginia Code § 64.2-621 et seq. In accordance with the provisions of the Uniform Real Property Transfer on Death Act, at my death, I transfer and convey my interest in the below described property to my designated beneficiaries as follows:
+ PRIMARY BENEFICIARY
+ I designate ____________________ as the designated beneficiary of the property if ____________________ survives me.
+ ALTERNATE BENEFICIARY -- Optional
+ If my primary designated beneficiary does not survive me, I designate ____________________ as my alternate designated beneficiary if my alternate designated beneficiary survives me.
+ PROPERTY:
+ The legal description of the real property that shall be transferred at my death pursuant to this Revocable Transfer on Death Deed is as follows:
+ INSERT LEGAL DESCRIPTION
+ RIGHT TO REVOKE AND METHOD TO REVOKE DEED:
+ Before my death, I have the right to revoke this deed.
+ Under the Uniform Real Property Transfer on Death Act, an instrument is effective to revoke a recorded transfer on death deed, or any part of it, only if the instrument:
+ 1. Is one of the following:
+ a. A transfer on death deed that revokes the transfer on death deed or part of the transfer on death deed expressly;
+ b. A transfer on death deed that names a designated beneficiary that is inconsistent with the designated beneficiary in a prior transfer on death deed;
+ c. An instrument of revocation that expressly revokes the transfer on death deed or part of the transfer on death deed; or
+ d. An inter vivos deed that conveys real property to another so the transferor is no longer the owner at the time of the transferor's death.
+ 2. Is acknowledged by the transferor after the acknowledgment of the transfer on death deed being revoked and recorded before the transferor's death in the land records of the clerk's office of the circuit court where the deed is recorded.
+ After this transfer on death deed is recorded, it can be revoked only by an effective revocatory instrument recorded prior to the death of the transferor and may not be revoked by a revocatory act taken against or on the original or a copy of the recorded transfer on death deed.
+ The execution and recordation of this transfer on death deed does not limit the effect of an inter vivos transfer of the property.
+ At my death, a beneficiary takes the property subject to all conveyances, encumbrances, assignments, contracts, mortgages, liens, and other interests to which the property is subject at my death.
+ Witness the following signature and seals:
+ ________________________________________ (SEAL)
+TRANSFEROR
+ COMMONWEALTH OF VIRGINIA
+ CITY/COUNTY OF ____________________, to wit:
+ The foregoing instrument was acknowledged before me in the City/County of ____________________, Virginia this __________ day of _______________, by TRANSFEROR.
+ ________________________________________
+Notary Public
+
+ My commission expires: ____________________
+ Registration number: ____________________
+ 2013, c. 390 ; 2025, c. 85 .
+ § 64.2-636. Optional form of revocation. The following form may be used to create an instrument of revocation under this article.
+ THIS REVOCATION MUST BE RECORDED BEFORE YOU DIE OR IT WILL NOT BE EFFECTIVE. THIS REVOCATION IS EFFECTIVE ONLY AS TO THE INTERESTS IN THE PROPERTY OF OWNERS WHO SIGN THIS REVOCATION.
+ THIS DEED IS EXEMPT FROM RECORDATION TAXES UNDER § 58.1-811(J) OF THE CODE OF VIRGINIA OF 1950, AS AMENDED.
+ REVOCATION OF TRANSFER ON DEATH DEED
+ THIS REVOCATION OF TRANSFER ON DEATH DEED, dated as of the __________ day of _______________, is made by TRANSFEROR OR TRANSFERORS (the Grantor(s)), whose address is ________________________________________.
+ This Revocation of Transfer on Death Deed is made pursuant to the provisions of the Uniform Real Property Transfer on Death Act, Virginia Code, § 64.2-621 et seq.
+ In accordance with the provisions of the Uniform Real Property Transfer on Death Act, I revoke all my previous transfers of the below described property by transfer on death deed:
+ INSERT LEGAL DESCRIPTION
+ Witness the following signature and seals:
+ ________________________________________ (SEAL)
+TRANSFEROR
+ COMMONWEALTH OF VIRGINIA
+ CITY/COUNTY OF ____________________, to wit:
+ The foregoing instrument was acknowledged before me in the City/County of ____________________, Virginia this __________ day of _______________, by TRANSFEROR.
+ ________________________________________
+Notary Public
+ My commission expires: ____________________
+ Registration number: ____________________
+ 2013, c. 390 .
+ § 64.2-637. Uniformity of application and construction. In applying and construing this uniform act, consideration shall be given to the need to promote uniformity of the law with respect to its subject matter among the states that enact it.
+ 2013, c. 390 .
+ § 64.2-638. Relation to federal Electronic Signatures in Global and National Commerce Act. This article modifies, limits, and supersedes the federal Electronic Signatures in Global and National Commerce Act, 15 U.S.C. § 7001 et seq., but does not modify, limit, or supersede § 101(c) of that Act, 15 U.S.C. § 7001(c), or authorize electronic delivery of any of the notices described in § 103(b) of that Act, 15 U.S.C. § 7003 (b).
+ 2013, c. 390 .
+
+ Article 
+
+ Code of Virginia 
+
+ Popular Names 
+
+ 2026 Updates 
+
+ Section Look Up 
+
+ Go 
+
+ Administrative Code 
+
+ Constitution of Virginia 
+
+ Charters 
+
+ Authorities 
+
+ Compacts 
+
+ Uncodified Acts 
+
+ Sign In
+
+ Username:  
+
+ Password:  
+
+ Cancel 
+
+ LIS Home 
+
+ Lobbyist-in-a-Box 
+
+ Privacy Policy 
+
+ © Copyright Commonwealth of Virginia, 
+ . All rights reserved. Site developed by the Division of Legislative Automated Systems (DLAS) . 
+ Sign In

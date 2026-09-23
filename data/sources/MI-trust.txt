@@ -1,0 +1,16 @@
+Source URL: https://codes.findlaw.com/mi/chapter-700-estates-and-protected-individuals-code/mi-comp-laws-700-7605.html
+Source URL: https://codes.findlaw.com/mi/chapter-700-estates-and-protected-individuals-code/mi-comp-laws-700-3805.html
+Retrieved: 2026-09-23
+Note: WebFetch extraction, not verbatim. FindLaw copy, "current as of January 01, 2025". Official legislature.mi.gov failed TLS certificate verification from this machine.
+
+=== MCL 700.7605 ===
+Sec. 7605. (1) The property of a trust over which the settlor has the right without regard to the settlor's mental capacity, at his or her death, either alone or in conjunction with another person, to revoke the trust and revest principal in himself or herself is subject to all of the following, but only to the extent that the settlor's property subject to probate administration is insufficient to satisfy the following expenses, claims, and allowances:
+(a) The administration expenses of the settlor's estate.
+(b) An enforceable and timely presented claim of a creditor of the settlor, including a claim for the settlor's funeral and burial expenses.
+(c) Homestead, family, and exempt property allowances.
+(2) [retirement plan trusts excluded]
+(3) [QDRO rights not impaired]
+(4) For purposes of this section, property held or received by a trust to the extent that the property would not have been subject to a claim against the settlor's estate if it had been paid directly to a trust created under the settlor's will or other than to the settlor's estate, or property received from a trust other than a trust described in this section, shall not be considered trust property available for the payment of the administration expenses, a claim against the settlor's estate, or an allowance described in subsection (1).
+
+=== MCL 700.3805(3) (subsection only, as returned) ===
+(3) If there are insufficient assets to pay all claims in full or to satisfy homestead allowance, family allowance, and exempt property, the personal representative shall certify the amount and nature of the deficiency to the trustee of a trust described in section 7605(1) for payment by the trustee in accordance with section 7606. If the personal representative is aware of other nonprobate transfers that may be liable for claims and allowances, then, unless the will provides otherwise, the personal representative shall proceed to collect the deficiency in a manner reasonable under the circumstances so that each nonprobate transfer, including those made under a trust described in section 7605(1), bears a proportionate share or equitable share of the total burden.

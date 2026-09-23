@@ -1,0 +1,664 @@
+Source URL: https://web.archive.org/web/20260611202643id_/https://docs.legis.wisconsin.gov/statutes/statutes/705.pdf
+Retrieved: 2026-09-23
+
+                             Updated 2023-24 Wis. Stats. Published and certified under s. 35.18. May 22, 2026.
+
+ 1       Updated 23-24 Wis. Stats.                                  SPECIAL ACCOUNTS; TRANSFERS ON DEATH                                         705.01
+
+                                                                   CHAPTER 705
+     MULTIPLE-PARTY AND AGENCY ACCOUNTS; NONPROBATE TRANSFERS AT DEATH;
+                   TRANSFER ON DEATH SECURITY REGISTRATION
+                                 SUBCHAPTER I                             705.15   Nonprobate transfer of real property on death.
+               MULTIPLE-PARTY AND AGENCY ACCOUNTS                         705.18   Nonprobate transfer of farming implements at death.
+705.01   Definitions.                                                                                      SUBCHAPTER III
+705.02   Creation of multiple-party or agency relationship.                           TRANSFER ON DEATH SECURITY REGISTRATION
+705.03   Ownership during lifetime.                                       705.21   Definitions; transfer on death security registration.
+705.04   Right of survivorship.                                           705.22   Registration in beneficiary form; sole or joint tenancy ownership.
+705.05   Designation and powers of agent.                                 705.23   Registration in beneficiary form; applicable law.
+705.06   Protection of financial institutions.                            705.24   Origination of registration in beneficiary form.
+705.07   Rights of creditors.                                             705.25   Form of registration in beneficiary form.
+705.08   Construction.                                                    705.26   Effect of registration in beneficiary form.
+705.09   Applicability of general transfers at death provisions.          705.27   Ownership on death of owner.
+                                 SUBCHAPTER II                            705.28   Protection of registering entity.
+                   NONPROBATE TRANSFERS AT DEATH;                         705.29   Nontestamentary transfer on death.
+              NONPROBATE TRANSFER OF REAL PROPERTY                        705.30   Terms, conditions and forms for registration.
+705.10   Nonprobate transfers on death.                                   705.31   Applicability of general transfers at death provisions.
+
+
+
+
+                            SUBCHAPTER I                                      (5) “Net contribution” of a party to a joint account as of any
+                                                                          given time is the sum of all deposits made by or for the party, less
+         MULTIPLE-PARTY AND AGENCY ACCOUNTS                               all withdrawals made by or for the party which have not been paid
+                                                                          to or applied for the use of any other party, plus a proportional
+705.01 Definitions. As used in this subchapter, unless the                share of any interest or dividends included in the current balance
+context otherwise requires:                                               as adjusted to reflect time of deposit. It includes any proceeds of
+    (1) “Account” means a contract of deposit of funds between a          deposit life insurance added to the account by reason of the death
+depositor and a financial institution, and includes a checking or         of the party whose net contribution is in question.
+savings account, certificate of deposit, share account and other              (6) “Party” means a person who, by the terms of an account,
+like arrangement. All such contracts in which there are 2 or more         has a present right, subject to request, to payment therefrom other
+parties or one or more agents shall be evidenced by a writing             than as agent. A beneficiary of a P.O.D. account is a party only
+signed by each party making a deposit to the account, prior to or         after the account becomes payable to the beneficiary by reason of
+within a reasonable time after such deposit, containing language          the beneficiary’s surviving the original payee. A minor may be a
+in substantially the form set forth in s. 705.02. For purposes of         party to an account, subject to the withdrawal restrictions of s.
+this subchapter, the term “account” does not include contracts es-        705.04 (2). Unless the context indicates otherwise, “party” in-
+tablished for the deposit of funds of a partnership, joint venture,       cludes a guardian, conservator, personal representative or as-
+or other association for business purposes, accounts controlled by        signee, including an attaching creditor, of a party.
+one or more persons as the duly authorized agents or trustees for             (7) “Payment” of sums on deposit includes withdrawal, pay-
+a corporation, limited liability company, unincorporated associa-         ment on check or other order of a party, any pledge of sums on
+tion, or charitable or civic organization, or regular fiduciary or        deposit by a party and any setoff, or reduction or other disposition
+trust accounts where the relationship is established other than by        of all or part of an account pursuant to a pledge.
+deposit agreement.                                                            (8) “P.O.D. account” means an account payable on request to
+    (2) “Agent” means a person who, by the terms of an account,           one person during lifetime and on the person’s death to one or
+has a present right, subject to request, to payment therefrom as          more P.O.D. beneficiaries, or to one or more persons during their
+agent for all of the parties to the account.                              lifetimes and on the death of all of them to one or more P.O.D.
+    (3) “Financial institution” means any organization authorized         beneficiaries. It includes an account in the name of one or more
+to do business under state or federal laws relating to financial in-      parties as trustee for one or more beneficiaries where the relation-
+stitutions, including, without limitation, banks and trust compa-         ship is established by the form of the account and the deposit
+nies, savings banks, building and loan associations, savings and          agreement with the financial institution and there is no subject of
+loan associations and credit unions.                                      the trust other than the sums on deposit in the account. It in-
+    (4) “Joint account” means an account, other than a marital ac-        cludes a marital account for which a party named one or more
+count, payable on request to one or more of 2 or more parties             P.O.D. beneficiaries for that party’s interest.
+whether or not mention is made of any right of survivorship.                  (9) “P.O.D. Beneficiary” means a person designated on a
+“Joint account” also means any account established with the right         P.O.D. account as one to whom all or part of the account is
+of survivorship on or after January 1, 1986, by 2 parties who             payable on request after the death of one or more parties.
+claim to be husband and wife, which is payable on request to ei-              (10) “Request” means a proper request for withdrawal, or a
+ther or both of the parties.                                              check or other order for payment, which complies with all condi-
+    (4m) “Marital account” means an account established with-             tions of the account, including special requirements concerning
+out the right of survivorship on or after January 1, 1986, by 2 par-      necessary signatures and regulations of the financial institution.
+ties who claim to be husband and wife, which is payable on re-            Unless the signature card, passbook, contract or instrument evi-
+quest to either or both of the parties and which is designated as a       dencing the account clearly provides to the contrary, a request by
+marital account. An account established by those parties with the         all parties to a joint or marital account is required for payment if
+right of survivorship under s. 766.58 (3) (f) or 766.60 is a joint        the account is designated with their names conjunctively joined
+account.                                                                  by the word “and”. If the financial institution conditions with-
+
+   2023-24 Wisconsin Statutes updated through 2025 Wis. Act 170 and through all Supreme Court Orders and Controlled Sub-
+stances Board Orders filed before and in effect on May 22, 2026. Published and certified under s. 35.18. Changes effective after
+May 22, 2026, are designated by NOTES. (Published 5-22-26)
+                                 Updated 2023-24 Wis. Stats. Published and certified under s. 35.18. May 22, 2026.
+
+705.01               SPECIAL ACCOUNTS; TRANSFERS ON DEATH                                                                       Updated 23-24 Wis. Stats.                      2
+
+drawal or payment on advance notice, for purposes of this sub-                               TIFICATE OF DEPOSIT MAY BE MADE BY THE AGENT(S)
+chapter the request for withdrawal or payment is treated as imme-                            NAMED HEREON. NO PRESENT OR FUTURE OWNER-
+diately effective and a notice of intent to withdraw is treated as a                         SHIP OR RIGHT OF SURVIVORSHIP IS CONFERRED BY
+request for withdrawal.                                                                      THIS DESIGNATION.” In addition, if such designation makes
+    (11) “Sums on deposit” means the balance payable on a mul-                               specific reference to s. 705.05 (3) or otherwise provides that the
+tiple-party account including interest, dividends, and any deposit                           authority of an agent shall be exercisable notwithstanding the le-
+life insurance proceeds added to the account by reason of the                                gal disability of any party to the account, or if the designated
+death of a party.                                                                            agent is the spouse of a party, then the authority of such agent
+   History: 1973 c. 291; 1979 c. 110 s. 60 (11); 1983 a. 186; 1989 a. 331; 1993 a.           shall be governed by s. 705.05 (3).
+112, 486.
+   The definition of “party” in sub. (6) relates only to parties to an account and has
+                                                                                                 (3) Any deposit made to an account created on or after July 1,
+nothing to do with the legal standing of named beneficiaries to sue the depositor’s          1975, and within the scope of this subchapter, which account is
+agent for negligence in failing to maintain a payable-on-death account. Brooks v.            not evidenced by an agreement containing language in substantial
+Bank of Wisconsin Dells, 161 Wis. 2d 39, 467 N.W.2d 187 (Ct. App. 1991).
+   A personal representative is not a “party” to an account held as a “joint account”        conformity with this section, signed by the depositor in accor-
+by the decedent and another who survives; a bank that disburses the funds of the             dance with s. 705.01 (1), shall nonetheless be deemed to create
+joint account to the personal representative is not entitled to immunity under s.            either a single-party relationship, with agency, or a joint or P.O.D.
+705.06 (2). Ixonia State Bank v. Schuelke, 171 Wis. 2d 89, 491 N.W.2d 772 (Ct.
+App. 1992).                                                                                  relationship, with or without the designation of one or more
+   A P.O.D. beneficiary must be named in the account records of the financial insti-         agents, or a marital relationship if the account is created after Jan-
+tution such that the financial institution can adhere to its contract to pay the deposi-
+tor’s funds to the beneficiary as it was directed upon the depositor’s death. A sepa-        uary 1, 1986, in accordance with whatever competent evidence is
+rate writing not filed by a depositor with a financial institution is ineffective to alter   available concerning the depositor’s intent at the time the account
+a P.O.D. beneficiary designation under this chapter. Mueller v. Edwards, 2017 WI             was created. Such relationship may differ from that established
+App 79, 378 Wis. 2d 689, 904 N.W.2d 392, 16-2437.
+   Multiple-Party and Agency Accounts Chapter 705, 1973 Wisconsin Statutes Ef-               by any other depositor. A deposit which is made in conformity
+fective July 1, 1975. Evans. WBB June 1975.                                                  with the language and signature requirements of this section and
+                                                                                             s. 705.01 (1) shall be deemed to create an account in accordance
+705.02 Creation of multiple-party or agency relation-                                        with this subchapter, with respect to such deposit and all other de-
+ship. (1) Provisions in substantially the following form con-                                posits by the same person, notwithstanding whatever relation-
+tained in a signature card, passbook, contract or instrument evi-                            ships may be established by other depositors.
+dencing an account shall be effective to create the multiple-party                              History: 1973 c. 291; 1983 a. 186; 1989 a. 331; 2017 a. 365 s. 111.
+accounts described in this subchapter when conspicuously                                        An unauthenticated ledger and signature cards bearing the entry “P.O.D.” to the
+printed or typewritten immediately above or adjacent to the place                            plaintiff were not competent evidence of the decedent’s intent to make a savings and
+                                                                                             loan account payable on death to the plaintiff. Bruckner v. Prairie Federal Savings
+for the signatures of the parties to the account:                                            & Loan Ass’n, 81 Wis. 2d 215, 260 N.W.2d 256 (1977).
+   (a) Joint account: “THIS ACCOUNT/CERTIFICATE OF                                              When parties to an account execute a signature card containing the language in
+                                                                                             sub. (1) (a), the law presumes that the language on the signature card governs and ex-
+DEPOSIT IS JOINTLY OWNED BY THE PARTIES NAMED                                                presses the intention to create an account with joint ownership and survivorship
+HEREON. UPON THE DEATH OF ANY OF THEM, OWN-                                                  rights under ss. 705.03 (1) and 705.04 (1). However, both of those presumptions are
+ERSHIP PASSES TO THE SURVIVOR(S).”                                                           rebuttable. Henke v. Estate of Klawitter, 2023 WI App 60, 409 Wis. 2d 696, 998
+                                                                                             N.W.2d 579, 22-2036.
+   (b)     P.O.D. account with single party: “THIS AC-
+COUNT/CERTIFICATE OF DEPOSIT IS OWNED BY THE                                                 705.03 Ownership during lifetime. Unless there is clear
+PARTY NAMED HEREON. UPON THE DEATH OF SUCH                                                   and convincing evidence of a different intent:
+PARTY, OWNERSHIP PASSES TO THE P.O.D. BENEFI-                                                    (1) A joint account belongs, during the lifetime of all parties,
+CIARY(IES) NAMED HEREON.”                                                                    to the parties without regard to the proportion of their respective
+   (c) P.O.D. account with multiple parties: “THIS AC-                                       contributions to the sums on deposit and without regard to the
+COUNT/CERTIFICATE OF DEPOSIT IS JOINTLY OWNED                                                number of signatures required for payment. The application of
+BY THE PARTIES NAMED HEREON. UPON THE DEATH                                                  any sum withdrawn from a joint account by a party thereto shall
+OF ANY OF THEM, OWNERSHIP PASSES TO THE SUR-                                                 not be subject to inquiry by any person, including any other party
+VIVOR(S). UPON THE DEATHS OF ALL OF SUCH PAR-                                                to the account and notwithstanding such other party’s minority or
+TIES, OWNERSHIP PASSES TO THE P.O.D. BENEFI-                                                 other disability, except that the spouse of one of the parties may
+CIARY(IES) NAMED HEREON.”                                                                    recover under s. 766.70. No financial institution is liable to the
+   (d) Marital account: “THIS ACCOUNT/CERTIFICATE OF                                         spouse of a married person who is a party to a joint account for
+DEPOSIT IS OWNED AS A MARITAL ACCOUNT BY THE                                                 any sum withdrawn by any party to the account unless the finan-
+PARTIES NAMED HEREON. UPON THE DEATH OF EI-                                                  cial institution violates a court order.
+THER OF THEM, THE SURVIVOR OWNS 50% OF THE                                                       (2) A P.O.D. account belongs to the original payee during the
+SUMS ON DEPOSIT.”                                                                            original payee’s lifetime and not to the P.O.D. beneficiary or ben-
+   (e) Marital account with P.O.D. beneficiaries: “THIS AC-                                  eficiaries. If 2 or more parties are named as original payees, dur-
+COUNT/CERTIFICATE OF DEPOSIT IS OWNED AS A                                                   ing their lifetimes rights as between them are governed by sub.
+MARITAL ACCOUNT BY THE PARTIES NAMED HEREON.                                                 (1); and a surviving original payee may revoke or amend the
+UPON THE DEATH OF EITHER OF THEM, 50% OF THE                                                 P.O.D. beneficiary designation at will.
+SUMS ON DEPOSIT ARE OWNED BY THE SURVIVOR                                                        (3) A marital account belongs, during the lifetime of both par-
+AND 50% ARE OWNED BY THE P.O.D. BENEFICIARY(IES)                                             ties, to the parties without regard to the proportion of their re-
+NAMED HEREON BY THE DECEASED PARTY.”                                                         spective contributions to the sums on deposit or to the number of
+   (2) Provisions in substantially the following form contained                              signatures required for payment. A party to a marital account
+in a signature card, passbook, contract or instrument evidencing                             may name one or more P.O.D. beneficiaries for that party’s inter-
+an account shall be effective to create the agency relationship de-                          est. No person may inquire about the application of any sums
+scribed in this subchapter when conspicuously printed or type-                               withdrawn from a marital account by a party to the account, ex-
+written immediately above or adjacent to the place for the desig-                            cept that if the parties are married to one another the other party
+nation of the agent or agents, which designation shall be sepa-                              to the account may recover under s. 766.70.
+rately subscribed or initialed by all of the parties to the account:                           History: 1973 c. 291; 1983 a. 186; 1993 a. 486.
+“TRANSACTIONS REGARDING THIS ACCOUNT/CER-                                                      Withdrawal of funds from a joint account by either party while both are alive may
+
+    2023-24 Wisconsin Statutes updated through 2025 Wis. Act 170 and through all Supreme Court Orders and Controlled Sub-
+ stances Board Orders filed before and in effect on May 22, 2026. Published and certified under s. 35.18. Changes effective after
+ May 22, 2026, are designated by NOTES. (Published 5-22-26)
+                                Updated 2023-24 Wis. Stats. Published and certified under s. 35.18. May 22, 2026.
+
+  3      Updated 23-24 Wis. Stats.                                           SPECIAL ACCOUNTS; TRANSFERS ON DEATH                                                   705.05
+
+not later be subjected to inquiry by the other party’s estate. Wachniak v. Estate of     deposit at the death of a party to a marital account belongs to and
+Frank, 140 Wis. 2d 429, 410 N.W.2d 621 (Ct. App. 1987).
+   The transfer of separately owned property of one spouse into a joint account in
+                                                                                         may, upon the maturity of the account, be withdrawn by the sur-
+both spouses’ names changes the character of the ownership interest of the entire        viving spouse and 50 percent belongs to and may, upon the matu-
+property to marital property. Lloyd v. Lloyd, 170 Wis. 2d 240, 487 N.W.2d 647 (Ct.       rity of the account, be withdrawn by the decedent’s estate. No fi-
+App. 1992).
+   A guardian steps into the shoes of the ward and cannot prevent another party from     nancial institution is liable for any amount withdrawn under this
+withdrawing funds from a joint account. That a guardianship is established does not      subsection by a party who falsely claims to be the decedent’s
+preclude a joint owner of an account from removing the funds. Family Services, Inc.      spouse.
+v. Gary W., 2003 WI App 132, 265 Wis. 2d 681, 666 N.W.2d 84, 02-3139.
+   A joint checking account established under this section prior to the execution of a       (3) Subject to s. 853.15, a right of survivorship arising from
+power of attorney creates a presumption of donative intent. When an agent acting
+under a power of attorney transfers funds deposited by the principal from a joint ac-
+                                                                                         the express terms of the account or under this section, or a P.O.D.
+count for the agent’s own use, a presumption of fraud is created. When these two         beneficiary designation, cannot be changed by will. Any trans-
+conflicting and inconsistent presumptions coexist, the circuit court is free to make a   fers resulting from the application of this section are not to be
+determination based upon the facts and the credibility of the witnesses. Extrinsic
+evidence may be admissible to determine the intent of the parties. Russ v. Russ,         considered testamentary dispositions.
+2007 WI 83, 302 Wis. 2d 264, 734 N.W.2d 874, 05-2492.                                        (4) As to any deposit made on or after January 1, 1986, a sur-
+                                                                                         viving spouse who is not a party to the account may recover under
+705.04 Right of survivorship. (1) Sums remaining on de-
+posit at the death of a party to a joint account belong to the sur-                      s. 766.70 (6).
+                                                                                            History: 1973 c. 291; 1983 a. 186; 1985 a. 37 s. 187; 1995 a. 27 ss. 7065 to
+viving party or parties as against the estate of the decedent unless                     7065c, 9126 (19); 1999 a. 9; 2005 a. 216, 387; 2007 a. 20 s. 9121 (6) (a); 2007 a. 97;
+there is clear and convincing evidence of a different intention at                       2009 a. 177; 2013 a. 20; 2015 a. 55; 2019 a. 9.
+the time the account is created. If there are 2 or more surviving                           A personal representative is not a “party” to an account held as a “joint account”
+                                                                                         by the decedent and another who survives; a bank that disburses the funds of the
+parties, their ownership interests during lifetime shall remain                          joint account to the personal representative is not entitled to immunity under s.
+subject to s. 705.03 (1); and the right of survivorship continues                        705.06 (2). Ixonia State Bank v. Schuelke, 171 Wis. 2d 89, 491 N.W.2d 772 (Ct.
+                                                                                         App. 1992).
+between the surviving parties.                                                              An annuity that transferred ownership from the owner to a “co-annuitant” on the
+   (2) If the account is a P.O.D. account, on the death of the orig-                     owner’s death was a joint account under sub. (1). A joint account with right of sur-
+                                                                                         vivorship will defeat a marital agreement that does not make the transfer. Reichel v.
+inal payee or the survivor of 2 or more original payees, all of the                      Jung, 2000 WI App 151, 237 Wis. 2d 853, 616 N.W.2d 118, 99-1211.
+following apply:                                                                            To rebut the presumption of survivorship raised by sub. (1), the inquiry turns on
+   (a) If there is one P.O.D. beneficiary and he or she survives,                        the intention for the joint account at the time it was created. However, it does not
+                                                                                         follow that evidence postdating the creation of the account that expresses the party’s
+he or she is entitled to payment of all sums remaining on deposit.                       post-creation intention is only probative of the party’s post-creation intention and is
+   (b) If there are 2 or more P.O.D. beneficiaries and they all sur-                     therefore irrelevant to the inquiry. The law of evidence embraces the common sense
+                                                                                         assumption that mental states, including intentions, can persist over time. Because a
+vive, they are entitled to payment of the sums on deposit in accor-                      party’s intention for a joint account may persist after its creation and may manifest in
+dance with any written instructions that the owner filed with the                        the party’s post-creation statements and conduct, post-creation evidence of such
+                                                                                         manifestations may be relevant. Henke v. Estate of Klawitter, 2023 WI App 60, 409
+financial institution or, if the owner left no written instructions,                     Wis. 2d 696, 998 N.W.2d 579, 22-2036.
+to payment in equal shares.                                                                 P.O.D.s May Thwart Testators’ Intent: It’s What Mom Wanted. Devitt. Wis.
+   (c) If 2 or more persons succeed to ownership of the account,                         Law. Mar. 2013.
+there is no further right of survivorship unless the terms of the ac-                    705.05 Designation and powers of agent. (1) A party
+count expressly provide for survivorship or for the account’s con-                       to an account, notwithstanding such party’s minority, or if the ac-
+tinuance as a joint account.                                                             count has multiple parties, all of them acting in concert, may ap-
+   (d) Subject to the rights of financial institutions under s.                          point one or more agents for purposes of making withdrawals
+705.06 (1) (c), if any P.O.D. beneficiary predeceases the original                       from the account. The authority of an agent to make withdrawals
+payee or the survivor of 2 or more original payees, the amount to                        from an account may be terminated by any party to the account
+which the predeceased P.O.D. beneficiary would have been enti-                           upon written notice to the financial institution, and this shall not
+tled passes to any of his or her issue who would take under s.                           preclude a party’s liability for wrongful termination of such
+854.06 (3).                                                                              agency.
+   (e) If no P.O.D. beneficiary or predeceased P.O.D. benefi-                               (2) The uses and purposes for which withdrawals may be
+ciary’s issue who would take under s. 854.06 (3) survives the                            made by an agent to an account shall be governed by agency prin-
+death of all owners, the account belongs to the estate of the de-                        ciples of general application. The application of any sum with-
+ceased sole owner or the estate of the last to die of multiple                           drawn from an account shall only be subject to inquiry by a party
+owners.                                                                                  to the account, and such party shall have the burden of proving
+   (f) Payment may be made to a minor P.O.D. beneficiary only                            breach of the agency relationship. A minor party may not disaf-
+in accordance with a procedure approved under ch. 54.                                    firm the appointment of an agent, but the period within which the
+   (g) If the P.O.D. account is a marital account, this section ap-                      minor party may inquire into the propriety of any withdrawal
+plies only to the 50 percent of the account not owned by the sur-                        shall be governed by s. 893.16 or 893.18. Unless there is clear
+viving spouse named as a party on the account.                                           and convincing evidence of a different intent, if the agent is a
+   (2g) Notwithstanding subs. (1) and (2), the department of                             spouse of a party, the sums so withdrawn may be used, but not by
+health services may collect, from funds of a decedent that are                           way of limitation, for the support and maintenance of either
+held by the decedent immediately before death in a joint account                         spouse or any common minor children.
+or a P.O.D. account, an amount equal to the medical assistance                              (3) The parties to an account may provide, by the terms of the
+that is recoverable under s. 49.496 (3) (a), an amount equal to aid                      account or by independent written power of attorney which, if
+under s. 49.68, 49.683, 49.685, or 49.785 that is recoverable un-                        later, shall have precedence over the terms of the account, that the
+der s. 49.682 (2) (a) or (am), or an amount equal to long-term                           authority conferred upon an agent shall be exercisable notwith-
+community support services under s. 46.27, 2017 stats., that is re-                      standing any party’s legal disability. In such case the authority of
+coverable under s. 46.27 (7g) (c) 1., 2017 stats., and that was paid                     the agent is also exercisable notwithstanding later uncertainty as
+on behalf of the decedent or the decedent’s spouse.                                      to whether a party is dead or alive. Absent a written direction to
+   (2m) Unless a marital property agreement under s. 766.58                              the contrary, the foregoing power of withdrawal shall exist with-
+provides otherwise, after deducting all payments and certifica-                          out the necessity of written provision if the agent is the spouse of
+tions made under s. 404.405 50 percent of the sums remaining on                          a party, but in such a case funds so withdrawn, the application of
+
+    2023-24 Wisconsin Statutes updated through 2025 Wis. Act 170 and through all Supreme Court Orders and Controlled Sub-
+ stances Board Orders filed before and in effect on May 22, 2026. Published and certified under s. 35.18. Changes effective after
+ May 22, 2026, are designated by NOTES. (Published 5-22-26)
+                              Updated 2023-24 Wis. Stats. Published and certified under s. 35.18. May 22, 2026.
+
+705.05             SPECIAL ACCOUNTS; TRANSFERS ON DEATH                                                                  Updated 23-24 Wis. Stats.                    4
+
+which may be inquired into only as provided in sub. (2), may only                      by the decedent and another who survives; a bank that disburses the funds of the
+                                                                                       joint account to the personal representative is not entitled to immunity under this
+be used for the support and maintenance of either spouse and any                       section. Ixonia State Bank v. Schuelke, 171 Wis. 2d 89, 491 N.W.2d 772 (Ct. App.
+common minor children. This subsection shall apply to all ac-                          1992).
+counts created prior to and after July 1, 1975.                                           Joint Bank Accounts in Wisconsin. O’Flaherty. 53 MLR 118 (1970).
+  History: 1973 c. 291; 1979 c. 323 s. 33; 1993 a. 486.
+                                                                                       705.07 Rights of creditors. (1) Only the creditors of any
+705.06 Protection of financial institutions. (1) In ac-                                living party to an account may subject the entire sums on deposit
+cordance with the terms of an account, and subject to this sub-                        to their claims, as if such sums resulted solely from contributions
+chapter, ch. 112 and the duties prescribed for personal representa-                    made by the debtor party. If a joint or P.O.D. account requires the
+tives in ch. 72 and unless otherwise ordered by a court of compe-                      signatures of all of the parties for purposes of withdrawal, such
+tent jurisdiction:                                                                     account shall not be subject to the claims of creditors of a debtor
+   (a) A financial institution may on request pay any sums on de-                      party to the extent of the net contributions of the other parties to
+posit in the account to any party or agent; and the financial insti-                   the account. Such other parties shall have the burden of proving
+tution shall not be required to look into the source of funds re-                      their net contributions by clear and convincing evidence.
+ceived for deposit or the proposed application of any funds with-                          (2) For purposes of ch. 242, a debtor party shall be deemed to
+drawn or requested to be withdrawn.                                                    have made a transfer only at the time some other party withdraws
+   (b) Any sums in a joint account may be paid, on request, to                         all or part of the sums on deposit, or at the time of the debtor
+any party without regard to whether any other party is under legal                     party’s death as to sums not previously withdrawn. In the case of
+disability or is deceased at the time the payment is requested.                        a withdrawal while the debtor party is living, the sole grounds for
+   (c) Any sums in a P.O.D. account may be paid, on request, to                        determining any such transfer to be voidable shall be whether the
+                                                                                       debtor party is or will be thereby rendered insolvent under s.
+the P.O.D. beneficiary upon presentation to the financial institu-
+                                                                                       242.05 (1) or whether the debtor party is engaged or is about to
+tion of proof of death showing that the P.O.D. beneficiary sur-
+                                                                                       engage in a business or transaction for which the assets remaining
+vived all persons named as original payees of the account. If
+                                                                                       in the debtor party’s hands after the transfer are unreasonably
+more than one P.O.D. beneficiary is named and at least one of
+                                                                                       small under s. 242.04 (1) (b) 1. In the case of a transfer by reason
+them is predeceased, sums in the account may be paid to the sur-
+                                                                                       of the death of the debtor party, the sole ground for determining
+viving P.O.D. beneficiary or beneficiaries upon presentation of
+                                                                                       any such transfer to be voidable shall be whether the debtor
+proof of death of the other beneficiary, without regard to claims
+                                                                                       party’s estate subject to administration is insolvent under s.
+by the issue of a predeceased beneficiary under s. 705.04 (2) (d).
+                                                                                       242.02. For purposes of this subsection, the amount transferred
+If none of the named beneficiaries survive, the sums in the ac-
+                                                                                       shall be deemed to consist of those assets which the creditors of
+count may be paid to the estate of the deceased sole owner or the
+                                                                                       the debtor party could have made subject to their claims immedi-
+estate of the owner who was the last to die of multiple owners,
+                                                                                       ately prior to the transfer, less any sums which such creditors
+without regard to claims by the issue of a predeceased beneficiary
+                                                                                       could have made so subject to their claims immediately after the
+under s. 705.04 (2) (d). If the P.O.D. account is a marital account,
+                                                                                       transfer.
+this paragraph applies only to the 50 percent of the account not                         History: 1973 c. 291; 1987 a. 192; 2023 a. 246.
+owned by the surviving spouse named as a party on the account.
+   (d) Any sums in a marital account may be paid, on request, to                       705.08 Construction. This subchapter shall be construed in
+either party without regard to whether the other party is under le-                    such a manner as to ensure reasonable certainty of legal result for
+gal disability or is deceased, unless the financial institution re-                    those who establish a multiple-party or agency account.
+ceives actual notice that the other party is deceased. After receipt                     History: 1973 c. 291; 1989 a. 331.
+of actual notice of the death of one party to a marital account, the
+financial institution may pay on request not more than 50 percent                      705.09 Applicability of general transfers at death pro-
+of the sums on deposit to the surviving party, and 50 percent of                       visions. Chapter 854 applies to transfers at death under this
+that amount to the personal representative of the deceased party                       subchapter.
+                                                                                         History: 1997 a. 188.
+or if applicable to any P.O.D. beneficiary of the deceased party’s                       Wisconsin’s New Probate Code. Erlanger. Wis. Law. Oct. 1998.
+interest, unless before payment is made the financial institution
+receives a verified statement under s. 865.201 or a certified copy
+of a certificate or recorded application concerning survivorship                                                    SUBCHAPTER II
+rights under s. 867.046, in which case the financial institution
+shall make payment as provided in that document.                                                NONPROBATE TRANSFERS AT DEATH;
+   (2) Payment made under this subchapter discharges the finan-                              NONPROBATE TRANSFER OF REAL PROPERTY
+cial institution from all claims for amounts so withdrawn. If the
+institution has reason to believe that a dispute exists as to the                      705.10 Nonprobate transfers on death. (1) A provision
+rights of the parties to an account or their successors it may, but                    for a nonprobate transfer on death in an insurance policy, contract
+shall not be required to, refuse to pay funds in the account to any                    of employment, bond, mortgage, promissory note, certificated or
+persons pending instructions from a court, or it may pay the pro-                      uncertificated security, account agreement, custodial agreement,
+ceeds to a court. An institution may but need not recognize the                        deposit agreement, compensation plan, pension plan, individual
+authority of an agent, other than one with continuing authority                        retirement plan, employee benefit plan, trust, conveyance, online
+under s. 705.05 (3), until it knows of the fact of death or adjudica-                  tool, as defined in s. 711.03 (18), deed of gift, marital property
+tion of incompetence of all parties appointing such agent and has                      agreement, or other written instrument of a similar nature is non-
+reasonable opportunity to act.                                                         testamentary. This subsection governs a written provision that:
+                                                                                           (a) Money or other benefits due, controlled by or owned by a
+   (3) The protection provided by this section shall have no bear-
+                                                                                       decedent before death must be paid after the decedent’s death to a
+ing on the rights of parties or their successors in disputes con-
+                                                                                       person whom the decedent designates either in the instrument or
+cerning the beneficial ownership of funds in or withdrawn from
+                                                                                       in a separate writing, including a will executed either before or at
+an account.
+  History: 1973 c. 291; 1983 a. 186; 1987 a. 27; 1989 a. 331; 2005 a. 216.
+                                                                                       the same time as the instrument, or later;
+  A personal representative is not a “party” to an account held as a “joint account”       (b) Money due or to become due under the instrument ceases
+
+   2023-24 Wisconsin Statutes updated through 2025 Wis. Act 170 and through all Supreme Court Orders and Controlled Sub-
+stances Board Orders filed before and in effect on May 22, 2026. Published and certified under s. 35.18. Changes effective after
+May 22, 2026, are designated by NOTES. (Published 5-22-26)
+                                Updated 2023-24 Wis. Stats. Published and certified under s. 35.18. May 22, 2026.
+
+  5      Updated 23-24 Wis. Stats.                                             SPECIAL ACCOUNTS; TRANSFERS ON DEATH                                  705.15
+
+to be payable in the event of death of the promisee or the                                 use of the words “transfer on death” or “pay on death,” or the ab-
+promisor before payment or demand; or                                                      breviation “TOD” or “POD,” after the name of the owner or own-
+   (c) Any property controlled by or owned by the decedent be-                             ers of the property and before the name of the TOD beneficiary
+fore death which is the subject of the instrument passes to a per-                         or beneficiaries. The owner or owners may designate one or
+son whom the decedent designates either in the instrument or in a                          more persons as a primary TOD beneficiary and may designate
+separate writing, including a will executed either before or at the                        one or more persons as a contingent TOD beneficiary if a pri-
+same time as the instrument, or later.                                                     mary TOD beneficiary does not survive the sole owner or the last
+   (2) This section does not limit rights of creditors under other                         to die of multiple owners. The designation may be included on
+laws of this state.                                                                        the original document that passes the property interest to the
+   (3) Chapter 854 applies to transfers at death under this                                owner or owners or may be made at a later time by the sole owner
+section.                                                                                   or all then surviving owners by executing and recording another
+                                                                                           document that designates a TOD beneficiary.
+   (4) A transfer under this section does not require confirma-
+tion in any procedure under s. 867.01, 867.02, or 867.03 or ch.                                (c) A TOD beneficiary designation is not effective unless the
+856 or 865. A transfer under this section may be confirmed un-                             document on which the designation is made, and any fees re-
+der s. 867.046 (1m) or (2).                                                                quired to record the document, are submitted for recording to the
+   History: 1989 a. 331; 1997 a. 188; 2005 a. 206 s. 5; 2005 a. 216 s. 35; Stats.          register of deeds office of the county in which the real property is
+2005 s. 705.10; 2007 a. 97 s. 198; 2015 a. 300.                                            located before the death of the sole owner or the last to die of
+   An annuity is an “other written instrument” under sub. (1). A contractual ar-           multiple owners.
+rangement that creates a nonprobate transfer of property subject to this section will
+defeat a marital agreement that does not make the transfer. Reichel v. Jung, 2000 WI           (3) (a) The designation of a TOD beneficiary on a document
+App 151, 237 Wis. 2d 853, 616 N.W.2d 118, 99-1211.                                         does not affect ownership of the property until the death of the
+   No provision of this section or s. 766.58 (3) permits parties to ignore ch. 854 or to
+agree to prohibit court involvement in implementing a marital property agreement.          sole owner or the last to die of multiple owners regardless of
+That “Washington Will” provisions permit transfer of property without probate does         whether the document provides otherwise. Subject to par. (b), an
+not mean the legislature allowed parties to agree to no court involvement in imple-
+menting transfer of ownership and creating a reliable and public record of transfer.       instrument is effective to revoke a previously recorded document
+Maciolek v. City of Milwaukee Employes’ Retirement System Annuity & Pension                designating a TOD beneficiary, or any part of the previously
+Board, 2006 WI 10, 288 Wis. 2d 62, 709 N.W.2d 360, 04-1254.                                recorded document, only if the instrument meets all of the follow-
+   Wisconsin’s New Probate Code. Erlanger. Wis. Law. Oct. 1998.
+                                                                                           ing requirements:
+705.15 Nonprobate transfer of real property on death.                                           1. The instrument is one of the following:
+(1b) In this section:                                                                           a. A document that complies with sub. (2) (a) and revokes the
+   (a) “Person” means an individual, corporation, business trust,                          previously recorded document, or any part of the previously
+estate, trust, partnership, limited liability company, association,                        recorded document, expressly or by inconsistency.
+joint venture, government, government subdivision, agency or in-                                b. An instrument of revocation that expressly revokes the
+strumentality, public corporation, or any other legal or commer-                           previously recorded document, or any part of the previously
+cial entity.                                                                               recorded document.
+   (b) “Sole owner” means the owner of an interest in real prop-                                c. An inter vivos deed that expressly revokes the previously
+erty described in sub. (1m) (a) to (c).                                                    recorded document, or any part of the previously recorded
+   (c) “TOD beneficiary” means a person designated as a benefi-                            document.
+ciary in a document that complies with sub. (2) (a).                                            2. The instrument is acknowledged by the owner after the
+   (1m) Any of the following interests in real property may be                             owner acknowledged the previously recorded document, and the
+transferred without probate to a designated TOD beneficiary as                             instrument is submitted for recording to the office of the register
+provided in this section on the death of the sole owner or the last                        of deeds in the county in which the real property is located before
+to die of the multiple owners:                                                             the death of the sole owner or the last to die of multiple owners.
+   (a) An interest in real property that is owned by one individual                            (b) If a document designating a TOD beneficiary is made by
+and is not concurrently owned by any other person.                                         more than one owner, all of the following apply:
+   (b) A fractional interest in real property that is owned by an                               1. Revocation by an owner does not affect the document des-
+individual as a tenant in common.                                                          ignating a TOD beneficiary as to the interest of another owner.
+   (c) An interest in real property that is owned by a spouse as                                2. A document designating a TOD beneficiary of real prop-
+marital property. This paragraph does not include an interest in                           erty owned by 2 or more individuals as joint tenants or by spouses
+real property owned as survivorship marital property.                                      as survivorship marital property is revoked only if it is revoked by
+                                                                                           all of the living joint tenants or spouses.
+   (d) An interest in real property owned by spouses as survivor-
+ship marital property.                                                                         (c) This subsection does not limit the effect of an inter vivos
+                                                                                           transfer of the property.
+   (e) An interest in real property owned by 2 or more individu-
+als as joint tenants.                                                                          (4) On the death of the sole owner or the last to die of multi-
+                                                                                           ple owners, ownership of the interest in the real property passes,
+   (2) (a) A TOD beneficiary may be designated on a document                               subject to any lien or encumbrance against the real property, to
+that includes all of the following:
+                                                                                           the designated TOD beneficiary or beneficiaries who survive all
+     1. The name of the owner or owners of the interest in real                            owners and to any predeceased beneficiary’s issue who would
+property that will be transferred.                                                         take under s. 854.06 (3). If no TOD beneficiary or predeceased
+     2. The name of the designated TOD beneficiary.                                        TOD beneficiary’s issue who would take under s. 854.06 (3) sur-
+     3. That the transfer is effective only upon the death of the                          vives the death of all owners, the interest in the real property
+owner or owners.                                                                           passes to the estate of the deceased sole owner or the estate of the
+     4. If the interest that will be transferred is an interest in real                    last to die of the multiple owners.
+property owned by a spouse as marital property, the signatures of                              (5) A TOD beneficiary’s interest in the property on the death
+both spouses who have an interest in the marital property.                                 of the sole owner or the last to die of multiple owners may be con-
+   (b) The designation of a TOD beneficiary may be made by                                 firmed as provided in s. 863.27, 865.201, or 867.046.
+
+
+    2023-24 Wisconsin Statutes updated through 2025 Wis. Act 170 and through all Supreme Court Orders and Controlled Sub-
+ stances Board Orders filed before and in effect on May 22, 2026. Published and certified under s. 35.18. Changes effective after
+ May 22, 2026, are designated by NOTES. (Published 5-22-26)
+                             Updated 2023-24 Wis. Stats. Published and certified under s. 35.18. May 22, 2026.
+
+705.15            SPECIAL ACCOUNTS; TRANSFERS ON DEATH                                                 Updated 23-24 Wis. Stats.             6
+
+    (6) Chapter 854 applies to transfers on death under this                  1. The name of the owner or owners of the interest in a farm
+section.                                                                 implement that will be transferred.
+    (7) The capacity required to designate a TOD beneficiary or               2. The name of the designated TOD beneficiary.
+to revoke a designation of a TOD beneficiary is the same as the               3. A statement indicating that the transfer is effective only
+capacity to make or revoke a will under s. 853.01.                       upon the death of the owner or owners.
+    (8) Unless previously adjudicated in a formal testacy pro-                4. If the interest that will be transferred is an interest in prop-
+ceeding or otherwise barred, the claim of any claimant to recover        erty owned by a spouse as marital property, the signatures of both
+real property transferred to a TOD beneficiary under this section        spouses who have an interest in the marital property.
+is barred unless, by no later than 120 days after the death of the           (b) The designation of a TOD beneficiary may be made by
+sole owner or the last to die of multiple owners, a complaint is         use of the words “transfer on death” or “pay on death,” or the ab-
+filed in an action in which the relief demanded may confirm or           breviation “TOD” or “POD,” after the name of the owner or own-
+change interests in the real property transferred under this section     ers of the property and before the name of the TOD beneficiary
+and a lis pendens is filed or recorded in each county where any          or beneficiaries. The owner or owners may designate one or
+part of the real property is located.                                    more persons as a primary TOD beneficiary and may designate
+  History: 2005 a. 206; 2017 a. 332; 2025 a. 60.                         one or more persons as a contingent TOD beneficiary if a pri-
+                                                                         mary TOD beneficiary does not survive the sole owner or the last
+705.18 Nonprobate transfer of farming implements at
+                                                                         to die of multiple owners. The designation may be included on
+death. (1) In this section:
+                                                                         the original document that passes the property interest to the
+    (a) “Conscious presence” means within the range of any of an         owner or owners or may be made at a later time by the sole owner
+individual’s senses.                                                     or all then surviving owners by executing another document that
+    (am) “Disinterested witness” means an individual who is not          designates a TOD beneficiary.
+designated as a TOD beneficiary on a document that he or she is              (c) A document designating a TOD beneficiary under this
+acting as a witness to under this section.                               section is not effective unless it is in writing and executed with all
+    (b) 1. “Farm implement” means a tractor or machine, includ-          of the following formalities:
+ing any associated accessories, attachments, fuel, and repair                 1. It must be signed by all owners. If an owner is unable to
+parts, used exclusively and directly in farming.                         sign, another person may sign for the owner with the owner’s con-
+     2. “Farm implement” does not include personal property that         sent and in the owner’s conscious presence.
+is attached to, fastened to, connected to, or built into real property        2. It must be signed by at least 2 witnesses, at least one of
+or that becomes an addition to, component of, or capital improve-        whom is a disinterested witness, who signed within a reasonable
+ment to real property, and does not include buildings or improve-        time after any of the following:
+ments to real property, regardless of any contribution that the per-          a. The signing of the document designating a TOD benefi-
+sonal property makes to the production process of any machine            ciary as provided in subd. 1., in the conscious presence of the
+and regardless of the extent to which that personal property func-       witness.
+tions as a machine.
+                                                                              b. The owner’s implicit or explicit acknowledgment of the
+     3. For purposes of subd. 2., the following items retain their       owner’s signature on the document designating a TOD benefi-
+character as a “farm implement,” regardless of the extent to             ciary, in the conscious presence of the witness.
+which they are fastened to, connected to, or built into real
+property:                                                                     c. The owner’s implicit or explicit acknowledgment of the
+                                                                         document designating a TOD beneficiary, in the conscious pres-
+     a. Auxiliary power generators.                                      ence of the witness.
+     b. Bale loaders.                                                         3. The 2 witnesses required under subd. 2. may observe the
+     c. Barn elevators.                                                  signing or acknowledgment under subd. 2. a. to c. at different
+     d. Conveyors.                                                       times.
+     e. Feed elevators and augers.                                            4. If there are multiple owners, each signature of an owner
+     f. Grain dryers and grinders.                                       must be witnessed by at least 2 witnesses. For purposes of this
+     g. Milk coolers.                                                    paragraph, a witness may be a witness for multiple owners.
+     h. Milking machines, including piping, pipeline washers, and             5. Any person who, at the time of execution of the document
+compressors.                                                             designating a TOD beneficiary, would be competent to testify as
+     i. Silo unloaders.                                                  a witness in court to the facts relating to execution may act as a
+                                                                         witness to the document designating a TOD beneficiary. Subse-
+     j. Powered feeders, but not including platforms or troughs
+                                                                         quent incompetency of a witness is not a ground for denying or
+constructed from ordinary building materials.
+                                                                         voiding the TOD beneficiary designation if the execution of the
+    (c) “Person” means an individual, corporation, business trust,       document designating a TOD beneficiary is otherwise satisfacto-
+estate, trust, partnership, limited liability company, association,      rily proved.
+joint venture, government, government subdivision, agency or in-
+                                                                             (4) The designation of a TOD beneficiary on a document
+strumentality, public corporation, or any other legal or commer-
+                                                                         does not affect ownership of the property until the death of the
+cial entity.
+                                                                         sole owner or the last to die of multiple owners regardless of
+    (d) “TOD beneficiary” means a person designated as a benefi-         whether the document provides otherwise. The designation may
+ciary in a document that complies with sub. (3) (a).                     be canceled or changed at any time by the sole owner or all then
+    (2) Any interest in a farm implement may be transferred with-        surviving owners, without the consent of the TOD beneficiary, by
+out probate to a designated TOD beneficiary as provided in this          executing another document that designates a different TOD ben-
+section on the death of the sole owner or the last to die of multiple    eficiary or no beneficiary. The execution of a document that des-
+owners.                                                                  ignates a TOD beneficiary or no beneficiary revokes any designa-
+    (3) (a) A TOD beneficiary may be designated on a document            tion made in a previously executed document relating to the same
+that includes all of the following:                                      property interest.
+
+
+   2023-24 Wisconsin Statutes updated through 2025 Wis. Act 170 and through all Supreme Court Orders and Controlled Sub-
+stances Board Orders filed before and in effect on May 22, 2026. Published and certified under s. 35.18. Changes effective after
+May 22, 2026, are designated by NOTES. (Published 5-22-26)
+                             Updated 2023-24 Wis. Stats. Published and certified under s. 35.18. May 22, 2026.
+
+ 7      Updated 23-24 Wis. Stats.                             SPECIAL ACCOUNTS; TRANSFERS ON DEATH                                 705.27
+
+    (5) On the death of the sole owner or the last to die of multi-          (am) An investment management or custody account with a
+ple owners, ownership of the interest in the farm implement              trust company or a trust division of a bank with trust powers, in-
+passes, subject to any lien or encumbrance against the farm im-          cluding the securities in the account, a cash balance in the ac-
+plement, to the designated TOD beneficiary or beneficiaries who          count, and cash, cash equivalents, interest, earnings, or dividends
+survive all owners and to any predeceased beneficiary’s issue            earned or declared on a security in the account, whether or not
+who would take under s. 854.06 (3). If no TOD beneficiary or             credited to the account before the owner’s death.
+predeceased TOD beneficiary’s issue who would take under s.                  (b) A cash balance or other property held for or due to the
+854.06 (3) survives the death of all owners, the interest in the         owner of a security as a replacement for or product of an account
+farm implement passes to the estate of the deceased sole owner or        security, whether or not credited to the account before the
+the estate of the last to die of the multiple owners.                    owner’s death.
+    (6) A TOD beneficiary’s interest in the property on the death            (13) “State” includes any state of the United States, the Dis-
+of the sole owner or the last to die of multiple owners may be con-      trict of Columbia, the commonwealth of Puerto Rico, and any ter-
+firmed as provided in s. 863.27, 865.201, or 867.046.                    ritory or possession subject to the legislative authority of the
+    (7) Chapter 854 applies to transfers on death under this             United States.
+section.                                                                   History: 1989 a. 331; 2005 a. 10.
+
+    (8) The capacity required to designate a TOD beneficiary or          705.22 Registration in beneficiary form; sole or joint
+to revoke a designation of a TOD beneficiary is the same as the          tenancy ownership. Only individuals whose registration of a
+capacity to make or revoke a will under s. 853.01.                       security shows sole ownership by one individual or multiple own-
+    (9) Unless previously adjudicated in a formal testacy pro-           ership by 2 or more with right of survivorship, rather than as ten-
+ceeding or otherwise barred, the claim of any claimant to recover        ants in common, may obtain registration in beneficiary form.
+a farm implement transferred to a TOD beneficiary under this             Multiple owners of a security registered in beneficiary form hold
+section is barred unless, by no later than 120 days after the death      as joint tenants with right of survivorship, as tenants by the en-
+of the sole owner or the last to die of multiple owners, a com-          tireties, or as owners of community property held in survivorship
+plaint is filed in an action in which the relief demanded may con-       form, and not as tenants in common.
+firm or change interests in the farm implement transferred under           History: 1989 a. 331.
+this section.
+  History: 2021 a. 201; 2025 a. 129.                                     705.23 Registration in beneficiary form; applicable
+                                                                         law. A security may be registered in beneficiary form if the form
+                                                                         is authorized by ss. 705.21 to 705.30 or a similar statute of the
+                           SUBCHAPTER III                                state of organization of the issuer or registering entity, the loca-
+                                                                         tion of the registering entity’s principal office, the office of its
+     TRANSFER ON DEATH SECURITY REGISTRATION
+                                                                         transfer agent or its office making the registration, or by ss.
+                                                                         705.21 to 705.30 or a similar statute of the law of the state listed
+705.21 Definitions; transfer on death security regis-                    as the owner’s address at the time of registration. A registration
+tration. In ss. 705.21 to 705.30:                                        governed by the law of a jurisdiction in which ss. 705.21 to
+    (2) “Beneficiary form” means a registration of a security            705.30 or similar legislation is not in force or was not in force
+which indicates the present owner of the security and the inten-         when a registration in beneficiary form was made is nevertheless
+tion of the owner regarding the person who will become the               presumed to be valid and authorized as a matter of contract law.
+owner of the security upon the death of the owner.                         History: 1989 a. 331.
+    (5) “Devisee” means any person designated in a will to re-
+ceive a disposition of real or personal property.                        705.24 Origination of registration in beneficiary form.
+                                                                         A security, whether evidenced by certificate or account, is regis-
+    (6) “Heir” has the meaning given in s. 851.09.                       tered in beneficiary form if the registration includes a designation
+    (7) “Personal representative” has the meaning given in s.            of a beneficiary to take the ownership at the death of the owner or
+851.23.                                                                  the deaths of all multiple owners.
+    (8) “Property” has the meaning given in s. 851.27.                     History: 1989 a. 331.
+    (9) “Register”, including its derivatives, means to issue a cer-
+                                                                         705.25 Form of registration in beneficiary form. Regis-
+tificate showing the ownership of a certificated security or, in the
+                                                                         tration in beneficiary form may be shown by the words “transfer
+case of an uncertificated security, to initiate or transfer an account
+                                                                         on death” or the abbreviation “TOD” or by the words “pay on
+showing ownership of securities.
+                                                                         death” or the abbreviation “POD”, after the name of the regis-
+    (10) “Registering entity” means a person who originates or           tered owner and before the name of a beneficiary.
+transfers a security title by registration, and includes a broker          History: 1989 a. 331.
+maintaining security accounts for customers and a transfer agent
+or other person acting for or as an issuer of securities.                705.26 Effect of registration in beneficiary form. The
+    (11) “Security” means a share, participation or other interest       designation of a TOD beneficiary on a registration in beneficiary
+in property, in a business or in an obligation of an enterprise or       form does not affect ownership until the owner’s death. A regis-
+other issuer, and includes a certificated security, an uncertificated    tration of a security in beneficiary form may be canceled or
+security and a security account.                                         changed at any time by the sole owner or all then surviving own-
+                                                                         ers, without the consent of the beneficiary.
+    (12) “Security account” means any of the following:
+                                                                           History: 1989 a. 331.
+    (a) A reinvestment account associated with a security, a secu-
+rities account with a broker, a cash balance in a brokerage ac-          705.27 Ownership on death of owner. Subject to the
+count, cash, cash equivalents, interest, earnings or dividends           rights of the registering entity under s. 705.28 (2m), on the death
+earned or declared on a security in an account, a reinvestment ac-       of a sole owner or the last to die of multiple owners, ownership of
+count or a brokerage account, whether or not credited to the ac-         securities registered in beneficiary form passes to the beneficiary
+count before the owner’s death.                                          or beneficiaries who survive all owners and to any predeceased
+
+
+   2023-24 Wisconsin Statutes updated through 2025 Wis. Act 170 and through all Supreme Court Orders and Controlled Sub-
+stances Board Orders filed before and in effect on May 22, 2026. Published and certified under s. 35.18. Changes effective after
+May 22, 2026, are designated by NOTES. (Published 5-22-26)
+                             Updated 2023-24 Wis. Stats. Published and certified under s. 35.18. May 22, 2026.
+
+705.27            SPECIAL ACCOUNTS; TRANSFERS ON DEATH                                                  Updated 23-24 Wis. Stats.         8
+
+beneficiary’s issue who would take under s. 854.06 (3). On proof        registering entity of a security does not affect the rights of benefi-
+of death of all owners and compliance with any applicable re-           ciaries in disputes between themselves and other claimants to
+quirements of the registering entity, a security registered in bene-    ownership of the security transferred or its value or proceeds.
+ficiary form may be reregistered in the name of the successors to         History: 1989 a. 331; 2005 a. 216.
+the ownership interest. Until division of the security after the
+                                                                        705.29 Nontestamentary transfer on death. (1) A
+death of all owners, multiple successors to the ownership interest
+                                                                        transfer on death resulting from a registration in beneficiary form
+hold their interests as tenants in common. If no beneficiary or
+                                                                        is effective by reason of the contract regarding the registration be-
+predeceased beneficiary’s issue who would take under s. 854.06
+                                                                        tween the owner and the registering entity and ss. 705.21 to
+(3) survives the death of all owners, the security belongs to the es-
+                                                                        705.30 and is not testamentary.
+tate of the deceased sole owner or the estate of the last to die of
+multiple owners.                                                            (2) Sections 705.21 to 705.30 do not limit the rights of credi-
+  History: 1989 a. 331; 2005 a. 216.                                    tors of security owners against beneficiaries and other transferees
+                                                                        under other laws of this state.
+705.28 Protection of registering entity. (1) A register-                  History: 1989 a. 331.
+ing entity is not required to offer or to accept a request for secu-
+rity registration in beneficiary form. If a registration in benefi-     705.30 Terms, conditions and forms for registration.
+ciary form is offered by a registering entity, the owner requesting     (1) A registering entity offering to accept registrations in benefi-
+registration in beneficiary form assents to the protections given to    ciary form may establish the terms and conditions under which it
+                                                                        will receive requests for registration in beneficiary form and for
+the registering entity by ss. 705.21 to 705.30.
+                                                                        implementation of registrations in beneficiary form, including re-
+    (2) By accepting a request for registration of a security in        quests for cancellation of previously registered TOD beneficiary
+beneficiary form, the registering entity agrees that the registra-      designations and requests for reregistration to effect a change of
+tion will be implemented upon death of the deceased owner as            beneficiary. The terms and conditions so established may pro-
+provided in ss. 705.21 to 705.30.                                       vide for proving death, avoiding or resolving a problem concern-
+    (2m) If more than one beneficiary is named and at least one         ing fractional shares, designating primary and contingent benefi-
+beneficiary is predeceased, a security registered in beneficiary        ciaries, and substituting a named beneficiary’s descendants to
+form may be reregistered in the name of the surviving beneficiary       take in the place of the named beneficiary in the event of the ben-
+with a proof of death of the other beneficiary, without regard to       eficiary’s death. Substitution may be indicated by appending to
+claims by the issue of a predeceased beneficiary under s. 705.27        the name of the primary beneficiary the letters “LDPS”, standing
+unless the registering entity receives written notice of a claim un-    for “lineal descendants per stirpes”. This designation substitutes
+der sub. (3) (b). If none of the beneficiaries survive, a security      a deceased beneficiary’s descendants who survive the owner for a
+registered in beneficiary form may be reregistered in the name of       beneficiary who fails to so survive, the descendants to be identi-
+the estate of the deceased sole owner or the estate of the owner        fied and to share in accordance with the law of the beneficiary’s
+who was last to die of multiple owners, without regard to claims        domicile at the owner’s death governing inheritance by descen-
+by the issue of a predeceased beneficiary under s. 705.27 unless        dants of an intestate. Other forms of identifying beneficiaries
+the registering entity receives written notice of a claim under sub.    who are to take on one or more contingencies, and rules for pro-
+(3) (b).                                                                viding proofs and assurances needed to satisfy reasonable con-
+    (3) (a) Subject to par. (b), a registering entity is discharged     cerns by registering entities regarding conditions and identities
+from all claims to a security by the estate, creditors, heirs or de-    relevant to accurate implementation of registrations in benefi-
+visees of the deceased owner if it registers a transfer of a security   ciary form, may be contained in a registering entity’s terms and
+in accordance with s. 705.27 and does so in good faith reliance on      conditions.
+the registration, on ss. 705.21 to 705.30, and on information pro-         (2) The following are illustrations of registrations in benefi-
+vided to it by affidavit of the personal representative of the de-      ciary form which a registering entity may authorize:
+ceased owner, or by the surviving beneficiary or by the surviving          (a) Sole owner - sole beneficiary: John S Brown TOD (or
+beneficiary’s representatives, or other information available to        POD) John S Brown Jr.
+the registering entity.                                                    (b) Multiple owners - sole beneficiary: John S Brown Mary
+    (b) The protections provided in this subchapter do not extend       B Brown JT TEN TOD John S Brown Jr.
+to a reregistration or payment made after a registering entity has         (c) Multiple owners - primary and secondary (substituted)
+received written notice from a claimant to an interest in the secu-     beneficiaries: John S Brown Mary B Brown, JT TEN TOD John
+rity objecting to implementation of a registration in beneficiary       S Brown Jr SUB BENE Peter Q Brown or John S Brown Mary B
+form. No other notice or other information available to the regis-      Brown JT TEN TOD John S Brown Jr LDPS.
+tering entity affects its right to protection under this subchapter.      History: 1989 a. 331.
+If the registering entity has reason to believe that a dispute exists
+as to the rights of the parties to a security registered in benefi-     705.31 Applicability of general transfers at death pro-
+ciary form or their successors, the registering entity may refuse to    visions. Chapter 854 applies to transfers at death under this
+                                                                        subchapter.
+reregister the security pending instructions from a court.
+                                                                          History: 1997 a. 188.
+    (4) The protection provided by ss. 705.21 to 705.30 to the            Wisconsin’s New Probate Code. Erlanger. Wis. Law. Oct. 1998.
+
+
+
+
+   2023-24 Wisconsin Statutes updated through 2025 Wis. Act 170 and through all Supreme Court Orders and Controlled Sub-
+stances Board Orders filed before and in effect on May 22, 2026. Published and certified under s. 35.18. Changes effective after
+May 22, 2026, are designated by NOTES. (Published 5-22-26)
+

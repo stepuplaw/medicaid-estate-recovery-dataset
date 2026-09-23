@@ -1,0 +1,732 @@
+Source URL: https://www.medicaidlongtermcare.org/protection/estate-recovery-program/
+Retrieved: 2026-09-23
+
+Medicaid Estate Recovery: How it Works 
+
+ Menu 
+
+ Medicaid Basics 
+ Medicaid Basics What is Medicaid Long Term Care? 
+ 3 Types of Long-Term Care Programs 
+ Can Medicaid Take My Home? 
+ Can Medicaid Take My Home: Interactive Tool 
+ What Medicaid Considers Income 
+ What Medicaid Considers Assets 
+ Look-Back Period 
+ Spend Down 
+ Estate Recovery Program 
+ What Are Waitlists & How They Work 
+ Intent to Return Home 
+ Consumer Directed Care 
+
+ Medicaid FAQ 
+ Frequently Asked Questions How long Medicaid pays for nursing home & long term care 
+ How much Medicaid pays for nursing home & long term care 
+ What is Community Medicaid with long term care 
+ How gifting money to family impacts Medicaid eligibility 
+ Can you have long-term care insurance & Medicaid 
+ Will Medicaid pay for a private room in a nursing home 
+ How tithing income to a church impacts Medicaid eligibility 
+ Who pay for the nursing home while Medicaid is pending 
+ How joint bank accounts affect Medicaid eligibility 
+ What happens if a Medicaid beneficiary’s home increases in value 
+ What happens when a beneficiary receives an inheritance 
+
+ Eligibility 
+ Eligibility Medicaid Eligibility Requirements Finder 
+ Online Medicaid Eligibility Test 
+ Eligibility Overview Eligibility By State 
+ Eligibility by Program 
+ Eligibility by Marital Status 
+
+ Care Requirements for Eligibility 
+ Income Eligibility Chart 
+ Factors Impacting Eligibility Life Insurance Impact on Eligibility 
+ Home Ownership's Impact on Eligibility 
+ Joint Home Ownership Impact on Eligibility 
+ IRAs, Pensions & 401(k)s Impact on Eligibility 
+
+ Alternative Pathways to Eligibility Supplemental Security Income 
+ Medically Needy Pathway 
+ Qualified Income Trusts 
+
+ Retroactive Eligibility 
+ Dual Eligibility: Medicaid & Medicare 
+
+ Eligibility By State Alabama 
+ Alaska 
+ Arizona 
+ Arkansas 
+ California 
+ Colorado 
+ Connecticut 
+ Delaware 
+ Florida 
+ Georgia 
+ Hawaii 
+ Idaho 
+ Illinois 
+ Indiana 
+ Iowa 
+ Kansas 
+ Kentucky 
+ Louisiana 
+ Maine 
+ Maryland 
+ Massachusetts 
+ Michigan 
+ Minnesota 
+ Mississippi 
+ Missouri 
+ Montana 
+ Nebraska 
+ Nevada 
+ New Hampshire 
+ New Jersey 
+ New Mexico 
+ New York 
+ North Carolina 
+ North Dakota 
+ Ohio 
+ Oklahoma 
+ Oregon 
+ Pennsylvania 
+ Rhode Island 
+ South Carolina 
+ South Dakota 
+ Tennessee 
+ Texas 
+ Utah 
+ Vermont 
+ Vermont 
+ Virginia 
+ Washington 
+ Washington, DC 
+ West Virginia 
+ Wisconsin 
+ Wyoming 
+
+ Benefits 
+ Benefits Benefits Overview 
+ Benefits in Nursing Homes 
+ Benefits at Home 
+ Benefits in Assisted Living 
+ Benefits for Adult Day Care 
+ Benefits for Home Modifications 
+ Benefits for Equipment, Supplies & PERS 
+ Benefits for Prescriptions & Supplements 
+ Benefits for Hospice 
+ Benefits for Mental Health 
+ Comparing Medicaid & VA Pensions 
+ Getting Paid as a Caregiver 
+ PACE/LIFE Programs 
+ Keeping Medigap When on Medicaid 
+ Money Follows the Person Programs 
+
+ Protecting Resources 
+ Protecting Protecting Resources Overview 
+ Protecting the Home Child Caregiver Exemption 
+ Sibling Exemption 
+ Lady Bird Deeds 
+
+ Protecting the Spouse Min. Monthly Maintenance Needs Allowance 
+ Community Spouse Resource Allowance 
+
+ Protecting Financial Assets Medicaid Asset Protection Trusts 
+ Medicaid Compliant Annuities 
+ Individual Retirement Accounts (IRA) 
+ Irrevocable Funeral Trusts 
+ Long Term Care Partnership Programs 
+ Personal Care Agreements 
+
+ How to Apply 
+ How to Apply How to Apply for Nursing Home Medicaid 
+ How to Apply for Medicaid Waivers 
+ How to Apply for ABD Medicaid 
+ Planning for Medicaid 
+ Medicaid Renewals / Redeterminations 
+ “Medicaid Pending” Status 
+ Handling Medicaid Denials 
+ Moving Out-of-State/Transferring Medicaid 
+ Application Documents Checklist 
+
+ Medicaid Estate Recovery: Rules, Limits & Variations by State
+
+ Summary 
+
+Medicaid Long Term Care covers nursing home expenses and in-home care costs for financially limited people who are in need of long-term care. After their death states are required by law to try and collect reimbursement for that care through the deceased beneficiary’s estate. This process is known as Medicaid Estate Recovery. The estate recovery rules vary by state, but every state and the District of Columbia have Medicaid Estate Recovery Programs.
+
+ Table of Contents
+
+ Last Updated: Jan 30, 2026 
+
+ Estate Recovery Explained Spousal Protections How it Works Can the Home Be Exempt? How States Take the Home (Liens) How Often Does Recovery Happen? Statute of Limitations State-Specific Differences (Table) 
+
+ Medicaid Estate Recovery Explained
+
+  This article discusses whether Medicaid can “take one’s home” after the Medicaid beneficiary passes. To learn if a home is at risk while the beneficiary is living, use our interactive “Can Medicaid Take My Home tool” .
+
+ After a Medicaid Long Term Care beneficiary dies, the Medicaid Estate Recovery Program (MERP) in their state is required by law to seek reimbursement for their Medicaid long-term care expenses. Trying to collect money that has already been used to pay for healthcare is sometimes referred to as “clawback.” This Medicaid clawback includes the costs of nursing home care, in-home care provided through Home and Community Based Services (HCBS) Waivers or Aged, Blind and Disabled Medicaid, and any prescription drug or hospitalization costs related to long-term care. In some states, the MERP will attempt to collect reimbursement for Medicaid expenses not related to long-term care.
+
+ When someone has been on Medicaid at the end of their life, the home is usually the last remaining thing of value after death, so states will attempt recovery via the home. That process is detailed below. However, MERPs can also try to collect via other assets, including:
+
+ Cash
+
+ Money in checking and savings accounts
+
+ Remaining funds in Qualified Income Trusts 
+
+ Remaining funds in Irrevocable Funeral Trusts 
+
+ Items of value including vehicles
+
+ Spousal Protections from Medicaid Estate Recovery
+
+ Medicaid estate recovery rules provide protection for surviving spouses of Medicaid beneficiaries. First of all, states are not allowed to collect reimbursement for Medicaid long-term care costs if the deceased beneficiary has a surviving spouse. This applies to all 50 states and the District of Columbia. And Medicaid is not allowed to put a lien on a home and collect reimbursement through the sale of the home if the beneficiary’s surviving spouse lives there. More details on how Medicaid estate recovery rules handle beneficiary’s homes can be found below.
+
+ How Does Medicaid Estate Recovery Work? 
+
+ After a Medicaid Long Term Care beneficiary dies, a family member will usually get a letter from the state declaring its intention to attempt recovery for that long-term care. As mentioned above, some states will also try to collect reimbursement for Medicaid expenses not related to long-term care, but the state can not try to collect more than it paid out through Medicaid.
+
+ It is also possible, depending on the state, that family members or a personal representative of the deceased Medicaid beneficiary are required to notify state offices when the recipient dies.
+
+ In 23 states and the District of Columbia, Medicaid Estate Recovery Programs only seek reimbursement from the deceased beneficiary’s “probate estate.” These are known as “probate-only” states. Probate assets are assets that are held in name by the deceased Medicaid beneficiary only and that would be passed on in a Will and Testament. But probate assets do not include joint assets like life insurance policies, bank accounts or retirement accounts that have been legally designated POD (pay on death), TOD (transfer on death) or the like.
+
+ In 27 states, the MERP can also go after assets that do not go through probate. These are known as “expanded recovery” states. These states will attempt recovery via both probate and non-probate items, which includes any assets the deceased Medicaid beneficiary had a legal interest at the time of their death.
+
+ The comparison table at the bottom of this article shows which states are probate-only and which use expanded recovery.
+
+ Can the Home be Exempt from Medicaid Estate Recovery?
+
+ Without Medicaid planning strategies, the home is not exempt from Medicaid estate recovery. This can be somewhat confusing since the home might have been exempt from Medicaid’s asset limit while the Medicaid beneficiary was alive. Here’s the catch: the rules and strategies that made the home exempt while the beneficiary was alive are not the same rules and strategies that will make the home exempt when the beneficiary is deceased.
+
+ For details on how to protect the home from Medicaid estate recovery, including asset protection trusts and Lady Bird Deeds, click here .
+
+  Medicaid estate recovery has been required by law in every state since the 1993 passage of the Omnibus Budget Reconciliation Act. Prior to OBRA, a state could choose not to be reimbursed when a Medicaid recipient passed away.
+
+ How the State Takes a Home (Often Using a Lien) 
+
+ How Medicaid estate recovery rules and clawback apply to one’s home can vary quite a bit by state. Some states won’t use MERP if the home is valued below a certain amount. Texas, for example, does not try to be reimbursed from a recipient whose estate is valued below $10,000, while Georgia’s limit is $25,000.
+
+ Medicaid can put a lien on a recipient’s home as part of the estate recovery process, but not every state will do this. A lien prevents the sale of the home until all of the homeowner’s debts are paid. This means a Medicaid recipient can’t transfer ownership of a home before death to prevent it from being used to pay back state Medicaid.
+
+ A lien will be filed by the state after the recipient moves out, as long as they are not expected to ever move back in. The lien gets lifted if the recipient moves from the home, or if the home is sold to pay back Medicaid.
+
+ Medicaid cannot put a lien on a home if any of the following people still live there:
+
+ The recipient’s spouse
+
+ Recipient’s child who is under 21
+
+ Recipient’s child who is disabled or blind
+
+ Recipient’s sibling with partial ownership
+
+ The process of selling a home for Medicaid estate recovery will often be contracted to an outside agency, such as Health Management Service (HMS), a Gainwell Technologies company. The agency will put the home up for sale, and once a buyer is found, the MERP claim must be addressed before the sale can close.
+
+ Information on if, and how, states use liens in estate recovery can be found in the comparison table at the end of this article.
+
+ How Often is Medicaid Estate Recovery Used to Recoup Costs? 
+
+ Every state has a Medicaid Estate Recovery Program and will use it to be reimbursed for Medicaid Long Term Care costs unless certain exceptions apply.
+
+ These are some of the reasons a state Medicaid office cannot attempt recovery for long-term care costs:
+
+ The recipient’s spouse is still alive.
+
+ The statute of limitations has expired (See below for more on statutes of limitations).
+
+ The deceased has a child under 21.
+
+ The deceased has a blind or disabled child.
+
+ Recovery will cause undue hardship (see below)
+
+ All states offer Hardship Waivers. These waivers are granted, and estate recovery is prevented, if the heirs of the deceased Medicaid recipient will face undue hardship because of the state’s estate recovery claim. While all states are required to offer an undue hardship waiver, each state is allowed to use its own definition of undue hardship. States may declare that undue hardship exists if losing the estate subject to recovery would lead the heir to require public assistance; or if inheriting the estate would mean the heir no longer needed public assistance; or if the estate is the sole income producing asset of surviving heir; or the estate is a homestead worth 50% or less of the average price of a home in the county; or if there are other compelling reasons.
+
+ State-specific details on Hardship Waivers can be found in the comparison table at the end of this article.
+
+ Medicaid Estate Recovery Statute of Limitations
+
+ Statutes of limitations regarding Medicaid Estate Recovery cap the amount of time Medicaid offices have to attempt recovery after the beneficiary’s death, although not every state has a statute of limitations for its MERP. Pennsylvania is one of these. For states that do have a statute of limitations on estate recovery, it’s usually one year, as is the case in Florida . Some states, like Texas, use different kind of limitations - Texas’ MERP won’t seek reimbursement if the cost of Medicaid services provided was less than $3,000, or if the estate is worth less than $10,000. As for Texas’ MERP timing limitations, Texas’ MERP will seek reimbursement any time before the estate is closed (meaning it has all been inventoried, distributed, taxes paid, and all other obligations satisfied), or any time within four months of receiving notice the estate has been closed.
+
+ In the probate-only states listed above, MERPs must seek their reimbursement in the same timely manner any other creditor of the deceased is required to follow under the probate laws of that state. If a lien (also discussed above) was put on a house by the state’s MERP, the state may have longer to collect reimbursement, depending on the lien laws of the state.
+
+ Marital status also plays a role when it comes to statute of limitations for Medicaid estate recovery.
+
+ For married couples with one Medicaid beneficiary and one non-beneficiary (commonly known as the community spouse) where the Medicaid beneficiary dies first, states can not seek reimbursement while the community spouse is living. Some states will try to collect reimbursement after the community spouse dies, but some states never seek reimbursement if there is a surviving community spouse at the time of the beneficiary’s death.
+
+ A community spouse dying before a beneficiary spouse is a less common situation, but it can happen, and couples should plan for that possibility. If they don’t plan, the Medicaid beneficiary could become financially ineligible for Medicaid if they inherit the community spouse’s assets. In probate-only states, community spouses can do this by making sure none of their assets are left to the Medicaid beneficiary or go to probate. If that’s not an option, or if no planning was done, a Certified Medicaid Planner can help the Medicaid beneficiary implement strategies so they can avoid gaps in coverage and eventually return to Medicaid eligibility.
+
+ Estate recovery rules don’t change if both spouses are enrolled in Medicaid Long Term Care.
+
+ Since statutes of limitations vary by state, and sometimes within the state depending on the situation, we recommend consulting with an Elder Law Attorney or Certified Medicaid Planner to find out if there are any statutes of limitations or exemptions that might apply to your situation.
+
+ Information about Medicaid Estate Recovery Program limitations and exemptions by state can be found in the comparison table in the next section.
+
+ Medicaid Estate Recovery State Comparison Table
+
+ Please reference the bullets that follow to explain what each table column contains.
+
+ Estate Scope - Probate states only allow Medicaid recovery from assets that pass through probate, which typically means assets that were owned by the deceased Medicaid beneficiary and will be passed on through their final Will and Testament. Expanded recovery states allow for recovery outside of probate, for example from joint assets like a life insurance policy that is legally designated as POD (pay on death) or TOD (transfer on death) or something similar.
+
+ Spousal Recovery - Whether or not the state will attempt recovery from spouses of deceased Medicaid beneficiaries.
+
+ Liens Allowed - Some states will put liens on a Medicaid beneficiary’s home to prevent it from being sold before the state uses it for recovery. No state is allowed to use a lien if any of the following relatives of the deceased Medicaid beneficiary lives there: spouse, child who is under 21, child of any age who is disabled or blind, sibling with partial ownership of the home.
+
+ Hardship Waivers - Hardship waivers are available in all states for heirs of the Medicaid beneficiary who would have inherited assets if not for Medicaid Estate Recovery, and that recovery has imposed a hardship on them.
+
+ Exemptions / Limitations - There are some situations, and individuals, that are exempt from Medicaid Estate Recovery, such as Native Americans in many states. There are also statutes of limitations in a few states that limit the amount of time the state has to make a Medicaid Estate Recovery claim.
+
+ Notes - Other relevant information
+
+ Medicaid Estate Recovery - State by State Differences (Note: this chart has not been updated for 2026) 
+
+ Estate Scope 
+ Spousal Recovery 
+ Liens Allowed 
+ Hardship Waivers 
+ Exemptions/
+ Limitations
+
+ Notes 
+
+ Alabama 
+ Expanded 
+ No, and Alabama delays all recovery if there is a surviving spouse. 
+ Yes 
+ Yes, in several circumstances, including if the inheritor’s household assets are less than $10,000 and their income is less than twice the Federal Poverty Level. 
+ Unknown 
+ The Alabama Medicaid agency must be notified within 30 days of the death of any Medicaid recipient. 
+
+ Alaska 
+ Probate 
+ No, with the exception of the sale of a home partially owned by the spouse that the spouse does NOT live in and will not return to. 
+ Yes, but the state may not recover through a home with a lien until the death of the surviving spouse (if applicable). Liens can also be challenged through an appeal process. 
+ Yes, in several circumstances, including if estate recovery would put the inheritor’s health and safety at risk. 
+ Alaska will only pursue recovery if there is a minimum of $10,000 in assets to pursue. 
+
+ Arizona 
+ Expanded 
+ Only after the death of the surviving spouse. 
+ Yes, but only if the Medicaid recipient is “permanently institutionalized,” which Arizona defines as residing in an institution for 90 consecutive days and their health has not improved. 
+ Yes. Requests for hardship waivers must be made within 30 days of the Medicaid beneficiary’s death. 
+ Native Americans are fully excluded from estate recovery. 
+ The personal representative of the Medicaid recipient must notify Arizona’s Health Care Cost Containment System (AHCCCS) within 3 months of the recipient’s death. 
+
+ Arkansas 
+ Expanded recovery, but the only asset beyond probate that Arkansas will recover from is a home with a Lady Bird Deed. 
+ No. A surviving spouse prevents all Medicaid Estate Recovery. 
+ No, but after the Medicaid recipient’s death DHS will issue a demand notice with the county clerk’s office that will require the clerk to notify DHS if the house is sold or goes to probate, at which time a recovery claim will be filed. 
+ Yes, in multiple situations, including if an asset targeted for recovery is the sole income-producing asset of the heir or beneficiary (such as a family farm). 
+ A surviving spouse prevents all Medicaid Estate Recovery in Arkansas. 
+ This Arkansas Department of Human Services webpage has more information about the state’s Medicaid Estate Recovery Program.
+
+ California 
+ Probate 
+ Yes, but only from assets the spouse received from the deceased patient. 
+ Yes, but only “voluntary post-death liens” on assets being used by an heir that refuses to sell the asset. 
+ Yes, under six different conditions, including if receiving the inheritance would allow the heir to discontinue public or medical assistance. 
+ California offers several exemptions. They can be found by going to California’s estate recovery website .
+
+ Recovery in California can occur against any person who received property from the deceased beneficiary, or the surviving spouse of the deceased beneficiary. 
+
+ Colorado 
+ Probate 
+ No. A surviving spouse prevents all Medicaid Estate Recovery. 
+ Yes, but only if the state determines the beneficiary will not return home. Colorado uses a Utilization Review Contractor to determine if a return home is plausible. 
+ Yes. The state has significant leeway to settle or waive recovery for a “good cause.” 
+ Recovery is fully prevented if there is a surviving spouse or a surviving dependent. And recovery only occurs if it is cost effective to do so. 
+ The personal representative of the Medicaid beneficiary must give the state notice within three months of the beneficiary’s death. 
+
+ Connecticut 
+ Expanded Recovery 
+ No, but the state may place a lien on any property the deceased beneficiary had an interest in, including a home jointly owned by the spouse. 
+ Yes 
+ Yes, but the heir must meet a list of requirements to apply, and even successful applications may only result in a partial waiver or deferral of recovery. 
+ Annuities are exempt from Connecticut’s expanded recovery. 
+ Recovery claims in Connecticut are made by the Financial Services Center of the Department of Administrative Services. 
+
+ Delaware 
+ Probate 
+ Yes, but only after the death of the surviving spouse. 
+ Yes. The process of placing a lien on the home begins as soon as the Medicaid recipient begins receiving care in a long-term care facility. 
+ Yes, but hardship waivers are not permanent. They only stay in effect as long as the hardship conditions of the heir are in effect. 
+ Unknown 
+ The rules governing Delaware’s Medicaid estate recovery program can be found in its property law statutes. 
+
+ District of Columbia 
+ Probate 
+
+ Florida 
+ Probate 
+ No. A surviving spouse prevents all Medicaid Estate Recovery. 
+ Unknown, but Florida also has a liberal history of making homes exempt. 
+ Yes, if the heir meets one of four criteria, including if the heir would be deprived of food, clothing, shelter or medical care without their inheritance from the Medicaid beneficiary. 
+ - Recovery is fully prevented if there is a surviving spouse.  - Any asset which is exempt from creditor claim under Florida law is also exempt from Medicaid estate recovery. 
+
+ Georgia 
+ Expanded Recovery 
+ Yes, after the death of the surviving spouse. 
+ Yes, but they can be appealed within 30 days of receiving notice of the lien. 
+ Yes, on two conditions: 1) if the asset is an income-producing farm with an annual gross income of $25,000 or less, or 2) if recovery will result in the heir becoming eligible for public or medical assistance. 
+ Estates valued at $25,000 or less are exempt from recovery. 
+ Georgia pursues recovery until all of the assets in the recipient’s expanded estate are no longer “accessible,” making Georgia one of the most relentless Medicaid estate recovery states. 
+
+ Hawaii 
+ Probate 
+ No. A surviving spouse prevents all Medicaid Estate Recovery. 
+ Yes, if the Medicaid recipient has not returned home for 6 months and there is no discharge plan from their current residence / institution. 
+ Yes, in multiple situations, including if an asset targeted for recovery is the sole income-producing asset of the heir or beneficiary (such as a family farm). 
+ Unknown 
+
+ Idaho 
+ Expanded Recovery 
+ Yes, after the death of the surviving spouse. If a spouse dies before the Medicaid beneficiary, the spouse’s estate is still subject to recovery. 
+ Yes, but only after the death of the Medicaid recipient or after the state has determined they will not return home. 
+ Yes, for 3 reasons: 1) The estate subject to recovery is primary source of income for the heir; 2) The estate is below a minimum value (set periodically by the state); 3) Recovery causes the heirs to be eligible for public assistance. 
+ Unknown, but Idaho has a very broad definition of expanded recovery and is aggressive in seeking it. 
+ For information about your specific situation in Idaho call the Estate Recovery Office at 866-849-3843 or email [email protected] 
+
+ Illinois 
+ Probate 
+ No 
+ Yes, after a Medicaid recipient has spent more than 120 days in an institution, although the recipient has a right to appeal the decision and the lien. 
+ Yes, one one condition: if recovery would cause the heir to become or remain eligible for a public benefit program. 
+ Unknown 
+ The agency that oversees recovery can be contacted at: IL Department of Healthcare and Family Services, Bureau of Collections - Technical Recovery Section, 2200 Churchill, Building A-1, Springfield, Illinois 62702 
+
+ Indiana 
+ Expanded Recovery 
+ Yes, after the death of the surviving spouse. 
+ Yes, when no return home is expected. 
+ Yes 
+ Indiana will not attempt recovery from the following assets: The proceeds of a life insurance policy with a beneficiary; real property held by a Medicaid recipient that’s subject to a life estate; personal effects, ornaments, or keepsakes of the Medicaid recipient; all of a recipient’s assets so long as recipient is survived by a spouse, child under 21 years of age, or a child is who disabled or blind. 
+ The following expenses take priority over the state’s recovery claim: Funeral expenses for the patient and the patient’s spouse, not to exceed $350 each; expenses from the last illness of the recipient and the recipient’s spouse; and estate administration expenses, including attorneys’ fees approved by the probate court. 
+
+ Iowa 
+ Expanded Recovery 
+ Yes, but only after the death of the surviving spouse. 
+ No 
+ Yes, but after the death of the person who was granted the hardship waiver the state will once again try to collect reimbursement from any remnants of the Medicaid patient’s estate. 
+ Unknown 
+ The state must be notified within 10 days of the death of a Medicaid beneficiary. To access the official form used to make the notification, click here . 
+
+ Kansas 
+ Expanded Recovery 
+ Yes, after the death of the surviving spouse, and limited to the assets that flowed into the spouse’s estate from the Medicaid recipient. 
+ Yes, but only after notice and an opportunity for an appeal hearing has been given. It must also be determined that the Medicaid recipient will not return home, which is automatically presumed if recipient has been institutionalized for 6 months. 
+ Yes. They must be filed with the Estate Recovery Unit, P.O. Box 2428, Topeka, KS. 66601, or its estate recovery contractor: HMS Estate Recovery Program, 2942 Wanamaker, Suite 1C, Topeka, KS 66614. 
+ Yes, on 2 conditions: 1) If the estate is worth less than the administrative cost of recovery; 2) If the estate is $10,000 or less. 
+ Kansas’ expanded recovery includes assets distributed to a survivor or heir of the Medicaid recipient through joint tenancy, tenancy in common, survivorship, transfer-on-death deed, payable-on-death contract, life estate, trust, annuities or similar arrangement. 
+
+ Kentucky 
+ Expanded Recovery 
+ No. A surviving spouse prevents all Medicaid Estate Recovery. 
+ Unknown 
+ Yes, but only if the asset subject to recovery is the sole income-producing asset conveyed to the Medicaid recipient’s surviving family members. 
+ A surviving child under the age of 21 or a surviving blind or disabled child of any age prevents all Medicaid Estate Recovery. 
+ The service provider delivering Medicaid benefits must notify the state within 10 days of the Medicaid recipient’s death. 
+
+ Louisiana 
+ Probate 
+ No. 
+ Liens are not expressly authorized in Louisiana for Medicaid Estate Recovery. 
+ Yes, for multiple reasons, including if the heir’s family income is 300% or less than the Federal Poverty Level, or if the estate is the sole income-producing asset of the surviving spouse or dependent. 
+ The first $15,000, or one-half of the median value of homesteads in the parish, whichever is greater, is fully excluded from recovery. Recovery is prohibited if it is not cost effective. 
+ Louisiana has a history or protecting citizens’ property rights and assuring the transfer of real property within family units. 
+
+ Maine 
+ Expanded Recovery 
+ Yes, but only after the death of the surviving spouse. 
+ No 
+ Yes, if recovery would decrease the income of the heir below 180% of the Federal Poverty Level adjusted for household size, and the total value of the household’s assets is below 180% of the annual Federal Poverty Level. 
+ Yes, if the heir has an income less than 200% of the Federal Poverty Level AND they provided care services to the Medicaid recipient. 
+ Requests for hardship waivers must be made within 6 months of the Medicaid recipient’s death, or 30 days after the state makes its claim, whichever is later. 
+
+ Maryland 
+ Probate 
+ No 
+ Yes, but only if the Medicaid recipient has not reasonable expectation of discharge and is given notice and a chance for an appeals hearing. 
+ Yes, but only if recovery means the heir would have to sell property that would mean the removal of a dependent of the deceased recipient who had lived at the property on the date of the recipient’s death AND lived there for 2 years AND had no where else to live. 
+ The state has 6 months to file a recovery claim, or 2 months if the personal representative of the deceased Medicaid recipient requests that time frame via letter or email. 
+ All hardship waiver requests and lien issues are handled by the Department of Health and Mental Hygiene, Office of Operations, Eligibility & Pharmacy, Recoveries and Financial Services Division, Estates, Liens & Trust Section, P.O. Box 13045, Baltimore, MD 21203  Phone: (410) 767-6613 
+
+ Massachusetts 
+ Probate 
+ Yes, but only after the death of the surviving spouse, and only at a time when the surviving spouse has no child under 21 years of age, or a blind or disabled child. 
+ Yes, but only if there is no reasonable expectation for the Medicaid recipient to return home. 
+ Yes, but only concerning the sale of the home and only if the heir has lived in the home for at least a year before the long term care started, and still lives there, and they inherited the property, and they aren’t being forced to sell otherwise, and their income is 133% of the Federal Poverty level adjusted for family size or below. 
+ MassHealth (Massachusetts Medicaid) will not attempt recovery if the estate is valued at $25,000 or less. 
+ Hardship Waivers are good for two years, and then they must be reestablished or recovery will be attempted. 
+
+ Michigan 
+ Probate 
+ Yes, but not through the home if the spouse or another qualifying family member still lives there. 
+ No, but state courts have ruled that lower courts cannot reform property deeds to avoid estate recovery. 
+ Yes, if the estate subject to recovery is the primary income-producing asset of the survivors (where such income is limited); the estate subject to recovery is a home of modest value; or the state’s recovery would cause a survivor to become or remain eligible for Medicaid. 
+ The equity in a Medicaid recipient’s home equal to or less than half of the average price of the home in the county where the home is located is exempt from recovery. And any portion of the estate that is the primary income-producing asset of survivors is also exempt. 
+ Michigan was the last state in the nation to enact a Medicaid Estate Recovery Program, and its rules are relatively lenient. 
+
+ Minnesota 
+ Expanded Recovery 
+ Yes, but only from assets the deceased Medicaid recipient had interest in at time of death. 
+ Yes 
+ Yes, if the assets recovered from are an essential part of the heir’s business and have been for 6 months; or if the home is the only residence of the heir and has been for 6 months AND the home has been classified as homestead property under Minnesota law. And the state will consider any other compelling circumstances. 
+ Certain American Indian income and resources, such as interests in and income derived from Tribal land and other resources currently held in trust status, are exempt from Medicaid Estate Recovery. 
+ Minnesota is aggressive with Medicaid Estate Recovery. The state’s recovery statute even modifies probate law so the interest or proceeds of interest the Medicaid recipient owned as a life tenant or joint tenant, which typically merge by their nature and avoid probate, are now subject to probate and available for recovery. 
+
+ Mississippi 
+ Expanded Recovery 
+ No. A surviving spouse prevents all Medicaid Estate Recovery. 
+ No 
+ Yes, if home is income producing, or of modest value; or if inheritor had been living in the home for a year and provided care to the Medicaid recipient for that year that kept the patient out of a nursing home. 
+ Mississippi probate law allows for the designation of exempt assets which can pass from a person’s estate to a rightful heir free of claims from creditors, including Medicaid Estate Recovery.
+ - The estate must be worth $5,000 or more for the state to attempt recovery
+
+ - Interest and income derived from Tribal Land, property located on a Native America reservation, and any reservation payments are all exempt from recovery.
+
+ Missouri 
+ Probate, but Missouri probate allows for assets involved in non-probate transfers to become assets of the probate estate in order to satisfy creditors. 
+ Yes, but only after the death of the surviving spouse. 
+ Yes, if there is no reasonable expectation of return in 120 days. 
+ Yes, check with state Medicaid offices for guidelines. 
+
+ A Medicaid recipient’s estate may not be closed until a release of the Estate Recovery Claim by MO HealthNet (Missouri Medicaid) is obtained. 
+
+ Montana 
+ Expanded Recovery 
+ Yes, but only after the death of the surviving spouse. 
+ Yes, if the state considers the Medicaid recipient permanently institutionalized, which it does after 6 months in an institution with no discharge plan. 
+ Yes, if the asset subject to recovery is part of a business that the heir was dependent on for their livelihood during the recipient’s life, it still is their primary source of income and they have no way to satisfy the recovery claim. Or if the claim is made against a home and the heir is over 65, blind, or disabled, was living in the home for at least a year with the Medicaid recipient, and will have difficulty securing an alternate residence. 
+ The state must execute and present a claim against the Medicaid recipient’s estate within the time specified in the published notice to creditors in the estate proceedings.
+ Also, Medicaid Estate Recovery is delayed if the recipient had a surviving child under 21 or a disabled or blind child of any age.
+
+ Nebraska 
+ Expanded Recovery 
+ Yes, but only after the death of the surviving spouse. 
+ No 
+ Yes, for several reasons, including if recovery would cause the heir to be eligible for public assistance, or any other situation the state decides would constitute undue hardship. 
+ The personal representative of the Medicaid recipient’s estate is required to give the state written notice identical to that which the personal representative must publish in the local newspaper which gives all creditors (including MERP) two months after the date of publication of the first notice in the newspaper to present their claims or be forever barred. 
+ If the Medicaid recipient is survived by a child under age 21 or a disabled or blind child of any age, Medicaid Estate Recovery is prohibited. 
+
+ Nevada 
+ Expanded Recovery 
+ Yes, but only after the death of the surviving spouse. 
+ Yes 
+ Yes, in multiple scenarios, including if the asset subject to recovery is the sole income-producing asset of the heir; or if recovery would cause the heir to be eligible for public assistance; or if there is written verification from a doctor stating a medical reason why the heir can not pay the recovery claim. 
+ Income, property and other resources of Native Americans and Alaska Natives are exempt from Medicaid Estate Recovery under certain conditions. 
+
+ New Hampshire 
+ Expanded Recovery 
+ Yes, but only after the death of the surviving spouse. 
+ Yes 
+ Yes, for several reasons, including if Medicaid estate recovery would cause the heir to be eligible for public assistance. 
+ New Hampshire probate law states creditors have a one year statute of limitations to make their claim, but they may apply for an extension. 
+
+ New Jersey 
+ Expanded Recovery 
+ Yes, but only after the death of the surviving spouse. 
+ Yes, including against third parties who own assets the patient also owned an interest in at time of death. 
+ Yes, but only if the estate is or would become the sole income of the heir and not inheriting it would cause them to be eligible for state assistance. 
+ Life estates that the Medicaid recipient held an interest in during their lifetime  but expired upon their death are exempt from Medicaid Estate Recovery. Some living trusts and testamentary trusts are also exempt under New Jersey law. 
+
+ New Mexico 
+ Probate 
+ Yes, but only after the death of the surviving spouse. 
+ No 
+ Yes, if losing the estate subject to recovery would lead the heir to require state assistance; or if inheriting the estate would mean the heir no longer needed state assistance; or if the estate is the sole income producing asset of surviving heir; or the estate is a homestead worth 50% or less of the average price of a home in the county; or if there are other compelling reasons. 
+ Certain incomes, resources and property are exempted from estate recovery for Native Americans. 
+
+ New York 
+ Probate 
+ Yes, but only after the death of the surviving spouse, and only after assets that had previously belonged to the Medicaid recipient and been passed to the spouse. 
+ Yes, but not on a home if there is a surviving spouse, minor child, blind child or disabled child of the Medicaid recipient living there. 
+ Yes, if the asset subject to recovery is the sole income-producing asset of the heirs; or if the home is of modest value (50% or less of the average price of homes in the county) and is the primary residence of the heirs; or for other compelling reasons. 
+ As long as there is a  surviving spouse, minor child, blind child or disabled child of the Medicaid recipient, the state of New York will not attempt recovery from any assets of the Medicaid recipient, even if they have been left to someone other than the individuals listed above. 
+
+ North Carolina 
+ Probate 
+ No, a surviving spouse prevents all Medicaid estate recovery. 
+ Yes, if there is no chance the Medicaid recipient will return home, which the state deems plausible by a doctor’s note or six months of continuous institutionalization. 
+ Yes, if the asset subject to recovery is the sole income-producing asset of the heir and that income is 75% of the Federal Poverty Level or less; or if the asset subject to recovery is a home and the heir had been living in the home for at least one year prior to the Medicaid recipient’s death and they would not be able to find another residence because their income (and their spouse’s) is 75% of the Federal Poverty Level or less. 
+ A surviving minor child, blind child or disabled child of the Medicaid recipient prevents all Medicaid estate recovery.
+
+ North Carolina residents have 30 days from the time they receive notice of the recovery claim to file for an undue hardship waiver with the North Carolina Division of Medical Assistance estate recovery. The state must respond within 10 days, and then the potential heir has 60 days to appeal to the Office of Administrative Hearings. 
+
+ North Dakota 
+ Expanded Recovery 
+ Yes, but only after the death of the surviving spouse. 
+ Yes, a lien may be placed on the home if there is no reasonable expectation of the Medicaid recipient returning to the home. 
+ Yes. North Dakota has no specific state regulations for undue hardship, but  follows the federal regulations, which provide for undue hardship if losing the estate subject to  recovery would lead the heir to require state assistance; or if inheriting the estate would mean the heir no longer needed state assistance; or if the estate is the sole income producing asset of surviving heir; or the estate is a homestead worth 50% or less of the average price of a home in the county; or if there are other compelling reasons. 
+
+ Every personal representative of the  Medicaid recipient is required to forward to the North Dakota Department of Human Services a copy of the petition or application commencing probate, heirship proceedings, or joint tenancy tax clearance proceedings, with a list of the names of legatees, devisees, surviving joint tenants, and/or heirs at law of the estate. 
+
+ Ohio 
+ Expanded Recovery 
+ Yes, but only after the death of the surviving spouse. 
+ Yes 
+ Yes, for multiple reasons, including if the survivor provided substantial financial assistance to the Medicaid recipient, creating an equity interest in the asset subject to recovery; or if estate recovery would deprive the survivor of food, shelter or clothing that could led to harm. Undue hardship waivers in Ohio are not absolute and they may have time limit. 
+ The state has either 90 days after receiving notice of the Medicaid recipient’s death, or one year after their death, whichever is later, to make a valid claim upon the Medicaid recipient’s estate for recovery.
+ Certain Native American resources and incomes are exempt from recovery in Ohio.
+
+ For assets that pass through probate, the estate administrator must reporting form with the state within 30 days of granting of letters of testamentary. The estate administrator is also required to file a reporting form listing the Medicaid recipient’s assets, or in the case of a surviving spouse’s estate, the assets in the surviving spouse’s estate that were also part of the Medicaid recipient’s estate. 
+
+ Oklahoma 
+ Probate 
+ No, with the exception of the home, but the home can only be subject to recovery after the spouse’s death. 
+ Yes 
+ Yes, if recovery would deprive the heir of medical care such that their health or life would be endangered; or if recovery would deprive the heir(s) of food, clothing, shelter or other necessities of life. Decisions on undue hardship waivers are made at OKDHS State Office, Family Support Services Division, Health Related and Medical Services Section. 
+ Cost for the first year of nursing home care is exempt from recovery in Oklahoma.
+ If a lien is used on a home for recovery, $6,000 (less the value of any prepaid burial insurance policies) from the sale of the home is set aside to cover funeral and burial expenses for the deceased Medicaid recipient.
+
+ The home of the deceased Medicaid recipient can not be used for recovery if a child under 20, a disabled child of any age or a sibling of the Medicaid recipient who lived in the home for a year prior to Medicaid recipient’s departure is still living there. 
+
+ Oregon 
+ Expanded Recovery 
+ Yes, but only after the death of the surviving spouse. 
+ No 
+ Yes, The Oregon Department of Human Services is authorized to waive recovery when it deems it prudent to do so, but it will not grant a waiver if the Department finds the waiver will not remedy the undue hardship. 
+ Certain Native American or Alaska Native resources and incomes are exempt from Medicaid estate recovery in Oregon. 
+
+ Pennsylvania 
+ Probate 
+ Yes, but only after the death of the surviving spouse. 
+ No 
+ Yes. Pennsylvania has one of the most generous undue hardship policies in the country. 
+ If the estate is valued at less than $2,400 it is exempt, as long as there is an heir. Pennsylvania also provides a generous exemption for Native Americans and anyone having received reparation payments paid to special populations. 
+ The estate’s personal representative has a duty to give the Department of Public Welfare notice of the death by requesting a claim be presented. 
+
+ Rhode Island 
+ Probate 
+ No 
+ No 
+ Yes, for multiple reasons, including if recovery would render the heir homeless with no resources to find other housing; of if recovery would cause the heir to lose their means of livelihood; or if recovery would cause the heir to have a dangerous lack of food, clothing, shelter or medical care. 
+ If the state is notified in a timely manner of the Medicaid recipient’s death, it has 6 months to file a claim. 
+
+ South Carolina 
+ Probate 
+ Yes, but only after the death of the surviving spouse. 
+ No 
+ Yes, if losing the estate subject to recovery would lead the heir to require state assistance; or if inheriting the estate would mean the heir no longer needed state assistance; or if the estate is the sole income producing asset of surviving heir; or the estate is a homestead worth 50% or less of the average price of a home in the county; or if there are other compelling reasons. 
+ South Carolina does not recover Home and Community Based Services (HCBS) Waiver expenses. 
+
+ South Dakota 
+ Expanded Recovery 
+ Yes, but the recovery may not exceed the value of the surviving spouse’s estate at the date of the Medicaid recipient’s death. 
+ Yes, a lien is automatically placed on the Medicaid beneficiary’s property as soon as as they receive Medicaid Long Term Care benefits and it will remain in effect for 20 years unless foreclosed or released. 
+ Yes, if losing the estate subject to recovery would lead the heir to require state assistance; or if inheriting the estate would mean the heir no longer needed state assistance; or if the estate is the sole income producing asset of surviving heir; or the estate is a homestead worth 50% or less of the average price of a home in the county; or if there are other compelling reasons. 
+ The surviving spouse may file an appeal request to limit their estate recovery liability, but it must be filed within six months of the Medicaid estate recovery claim request. 
+ A nursing home must notify the state of the death of a Medicaid patient within 15 days of the date of death of the patient. 
+
+ Tennessee 
+ Probate 
+ Yes, but only after the death of the surviving spouse. 
+ No 
+ Yes, if the estate subject to recovery is the sole income-producing asset of the survivors. 
+ Tennessee will not attempt Medicaid estate recovery if it is not cost effective. 
+ Medicaid estate recovery is the third priority in Tennessee Probate Court after administrative fees and funeral expenses. 
+
+ Texas 
+ Probate 
+ No, a surviving spouse prevents all recovery. 
+ No 
+ Yes, for multiple reasons, including if the Medicaid recipient needed medical assistance because of a crime committed against them; if recovery required heirs to apply for state assistance; if the inheritance would allow heirs to go off state assistance 
+ MERP is required to file an Intent to Claim notice within 30 days of the Medicaid recipient’s death, and must file the claim within 70 days. Texas will not attempt recovery if the value of the recoverable estate is $10,000 or less, or if the Medicaid expenses were $3,000 or less. Survivors may deduct home maintenance and care costs they spent on the Medicaid recipient from the total amount to recovered. Texas provides many exemptions for Native Americans and Alaska Natives. 
+ The Texas Medicaid Estate Recovery Program is managed by the Texas Department of Aging and Disability Services. 
+
+ Utah 
+ Expanded Recovery 
+ No, a surviving spouse prevents all recovery. 
+ Yes, after the death of the Medicaid recipient. 
+ Yes, if the Medicaid recipient is survived by their spouse, child under age 21, or blind or disabled child of any age. Or if the asset subject to recovery is the sole income-producing asset of the survivors and income is limited. 
+ Expenses and claims having priority to the state’s claim are subtracted from the assets in the estate, and if the remainder is less than $500 the state will not attempt recovery. 
+ A surviving child of the Medicaid recipient under age 21, or a blind or disabled child of any age, prevents all recovery. 
+
+ Vermont 
+ Probate 
+ No, a surviving spouse prevents all recovery. 
+ No 
+ The home is exempt from recovery via an undue hardship waiver under several conditions, including if the fair market value of the home is less than $250,000, and if the home is worth more, the first $250,000 is exempt from recovery; or if a qualified adult child or sibling has been living in the home. 
+ The state will not seek recovery where the estate consists only of personal property that does not exceed $2,000 in value, such as home furnishings, apparel, personal effects, and household goods. 
+ A surviving child of the Medicaid recipient under age 21, or a blind or disabled child of any age, prevents all recovery. 
+
+ Virginia 
+ Expanded Recovery 
+ Yes, but only after the death of the surviving spouse, and only if there is also no surviving child under 21, blind or disabled child. 
+ No 
+ If recovery would cause an undue hardship on the deceased Medicaid patient’s heirs, Virginia provides a waiver of recovery. Special consideration is given if an asset subject to recovery is the sole income-producing asset of the heir, or if the asset subject to recovery is a home worth 50% or less than the average cost of a home in the county. 
+ Recovery will not be pursued if it is not cost effective.
+ Extended exemptions are provided to American Indians and Alaskan Natives.
+
+ Heirs are allowed to establish a reasonable payment schedule to avoid recovery against non-liquid assets. 
+
+ Washington 
+ Expanded Recovery 
+ No, a surviving spouse prevents all recovery, as does a “surviving domestic partner.” 
+ Yes. The Department of Social and Health Services is authorized to file TEFRA liens before the Medicaid recipient’s death if there is no reasonable expectation the recipient will return home. The recipient has a right to appeal that decision. 
+ Recovery is delayed when it would cause an undue hardship for an heir. This delay is limited to the period during which the undue hardship exists. Undue hardship exists if the estate subject to recovery is the sole income-producing asset of one or more heirs and income is limited; or if recovery would deprive an heir of shelter and the heir lacks the financial means to obtain and maintain alternative shelter; or if the Medicaid recipient is survived by a domestic partner. 
+ The estate exempts tribal artifacts and other assets held by individual Native Americans. 
+ Washington Medicaid estate recovery statute mentions explicit recovery against life estates or joint tenancy interest in real property as it is held by the patient prior to death. 
+
+ West Virginia 
+ Probate 
+ Yes, but only after the death of the surviving spouse, and if there is no surviving child under 21, blind or disabled children. 
+ Yes, whenever the state deems the patient is permanently institutionalized. But no lien may be placed on a home if it is the lawful residence of the patient’s spouse, child under 21, blind or disabled child, or the Medicaid patient’s sibling who has an equity interest in the home and resided there for a year immediately prior to the Medicaid patient’s institutionalization. 
+ Yes, for several reasons, including if and adult child resided in the home being recovered against for 2 years prior to the date the parent became a Medicaid recipient and caused the parent to delay the need for assistance by at least that 2-year period; or if the asset subject to recovery is a qualified family business. 
+ If an adult child or grandchild or sibling has proof of monetary support given to the Medicaid recipient for medical care and other necessities prior to the start of Medicaid Long Term Care. Such support shall reduce the recovery on a dollar-for-dollar basis. 
+
+ Wisconsin 
+ Expanded Recovery 
+ Yes, but only after the death of the surviving spouse. 
+ Yes, if there is no reasonable expectation for the Medicaid recipient to return home and if none of the following people live in the home: the Medicaid recipient’s spouse, child under age 21, blind or disabled child of any age, or sibling who is a part owner of the home and lived there continuously for two years prior to the start of Medicaid benefits. 
+ Yes, if recovery would make the heir eligible for Supplemental Security Income, food stamps, Aid to Families with Dependent Children (AFDC), or medical assistance; or if the heir is currently receiving  general relief, Relief to Needy Indian Persons (RNIP) or veterans benefits based on need; or if the asset subject to recovery is income-producing and losing it would mean the heir lost their livelihood. 
+ The court is required to reduce the amount of a claim to allow heirs to retain the following personal property: the decedent’s wearing apparel and jewelry held for personal use; household furniture, furnishings and appliances; or other tangible personal property not used in trade, agriculture or other business. 
+ Expanded recovery can include life estates, property held in trust, property that passes by beneficiary designation, joint tenancy property, and survivorship marital property. The state will only recover from life estates, joint tenancy property (other than checking and savings accounts), life insurance policies payable to a beneficiary, and revocable trusts that were established on or after August 1, 2014. 
+
+ Wyoming 
+ Expanded Recovery 
+ Yes, even when the spouse is still alive, as long as there is no surviving child of the Medicaid recipient under 21, or a blind or disabled child of any age. 
+ Yes, but only if none of the following people live in the home where a lien will be placed: the Medicaid recipient’s spouse, child under age 21, their blind or disabled child of any age, or their sibling with an equity interest in the home who lived there for at least a year prior to the patient’s admission to the medical institution. 
+ Yes, if losing the estate subject to recovery would lead the heir to require state assistance; or if inheriting the estate would mean the heir no longer needed state assistance; or if the estate is the sole income producing asset of surviving heir; or the estate is a homestead worth 50% or less of the average price of a home in the county; or if there are other compelling reasons. 
+
+ Expanded recovery includes real and personal property and other assets in which the Medicaid recipient had any legal title or interest in at the time of their death to the extent of the interest, including assets conveyed to a survivor or heir through joint tenancy, tenancy in common, survivorship life estate, living trust, or other arrangement. 
+
+ Protect Your Resources While Becoming Eligible
+
+ × 
+
+ If you are concerned about losing your home or financial assets when applying for Medicaid long term care, consider working with a Medicaid Planning professional . These fee-based experts help families structure their finances to become eligible, while streamlining the application process and preserving assets for spouses and family members. 
+
+ Would you like a free, initial consultation with a Medicaid Planner?
+
+ Yes 
+ No 
+
+ Company This field is for validation purposes and should be left unchanged.
+
+ Your Name (Required) 
+
+ Your Email (Required) 
+
+ Phone (Required) 
+
+ State (Required) Select State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming 
+
+ Current Medicaid Enrollment Status (Required) Select Enrollment Status Currently on Regular Medicaid Currently on Medicaid Long Term Care Medicaid Application Pending Medicaid Application Denied Not Yet Applied for Medicaid 
+
+ Comment Have a question for us? Ask away.
+
+ Job Title 
+
+ Submit 
+
+ By submitting this form, you agree to our Privacy Policy , Terms of Use , and Agreement to be Contacted . 
+
+ About Us 
+
+ Contact Us 
+
+ Terms & Conditions 
+
+ Copyright © 2026 All rights reserved. Use of this content by websites or commercial organizations without written permission is prohibited. This site is for information purposes; it is not a substitute for professional legal advice. By using our website, you agree to our terms of use and privacy policy . Read our accessibility statement or click here to enable . Access our Data Subject Rights Portal . Do Not Sell My Personal Information .

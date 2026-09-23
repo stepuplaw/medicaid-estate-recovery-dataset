@@ -1,0 +1,14 @@
+Source URL: https://caselaw.findlaw.com/court/md-court-of-special-appeals/1390613.html
+Retrieved: 2026-09-23
+Note: WebFetch extraction, not verbatim (script fetch of CourtListener returned empty page; Justia returned 403)
+
+Berrett v. Standard Fire Insurance Co., 166 Md. App. 321, 888 A.2d 1189 (Court of Special Appeals of Maryland, decided December 23, 2005)
+
+Relevant passage as extracted:
+"A life estate may be created with a right or power of the life tenant to dispose of the property or to use or consume it in whole or in part. In that situation, the remainder interest is defeasible."
+
+Cited: Burke v. Burke, 204 Md. 637, 644, 106 A.2d 59 (1954). "Upon the sale by the life tenant of the property, the remainder interest is destroyed."
+
+Holding (per extraction): the 1973 deed in that case did not couple the reserved life estate with a power to dispose, so the remainder was vested and indefeasible.
+
+Related legislative recognition: 2026 Md. Laws ch. 750/751 (HB 738 / SB 651), Section 2: "this Act shall be interpreted and enforced by a court in accordance with existing law governing life estates with powers of alienation" (see MD-tod-ch751.txt).

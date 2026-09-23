@@ -1,0 +1,21 @@
+Source URL: https://secure.sos.state.or.us/oard/view.action?ruleNumber=461-135-0832
+Retrieved: 2026-09-23
+Note: WebFetch extraction, not verbatim (script fetch returned empty JS page). Full rule text also saved in OR-recovery-rule.txt from oregon.public.law mirror.
+
+OAR 461-135-0832 Estate Administration; Definitions (excerpt)
+
+"Estate" means with respect to the collection of payments made for medical assistance provided on or after July 18, 1995 all real property, personal property, or other assets, wherever located, in which a recipient had any legal title or ownership or beneficial interest at the time of death, including real property, personal property, or other assets conveyed by the recipient to, subsequently acquired by, or traceable to, a person, including the recipient's spouse and any successor-in-interest to the recipient's spouse, through:
+
+(a) Tenancy by the entirety;
+(b) Joint tenancy;
+(c) Tenancy in common;
+(d) Not as tenants in common, but with the right of survivorship;
+(e) Life estate;
+(f) Transfer on death deed;
+(g) Living trust;
+(h) Annuity purchased on or after April 1, 2001; or
+(i) Other similar arrangement.
+
+Statutory/Other Authority: ORS 410.075, 411.060, 411.070, 413.042, 416.340, 416.350 & 2013 OL 14 Sec. 10
+
+History (most recent): SSP 21-2021, 02/24/2021; SSP 45-2020, 12/22/2020; SSP 14-2017, 6-5-17; ... AFS 29-1996, 8-28-96

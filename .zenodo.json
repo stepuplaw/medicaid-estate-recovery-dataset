@@ -1,0 +1,21 @@
+{
+  "title": "Medicaid Estate Recovery and Home-Transfer Deeds, 50 States and DC (2026)",
+  "upload_type": "dataset",
+  "description": "For each of the 50 US states and the District of Columbia, how far Medicaid estate recovery reaches (probate estate only, or beyond it under the optional expanded estate of 42 U.S.C. 1396p(b)(4)(B)) and whether recovery can reach a house that passes at the recipient's death by a traditional life estate, a lady bird (enhanced life estate) deed, a transfer on death deed, joint tenancy or a revocable living trust. It also records which states have a transfer on death deed statute, with the statute and effective date, and which states recognize the lady bird deed and on what authority. Every classification cites the statute, regulation, Medicaid manual or State Plan text it rests on, and a text copy of each source is included. Twenty seven jurisdictions limit recovery to the probate estate, 21 states reach beyond it and 3 reach some non-probate property. All rows verified 2026-09-23.",
+  "creators": [
+    {
+      "name": "Klagge, Kevin D.",
+      "affiliation": "Klagge Law, PLLC (StepUpLaw)",
+      "orcid": "0009-0002-1385-8498"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "version": "2026.09.23",
+  "keywords": ["Medicaid", "estate recovery", "lady bird deed", "transfer on death deed", "life estate", "elder law", "estate planning", "United States", "open data", "2026"],
+  "related_identifiers": [
+    {"identifier": "https://stepuplaw.com/data/medicaid-estate-recovery/", "relation": "isDocumentedBy", "scheme": "url"},
+    {"identifier": "https://github.com/stepuplaw/medicaid-estate-recovery-dataset", "relation": "isSupplementTo", "scheme": "url"}
+  ]
+}

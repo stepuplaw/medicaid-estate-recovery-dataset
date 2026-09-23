@@ -1,0 +1,87 @@
+Source URL: https://www.akleg.gov/basis/aac.asp?media=print&secStart=7.160.210&secEnd=7.160.250
+Retrieved: 2026-09-23
+
+7 AAC 160.210. Estate recovery. 
+ (a) At the time of application, the department will notify each applicant for medical assistance that the estate of an individual who received medical assistance benefits may be subject to a claim for recovery under AS 47.07.055 and 7 AAC 160.210 - 7 AAC 160.250 . 
+(b) When the state determines under 7 AAC 160.220 that a recipient who is subject to estate recovery under AS 47.07.055 cannot be expected to return home or has died, the department will determine 
+ (1) the estimated value of the estate; 
+ (2) if there is a surviving spouse or other estate beneficiaries; and 
+ (3) if proceeding with recovery in accordance with (c) of this section will be permissible and cost effective. 
+(c) The department will pursue a claim only if it determines that the potential recovery amount would result in twice the administrative and legal cost of pursuing the claim, with a minimum pursuable net amount of $10,000. In assessing the value of an estate, the department will consider allowances and all other claims against the estate having precedence under state statute. For the purposes of this subsection "administrative and legal costs" include the costs of 
+ (1) advertising, filing, and exercising a lien; 
+ (2) legal representation of the state; 
+ (3) tracking property with potential for a lien and then tracking its subsequent recovery; 
+ (4) repair of the property to bring it into saleable condition; 
+ (5) insurance to protect the asset; and 
+ (6) advertising, listing, and selling the home including all applicable closing fees. 
+(d) When making a claim for reimbursement under AS 47.07.055 (e), the department will include in that claim any hospital and prescription drug services provided to a recipient while the recipient was receiving services identified in AS 47.07.055 (e)(1) or (2). 
+
+ 7 AAC 160.220. Liens. 
+ (a) For purposes of AS 47.07.055 (a)(3), if a recipient resides in a medical institution for at least 120 consecutive days, the department will give the recipient 
+ (1) notice of its intent to determine that the recipient is not reasonably expected to be discharged from the institution and return home; and 
+ (2) an opportunity for a hearing regarding that determination. 
+(b) A transfer from one medical institution to another does not interrupt the 120-day period for the purposes of (a) of this section. A discharge from a medical institution to a community setting terminates the 120-day period. Re-admission to a medical institution starts a new 120-day period. 
+(c) The department will not pursue recovery under a lien filed under AS 47.07.055 (a) against a recipient's home while the recipient's child 21 years of age or older is lawfully residing in the home and can provide documentation that 
+ (1) the child resided with the recipient in the recipient's home for at least 24 months immediately preceding the recipient's admission into a medical institution; 
+ (2) the child has continued to reside in the recipient's home continuously since the institutionalization began; and 
+ (3) the care the child provided enabled the recipient to stay at home rather than move to a medical institution. 
+(d) Documentation under (c) of this section must include 
+ (1) written evidence that the child used the recipient's address as the child's mailing address on the child's driver's license or voter registration, and that the child's address remained unchanged throughout this entire time period; and 
+ (2) a written statement from the recipient residing in a medical institution or the recipient's treating physician that the child's presence in the home had enabled the recipient to live in the community longer, postponing the need to move to the medical institution. 
+(e) If the department has decided to place a lien on real property of a recipient, the department shall notify the recipient of the department's intent to place a lien on the real property and to proceed with recovery on the lien after the death of the recipient's surviving spouse, if any. In the notice, the department will include 
+ (1) the recipient's name, date of birth, and date of death, if deceased; 
+ (2) the definition of the term "lien"; 
+ (3) an explanation that estate beneficiaries will not lose ownership of the real property if the lien is imposed; 
+ (4) the amount of recoverable Medicaid benefits correctly paid on behalf of the recipient; 
+ (5) the department's intent to file a lien against the recipient's real property to recover the applicable Medicaid benefits paid on behalf of the recipient; and 
+ (6) how to request a hardship waiver and how to appeal the department's decision to proceed with recovery. 
+
+ 7 AAC 160.230. Appealing a lien. 
+ (a) After receiving a notice under 7 AAC 160.220 (e) from the department, the recipient, legal representative of the recipient, or estate beneficiary may file an appeal with the department to 
+ (1) contest the amount of recoverable medical assistance identified by the department; 
+ (2) contest whether the real property is a part of the recipient's estate; or 
+ (3) request a waiver of recovery for undue hardship. 
+(b) An appeal is timely if the department receives it no more than 30 days after the date on the notice. The department will accept an appeal received more than 30 days after, and no more than 60 days after the date on the notice if the individual demonstrates good cause for the late application. 
+(c) An appeal must 
+ (1) be submitted in writing; 
+ (2) be signed by the recipient, legal representative of the recipient, or estate beneficiary; 
+ (3) be submitted in person or by mail to the division of the department that administers the estate recovery provisions of the Medicaid program; 
+ (4) include a statement of the reason for contesting the department's action or explaining the reason why recovery will cause undue hardship; and 
+ (5) include contact information for the person contesting the action. 
+(d) The department will make a decision on a request for waiver for undue hardship no more than 30 days after receipt of the request. 
+
+ 7 AAC 160.240. Waiving estate recovery. 
+ (a) After considering the information gathered in accordance with 7 AAC 160.210 , or after considering an appeal based on 7 AAC 160.230 , the department may waive all or part of the department's claim for recovery. 
+(b) The department will waive recovery for undue hardship if the department determines that recovery would impoverish the estate beneficiary. To determine if estate recovery would impoverish the estate beneficiary, the department will consider whether 
+ (1) the estate's only asset produces income, and recovery would cause an estate beneficiary's loss of livelihood; 
+ (2) recovery would deprive the beneficiary of food, clothing, shelter, other necessities of life, or medical care, thereby endangering the beneficiary's health and safety; 
+ (3) an estate beneficiary's primary residence is the estate's only significant asset and recovery would cause impoverishment of the estate beneficiary as follows: 
+ (A) recovery of the asset would make the beneficiary eligible for public assistance; 
+ (B) a beneficiary could discontinue eligibility for public assistance if the beneficiary was to receive the asset; or 
+ (4) a beneficiary's primary residence is a home of modest value as determined on the date of the recipient's death; in this paragraph, "modest value" means 50 percent or less of the average price of homes in the community, based on Department of Labor and Workforce Development statistics, and as determined as of the date of the recipient's death. 
+
+ 7 AAC 160.250. Exemptions from estate recovery. 
+ (a) A special low-income Medicare beneficiary under 7 AAC 100.754 who receives assistance from the department only in the form of payment for the beneficiary's Medicare co-payments or deductibles is exempt from estate recovery. 
+(b) A Medicaid expenditure made for services that a recipient would not have been required to pay for if the recipient was not eligible for Medicaid is exempt from estate recovery. 
+(c) American Indian and Alaska Native income and resources, including rents, leases, royalties, usage rights, or income from them, are exempt from estate recovery if that income is or those resources are 
+ (1) located on, near, or within the most recent boundaries of a current or prior federally recognized or designated reservation; 
+ (2) derived from the passing of land described in (1) of this subsection from an American Indian or an Alaska Native or descendant of an American Indian or Alaska Native to 
+ (A) one or more relatives, by blood, adoption, or marriage; 
+ (B) another American Indian or Alaska Native; or 
+ (C) an American Indian or Alaska Native group; 
+ (3) derived from the exercise of a federally protected right to extract or harvest natural resources from land described in (1) of this subsection; 
+ (4) held in trust or restricted status or are judgment funds that are exempt from recovery by state law, including the following distributions or conveyances by an Alaska Native corporation organized under to 43 U.S.C. 1601 - 1629h (Alaska Native Claims Settlement Act (ANCSA)) to an Alaska Native or descendant of an Alaska Native: 
+ (A) stock, including stock issued or distributed as a dividend or distribution on stock, or bonds issued by that corporation; 
+ (B) land or an interest land, including land or an interest in land received as a dividend or distribution on stock; 
+ (C) a shareholder homesite conveyed under 43 U.S.C. 1620(j); 
+ (D) an interest in a settlement trust; and 
+ (E) any other property interest that is conveyed, or deemed to be conveyed, under 43 U.S.C. 1601 - 1629h; 
+ (5) originally protected assets and ownership interests that have been inherited, if the protected source can be clearly traced; or 
+ (6) ownership interest in or usage rights to items not included in this subsection, with unique religious, spiritual, traditional, or cultural significance or usage rights that support subsistence or a traditional lifestyle in accordance with applicable tribal law or custom. 
+(d) In this section, 
+ (1) "Alaska Native group" has the meaning given "Native group" in 43 U.S.C. 1602(d); 
+ (2) "settlement trust" means a trust 
+ (A) established and registered 
+ (i) by an Alaska Native corporation organized under 43 U.S.C. 1601 - 1629h; and 
+ (ii) under the laws of the state and under a resolution of its shareholders; and 
+ (B) operated for the benefit of shareholders, Alaska Natives, and descendants of Alaska Natives, in accordance with 43 U.S.C. 1629e (sec. 39 of the Alaska Native Claims Settlement Act) and the laws of the state.

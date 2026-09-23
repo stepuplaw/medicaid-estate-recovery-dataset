@@ -1,0 +1,18 @@
+Source URL: https://codes.findlaw.com/pa/title-62-ps-poor-persons-and-public-welfare/pa-st-sect-62-1412/
+Retrieved: 2026-09-23
+Note: WebFetch extraction, not verbatim. Official palegis.us unconsolidated statute page refused connections (ECONNREFUSED) and timed out; FindLaw returns 403 to scripts. Page states current as of January 1, 2026.
+
+62 P.S. Sec. 1412 (Public Welfare Code, Act of June 13, 1967, P.L. 31, No. 21, Sec. 1412)
+
+Subsection (a), as quoted by WebFetch:
+"Notwithstanding any other provision of this act or any other law, the department shall establish and implement an estate recovery program to recover medical assistance paid with respect to individuals who were fifty-five years of age or older at the time that assistance was received."
+[WebFetch summary:] The statute continues with details about recovering amounts from probate estates for nursing facility services, home- and community-based services, and related hospital and prescription drug services.
+Quoted: "With the approval of the Governor, the department may expand the estate recovery program by regulation to include medical assistance for services other than those listed in this section and to recover against other real and personal property in which an individual had any legal title or interest at the time of death."
+
+Subsection (a.1) [WebFetch summary]: (1) if property is transferred without satisfying the department's claim, the executor or administrator becomes liable; (2) if property is transferred without valuable and adequate consideration and without satisfying the claim, both the executor/administrator and the recipient become liable.
+
+Subsection (b) [WebFetch summary]: executors of decedents who reached age 55 must notify the department; claim period reference of five years.
+
+Subsection (c) [WebFetch summary]: section applies notwithstanding section 447 (62 P.S. Sec. 447).
+
+Corroboration: 29 Pa.B. (vol. 29, no. 30, 1999) proposed rulemaking (saved as PA-bulletin-1999.txt) states: "Section 1412 of the Public Welfare Code uses the term 'probate estate' to define the scope of estate recovery" and that "the Department has generally elected to establish the minimum program required by Federal law."

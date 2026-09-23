@@ -1,0 +1,276 @@
+{
+  "fields": [
+    {
+      "name": "code",
+      "type": "string",
+      "description": "Two-letter postal code"
+    },
+    {
+      "name": "name",
+      "type": "string",
+      "description": "State or District name"
+    },
+    {
+      "name": "recovery_scope",
+      "type": "string",
+      "description": "How far Medicaid estate recovery reaches. probate_only means the probate estate only; expanded means the state adopted the optional expanded estate of 42 U.S.C. 1396p(b)(4)(B); expanded_partial means some non-probate assets but not all",
+      "constraints": {
+        "enum": [
+          "probate_only",
+          "expanded",
+          "expanded_partial"
+        ]
+      }
+    },
+    {
+      "name": "recovery_scope_note",
+      "type": "string",
+      "description": "How the scope was determined, plus liens, recovery from a surviving spouse's estate and service limits"
+    },
+    {
+      "name": "recovery_statute",
+      "type": "string",
+      "description": "Governing statute or rule citation"
+    },
+    {
+      "name": "recovery_statute_url",
+      "type": "string",
+      "description": "Official URL of the governing statute or rule"
+    },
+    {
+      "name": "state_plan_4_17_a_url",
+      "type": "string",
+      "description": "Medicaid State Plan Attachment 4.17-A or the agency manual section on estate recovery, where found; blank if not found"
+    },
+    {
+      "name": "life_estate",
+      "type": "string",
+      "description": "Whether Medicaid estate recovery can reach a house passing at the recipient's death by a traditional life estate. n/a means the method is not recognized in the state",
+      "constraints": {
+        "enum": [
+          "reachable",
+          "not_reachable",
+          "unclear",
+          "n/a"
+        ]
+      }
+    },
+    {
+      "name": "life_estate_note",
+      "type": "string",
+      "description": "Plain-English reason for the life_estate classification"
+    },
+    {
+      "name": "life_estate_cite",
+      "type": "string",
+      "description": "Section relied on for the life_estate classification"
+    },
+    {
+      "name": "lady_bird_deed",
+      "type": "string",
+      "description": "Whether Medicaid estate recovery can reach a house passing at the recipient's death by a lady bird (enhanced life estate) deed. n/a means the method is not recognized in the state",
+      "constraints": {
+        "enum": [
+          "reachable",
+          "not_reachable",
+          "unclear",
+          "n/a"
+        ]
+      }
+    },
+    {
+      "name": "lady_bird_deed_note",
+      "type": "string",
+      "description": "Plain-English reason for the lady_bird_deed classification"
+    },
+    {
+      "name": "lady_bird_deed_cite",
+      "type": "string",
+      "description": "Section relied on for the lady_bird_deed classification"
+    },
+    {
+      "name": "tod_deed",
+      "type": "string",
+      "description": "Whether Medicaid estate recovery can reach a house passing at the recipient's death by a transfer on death deed. n/a means the method is not recognized in the state",
+      "constraints": {
+        "enum": [
+          "reachable",
+          "not_reachable",
+          "unclear",
+          "n/a"
+        ]
+      }
+    },
+    {
+      "name": "tod_deed_note",
+      "type": "string",
+      "description": "Plain-English reason for the tod_deed classification"
+    },
+    {
+      "name": "tod_deed_cite",
+      "type": "string",
+      "description": "Section relied on for the tod_deed classification"
+    },
+    {
+      "name": "joint_tenancy",
+      "type": "string",
+      "description": "Whether Medicaid estate recovery can reach a house passing at the recipient's death by joint tenancy with right of survivorship. n/a means the method is not recognized in the state",
+      "constraints": {
+        "enum": [
+          "reachable",
+          "not_reachable",
+          "unclear",
+          "n/a"
+        ]
+      }
+    },
+    {
+      "name": "joint_tenancy_note",
+      "type": "string",
+      "description": "Plain-English reason for the joint_tenancy classification"
+    },
+    {
+      "name": "joint_tenancy_cite",
+      "type": "string",
+      "description": "Section relied on for the joint_tenancy classification"
+    },
+    {
+      "name": "revocable_trust",
+      "type": "string",
+      "description": "Whether Medicaid estate recovery can reach a house passing at the recipient's death by a revocable living trust. n/a means the method is not recognized in the state",
+      "constraints": {
+        "enum": [
+          "reachable",
+          "not_reachable",
+          "unclear",
+          "n/a"
+        ]
+      }
+    },
+    {
+      "name": "revocable_trust_note",
+      "type": "string",
+      "description": "Plain-English reason for the revocable_trust classification"
+    },
+    {
+      "name": "revocable_trust_cite",
+      "type": "string",
+      "description": "Section relied on for the revocable_trust classification"
+    },
+    {
+      "name": "tod_deed_recognized",
+      "type": "string",
+      "description": "yes if the state has a statutory transfer on death or beneficiary deed for real property (Maryland counted, effective 2026-10-01)",
+      "constraints": {
+        "enum": [
+          "yes",
+          "no"
+        ]
+      }
+    },
+    {
+      "name": "tod_deed_statute",
+      "type": "string",
+      "description": "Transfer on death deed statute"
+    },
+    {
+      "name": "tod_deed_effective",
+      "type": "string",
+      "description": "Date the transfer on death deed act took effect (YYYY-MM-DD, or a year where only the year is established)"
+    },
+    {
+      "name": "tod_deed_uniform_act",
+      "type": "string",
+      "description": "yes if based on the Uniform Real Property Transfer on Death Act",
+      "constraints": {
+        "enum": [
+          "yes",
+          "no",
+          "n/a"
+        ]
+      }
+    },
+    {
+      "name": "lady_bird_deed_recognized",
+      "type": "string",
+      "description": "yes only where a statute, reported case or state Medicaid rule recognizes a life estate deed with a retained power to sell without the remainder beneficiaries' consent",
+      "constraints": {
+        "enum": [
+          "yes",
+          "no",
+          "unclear"
+        ]
+      }
+    },
+    {
+      "name": "lady_bird_authority_type",
+      "type": "string",
+      "description": "Kind of authority recognizing the lady bird deed",
+      "constraints": {
+        "enum": [
+          "statute",
+          "case_law",
+          "agency_rule",
+          "practice",
+          "none",
+          "unclear"
+        ]
+      }
+    },
+    {
+      "name": "lady_bird_authority",
+      "type": "string",
+      "description": "Citation for the lady bird deed authority, or what was searched"
+    },
+    {
+      "name": "hardship_waiver_home",
+      "type": "string",
+      "description": "State hardship or deferral rules tied to the home, with citation"
+    },
+    {
+      "name": "recovery_exemptions_note",
+      "type": "string",
+      "description": "State additions beyond the federal floor of 42 U.S.C. 1396p(b)(2)"
+    },
+    {
+      "name": "karp_2005_scope",
+      "type": "string",
+      "description": "Classification in Karp, Sabatino and Wood, AARP Public Policy Institute (2005)",
+      "constraints": {
+        "enum": [
+          "probate_only",
+          "expanded",
+          "not_in_survey"
+        ]
+      }
+    },
+    {
+      "name": "last_verified",
+      "type": "date",
+      "description": "Date the row was checked"
+    },
+    {
+      "name": "sources",
+      "type": "string",
+      "description": "Semicolon-separated list of URLs actually read"
+    },
+    {
+      "name": "confidence",
+      "type": "string",
+      "description": "high means the operative text was read on an official government site; medium means a mirror, agency manual or State Plan; low means secondary sources only",
+      "constraints": {
+        "enum": [
+          "high",
+          "medium",
+          "low"
+        ]
+      }
+    },
+    {
+      "name": "flags",
+      "type": "string",
+      "description": "Uncertainties, conflicts between statute and manual, recent amendments, and what could not be read"
+    }
+  ],
+  "primaryKey": "code"
+}

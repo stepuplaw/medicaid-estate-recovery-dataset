@@ -1,0 +1,103 @@
+Source URL: https://www.omig.nv.gov:443/recovery/
+Retrieved: 2026-09-23
+
+Recoveries 
+
+ Skip Nav
+
+ NV.gov
+
+ State Agencies
+
+ State Jobs
+
+ ADA Assistance
+
+ NVHA The Office of the Medicaid Inspector General 
+
+ About Us 
+ Provider Enrollment & Termination 
+ Recoveries 
+ Report Fraud 
+ Surveillance & Utilization Review 
+
+ State Agencies
+
+ State Jobs
+
+ ADA Assistance
+
+ Home
+
+ / 
+
+ Recoveries
+
+ Recoveries
+
+ this.checkScreen());
+ },
+ checkScreen() {
+ const wasMobile = this.isMobile;
+ this.isMobile = window.innerWidth 
+
+ omig.nv.gov 
+
+ omig.nv.gov 
+
+ About Us 
+
+ Provider Enrollment & Termination 
+
+ Recoveries 
+
+ Provider Recoveries and Recoupment 
+
+ Medicaid Estate Recovery (MER) 
+
+ Report Fraud 
+
+ Surveillance & Utilization Review 
+
+ About Recoveries
+
+ There are three types of recoveries handled by the Office of the Medicaid Inspector General (OMIG). Provider recoveries and recoupment through the OMIG recoveries team, and recipient recoveries through the MER team.
+
+ Provider Recoveries and Recoupment
+
+ Under the oversight of the OMIG Recoveries team, this function recovers payments from providers in cases involving fraud, waste, or abuse, as referred by the   Surveillance & Utilization Review (SUR) Unit. 
+
+ Learn more about Recoveries 
+
+ Provider Exclusions, Sanctions & Press Releases 
+
+ Medicaid Estate Recovery (MER)
+
+ MER recovers Medicaid funds paid on behalf of a recipient by collecting from the recipient's estate/assets after their death. 
+
+ Learn more about MER 
+
+ Scroll to Top
+
+ NVHA The Office of the Medicaid Inspector General
+
+ The Official State of Nevada Website 
+ Copyright © 2026 State of Nevada - All Rights Reserved 
+
+ Privacy Policy 
+
+ ADA Technology And Accessibility Guidelines 
+
+ Web Style Standards 
+
+ ADA Assistance 
+
+ Nevada Digital Accessibility Website 
+
+ / Last updated 08/25/2026
+
+ State reptile 
+
+ Desert Tortoise
+
+ These slow-moving reptiles can live up to 80 years, surviving months without water by storing it in their bladder.

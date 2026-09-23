@@ -1,0 +1,10 @@
+Source URL: https://codes.findlaw.com/in/title-12-human-services/in-code-sect-12-15-9-1.html
+Retrieved: 2026-09-23
+Note: WebFetch extraction, not verbatim (asked for exact text). FindLaw currency: "Current as of January 01, 2026".
+
+Indiana Code Sec. 12-15-9-1
+
+"Upon the death of a Medicaid recipient, the total amount of Medicaid paid on behalf of the recipient after the recipient became fifty-five (55) years of age must be allowed as a preferred claim against the estate of the recipient in favor of the state. The affidavit of a person designated by the secretary to administer this section is evidence of the amount of the claim and is payable after the payment of the following in accordance with IC 29-1-14-9:
+(1) Funeral expenses for the recipient, not to exceed three hundred fifty dollars ($350).
+(2) The expenses of the last illness of the recipient that are authorized or paid by the office.
+(3) The expenses of administering the estate, including the attorney's fees approved by the court."

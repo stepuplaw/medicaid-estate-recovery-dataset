@@ -1,0 +1,548 @@
+Source URL: http://web.archive.org/web/20190918203957id_/https://www.azahcccs.gov/Members/Downloads/Publications/DE-810_english.pdf
+Retrieved: 2026-09-23
+
+  STATE OF ARIZONA
+
+  MEDICAID ESTATE
+  RECOVERY PROGRAM
+
+
+
+
+DE-810 (Rev. 06/19)
+This brochure provides a general description of the Arizona Estate Recovery Program. Individual
+circumstances may vary and affect how law or policy is applied. Additionally, Federal and State laws and
+regulations are always subject to change. AHCCCS continues to update this brochure as changes occur in
+the Estate Recovery Program.
+
+                                            INTRODUCTION
+
+After almost two months in the hospital during the summer of 2015, Mr. Clark, age 68, entered a Phoenix
+nursing home. Mr. and Mrs. Clark learned that their health care coverage, Medicare, would not cover all
+of Mr. Clark’s medical expenses. The Clarks found that they could not make the remaining share of the
+payments toward the steady flow of Mr. Clark’s medical bills. The Clarks learned they could apply for
+Medicaid, a Federal-State health insurance program for qualified individuals. Mrs. Clark contacted the
+Arizona Long Term Care (ALTCS) office and scheduled an appointment to apply for long-term care
+assistance for Mr. Clark. During the Medicaid application process, Mrs. Clark learned of Arizona’s
+“Estate Recovery Program” which affects Medicaid recipients ages 55 or older, who receive long term
+care medical assistance on or after January 1, 1994. Although the Clark family is “fictional”, the situation
+describes circumstances that are commonly experienced. The purpose of this brochure is to help people
+like the Clarks and their family members better understand Arizona’s Estate Recovery Program and what
+impact, if any, this will have to their family.
+
+                              FREQUENTLY ASKED QUESTIONS ABOUT
+                             ARIZONA’S ESTATE RECOVERY PROGRAM
+
+1. What is the Arizona Estate Recovery Program?
+Through the Arizona Estate Recovery Program, AHCCCS seeks to recover payments AHCCCS has paid
+on behalf of Arizona Long Term Care System (ALTCS) members meeting specific criteria. In these
+cases, AHCCCS files claims and liens to secure its rights to member’ estates and real property up to the
+amount of ALTCS payments made. In order to enroll in ALTCS, individuals must acknowledge that they
+understand that AHCCCS may collect the cost of care from their estate or real property.
+
+AHCCCS administers the Estate Recovery Program to comply with Federal Law. Congress passed the
+Omnibus Budget Reconciliation Act of 1993 (OBRA ’93) on August 10, 1993. It became effective as
+Federal law under 42 U.S.C. 1396(p) on October 1, 1993. The passage of this Federal law mandated the
+State of Arizona to implement an Estate Recovery Program. Arizona implemented its Estate Recovery
+Program effective January 1, 1994.
+
+2. Who is responsible for Arizona’s Estate Recovery Program?
+Arizona Health Care Cost Containment System (AHCCCS) is Arizona’s Medicaid agency. AHCCCS is
+responsible for managing Arizona’s Estate Recovery Program in compliance with Federal and State laws,
+and it is supported by a contractor, Health Management Systems (HMS), in administering Arizona’s
+Estate Recovery Program.
+
+3. Does Estate Recovery apply to everyone?
+The Arizona Estate Recovery Program only applies to the estates of individuals who are ages 55 and older
+and who were enrolled in the Arizona Long Term Care System (ALTCS). ALTCS provides long term
+care medical assistance to individuals in a nursing home or in a residential setting referred to as home and
+
+
+DE-810 (Rev. 06/19)
+community-based services (HCBS). AHCCCS will defer recovery of its estate claim so long as there is
+an Estate Claim Statutory Exemption. In addition, Federal law requires states to waive an Estate Claim
+when an heir to the estate meets all Undue Hardship Criteria. These processes are discussed in question
+17 below.
+
+4. Will AHCCCS file a lien against my property?
+AHCCCS may impose a TEFRA lien, as authorized under 42 U.S.C. 1396(p) (Tax Equity and Fiscal
+Responsibility Act of 1982) against all real property, including the member’s primary residence, of certain
+permanently institutionalized nursing home members. The purpose of the lien is to recover the cost of
+AHCCCS benefits provided upon the member’s death or upon the sale or transfer of the property.
+
+Upon an ALTCS member’s passing, HMS may impose a lien on behalf of AHCCCS to secure the real
+property for recovery of medical assistance paid on the member’s behalf, in accordance with A.R.S § 36-
+2935.
+
+5. How does AHCCCS determine the amount of the estate claim that will be filed against the ALTCS
+   member’s estate?
+The amount of the estate claim that will be filed against the ALTCS member’s estate is the total of the
+ALTCS payments paid on behalf of the member for Medicaid covered services. AHCCCS can also
+recover ALTCS payments made for a member for Medicare cost sharing payments for services provided
+on, or before, December 31, 2009. The Medicare Improvements for Patients and Providers Act of 2008
+exempts Medicare cost sharing payments from Medicaid estate recovery if they are for services provided
+on, or after, January 1, 2010. The following is a description of the ALTCS payments subject to recovery:
+
+Medicaid Covered Services:
+Capitation Payments: The AHCCCS program is based on cost containment through preventive care rather
+than emergency care. AHCCCS contracts with “program contractors” which in turn are responsible to
+ensure the delivery of all covered medical services to ALTCS members. AHCCCS pays program
+contractors a monthly “capitation” payment prospectively for each enrolled ALTCS member. This
+capitation concept is patterned on the way many individuals pay for private health care insurance.
+AHCCCS pays the monthly capitation payment to the program contractors for each month the ALTCS
+member is enrolled beginning from the enrollment effective date, regardless of whether the ALTCS
+member received medical services during the month. If the ALTCS member is on Medicare, the
+capitation payment amount for months of service on, or after, January 1, 2010 that is subject to estate
+recovery will be the amount paid to the program contractors adjusted to remove the actuarially determined
+amount of the Medicare cost sharing portion.
+
+The average monthly capitation payment to program contractors is approximately $7,000 per month, but
+varies depending on contractor and location. It is important to be aware that capitation payments can
+exceed the actual costs of services provided during the month.
+
+Reinsurance Payments: AHCCCS reimburses program contractors for certain contract service costs
+incurred by an ALTCS member that are beyond a contractual dollar threshold. These payments are
+known as reinsurance. Therefore, in addition to the monthly capitation payment, AHCCCS may make a
+reinsurance payment to the program contractor for a member. AHCCCS recovers reinsurance payments
+made for dates of service on, or before, December 31, 2009. It also recovers reinsurance payments for
+non-Medicare covered services for months of service on, or after, January 1, 2010.
+
+DE-810 (Rev. 06/19)
+Fee-For-Service Payments: In certain instances, AHCCCS may be responsible for direct payment of some
+or all of an ALTCS member’s medical bills not covered by Medicare or other available insurance. These
+payments are called fee-for-service payments. AHCCCS recovers fee-for-service payments it pays for a
+member for dates of service on, or before, December 31, 2009. It also recovers fee-for-service payments
+for non-Medicare covered services for dates of service on, or after, January 1, 2010.
+
+Medicare Cost Sharing Payments:
+Medicare Coinsurance and Deductible Payments: Medicare provides health insurance to people ages 65
+and over, those who have permanent kidney failure and certain people under age 65 with a disability.
+Medicare requires cost sharing in the form of deductibles and coinsurance. AHCCCS recovers ALTCS
+payments made for a member for Medicare cost sharing payments for services provided on, or before,
+December 31, 2009. No recovery is made for services provided on, or after, January 1, 2010.
+
+Medicare Part A and Part B Premium Payments: Medicare also requires cost sharing in the form of
+premiums. AHCCCS recovers all Medicare Part A and Part B premium payments paid on behalf of the
+ALTCS member for months of service on, or before, December 31, 2009. No recovery is made for
+months of service on, or after, January 1, 2010.
+
+
+6. How can I determine if it is financially beneficial for me to enroll in ALTCS?
+If you need long-term medical care in your own home, or in a nursing home, and the medical care will not
+be paid by your Medicare or other health insurance coverage, you may want to apply for ALTCS to help
+pay for these costs.
+
+Before enrolling in ALTCS, if an applicant or family member is concerned about AHCCCS’ claim that
+will be filed against the estate, the applicant and/or family member should evaluate the financial benefits
+of enrolling the applicant in ALTCS. Because ALTCS payments made on the member’s behalf can
+exceed the actual costs of services provided, and accrue even if no medical service is provided, it is very
+important that ALTCS applicants (and family members) make an informed decision about enrolling in
+ALTCS. This is especially true for those ALTCS applicants who elect to remain in their own home
+and do not enter a nursing home. The applicant and family member should review whether it is better
+financially and medically for the applicant to pay for his/her needed medical services out-of-pocket (what
+won’t be paid by Medicare and/or other insurance) rather than enrolling in ALTCS and incurring a claim
+against their estate. Individuals who do not require many medical services may not wish to enroll in
+ALTCS because their estate will be responsible for payment to AHCCCS of all ALTCS payments that are
+listed in question 5 above.
+
+An ALTCS applicant may voluntarily withdraw his/her ALTCS application. An ALTCS enrolled
+member may elect to stop ALTCS enrollment at any time, to stop accruing additional AHCCCS
+capitation and other costs that will be included in AHCCCS’ claim against the estate.
+
+7.   When does AHCCCS’ claim against the ALTCS member’s estate begin to accrue?
+The effective date the AHCCCS claim against the estate begins to accrue depends on the age of the
+ALTCS member when the ALTCS coverage begins. Usually, the AHCCCS estate claim begins to accrue
+on the first day of the month in which the ALTCS coverage begins. However, if an ALTCS member is
+younger than age 55 on that date, then AHCCCS’ estate claim begins to accrue on the date the ALTCS
+
+DE-810 (Rev. 06/19)
+member becomes age 55. Example: If an ALTCS member is age 55 or older at the time of his/her
+ALTCS coverage effective date of January 1, 2015, the AHCCCS’ claim begins to accrue on January 1,
+2015. However, if the ALTCS member is age 54 on January 1, 2015, and turns age 55 on August 15,
+2015; the AHCCCS estate claim begins to accrue on August 15, 2015.
+
+8. What assets owned by the ALTCS member are subject to AHCCCS’ estate claim?
+AHCCCS’ estate claim is filed only against the property owned by the ALTCS member at the time of
+his/her death that is subject to Small Estate Affidavit or probate. This means that AHCCCS’ claim is filed
+only against the “estate” of the individual. A home that is solely owned by the ALTCS member, is owned
+jointly without right of survivorship, or is owned jointly with right of survivorship but the joint owner is
+deceased, is subject to Small Estate Affidavit or probate, and is therefore subject to payment of
+AHCCCS’ claim against the estate. If the ALTCS member owns an annuity, and the annuity is subject to
+Small Estate Affidavit or probate, it is also subject to payment of AHCCCS’ claim against the estate. For
+additional information regarding what real and personal property assets are subject to Small Estate
+Affidavit or probate, and the processes under each for administering the estate, contact the Arizona
+Probate Registrar for the Superior (Probate) court in your county.
+
+9. What is a TEFRA lien?
+AHCCCS may impose a TEFRA lien against the member's real property, including the member’s home,
+after the member becomes permanently institutionalized at a nursing home, mental health hospital, or
+other long-term care medical facility. Permanently institutionalized means the member has resided in a
+long term care medical facility for at least 90 consecutive days, and the member’s condition is not likely
+to improve to the point that the member will be discharged from the long-term care medical facility and
+return home by a date certain. The purpose of the lien is to recover the cost of benefits provided upon the
+member's death or upon the sale or transfer of an interest in the property. The lien is not enforced until
+one of these events occurs.
+
+10. Who do TEFRA liens apply to?
+ALTCS members who are permanently institutionalized will have a lien imposed against their personal
+home or other real property unless certain conditions exist. A lien will not be enforced so long as a
+spouse, child under 21, or a blind or permanently and totally disabled child survives the member. Also, a
+lien will not be enforced against a home so long as the following persons currently reside there:
+
+    A sibling who was living there for at least a year before the member was admitted to the facility,
+     or
+    A child who was living there for at least two years before the member was admitted to a facility
+     and provided care which allowed the member to stay out of an institution. Documentation proving
+     the care was provided must be submitted to the state's satisfaction.
+
+11. How does the TEFRA lien process work?
+Following notification that a member has been placed into a medical institution for 90 days or more and
+cannot reasonably be expected to be discharged and return to their home, AHCCCS will send a Notice of
+Intent to File a Lien against Real Property to the member or their authorized representative. If there is no
+response, or if AHCCCS determines that the exemption criteria have not been met, a TEFRA Lien will be
+filed against the member's real property. Should a member wish to contest the lien, he or she may file a
+request for a state fair hearing within thirty days of receiving the Notice of Intent.
+
+DE-810 (Rev. 06/19)
+12. What happens after the lien has been filed?
+No further action is taken by AHCCCS after the lien has been filed until either:
+
+    The member returns home with the intention of remaining in the home;
+    The property is sold or ownership is transferred; or
+    The member dies.
+
+13. What if I return home?
+If a member is discharged from a medical facility and returns to his or her own home on a permanent
+basis, the lien will be removed shortly after AHCCCS is notified. However, if the member is readmitted
+into the medical facility permanently, a new lien may be filed against the member’s real property.
+
+14. What happens if I want to transfer or sell the property?
+If you sell or transfer the property, you will need to repay AHCCCS for the medical payments AHCCCS
+has made on your behalf. The amount you need to repay will be equal to the amount that AHCCCS has
+paid or up to the amount of the excess proceeds.
+
+15. What happens when I die and a TEFRA lien was filed?
+The TEFRA lien will remain in place and claim will be made against your estate. The TEFRA lien may
+be released (removed) if there is an Estate Claim Statutory Exemption; or, if AHCCCS grants an Undue
+Hardship Waiver; or, if the Estate Claim is paid in full; or, if AHCCCS approves a request for a Partial
+Recovery (Reduction). These processes are discussed in FAQ numbers 17 and 18 below.
+
+16. How does AHCCCS’ claim against the estate affect estates which will be filed by a Small Estate
+    Affidavit and those filed through probate?
+The AHCCCS claim against the ALTCS member’s estate has the same impact against the estate
+regardless of whether the estate will be filed by Small Estate Affidavit or filed through probate. Under
+Arizona Probate Law, A.R.S. § 14-3805, AHCCCS’ claim against the estate is classified as a debt due the
+State. AHCCCS’ claim against the estate must be paid from available estate assets in accordance with
+A.R.S. §§ 14-3971 and 14-3807. AHCCCS does not usually take direct possession of the estate assets.
+Rather the payment of AHCCCS’ estate claim is made from the AHCCCS member’s estate. In rare
+situations, AHCCCS is authorized to initiate probate and petition the court to be appointed as the Personal
+Representative of a Decedent.
+
+The Small Estate Affidavit and probate are the “processes” for liquidating the estate of a decedent and
+making distribution to the heir(s). The Small Estate Affidavit allows for some estates to be filed by an
+“affidavit” rather than probate, which reduces the administrative costs that are experienced when an estate
+must be probated.
+
+17. Does AHCCCS ever waive or reduce its claim against the ALTCS member’s estate?
+Yes, in certain circumstances. AHCCCS shall defer its estate claim recovery when an “Estate Claim
+Statutory Exemption” exists, or when an “Undue Hardship Waiver of Estate Claim” exists. Also,
+AHCCCS may reduce the amount of the estate claim when the heir(s) to the estate meets the criteria for a
+“Partial Recovery (Reduction)” of the estate claim.
+
+
+DE-810 (Rev. 06/19)
+In addition to the above waivers, Federal law limits recovery from the property owned by Native
+Americans (members of federally recognized Indian tribes).
+
+Estate Claim Statutory Exemption: AHCCCS will defer recovery of its estate claim against the ALTCS
+member’s estate so long as there is an Estate Claim Statutory Exemption. An Estate Claim Statutory
+Exemption exists when there is a:
+
+    Surviving spouse;
+    Surviving child who is under age 21; or
+    Surviving child of any age who is blind or disabled and meets SSA or SSI disability criteria.
+
+To claim an Estate Claim Statutory Exemption, proof of the exemption must be provided. Examples of
+proof are:
+
+    A marriage license to verify there is a surviving spouse.
+    A certificate or other legal document that verifies the child’s relationship to the ALTCS member
+     to verify there is a surviving child under age 21.
+    An SSA/SSI disability benefit award letter from the Social Security Administration that verifies
+     the child receives SSA or SSI disability benefits to verify the surviving child is blind or disabled.
+
+Undue Hardship Waiver: AHCCCS will waive the claim against the ALTCS member’s estate when the
+heir to the estate meets all of AHCCCS’ undue hardship criteria in either a. or b. below:
+
+a. The estate contains real property assets only or both real and personal property assets, and
+
+   1. The real property in the estate is listed as residential property by the Arizona Department of
+      Revenue or County Assessor’s Office; and
+
+   2. The heir to the estate meets all of the criteria listed in either a. through d. or e. through h. below:
+      a. Owns a business that is located at the residential property;
+      b. The business has been in operation at the residential property for at least 12 months preceding
+         the ALTCS member’s death;
+      c. The business provides more than 50% of the heir’s livelihood; and
+      d. The recovery of the property would result in the heir to the estate losing their means of
+         livelihood.
+                                                      OR
+      e. Currently resides in the residence;
+      f. Resided there at the time of the ALTCS member’s death;
+      g. Has made the residence his or her primary residence for the 12 months immediately preceding
+         the ALTCS member’s death; and
+      h. Owns no other residence.
+
+b. The estate contains personal property assets only, and the heir to the estate meets all of the criteria
+   listed in both 1 and 2:
+
+   1. The heir’s annual gross income for their household size is less than the federal income poverty
+      guidelines. New sources of income (for example, employment, Social Security, inheritance, etc.)
+      will be included in determining the household’s annual gross income; and
+
+DE-810 (Rev. 06/19)
+   2. The heir does not own a home, land, or other real property.
+
+If the estate contains both real and personal property, and the heir qualifies for an undue hardship, then
+AHCCCS shall not grant an undue hardship waiver, but adjusts its claim to the value of the personal
+property.
+
+The notices HMS sends provide additional information about undue hardship and the process for
+applying, including what verification must be provided.
+
+The undue hardship criteria are also specified in AHCCCS regulation at Arizona Administrative Code,
+R9-28-911.
+
+Partial Recovery (Reduction): AHCCCS may reduce the amount of the estate claim when the criteria for a
+partial recovery are met. AHCCCS considers the following factors on a case-by-case basis in determining
+if a partial recovery (reduction) of the estate claim should be approved:
+
+    Financial and medical hardship to the heir(s);
+    Income of the heir(s) and whether the household income is within 100% of the Federal Poverty
+     Guidelines;
+    Resources of the heir(s);
+    Value and type of assets in the estate (real and personal);
+    Amount of AHCCCS’ estate claim;
+    Whether other creditors have filed claims against the ALTCS member’s estate or have foreclosed
+     on the property; or
+    Any other factors relevant for a fair and equitable determination under the circumstances of a
+     particular case.
+
+The Partial Recovery criteria are also specified in AHCCCS regulations at Arizona Administrative Code
+R9-28-912.
+
+The notices HMS sends provide additional information about partial recovery and the process for
+applying, including what verification must be provided.
+
+18. How does an heir apply for a waiver or reduction of AHCCCS’ estate claim?
+If an heir to the estate wishes to apply for a waiver or reduction of AHCCCS’ estate claim, the heir shall
+submit a completed application request and provide all supporting documentation to HMS so that it is
+received by HMS no later than 30 days from the date shown on the Notification of the AHCCCS Claim
+Against the Estate.
+
+AHCCCS will make a decision within 60 days of receipt of a completed application and all supporting
+documentation. HMS will mail a Decision Notice Regarding the AHCCCS Estate Claim to the personal
+representative and/or heir informing them of AHCCCS’ decision.
+
+19. When is the Member’s Personal Representative required to notify AHCCCS?
+A member’s Personal Representative must notify AHCCCS of the member’s estate or property within
+three months after the member’s death if the member was at least 55 years of age and if AHCCCS has not
+already filed a Statement of Claim in the estate proceedings (A.R.S. 36-2935.B).
+
+DE-810 (Rev. 06/19)
+20. How does the estate recovery process work?
+When HMS is notified that an ALTCS member is deceased, and the ALTCS member received ALTCS
+benefits at age 55 or older on or after January 1, 1994, HMS will file a Demand for Notice with the
+Superior (Probate) Court. The purpose of the Demand for Notice is to require notice to AHCCCS of all
+orders and filings regarding the ALTCS member’s estate. The Demand for Notice also assists in
+protection of AHCCCS’ interest in any future estate proceedings. In accordance with A.R.S § 36-2635,
+HMS will impose a lien on behalf of AHCCCS to secure the real property for recovery of medical
+assistance paid on behalf of the member.
+
+After HMS files the Demand for Notice, HMS will send the personal representative or authorized
+representative the following notices:
+
+      A Notice of Intent to File a Claim Against the Estate;
+      An Estate Questionnaire;
+      A copy of the Demand for Notice that was filed with the Superior (Probate) Court(s); and
+      A copy of the Medical Assistance Lien that was filed with the County Recorder’s Office.
+
+The Estate Questionnaire assists HMS in identifying if there are circumstances which qualify for an
+“Estate Claim Statutory Exemption”. AHCCCS will defer recovery of its claim against the estate so long
+as there is a qualifying Estate Claim Statutory Exemption.
+
+If the estate has already entered probate, HMS will bypass the Demand for Notice and Notice of Intent
+process. A claim is immediately placed against the estate.
+
+If HMS does not identify a qualifying Estate Claim Statutory Exemption, and the ALTCS member owned
+property that is, or appears to be, subject to Small Estate Affidavit or probate, HMS files a Superior Court
+Claim Against the Estate (referred to as a creditor’s claim) with the Superior (Probate) Court. For estates
+that will be probated, HMS files the Superior Court Claim Against the Estate to meet the timeframe
+requirements in A.R.S. §§ 14-3801 and 14-3804.
+
+The Notification of the AHCCCS Claim Against the Estate provides the following information:
+
+    AHCCCS’ claim amount and list of AHCCCS expenditures to be recovered;
+    Authority for the AHCCCS’ estate claim;
+    Explanation of the enclosed application form and the process for applying for one or more of the
+     three processes which permit waiver or reduction of AHCCCS’ estate claim: Estate Claim
+     Statutory Exemption, Undue Hardship Waiver of Estate Claim, and/or Partial Recovery;
+    Estate Claim Statutory Exemption Criteria, Undue Hardship Waiver of Estate Claim Criteria, and
+     Partial Recovery (Reduction) Criteria;
+    Timeframes for filing a completed application;
+    To whom and where to file the application and supporting documentation;
+    Whom to contact if there are any questions;
+    Where to send payment of the estate claim; and
+    The heir’s right to file a grievance and request a hearing.
+
+DE-810 (Rev. 06/19)
+21. What if an heir disagrees with the amount of AHCCCS’ claim against the estate or a decision
+    regarding an application filed for an Estate Claim Statutory Exemption, Undue Hardship Waiver,
+    or a Partial Recovery (Reduction) of the estate claim?
+AHCCCS provides a grievance and request for hearing process for heir(s) or other interested parties (e.g.,
+personal representative) to present any dispute or disagreement regarding AHCCCS’ claim against the
+estate or a decision made regarding an application filed for a waiver or reduction of the estate claim.
+HMS’ Notification of the AHCCCS Claim Against the Estate and Decision Notice Regarding the
+AHCCCS Estate Claim provide information regarding an heir’s right to file a grievance and request a
+hearing.
+
+The grievance must be submitted in writing and must be received by the AHCCCS Administration, Office
+of Administrative Legal Services, Mail Drop 6200, P.O. Box 25520, Phoenix, Arizona 85002, no later
+than 60 days from the date shown on HMS’ Notification of the AHCCCS Claim Against the Estate or
+Decision Notice regarding the AHCCCS Estate Claim.
+
+22. Who do I contact for more information?
+For more information about your Medicaid eligibility determination and ALTCS, please contact your
+local ALTCS eligibility office. Locations and telephone numbers for the ALTCS eligibility office in your
+area can be found on the AHCCCS web site, www.azahcccs.gov. You may also call 602-417-4000 for
+general AHCCCS information:
+
+For more information regarding Arizona’s Estate Recovery Program, you may contact the AHCCCS,
+Third Party Liability Office: 602-417-4531
+
+               OR
+
+Health Management Systems, Inc. (HMS)
+Phoenix Area: 602-954-8380 (enter 0 for the receptionist)
+Out-of-state toll free: 1-888-378-2836 (enter 0 for the receptionist)
+
+Information on the ALTCS program can be found at www. azahcccs.gov.
+
+The Centers for Medicare & Medicaid Services (CMS) provides information about Medicaid at its
+website: http://www.cms.hhs.gov
+
+
+
+
+DE-810 (Rev. 06/19)
+                         AHCCCS NOTICE OF NON-DISCRIMINATION
+Arizona Health Care Cost Containment System (AHCCCS) complies with applicable Federal civil rights laws and does not
+discriminate on the basis of race, color, national origin, age, disability, or sex. AHCCCS does not exclude people or treat
+them differently because of race, color, national origin, age, disability, or sex. AHCCCS provides free aids and services to
+people with disabilities to communicate effectively with us, such as qualified sign language interpreters and written
+information in other formats (large print, audio, accessible electronic formats, and other formats). AHCCCS provides free
+language services to people whose primary language is not English, such as qualified interpreters and information written in
+other languages. If you need these services, contact the General Counsel within the AHCCCS Administration, Office of
+Administrative Legal Services. Telephone: (602) 417-4232. For in-State calls from all area codes except for 602, 623, or 480,
+please call 1-800-654-8713 extension (602) 417-4232. For hearing impaired (TTY), call 1-800-367-8939 Address: AHCCCS
+Administration MD 6200, 701 E. Jefferson, Phoenix, AZ 85034 Fax: 602 253-9115.
+
+If you believe that AHCCCS failed to provide these services or discriminated in another way on the basis of race, color,
+national origin, age, disability, or sex, you can file a grievance with the AHCCCS General Counsel. You can file a grievance
+in person or by mail, fax, or email. Your grievance must be in writing and must be submitted within 180 days of the date that
+the person filing the grievance becomes aware of what is believed to be discrimination. Submit your grievance to: General
+Counsel, AHCCCS Administration, Office of Administrative Legal Services, MD 6200, 701 E. Jefferson, Phoenix, AZ
+85034 Fax: 602 253 9115 Email: EqualAccess@azahcccs.gov. You can also file a civil rights complaint with the U.S.
+Department of Health and Human Services, Office for Civil Rights, electronically through the Office for Civil Rights
+Complaint Portal, available at https://ocrportal.hhs.gov/ocr/portal/lobby.jsf, or by mail at U.S. Department of Health and
+Human Services; 200 Independence Avenue, SW; Room 509F, HHH Building; Washington, D.C. 20201; or by phone: 1-
+800-368-1019, 800-537-7697 (TDD). Complaint forms are available at: http://www.hhs.gov/ocr/office/file/index.html.
+
+                               AHCCCS AVISO DE NO DISCRIMINACIÓN
+Arizona Health Care Cost Containment System (AHCCCS) cumple con las leyes federales de derechos civiles aplicables y
+no discrimina por motivos de raza, color, nacionalidad, edad, discapacidad o sexo. AHCCCS no excluye a las personas ni las
+trata de forma diferente debido a su origen étnico, color, nacionalidad, edad, discapacidad o sexo. AHCCCS proporciona
+asistencia y servicios gratuitos a las personas con discapacidades para que se comuniquen de manera eficaz con nosotros,
+como los siguientes intérpretes de lenguaje de señas capacitados y información escrita en otros formatos (letra grande, audio,
+formatos electrónicos accesibles, y otros formatos). AHCCCS proporciona servicios lingüísticos gratuitos a personas cuya
+lengua materna no es el inglés, como los siguientes intérpretes capacitados y información escrita en otros idiomas. Si
+necesita estos servicios, comuníquese con el Abogado General en la Administración de AHCCCS, Oficina de Servicios
+Administrativos Legales. Teléfono: (602) 417-4232. Para llamadas dentro del Estado de todos los códigos en el área excepto
+602, 623, o 480, favor de llamar 1-800-654-8713 extensión 602-417-4232. Para personas con limitaciones auditivas (TTY),
+llamar al 1-800-367-8939 Domicilio: Administración de AHCCCS MD6200, 701 E. Jefferson, Phoenix, AZ 85034 Fax: 602-
+253-9115.
+
+Si considera que AHCCCS no le proporcionó estos servicios o lo discriminó de otra manera por motivos de origen étnico,
+color, nacionalidad, edad, discapacidad o sexo, puede presentar un reclamo a AHCCCS General Counsel. Puede presentar el
+reclamo en persona o por correo postal, fax o correo electrónico. Su querella deberá presentarse por escrito en plazo de 180
+días a partir de la fecha en la que la persona que se querelle se percate de lo que le parezca ser discrimen. Remita su querella
+a: General Counsel, AHCCCS Administration, Office of Administrative Legal Services, MD 6200,701 E. Jefferson, Phoenix,
+AZ 85034 o envíela por fax a: 602 253 9115 0 envíela por correo electrónico (Email) a: EqualAccess@azahcccs.gov.
+También puede presentar un reclamo de derechos civiles ante la Office for Civil Rights (Oficina de Derechos Civiles) del
+Department of Health and Human Services (Departamento de Salud y Servicios Humanos) de EE. UU. de manera electrónica
+a través de Office for Civil Rights Complaint Portal, disponible en https://ocrportal.hhs.gov/ocr/portal/lobby.jsf, o bien, por
+correo postal a la siguiente dirección o por teléfono a los números que figuran a continuación: U.S. Department of Health
+and Human Services; 200 Independence Avenue, SW; Room 509F, HHH Building;Washington, D.C. 20201;1-800-368-
+1019, 800-537-7697 (TDD). Puede obtener los formularios de reclamo en el sitio web:
+:http://www.hhs.gov/ocr/office/file/index.html.
+
+
+     DE-810 (Rev. 06/19)
+ ATENCIÓN: si habla español, tiene a su disposición servicios gratuitos de asistencia lingüística. Llame
+ al 1-855- 432-7587 (TTY: 711).
+
+ Díí baa akó nínízin: Díí saad bee yáníłti’go Diné Bizaad, saad bee aká’ánída’áwo’dę́ę́’, t’áá jiik’eh, éí ná
+ hólǫ́ , kojį’ hódíílnih 1-855-432-7587 (TTY:711)
+
+ 注意：如果您使用繁體中文，您可以免費獲得語言援助服務。請致電 1-855-432-7587（TTY: 711）。
+
+
+ CHÚ Ý: Nếu bạn nói Tiếng Việt, có các dịch vụ hỗ trợ ngôn ngữ miễn phí dành cho bạn. Gọi số 1-855-
+ 432-7587 (TTY: 711).
+
+
+
+
+ PAUNAWA: Kung nagsasalita ka ng Tagalog, maaari kang gumamit ng mga serbisyo ng tulong sa wika
+ nang walang bayad. Tumawag sa 1-855-432-7587 (TTY: 711).
+
+  주의: 한국어를 사용하시는 경우, 언어 지원 서비스를 무료로 이용하실 수 있습니다. 1-855-432-7587
+ (TTY: 711) 번으로 전화해 주십시오.
+
+ ATTENTION: Si vous parlez français, des services d'aide linguistique vous
+ sont proposés gratuitement. Appelez le 1-855-432-7587 (ATS : 711).
+
+ ACHTUNG: Wenn Sie Deutsch sprechen, stehen Ihnen kostenlos sprachliche Hilfsdienstleistungen zur
+ Verfügung. Rufnummer: 1-855-432-7587 (TTY: 711).
+
+ ВНИМАНИЕ: Если вы говорите на русском языке, то вам доступны бесплатные
+ услуги перевода. Звоните 1-855-432-7587 (телетайп: 711).
+
+注意事項：日本語を話される場合、無料の言語支援をご利用いただけます。1-855-432-7587
+（TTY: 711）まで、お電話にてご連絡ください。
+
+OBAVJEŠTENJE: Ako govorite srpsko-hrvatski, usluge jezičke pomoći dostupne su vam besplatno.
+ Nazovite 1-855-432-7587 (TTY- Telefon za osobe sa oštećenim govorom ili sluhom: 1-855-432-1-
+
+
+
+
+                                                                                  855-432-7587 (TTY: 711)
+
+
+
+
+เรียน:
+ถาคุณพูดภาษาไทยคุณสามารถใชบริการชวยเหลือทางภาษาไดฟรี
+
+DE-810 (Rev. 07/15)                         Page 12
+โทร1-855-432-7587 (TTY: 711).
+
+ATTENZIONE: In caso la lingua parlata sia l'italiano, sono disponibili servizi di assistenza linguistica
+gratuiti. Chiamare il numero 1-855-432-7587 (TTY: 711).
+
+
+
+
+DE-810 (Rev. 07/15)                      Page 13
+

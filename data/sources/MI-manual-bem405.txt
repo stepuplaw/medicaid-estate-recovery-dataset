@@ -1,0 +1,1204 @@
+Source URL: https://mdhhs-pres-prod.michigan.gov/olmweb/EX/BP/Public/BEM/405.pdf
+Retrieved: 2026-09-23
+
+                                                                                     BPB 2026-007
+     BEM 405          1 of 23                   MA DIVESTMENT
+                                                                                          4-1-2026
+
+
+POLICY
+
+                       Medicaid (MA) ONLY
+
+                       Divestment results in a penalty period in MA, not ineligibility.
+                       Divestment policy does not apply to Qualified Disabled Working
+                       Individuals (QDWI); see Bridges Eligibility Manual (BEM) 169.
+
+                       Divestment is a type of transfer of a resource and not an amount of
+                       resources transferred.
+
+                       Divestment means the transfer of a resource (see resource defined
+                       in this item and in glossary) by a client or his spouse that are all the
+                       following:
+
+                       •     Is within a specified time; see look back period in this item.
+
+                       •     Is a transfer for less than fair market value; see definition in
+                             glossary.
+
+                       •     Is not listed under transfers that are not divestment in this item.
+
+                             Note: See annuity not actuarially sound and joint owners and
+                             transfers in this item and BEM 401 about special transactions
+                             considered transfers for less than fair market value.
+
+                       During the penalty period, MA will not pay the client’s cost for:
+
+                       •     Long Term Care (LTC) services.
+
+                       •     Home and community-based waiver services (such as
+                             MIChoice Waiver and PACE).
+
+                       •     Home help.
+
+                       •     Home health.
+
+                       MA will pay for other MA-covered services.
+
+                       Do not apply a divestment penalty period when it creates an undue
+                       hardship; see undue hardship in this item.
+
+RESOURCE
+DEFINED
+
+                       Resource means all the client’s and spouse's assets and
+                       income. It includes all assets and all income, even countable
+                       and/or excluded assets, the individual or spouse receive. It also
+
+
+BRIDGES ELIGIBILITY MANUAL                                                   STATE OF MICHIGAN
+
+                                                   DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 405          2 of 23                  MA DIVESTMENT
+                                                                                        4-1-2026
+
+
+                       includes all assets and income that the individual (or spouse) was
+                       entitled to but did not receive because of action by one of the
+                       following:
+
+                       •     The client or spouse.
+
+                       •     A person (including a court or administrative body) with legal
+                             authority to act in place of or on behalf of the client or the
+                             client’s spouse.
+
+                       •     Any person (including a court or administrative body) acting at
+                             the direction or upon the request of the client or his/her
+                             spouse.
+
+TRANSFER OF A
+RESOURCE
+
+                       Transferring a resource means giving up all or partial ownership in
+                       (or rights to) a resource. Not all transfers are divestment. Examples
+                       of transfers include:
+
+                       •     Selling an asset for fair market value (not divestment).
+
+                       •     Giving an asset away (divestment).
+
+                       •     Refusing an inheritance (divestment).
+
+                       •     Payments from a MEDICAID TRUST that are not to, or for the
+                             benefit of, the person or his spouse; see BEM 401
+                             (divestment).
+
+                       •     Putting assets or income in a trust; see BEM 401.
+
+                       •     Giving up the right to receive income such as having pension
+                             payments made to someone else (divestment).
+
+                       •     Giving away a lump sum or accumulated benefit (divestment).
+
+                       •     Buying an annuity that is not actuarially sound (divestment).
+
+                       •     Giving away a vehicle (divestment).
+
+                       •     Putting assets or income into a Limited Liability Company
+                             (LLC).
+
+                       •     Purchasing an asset which decreases the group's net worth
+                             and is not in the group's financial interest (divestment).
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 405          3 of 23                  MA DIVESTMENT
+                                                                                        4-1-2026
+
+
+                       Also see Joint Owners and Transfers for examples.
+
+ Transfers to an
+ LLC
+
+                       Treat transfers to an LLC as a divestment unless the client retains
+                       the rights to the asset or income invested and may withdraw the
+                       asset invested on demand.
+
+                       Treat transfers to an LLC that has no discernible product (goods
+                       and or services) produced as a divestment.
+
+ Transfers by
+ Representatives
+
+                       Treat transfers by any of the following as transfers by the client or
+                       spouse.
+
+                       •     Parent for minor.
+                       •     Legal guardian.
+                       •     Conservator.
+                       •     Court or administrative body.
+                       •     Anyone acting in place of, on behalf of, at the request of or at
+                             the direction of the client or the client’s spouse.
+ Joint Owners and
+ Transfers
+
+                       When a client jointly owns a resource with another person(s), any
+                       action by the client or by another owner that reduces or eliminates
+                       the client’s ownership or control is considered a transfer by the cli-
+                       ent.
+
+                       Example: Mr. Jones is applying for MA. Before the look back
+                       period he added his sister's name to his bank account. Each is free
+                       to withdraw as much money as desired so adding the sister's name
+                       did not affect the client’s ownership or control. On September 1 the
+                       sister withdrew $10,000 and deposited the money in her own bank
+                       account. Mr. Jones is considered to have transferred $10,000 on
+                       September 1, the day he no longer had ownership and control of
+                       his money.
+
+                       Example: Mr. Jones is applying for MA. During the look back
+                       period Mr. Jones gave his sister half interest in real estate. His
+                       equity value at the time was $100,000. The ownership arrangement
+                       prevents either sibling from selling without the other's permission.
+                       Mr. Jones transferred a resource on the day he reduced his
+                       ownership and control by giving his sister part ownership. The
+
+BRIDGES ELIGIBILITY MANUAL                                                  STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 405          4 of 23                  MA DIVESTMENT
+                                                                                         4-1-2026
+
+
+                       amount transferred depends on whether his sister is refusing to
+                       sell. The transferred amount is:
+
+                       •     $100,000 if she now refuses to sell.
+
+                             Note: The transferred amount is used to calculate the
+                             divestment penalty. It is not used towards the countable asset
+                             limit for Mr. Jones’ eligibility.
+
+                       •     $50,000 if she now agrees to sell.
+
+                             Note: Unless otherwise excluded, one-half the equity for the
+                             month being tested is a countable asset for purposes of Mr.
+                             Jones' asset eligibility and the other half is used to calculate
+                             the divestment penalty.
+
+                       The same policy applies to resources the client’s spouse owns
+                       jointly with other persons.
+
+                       Exception: No penalty is imposed if the parties involved verify that
+                       the resource transferred actually belonged solely to the person to
+                       whom it was transferred.
+
+ Annuity Not
+ Actuarially Sound
+
+                       Purchase of an annuity that is not actuarially sound is a transfer for
+                       less than fair market value. The transfer was made by the annuity’s
+                       owner.
+
+                       Owner means the person who pays the premium for the annuity.
+
+                       Annuitant means the person to whom the annuity payments are
+                       made during the guarantee period of the annuity.
+
+                       An annuity is not actuarially sound if the annuitant is not expected
+                       to live until the end of the guarantee period of the annuity. Use the
+                       Life Expectancy Tables, EXHIBIT I in this item to make this
+                       determination.
+
+                       Note: Guarantee period may be called annuity certain or period
+                       certain.
+
+                       Example: John purchased an annuity at age 65 with a guarantee
+                       period of 10 years and payments starting at purchase. John’s life
+                       expectancy is 16.67 years. The annuity is actuarially sound.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                  STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 405          5 of 23                 MA DIVESTMENT
+                                                                                       4-1-2026
+
+
+                       Example: Sally purchased an annuity at age 70 with a guarantee
+                       period of 15 years and payments starting five years after purchase.
+                       The annuity is not actuarially sound because Sally’s life expectancy
+                       at purchase was 15.72 years while the guarantee period ends in 20
+                       years (five-year delay plus 15 years).
+
+                       Example: Diane purchased an annuity at age 65 with a guarantee
+                       period of 25 years. The annuity is not actuarially sound because
+                       Diane’s life expectancy is only 19.50 years.
+
+                       The amount transferred for less than fair market value for an
+                       annuity that is not actuarially sound is the amount that would be
+                       paid after the end of the person’s life expectancy. The amount
+                       transferred for less than fair market value is the value of the
+                       payments due in the last 5.5 years of the annuity (25 minus 19.50 =
+                       5.50).
+
+                       Example: Sally purchased an annuity at age 70 with a guarantee
+                       period of 15 years and payments starting five years after purchase.
+                       The annuity is not actuarially sound because Sally’s life expectancy
+                       at purchase was 15.72 years while the guarantee period ends in 20
+                       years. The amount transferred for less than fair market value is the
+                       value of the payments due in the last 4.28 years of the annuity (20 -
+                       15.72 = 4.28).
+
+LOOK-BACK
+PERIOD
+
+                       The first step in determining the period of time that transfers can be
+                       evaluated for divestment is determining the baseline date; see
+                       baseline date in this item.
+
+                       Once the baseline date is established, you determine the look-back
+                       period. The look back period is 60 months prior to the baseline
+                       date.
+
+ Entire Period
+
+                       Transfers that occur on or after a client’s baseline date must be
+                       considered for divestment. In addition, transfers that occurred
+                       within the 60-month look-back period must be considered for
+                       divestment.
+
+ Penalty Situation
+
+                       A divestment determination is not required unless, sometime during
+                       the month being tested, the client was in a penalty situation. To be
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 405          6 of 23                 MA DIVESTMENT
+                                                                                        4-1-2026
+
+
+                       in a penalty situation, the client must be eligible for MA (other than
+                       QDWI) and be one of the following:
+
+                       •     In an LTC facility.
+                       •     Approved for MIChoice waiver see BEM 106.
+                       •     Approved for the PACE program; see BEM 167.
+                       •     Eligible for Home Help.
+                       •     Eligible for Home Health.
+ Baseline Date
+
+                       A person’s baseline date is the first date that the client was eligible
+                       for Medicaid and one of the following:
+
+                       •     In LTC.
+                       •     Approved for MIChoice waiver; see BEM 106.
+                       •     Approved for the PACE program; see BEM 167.
+                       •     Eligible for Home Health services.
+                       •     Eligible for Home Help services.
+
+                       A client’s baseline date does not change even if one of the
+                       following happens:
+
+                       •     The client leaves LTC.
+
+                       •     The client is no longer approved for the MIChoice waiver; see
+                             BEM 106.
+
+                       •     The client is no longer approved for the PACE program; see
+                             BEM 167.
+
+                       •     The client no longer needs Home Help.
+
+                       •     The client no longer needs Home Health.
+
+LESS THAN FAIR
+MARKET VALUE
+
+                       Less than fair market value means the compensation received in
+                       return for a resource was worth less than the fair market value of
+                       the resource. That is, the amount received for the resource was
+                       less than what would have been received if the resource was
+                       offered in the open market and in an arm’s length transaction (see
+                       glossary).
+
+                       Note: Also see annuity not actuarially sound in this item.
+
+                       Compensation must have tangible form and intrinsic value.
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                 BPB 2026-007
+     BEM 405          7 of 23                MA DIVESTMENT
+                                                                                      4-1-2026
+
+
+                       Relatives can be paid for providing services; however, assume ser-
+                       vices were provided for free when no payment was made at the
+                       time services were provided. A client can rebut this presumption by
+                       providing tangible evidence that a payment obligation existed at the
+                       time the service was provided (for example a written agreement
+                       signed at the time services were first provided). The policy in
+                       Bridges Administrative Manual (BAM) 130 allowing use of best
+                       available information or best judgment as verification does not
+                       apply.
+
+ Value of
+ Transferring Right
+ to Income
+
+                       When a person gives up his right to receive income, the fair market
+                       value is the total amount of income the person could have expected
+                       to receive.
+
+                       Use EXHIBIT I - Life Expectancy Table in this item, to compute the
+                       fair market value of a lifetime income source such as a pension.
+                       Base the calculation on the person's sex and age on the date of
+                       transfer.
+
+ Personal Care &
+ Home Care
+ Contracts
+
+                       Personal Care Contract means a contract/agreement that
+                       provides health care monitoring, medical treatment, securing
+                       hospitalization, visitation, entertainment, travel/transportation,
+                       financial management, shopping, home help or other assistance
+                       with activities of daily living.
+
+                       Home Care Contract means a contract/agreement which pays for
+                       expenses such as home/cottage/care repairs, property
+                       maintenance, property taxes, homeowner's insurance, heat and
+                       utilities for the homestead or other real property of the client.
+
+                       Home Care and Personal Care contracts/agreements may be
+                       between relatives or non-relatives. A relative is anyone related to
+                       the client by blood, marriage or adoption.
+
+                       Note: When relatives provide assistance or services they are
+                       presumed to do so for love and affection and compensation for past
+                       assistance or services shall create a rebuttable presumption of a
+                       transfer for less than fair market value. Fair market value of the
+                       services may be determined by consultation with area businesses
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                    BPB 2026-007
+     BEM 405          8 of 23                  MA DIVESTMENT
+                                                                                         4-1-2026
+
+
+                       which provide such services. Contracts/agreements that include
+                       the provision of companionship are prohibited.
+
+                       All Personal Care and Home Care contracts/agreements,
+                       regardless of whether between a client and a relative or a client and
+                       a non-relative, must be considered and evaluated for divestment.
+
+                       Personal Care and Home Care contracts/agreements shall be
+                       considered a transfer for less than fair market value unless the
+                       agreement meets all of the following:
+
+                       •     The services must be performed after a written legal
+                             contract/agreement has been executed between the client and
+                             the provider. The effective date of the contract is either the
+                             date the contract/agreement is signed and notarized, or the
+                             date the signed contract is received in the local office. The
+                             services may not be paid for until the services have been
+                             provided (there can be no prospective payment for future
+                             expenses or services); and
+
+                       •     At the time the services are received, the client cannot be
+                             residing in a nursing facility, adult foster care home (licensed or
+                             unlicensed), institution for mental diseases, inpatient hospital,
+                             intermediate care facility for individuals with intellectual
+                             disabilities or be eligible for home and community-based
+                             waiver, home health or home help; and
+
+                       •     At the time services are received, the services must have been
+                             recommended in writing as necessary to prevent the transfer of
+                             the individual to residential care or a nursing facility and signed
+                             by the client’s physician, a professional in the physician's office
+                             or other public health provider who facilitates access to needed
+                             health and social services for individuals (such as a
+                             Community Health Worker). Such services cannot include the
+                             provision of companionship; and
+
+                             •   The contract/agreement must be signed by the client or
+                                 legally authorized representative, such as an agent under
+                                 a power of attorney, guardian, or conservator. If the
+                                 agreement is signed by a representative, that
+                                 representative cannot be the provider or beneficiary of the
+                                 contract/agreement.
+
+                             •   MDHHS will verify the contract/agreement by reviewing
+                                 the written instrument between the client and the provider
+                                 which must show the type, frequency and duration of such
+
+
+BRIDGES ELIGIBILITY MANUAL                                                  STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 405          9 of 23                 MA DIVESTMENT
+                                                                                        4-1-2026
+
+
+                                 services being provided to the client and the amount of
+                                 consideration (money or property) being received by the
+                                 provider, or in accordance with a service plan approved by
+                                 MDHHS.
+
+                       Assets transferred in exchange for a contract/agreement for per-
+                       sonal services/assistance or expenses of real property/homestead
+                       provided by another person after the date of application are consid-
+                       ered available and countable assets.
+
+ Transferring Non-
+ countable or
+ Excluded
+ Resources
+
+                       Transfers of resources that are excluded or not countable assets
+                       under SSI-related MA policy may be divestment.
+
+                       Transfer of the following may be divestment:
+
+                       •     Transfer of the Homestead by the individual in L/H, MIChoice
+                             client (see BEM 106), PACE participant (see BEM 167), home
+                             help or home health participant or the spouse of any of the
+                             above, even if the transfer occurred before the client was
+                             institutionalized or approved for the waiver, PACE, home help
+                             or home health. See Transferring Homestead to Family
+                             section below in this item.
+
+                       •     Assets that are not countable because they were unavailable
+                             or not salable.
+
+TRANSFERS THAT
+ARE NOT
+DIVESTMENT
+
+ Transferring
+ Excluded Income
+
+                       Transferring income that is not countable income for SSI-related
+                       MA according to BEM 500 is not divestment.
+
+ Transfers
+ Involving Spouse
+
+                       It is not divestment to transfer resources from the client to:
+
+                       •     The client’s spouse.
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                    DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 405           10 of 23                MA DIVESTMENT
+                                                                                        4-1-2026
+
+
+                        •    Another SOLELY FOR THE BENEFIT OF the client’s spouse.
+
+                        Transfers from the client’s spouse to another SOLELY FOR THE
+                        BENEFIT OF the client’s spouse are not divestment.
+
+ Transfers
+ Involving Child
+
+                        A transfer to the client’s blind or disabled (see BEM 260) child,
+                        regardless of the child’s age or marital status, are not divestment.
+                        This includes transfers to a trust established SOLELY FOR THE
+                        BENEFIT OF the child.
+
+ Transfer to Funeral
+ Plan
+
+                        See Life Insurance Funded Funeral in BEM 400 when a person has
+                        irrevocably transferred ownership in life insurance, or a similar
+                        device designated for funeral expenses.
+
+ Transfer to Trust
+
+                        Transfers to a trust established SOLELY FOR THE BENEFIT OF a
+                        disabled (see BEM 260) person under age 65 are not divestment.
+
+ Purchase of
+ Funeral Contract
+
+                        Placing money in an irrevocable prepaid funeral contract (see BAM
+                        805) is not divestment.
+
+ Asset Conversion
+
+                        Converting an asset from one form to another of equal value is not
+                        divestment even if the new asset is exempt. Most purchases are
+                        conversions.
+
+                        Example: Using $5,000 from savings to buy a used car priced at
+                        $5,000 is conversion for equal value.
+
+                        Example: Trading a boat worth about $8,000 for a car worth about
+                        $8,000 is conversion for equal value.
+
+                        Payment of expenses such as one's own taxes or utility bills is also
+                        not divestment.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 405          11 of 23                 MA DIVESTMENT
+                                                                                       4-1-2026
+
+
+ Transferring
+ Homestead to
+ Family
+
+                       It is not divestment to transfer a homestead to the client's:
+
+                       •     Spouse; see Transfers Involving Spouse above.
+                       •     Blind or disabled child; see Transfers Involving Child above.
+                       •     Child under age 21.
+                       •     Child age 21 or over who:
+
+                             •   Lived in the homestead for at least two years immediately
+                                 before the client’s admission to LTC or waiver approval
+                                 (BEM 106), and
+
+                             •   Provided care that would otherwise have required LTC or
+                                 waiver services (BEM 106), as documented by a
+                                 physician's (M.D. or D.O.) statement.
+
+                       •     Brother or sister who:
+
+                             •   Is part owner of the homestead, and
+                             •   Lived in the homestead for at least one year immediately
+                                 before the client’s admission to LTC or BEM 106/BEM 167
+                                 waiver approval.
+ Transfers for
+ Another Purpose
+
+                       A transfer of resources to a religious order by a member of that
+                       order in accordance with a vow of poverty are transfers for another
+                       purpose.
+
+                       As explained in this item, transfers exclusively for a purpose other
+                       than to qualify or remain eligible for MA are not divestment.
+
+                       Assume transfers for less than fair market value were for eligibility
+                       purposes until the client or spouse provides convincing evidence
+                       that they had no reason to believe LTC, PACE or MIChoice waiver
+                       services might be needed.
+
+                       Example: Mr. Smith, age 40, was in good health when he gave his
+                       vacation cottage to his nephew. The next day Mr. Smith was in an
+                       automobile accident. His injuries require long-term care. The
+                       transfer was not divestment because Mr. Smith could not anticipate
+                       his need for LTC services.
+
+                       Exception:
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                    BPB 2026-007
+     BEM 405          12 of 23                 MA DIVESTMENT
+                                                                                         4-1-2026
+
+
+                       •     Preservation of an estate for heirs or to avoid probate court is
+                             not acceptable as another purpose.
+
+                       •     That the asset or income is not counted for Medicaid does not
+                             make its transfer for another purpose.
+
+ Trustee Fees
+
+                       Trusts which designate a business as trustee (for example a bank)
+                       usually must compensate the trustee. Reasonable compensation is
+                       not divestment. Reasonable compensation means compensation
+                       within the prevailing rate for the community. For example, banks
+                       usually base their fee on a percentage of the value of the principal.
+                       There may be a basic charge in addition to the percentage or the
+                       percentage may vary based on the value of the trust.
+
+SOLELY FOR THE
+BENEFIT OF
+
+                       All the following conditions must be met for a transfer or for a trust
+                       to be solely for the benefit of a person:
+
+                       •      The arrangement must be in writing and legally binding on the
+                             parties.
+
+                       •     The arrangement must ensure that none of the resources can
+                             be used for someone else during the person's lifetime, except
+                             for trustee fees.
+
+                       •     The arrangement must require that the resources be spent for
+                             the person on an actuarially sound basis. This means that
+                             spending must be at a rate that will use up all the resources
+                             during the person's lifetime. Life expectancies are in Exhibit I in
+                             this item.
+
+PENALTY PERIOD
+
+ No Maximum
+ Penalty
+
+                       There is no maximum limit on the penalty period for divestment.
+                       There is no minimum amount of resource transfer before incurring a
+                       penalty, determine a penalty on any amount of resources that are
+                       transferred and meet the definition of a divestment even if the pen-
+                       alty is for one day. Divestment is a type of transfer not an amount of
+                       transfer.
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                  STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 405          13 of 23                MA DIVESTMENT
+                                                                                        4-1-2026
+
+
+                       Any penalty period established under previous policy continues
+                       until it ends.
+
+ Computing Penalty
+ Period
+
+                       Compute the penalty period on the total Uncompensated Value of
+                       all resources divested.
+
+                       Determine the Uncompensated Value for each resource transferred
+                       and combine into a total Uncompensated Value.
+
+                       Divide the total Uncompensated Value by the average monthly pri-
+                       vate LTC Cost in Michigan for the client’s Baseline Date. This gives
+                       the number of full months for the penalty period. Multiply the
+                       fraction remaining by 30 to determine the number of days for the
+                       penalty period in the remaining partial month.
+
+                       Apply the total penalty months and days. Apply a penalty even if
+                       the total amount of the penalty is for only a partial month.
+
+                       Apply the penalty to the months (or days) an individual is eligible for
+                       Medicaid and actually in LTC, PACE, Home Health, Home Help,
+                       the MIChoice Waiver. Do not apply the divestment penalty to a
+                       period when the individual is not eligible for Medicaid for any
+                       reason (that is the case closes for any reason or is eligible for
+                       Medicaid but is not in LTC, Home Help, Home Health, MIChoice
+                       Waiver, PACE program. Restart the penalty when the individual is
+                       again eligible for Medicaid and in LTC, Home Help, Home Health,
+                       the MIChoice Waiver, PACE program. When a medical provider is
+                       paid by the individual, or by a third party on behalf of the individual,
+                       for medical services received, that month is not a penalty month.
+                       Do not count that month as part of the penalty period. This does not
+                       include payments made by commercial insurance or Medicare; see
+                       Resources Returned in this item.
+
+                       Note: An individual is not eligible for MA in a month they have pre-
+                       paid for LTC. Because federal law directs a resident in a nursing
+                       facility must have access to all monies held by the facility for the
+                       resident, count the money held by a nursing facility as cash.
+
+                       A group 2 deductible eligible individual is not eligible for Medicaid
+                       until the deductible is met. Apply the penalty only to the days of the
+                       month after the deductible is met.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 405          14 of 23                MA DIVESTMENT
+                                                                                       4-1-2026
+
+
+                       The 1st day the client is eligible to receive MA coverage for LTC,
+                       MIChoice, PACE, home help, or a home health service is the 1st
+                       day after the penalty period ends.
+
+                         Baseline Date In           LTC
+                          Calendar Year             Cost
+                                 2026              $12,216
+                                 2025              $11,842
+                                 2024              $10,871
+                                 2023               $9939
+                                 2022               $9880
+                                 2021               $9560
+                                 2020               $8618
+                                 2019               $8469
+                                 2018               $8261
+                                 2017               $8018
+
+                       The penalty period starts on the date which the individual is eligible
+                       for Medicaid and would otherwise be receiving institutional level
+                       care (LTC, MIChoice waiver, PACE, home help, or home health
+                       services), and is not already part of a penalty period. When a
+                       medical provider is paid by the individual, or by a third party on
+                       behalf of the individual, for medical services received, the individual
+                       is not eligible for Medicaid in that month and the month is not a
+                       penalty month. That month cannot be counted as part of the
+                       penalty period. This does not include payments made by
+                       commercial insurance or Medicare.
+
+                       Note: If a past unreported divestment is discovered or an agency
+                       error is made which should result in a penalty, a penalty must be
+                       determined under the policy in place at the time of discovery. If a
+                       penalty is determined for a transfer in the past, apply the penalty
+                       from the first day after timely notice is given; see Recipient
+                       Exception in this item.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                BPB 2026-007
+     BEM 405          15 of 23               MA DIVESTMENT
+                                                                                        4-1-2026
+
+
+ Recipient
+ Exception
+
+                       Timely notice must be given to LTC recipients, and waiver
+                       recipients (BEM 106) before actually applying the penalty.
+                       Adequate notice must be given to new applicants.
+
+ Uncompensated
+ Value
+
+                       The uncompensated value of a divested resource is
+
+                       •     The resource's cash or equity value.
+                       •     Minus any compensation received.
+                       •     The uncompensated value of a promissory note, loan, or
+                             mortgage is the outstanding balance due on the date of
+                             application.
+ Spouses Sharing a
+ Penalty
+
+                       Penalize a client if her or his spouse divests. The penalty is
+                       imposed on whichever spouse is in a penalty situation. If both
+                       spouses are in a penalty situation, the penalty period (or any
+                       remaining part) must be divided between them.
+
+                       Example: Mr. and Mrs. Brown divested themselves of assets prior
+                       to Mr. Brown entering an LTC facility and applying for Medicaid. Mr.
+                       Brown is in LTC and under a divestment penalty for 24 months.
+                       When Mrs. Brown enters the facility 6 months later, the remaining
+                       18 months of Mr. Brown’s penalty are divided between them, giving
+                       Mr. and Mrs. Brown each 9 months of the penalty still to complete.
+                       If either Mr. or Mrs. Brown dies before they complete their penalty
+                       the remainder of their penalty is transferred to their spouse.
+
+                       Example: Mr. Brown enters a LTC facility and applies for
+                       Medicaid. He is found eligible for Medicaid. During the presumed
+                       asset eligibility period Mrs. Brown transfers Mr. Brown’s assets to
+                       herself and then transfers the assets to her children (the first
+                       transaction is permitted the second transaction is divestment). Mr.
+                       Brown incurs the divestment penalty. Mrs. Brown then enters the
+                       LTC facility. Mr. and Mrs. Brown divide the remainder of the
+                       incurred divestment penalty.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                               STATE OF MICHIGAN
+
+                                                DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 405          16 of 23                 MA DIVESTMENT
+                                                                                        4-1-2026
+
+
+ Resources
+ Returned
+
+                       Cancel a divestment penalty if either of the following occurs before
+                       the penalty is in effect:
+
+                       •     All the transferred resources are returned and retained by the
+                             individual.
+
+                       •     Fair market value is paid for the resources.
+
+                       Recalculate the penalty period if either of the following occurs while
+                       the penalty is in effect:
+
+                       •     All the transferred resources are returned.
+                       •     Full compensation is paid for the resources.
+
+                       Use the same per diem rate originally used to calculate the penalty
+                       period.
+
+                       Once a divestment penalty is in effect, return of, or payment for,
+                       resources cannot eliminate any portion of the penalty period
+                       already past. However, recalculate the penalty period. The divest-
+                       ment penalty ends on the later of the following:
+
+                       •     The end date of the new penalty period.
+                       •     The date the client notified you that the resources were
+                             returned or paid for.
+UNDUE HARDSHIP
+
+                       Waive the penalty if it creates undue hardship. Assume there is no
+                       undue hardship unless you have evidence to the contrary.
+
+                       Undue hardship exists when the client’s physician (M.D. or D.O.)
+                       says:
+
+                       •     Necessary medical care is not being provided, and
+                       •     The client needs treatment for an emergency condition.
+
+                       A medical emergency exists when a delay in treatment may result
+                       in the person's death or permanent impairment of the person's
+                       health.
+
+                       A psychiatric emergency exists when immediate treatment is
+                       required to prevent serious injury to the person or others.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                  STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                    BPB 2026-007
+      BEM 405         17 of 23                 MA DIVESTMENT
+                                                                                         4-1-2026
+
+
+VERIFICATION
+REQUIREMENTS
+
+                       Verification is not required when the client states he and his spouse
+                       have not transferred resources unless:
+
+                       •     The client’s statement is unclear, inconsistent or conflicts with
+                             known facts, or
+
+                       •     Existing information in the case record indicates divestment
+                             may have occurred.
+
+                       Verify the following to document divestment:
+
+                       •     Date of transfer.
+                       •     Fair market value or cash value.
+                       •     Uncompensated value.
+
+                       Obtain a statement from the LTC or waiver client’s physician (M.D.
+                       or D.O.) to verify:
+
+                       •     The client’s non-disabled child (age 21 or older) provided the
+                             care that would otherwise have required LTC or waiver
+                             services and
+
+                       •     A doctor's statement or other medical records indicating the
+                             medical need for the services at the time the services were
+                             initiated.
+
+                       •     Undue Hardship.
+
+                       Verify the non-disabled child who provided the care lived in the
+                       homestead for at least two years immediately before the client's
+                       admission to LTC or BEM 106 waiver approval.
+
+                       Verify the sibling's ownership interest and length of residence in the
+                       homestead if a homestead was transferred to a sibling.
+
+                       Verify disability and blindness according to BEM 260.
+
+ Verification
+ Sources
+
+                       Sources to verify transfers and the reasons for them include, but
+                       are not limited to, the following:
+
+                       •     Legal documents.
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                  STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                BPB 2026-007
+     BEM 405          18 of 23                MA DIVESTMENT
+                                                                                    4-1-2026
+
+
+                       •     Payment or tax records.
+                       •     Bills of sale.
+                       •     Court or attorney records.
+                       •     Correspondence regarding the transaction.
+                       •     Bankbooks or statements.
+
+                       Sources to verify ownership interest in a homestead or other real
+                       property include, but are not limited to:
+
+                       •     Deeds.
+                       •     Mortgages.
+                       •     Purchase agreements.
+                       •     Contracts.
+                       •     Other court or county records.
+
+                       Sources to verify length of residence in a homestead include, but
+                       are not limited to:
+
+                       •     Driver's license or State I.D.
+                       •     Income tax returns.
+                       •     Voter registration.
+                       •     Cancelled mail.
+                       •     Other type of I.D., which has both name and address.
+                       •     Written statement from one of the following who has
+                             knowledge of length of residence in the homestead:
+                             •    Physician.
+                             •    Clergy.
+                             •    Other professional.
+PET CODE
+
+                       Program enrollment type (PET) code EXM-DIVM indicates a
+                       divestment penalty.
+
+
+
+EXHIBIT I - LIFE EXPECTANCY TABLE
+
+       Exact Age             Male Life Expectancy        Female Life Expectancy
+           0                        76.04                         80.99
+           1                        75.52                         80.43
+           2                        74.55                         79.46
+           3                        73.58                         78.48
+           4                        72.59                         77.49
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                            BPB 2026-007
+     BEM 405          19 of 23               MA DIVESTMENT
+                                                                                4-1-2026
+
+
+
+
+       Exact Age             Male Life Expectancy    Female Life Expectancy
+           5                        71.60                     76.50
+           6                        70.62                     75.51
+           7                        69.63                     74.52
+           8                        68.64                     73.53
+           9                        67.64                     72.54
+           10                       66.65                     71.54
+           11                       65.66                     70.55
+           12                       64.66                     69.56
+           13                       63.67                     68.56
+           14                       62.68                     67.57
+           15                       61.70                     66.58
+           16                       60.73                     65.60
+           17                       59.76                     64.62
+           18                       58.81                     63.63
+           19                       57.86                     62.66
+           20                       56.91                     61.68
+           21                       55.98                     60.71
+           22                       55.05                     59.73
+           23                       54.13                     58.76
+           24                       53.22                     57.80
+           25                       52.30                     56.83
+           26                       51.38                     55.86
+           27                       50.47                     54.90
+           28                       49.55                     53.93
+           29                       48.63                     52.97
+           30                       47.72                     52.01
+           31                       46.80                     51.05
+           32                       45.89                     50.09
+           33                       44.97                     49.14
+
+
+BRIDGES ELIGIBILITY MANUAL                                            STATE OF MICHIGAN
+
+                                               DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                            BPB 2026-007
+     BEM 405          20 of 23               MA DIVESTMENT
+                                                                                4-1-2026
+
+
+
+
+       Exact Age             Male Life Expectancy    Female Life Expectancy
+           34                       44.06                     48.19
+           35                       43.15                     47.23
+           36                       42.23                     46.28
+           37                       41.32                     45.34
+           38                       40.41                     44.39
+           39                       39.50                     43.45
+           40                       38.59                     42.50
+           41                       37.69                     41.56
+           42                       36.78                     40.62
+           43                       35.88                     39.69
+           44                       34.98                     38.76
+           45                       34.08                     37.83
+           46                       33.19                     36.90
+           47                       32.30                     35.98
+           48                       31.43                     35.07
+           49                       30.55                     34.16
+           50                       29.69                     33.26
+           51                       28.84                     32.36
+           52                       27.99                     31.48
+           53                       27.16                     30.59
+           54                       26.34                     29.72
+           55                       25.52                     28.85
+           56                       24.72                     27.99
+           57                       23.93                     27.13
+           58                       23.15                     26.28
+           59                       22.37                     25.44
+           60                       21.61                     24.60
+           61                       20.85                     23.76
+           62                       20.11                     22.94
+
+
+BRIDGES ELIGIBILITY MANUAL                                            STATE OF MICHIGAN
+
+                                               DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                            BPB 2026-007
+     BEM 405          21 of 23               MA DIVESTMENT
+                                                                                4-1-2026
+
+
+
+
+       Exact Age             Male Life Expectancy    Female Life Expectancy
+           63                       19.37                     22.12
+           64                       18.65                     21.30
+           65                       17.92                     20.49
+           66                       17.20                     19.69
+           67                       16.49                     18.89
+           68                       15.78                     18.11
+           69                       15.09                     17.33
+           70                       14.40                     16.57
+           71                       13.73                     15.82
+           72                       13.07                     15.09
+           73                       12.43                     14.37
+           74                       11.80                     13.66
+           75                       11.18                     12.97
+           76                       10.58                     12.29
+           77                       10.00                     11.62
+           78                        9.43                     10.98
+           79                        8.88                     10.35
+           80                        8.34                     9.74
+           81                        7.82                     9.15
+           82                        7.32                     8.58
+           83                        6.84                     8.04
+           84                        6.38                     7.51
+           85                        5.94                     7.01
+           86                        5.52                     6.53
+           87                        5.12                     6.07
+           88                        4.75                     5.64
+           89                        4.40                     5.23
+           90                        4.08                     4.85
+           91                        3.78                     4.50
+
+
+BRIDGES ELIGIBILITY MANUAL                                            STATE OF MICHIGAN
+
+                                               DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                           BPB 2026-007
+     BEM 405          22 of 23               MA DIVESTMENT
+                                                                               4-1-2026
+
+
+
+
+       Exact Age             Male Life Expectancy    Female Life Expectancy
+           92                        3.50                     4.18
+           93                        3.25                     3.88
+           94                        3.03                     3.61
+           95                        2.83                     3.37
+           96                        2.66                     3.16
+           97                        2.51                     2.96
+           98                        2.37                     2.79
+           99                        2.25                     2.63
+          100                        2.13                     2.48
+          101                        2.02                     2.33
+          102                        1.91                     2.19
+          103                        1.81                     2.06
+          104                        1.71                     1.93
+          105                        1.61                     1.81
+          106                        1.52                     1.69
+          107                        1.43                     1.58
+          108                        1.35                     1.47
+          109                        1.27                     1.37
+          110                        1.19                     1.27
+          111                        1.11                     1.18
+          112                        1.04                     1.09
+          113                        0.97                     1.01
+          114                        0.91                     0.93
+          115                        0.84                     0.86
+          116                        0.78                     0.79
+          117                        0.73                     0.73
+          118                        0.67                     0.67
+          119                        0.62                     0.62
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                           STATE OF MICHIGAN
+
+                                               DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+       BEM 405           23 of 23               MA DIVESTMENT
+                                                                                       4-1-2026
+
+
+Example Female: In January 2004, Mrs. Jay established a Medicaid trust and ordered her
+$500 per month pension paid to the trust. She was 78 years old. The trustee cannot use the
+pension for Mrs. Jay. Mrs. Jay transferred $63,120 ($500 X 12 months X 10.52 years).
+
+Example Male: In January 2004, Mr. Jay established a Medicaid trust and ordered his $500
+per month pension paid to the trust. He was 78 years old. The trustee cannot use the pension
+for Mr. Jay. Mr. Jay transferred $52,800 ($500 X 12 months X 8.80 years).
+
+LEGAL BASE
+
+                          MA
+
+                          Social Security Act, Sections 1902(a)(18), 1917
+
+
+
+
+ BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                   DEPARTMENT OF HEALTH & HUMAN SERVICES
+

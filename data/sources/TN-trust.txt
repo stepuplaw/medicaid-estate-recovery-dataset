@@ -1,0 +1,145 @@
+Source URL: https://unicourt.github.io/cic-code-tn/transforms/tn/octn/r73/gov.tn.tca.title.35.html
+Retrieved: 2026-09-23
+Note: excerpt of Sec. 35-15-505 from the Tennessee Code Annotated public release mirror; full title in TN-title35-full.txt
+
+35-15-505. Creditor's claims against settlor.
+
+ Whether or not the terms of a trust contain a spendthrift provision, the following rules apply:
+
+ During the lifetime of the settlor, the property of a revocable trust is subject to claims of the settlor's creditors.
+
+ Except as provided in chapter 16 of this title regarding investment services trusts and subdivisions (a)(3)-(5) regarding an irrevocable special needs trust, a creditor or assignee of the settlor of an irrevocable trust may reach the maximum amount that can be distributed to or for the settlor's benefit. If a trust has more than one (1) settlor, the amount the creditor or assignee of a particular settlor may reach may not exceed the settlor's interest in the portion of the trust attributable to that settlor's contribution;
+
+ For the purposes of this section, “irrevocable special needs trust” means an irrevocable trust established for the benefit of one or more disabled persons, which includes, but is not limited to, any individual who is disabled pursuant to 42 U.S.C. § 1382c(a), as well as any individual who is disabled pursuant to any similar federal, state or other jurisdictional law or regulation, or has a condition that is substantially equivalent to one that qualifies them to be so disabled in accordance with any of the above even if not officially found to be so disabled by a governmental body if one of the purposes of the trust, expressed in the trust instrument or implied from the trust instrument, is to allow the disabled person to qualify or continue to qualify for public, charitable or private benefits that might otherwise be available to the disabled person. The existence of one or more nondisabled remainder beneficiaries of the trust shall not disqualify it as an irrevocable special needs trust for the purposes of this section;
+
+ No creditor or assignee of the settlor of an irrevocable special needs trust, as defined in subdivision (a)(3), may reach or compel distributions from such special needs trust, to or for the benefit of the settlor of such special needs trust, or otherwise, regardless of whether or not such irrevocable special needs trust complies with, and irrespective of the requirements of, chapter 16 of this title; and
+
+ Notwithstanding any law to the contrary, neither a creditor nor any other person shall have any claim or cause of action against the trustee or other fiduciary, or an advisor of an irrevocable special needs trust. For purposes of this subdivision (a)(5), an advisor of an irrevocable special needs trust includes any person involved in the counseling, drafting, preparation, execution or funding of an irrevocable special needs trust.
+
+ After the death of a settlor, and subject to the settlor's right to direct the source from which liabilities will be paid, the property of a trust that was revocable immediately preceding the settlor's death is subject to claims of the settlor's creditors, costs of administration of the settlor's estate and the expenses of the settlor's funeral and disposal of remains. With respect to claims, expenses, and taxes in connection with the settlement of the settlor's estate, any claim of a creditor that would be barred against the fiduciary of a settlor's estate, the estate of the settlor, or any creditor or beneficiary of the settlor's estate shall be barred against the trust property of a trust that was revocable at the settlor's death, the trustee of the revocable trust, and the creditors and beneficiaries of the trust. The provisions of § 30-2-317(a) detailing the priority of payment of claims, expenses, and taxes from the probate estate of a decedent shall apply to a revocable trust to the extent the assets of the settlor's probate estate are inadequate and the personal representative or creditor or taxing authority of the settlor's estate has perfected its right to collect from the settlor's revocable trust.
+
+ For purposes of this section during the period a power of withdrawal may be exercised or upon the lapse, release, or waiver of the power, the holder is treated as the settlor of the trust only to the extent the value of the property affected by the lapse, release, or waiver exceeds the greater of the amount specified in § 2041(b)(2) or 2514(e) of the Internal Revenue Code of 1986 (26 U.S.C. § 2041(b)(2) and § 2514(e)), or § 2503(b) of the Internal Revenue Code of 1986 (26 U.S.C. § 2503(b)), in each case as in effect on July 1, 2004, or as later amended.
+
+ For purposes of subdivision (a)(2), the power of a trustee of an irrevocable trust, whether arising under the trust agreement or any other provision of the law, to make a distribution to or for the benefit of a settlor for the purpose of reimbursing the settlor in an amount equal to any income taxes payable on any portion of the trust principal and income that are includable in the settlor's personal income under applicable law, as well as distributions made by the trustee pursuant to such authority, shall not be considered an amount that may be distributed to or for the settlor's benefit.
+
+ With respect to an irrevocable trust for which the settlor made a qualified election pursuant to 26 U.S.C. § 2523(f), the power of a trustee, and any benefit resulting to the settlor from any exercise of such power, whether arising under the trust agreement or any other provision of the law, to make a distribution to or for the benefit of a settlor or to otherwise permit the settlor to use or benefit from trust property following the death of the settlor's spouse, shall not be considered an amount that may be distributed to or for the settlor's benefit for purposes of subdivision (a)(2). This subsection (d) shall not limit a creditor's remedies under the Uniform Fraudulent Transfer Act, compiled in title 66, chapter 3, part 3, regarding the settlor's transfers to such trust.
+
+ For purposes of subdivision (a)(2) and subsection (g), a person who is the holder of a power of withdrawal is not considered a settlor of the trust by failing to exercise that power of withdrawal or letting that power of withdrawal lapse.
+
+ For purposes of subdivision (a)(2) and subsection (g), a person who becomes a beneficiary of a trust due to the exercise of a power of appointment by someone other than such person shall not be considered a settlor of the trust.
+
+ Notwithstanding § 66-3-310, no person shall bring an action with respect to a transfer of property to a spendthrift trust:
+
+ If the person is a creditor when the transfer is made, unless the action is commenced within the later of two (2) years after the transfer is made or six (6) months after the person discovers or reasonably should have discovered the transfer; or
+
+ If the person becomes a creditor after the transfer is made, unless the action is commenced within two (2) years after the transfer is made; and
+
+ If subdivision (g)(1) applies:
+
+ A person shall be deemed to have discovered the existence of a transfer at the time any public record is made of the transfer, including but not limited to, a conveyance of real property that is recorded in the office of the county register of deeds of the county in which the property is located or the filing of a financing statement under title 47, chapter 9, or the equivalent recording or filing of either with the appropriate person or official under the laws of a jurisdiction other than this state;
+
+ No creditor shall bring an action with respect to a transfer of property to a spendthrift trust unless that creditor proves by clear and convincing evidence that the settlor's transfer to the trust was made with the intent to defraud that specific creditor; and
+
+ Notwithstanding any law to the contrary, neither a creditor nor any other person shall have any claim or cause of action against the trustee or other fiduciary or an advisor of a spendthrift trust if that claim or cause of action is based in any way on any person availing themselves of the benefits of this subsection (g);
+
+ For purposes of subdivision (g)(2)(B), an advisor of a spendthrift trust includes, but is not limited to, any person involved in the counseling, drafting, preparation, execution or funding of a spendthrift trust;
+
+ For purposes of subdivision (g)(2)(B)(i), counseling, drafting, preparation, execution or funding of a spendthrift trust includes the counseling, drafting, preparation, execution and funding of a limited partnership, a limited liability company or any other type of entity if interests in the limited partnership, limited liability company or other entity are subsequently transferred to a spendthrift trust;
+
+ Notwithstanding subdivision (g)(2)(B), in the same manner as provided other than by this section to trusts in general, a beneficiary, settlor, cotrustee, trust advisor or trust protector retains the right to bring a claim against a trustee or against another cotrustee, trust advisor, trust protector or any of their predecessors; however, no such claim shall arise solely because a person availed themselves, or attempted to avail themselves, of the benefits of this subsection (g);
+
+ If more than one transfer of property is made to a spendthrift trust, the subsequent transfer of property to the spendthrift trust shall be disregarded for the purpose of determining whether a person may bring an action pursuant to this subsection (g) with respect to a prior transfer of property to the spendthrift trust; and any distribution to a beneficiary from the spendthrift trust shall be deemed to have been made from the most recent transfer made to the spendthrift trust;
+
+ With the exception of any claim brought pursuant to subdivision (g)(3), notwithstanding any other law, no action of any kind, including, without limitation, an action to enforce a judgment entered by a court or other body having adjudicative authority, shall be brought at law or in equity against the trustee, other fiduciary or advisor of a spendthrift trust if, as of the date such action is brought, an action by a creditor with respect to a transfer of property to the spendthrift trust would be barred pursuant to this subsection (g); and
+
+ This subsection (g) shall not abridge the rights of a creditor, to the extent otherwise provided by this section, to reach the maximum amount that can be distributed to or for the settlor's benefit under a spendthrift trust.
+
+ Acts 2004, ch. 537, § 44; 2007, ch. 24, §§ 23, 24; 2007, ch. 144, § 13; 2010, ch. 725, §§ 6, 7; 2013, ch. 390, §§ 18-21; 2019, ch. 340, § 16.
+
+ Compiler's Notes. Acts 2013, ch. 390, § 55 provided that: (b) Except as otherwise provided in the act, on July 1, 2013:
+
+ The act applies to all trusts created before, on, or after July 1, 2013;
+
+ The act applies to all judicial proceedings concerning trusts commenced on or after July 1, 2013;
+
+ The act applies to judicial proceedings concerning trusts commenced before July 1, 2013, unless the court finds that application of a particular provision of the act would substantially interfere with the effective conduct of the judicial proceedings or prejudice the rights of the parties, in which case the particular provision of the act does not apply and the superseded law applies;
+
+ Any rule of construction or presumption provided in the act applies to trust instruments executed before July 1, 2013, unless there is a clear and express indication of a contrary intent in the terms of the trust; and
+
+ An act done before July 1, 2013, is not affected by the act.
+
+ Amendments. The 2019 amendment substituted “subdivision (g)(2)(B)” for subdivision (g)(2)(C)” in (g)(2)(B)(ii) and (g)(3); and substituted “subdivision (g)(2)(B)(i)” for “subdivision (g)(2)(C)(i)” in (g)(2)(B)(iii).
+
+ Effective Dates. Acts 2019, ch. 340, § 20. May 10, 2019.
+
+ Textbooks. Tennessee Jurisprudence. 22 Tenn. Juris., Spendthrift Trusts, § 1.
+
+ Law Reviews.
+
+ TennCare: Expanded Estate Recovery - Recover at ALL Cost, 45 U. Mem. L. Rev. 711 (2015).
+
+ Yes, Virginia, Tax Loopholes Still Exist: An Examination of the Tennessee Community Property Trust Act of 2010 (J. Paul Singleton), 42 U. Mem. L. Rev. 369 (2011).
+
+ 1. Bureau of TennCare Reimbursement.
+
+ Chancery court properly concluded the Bureau of TennCare was entitled to use real property in a decedent's revocable trust to satisfy a claim against the estate for medical benefits, T.C.A. § 71-5-116(c)(1) , because any property that could be reached by the personal representative pursuant to T.C.A. § 35-15-505 for the payment of the debts of an insolvent estate could be reached by the probate court for the purpose of reimbursing the Bureau. In re Estate of Stidham, 438 S.W.3d 535, 2012 Tenn. App. LEXIS 584 (Tenn. Ct. App. Aug. 23, 2012), appeal denied, - S.W.3d -, 2012 Tenn. LEXIS 910 (Tenn. Dec. 12, 2012).
+
+ Section Comment.
+
+ Unless provided otherwise hereinafter, any reference to “section,” “subsection” or “subdivision” means all, or such portion of, T.C.A. § 35-15-505 .
+
+ The provisions of this section in some ways diverge significantly from the Uniform Trust Code and the restatements. To the extent this section is in conflict with the Uniform Trust Code, any restatement or any other foreign law, such foreign law is not precedential or controlling and is rejected by the Tennessee Uniform Trust Code.
+
+ Subdivision (a)(1) states what is now a well accepted conclusion, that a revocable trust is subject to the claims of the settlor's creditors while the settlor is living. See Restatement (Third) of Trusts § 25  cmt. e (Tentative Draft No. 1, approved 1996). Such claims were not allowed at common law, however. See Restatement (Second) of Trusts § 330  cmt. o (1959).
+
+ Subdivision (a)(2), provides that a settlor who is also a beneficiary may not use the trust under which they have both capacities as a shield against the settlor's creditors, unless:
+
+ The settlor establishes an Investment Services Trust pursuant to title 35, chapter 16; or
+
+ The trust qualifies as an irrevocable special needs trust under subdivisions (a)(3) through (a)(5).
+
+ Outside of these two exceptions, a creditor of a settlor may reach the maximum amount that the trustee could have paid to the settlor-beneficiary, subject to adjustment should there be more than one (1) settlor. For the general definition of “settlor,” see T.C.A. § 35-15-103 . Regardless of such general definition of “settlor,” subsections (e) and (f) of this section modify such general definition and expressly provide that persons described in subsections (e) and (f) are not “settlors” for the purposes of subdivision (a)(2), as well as for the purposes of subsection (g).
+
+ This section does not generally address possible rights against a settlor who was insolvent at the time of the trust's creation or was rendered insolvent by the transfer of property to the trust. This subject is instead left to this state's other applicable laws on fraudulent transfers. Notwithstanding the preceding two sentences, section (g) hereof modifies certain effects of T.C.A. § 66-3-310 relative to transfers of property to a spendthrift trust and T.C.A. § 35-16-104 modifies certain effects of T.C.A. § 66-3-310 relative to transfers of property to a Tennessee Investment Services Trust. Depending on the facts, a transfer to the trust by an insolvent settlor might also constitute a voidable preference under federal bankruptcy law.
+
+ Subdivisions (a)(3) - (a)(5) govern the ability of creditors to reach irrevocable special needs trusts, as well the liability of trustees, other fiduciaries and the advisors of irrevocable special needs trusts. Under these subdivisions an irrevocable special needs trust is shielded from claims by creditors of the settlor regardless of whether or not such trust complies with the provisions of chapter 16, the Tennessee Investment Services Trust Act. Moreover, the trustees, other fiduciaries and the advisors of irrevocable special needs trusts are shielded from liability.
+
+ Subdivision (a)(6) recognizes that a revocable trust is usually employed as a will substitute. As such, the trust assets, following the death of the settlor, should be subject to the settlor's debts and other charges. However, in accordance with traditional doctrine, the assets of the settlor's probate estate must normally first be exhausted before the assets of the revocable trust can be reached. This section does not attempt to address the procedural issues raised by the need first to exhaust the decedent's probate estate before reaching the assets of the revocable trust. Subdivision (a)(6), however, does ratify the typical pourover will, revocable trust plan. As long as the rights of the creditor are not impaired, the settlor is free to shift liability from the probate estate to the revocable trust. This section clarifies that claims against revocable trusts are subject to the same time limitations, and are subject to the same order of priority among creditors as are imposed on claims against probate estates. Regarding other issues associated with potential liability of nonprobate assets for unpaid claims, see section 6-102 of the Uniform Probate Code, which was added to that Code in 1998.
+
+ Subsection (b) deals with powers of withdrawal. As currently contained in the Tennessee Uniform Trust Code such subsection is the version originally adopted in 2004 and remains unamended. Notwithstanding the preceding two sentences, see subsection (e) and the comments to same below. Subsection (e) was adopted with the 2013 amendments to the Tennessee Uniform Trust Code, and it overrides the provisions of subsection (b) (for several reasons, including being adopted later in time) as such applies to either subdivision (a)(2) or to subsection (g).
+
+ On a related note, under the Tennessee Uniform Trust Code all powers of ap-pointment, regardless of type, are held by the person to whom such power has been given solely in the capacity of a power holder and not by such power holder in a capacity as settlor. See the definition of “power of appointment” in T.C.A. § 35-15-103 , as well as the section comments thereunder. Moreover, unlike the Uniform Trust Code, under the Tennessee Uniform Trust Code one holding a power of appointment is not a beneficiary. Contrast the definition of “beneficiary” in T.C.A. § 35-15-103 , as well as the section comments thereunder, with the definition of “beneficiary” in Uniform Trust Code section 103, and the comments thereunder. Under the Tennessee Uniform Trust Code, definitionally, one holding a power of appointment is neither a settlor nor a beneficiary. They are merely a power holder. Therefore, property held subject to a power of appointment cannot be subject to the claims of the power holder’s creditors. Moreover, in the case of a power of appointment subject to the Tennessee Uniform Trust Code, such power is held under the terms of a trust. Therefore, re-gardless of any allusion or reference thereto in the Restatement (Property) Second: Donative Transfers § 13.2 (1986), powers of appointment that are governed by the Tennessee Uniform Trust Code are not subject to T.C.A. § 66-1-106 . Such section of the Tennessee Code requires that, in order to be subject to such section, any power of appointment must “not be accompanied by any trust,” and any power of appointment under the Tennessee Uniform Trust Code is so accompanied by a trust. To the extent that any of the above is in conflict with the Uniform Trust Code, any restatement or any other foreign law, such are not precedential or controlling and are rejected by the Tennessee Uniform Trust Code, which shall control.
+
+ Subsection (c) provides another exception to the general rule that creditors can reach the settlor's interest under an irrevocable trust to the extent it can be used for the settlor's benefit. Such exception provides that the payment of income taxes on behalf of the settlor of an irrevocable grantor trust will not make the trust available to creditors of the settlor.
+
+ Subsection (d) provides that the donor spouse's successor interests in an inter vivos QTIP trust do not cause the trust to lose spendthrift trust protection as to the donor spouse. Thus, if the donee spouse predeceases the donor spouse, the trust will continue to be a spendthrift trust after the donor spouse becomes a successor beneficiary of the trust.
+
+ Subsection (e) provides another exception to the general rule that creditors can reach the settlor's interest under an irrevocable trust to the extent it can be used for the settlor's benefit. Such exception provides this by modifying the general definition of “settlor” found in T.C.A. § 35-15-103 . Subsection(e) expressly provides that a person holding a power of withdrawal is not considered a settlor of a trust by failing to exercise that power or by letting such power lapse. This subsection was added by the 2013 amendments to Tennessee Uniform Trust Code. It overrides the provisions of subsection (b) (for several reasons, including being adopted later in time) as such applies to either subdivision (a)(2) or to subsection (g), discussed below.
+
+ Subsection (f) likewise by modifies the general definition of “settlor” found in T.C.A. § 35-15-103 . Subsection (f) provides that a person who becomes a beneficiary of a trust due to the exercise of a power of appointment by someone other than such person is not considered under the Tennessee Uniform Trust Code to be a settlor of a trust. This is true even if the person who so became the beneficiary created and funded the trust and granted the power of appointment to another. The provisions of subsection (f) apply to subdivision (a)(2). Such subdivision provides the general rule that creditors can reach the settlor's interest under an irrevocable trust to the extent it can be used for the settlor's benefit. Therefore, a person who becomes a beneficiary of a trust due to the exercise of a power of appointment by someone other than such person is not subject to such general rule. Accordingly, if a person who becomes a beneficiary of a trust due to the exercise of a power of appointment by someone other than such person did not otherwise retain a beneficial interest in the trust that was otherwise reachable (e.g., the settlor did not name himself as a beneficiary of the trust at the time it was created), the mere fact that some other person exercises a power of appointment to later make such person a beneficiary will not create an interest that is reachable by the settlor’s creditors. Subsection (f) also applies to subsection (g), discussed below.
+
+ In general, subsection (g) creates a limitations period relative to contesting the validity of transfers to spendthrift trusts, and is designed to bring certainty to transfers to third party trusts, such certainty being an overriding objective of the Tennessee Uniform Trust Code.
+
+ Such subsection does not abridge the rights of a creditor to reach the maximum amount that can be distributed to or for the settlor's benefit to the extent otherwise provided by this section.
+
+ Similarly, it does not abridge the ordinary rights of a beneficiary, settlor, cotrustee, trust advisor or trust protector to bring a claim against a trustee or against another cotrustee, trust advisor, trust protector or any of their predecessors relative to trust matters.
+
+ 2007 Amendment.
+
+ The section was amended to recognize that a settler-beneficiary of an Investment Services Trust is entitled to spendthrift protection under certain circumstances.  The section was amended to further clarify that claims against revocable trusts are subject to the same time limitations, and are subject to the same order of priority among creditors as are imposed on claims against probate estates.  Subdivision (c) provides another exception to the general rule that creditors can reach the settlor’s interest under an irrevocable trust to the extent it can be used for the settlor’s benefit.   The exception provides that the payment of income taxes on behalf of the settlor of an irrevocable grantor trust will not make the trust available to creditors of the settlor.
+
+ 2010 Amendment.
+
+ This section was amended to recognize that disabled persons who are beneficiaries of certain special needs trusts are entitled to spendthrift trust protection.
+
+ Subsection (d) was added in 2010. This subsection provides that the donor spouse’s successor interests in an inter vivos qtip trust do not cause the trust to lose spendthrift trust protection as to the donor spouse.  Thus, if the donee spouse predeceases the donor spouse, the trust will continue to be a spendthrift trust after the donor spouse becomes a successor beneficiary of the trust.
+
+ If a right is acquired, extinguished, or barred upon the expiration of a prescribed period that has commenced to run under any other statute before July 1, 2013, that statute continues to apply to the right even if it has been repealed or superseded.
+
+ NOTES TO DECISIONS
+
+ 1. Bureau of TennCare Reimbursement.
+
+ COMMENTS TO OFFICIAL TEXT
+
+ 

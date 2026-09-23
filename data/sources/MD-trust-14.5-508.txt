@@ -1,0 +1,389 @@
+Source URL: https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=get&section=14.5-508&enactments=false
+Retrieved: 2026-09-23
+
+Laws - Statute Text 
+
+ Legislative Services 
+  |  
+ Legislative Audits 
+
+ Search 
+
+ Bill number does not exist. 
+ Enter a vaild keyword. 
+
+ MyMGA
+
+ Sign In 
+
+ Register 
+
+ Forgot Password 
+
+ Accessibility Tools
+
+ Hide Images 
+
+ Default Contrast 
+
+ Reset All Settings 
+
+ Request Accessibility Services 
+
+ Accessibility Feedback 
+
+ Menu 
+
+ MEMBERS 
+ Find My Representatives 
+ Senate 
+ House 
+ Publications 
+ Related Links 
+ About 
+
+ COMMITTEES 
+ Charts 
+ Senate 
+ House 
+ Other 
+ Publications 
+ Related Links 
+ About 
+
+ MEETINGS 
+ Day(s) 
+ Week 
+ Month 
+ Update Report 
+ Publications 
+ About 
+
+ LEGISLATION 
+ Charts 
+ Senate 
+ House 
+ Publications 
+ About 
+
+ BUDGET 
+ Charts 
+ Analyses 
+ Legislation 
+ Bond Initiatives 
+ Publications 
+ Related Links 
+ About 
+
+ LAWS 
+ Statutes 
+ Counties 
+ Municipalities 
+ Publications 
+ Related Links 
+ About 
+
+ FLOOR ACTIONS 
+ Status 
+ Agendas 
+ Senate Index 
+ House Index 
+ Follow Both Chambers 
+ Publications 
+ About 
+
+ REDISTRICTING 
+ Congressional 
+ Legislative 
+
+ SEARCH 
+ Legislation 
+ Full Text 
+ Publications 
+ Media 
+
+ Menu 
+
+ MEMBERS 
+
+ Find My Representatives 
+ Senate 
+ House 
+ Publications 
+ Related Links 
+ About 
+
+ COMMITTEES 
+
+ Senate 
+ House 
+ Other 
+ Publications 
+ Related Links 
+ About 
+
+ MEETINGS 
+
+ Day(s) 
+ Update Report 
+ Publications 
+ About 
+
+ LEGISLATION 
+
+ Senate 
+ House 
+ Publications 
+ About 
+
+ BUDGET 
+
+ Analyses 
+ Legislation 
+ Bond Initiatives 
+ Publications 
+ Related Links 
+ About 
+
+ LAWS 
+
+ Statutes 
+ Counties 
+ Municipalities 
+ Publications 
+ Related Links 
+ About 
+
+ FLOOR ACTIONS 
+
+ Status 
+ Agendas 
+ Senate Index 
+ House Index 
+ Publications 
+ About 
+
+ REDISTRICTING 
+
+ Congressional 
+ Legislative 
+
+ SEARCH 
+
+ Legislation 
+ Full Text 
+ Publications 
+ Media 
+
+ Track 
+
+ Witness Signup 
+
+ FAQ 
+
+ Change Password 
+
+ Cancel Account 
+
+ Senate 
+
+ House 
+
+ Other 
+
+ About 
+
+ Statutes 
+ Counties 
+ Municipalities 
+ Publications 
+ Related Links 
+ About 
+
+ Statutes Text
+
+ Article - Estates and Trusts 
+
+ Previous Next 
+
+ §14.5-508.
+
+     (a)    The following rules apply, whether or not the terms of a trust contain a spendthrift provision:
+
+        (1)    During the lifetime of the settlor, the property of a revocable trust is subject to claims of the creditors of the settlor;
+
+        (2)    With respect to an irrevocable trust, a creditor or an assignee of the settlor may reach only the lesser of:
+
+            (i)    The claim of the creditor or assignee; and
+
+            (ii)    The maximum amount that can be distributed to or for the benefit of the settlor;
+
+        (3)    If a trust has more than one settlor, the amount the creditor or assignee of a particular settlor may reach may not exceed the interest of the settlor in the portion of the trust attributable to the contribution of that settlor;
+
+        (4)    With respect to a trust described in 42 U.S.C. § 1396p(d)(4)(A) or (C), the court may limit the award of the creditor of a settlor under items (1) and (2) of this subsection to the relief that is appropriate under the circumstances, considering among other factors determined appropriate by the court, the supplemental needs of the beneficiary; and
+
+        (5)    After the death of a settlor, and subject to subsection (b) of this section and the right of the settlor to direct the source from which liabilities will be paid, the property of a trust that was revocable at the death of the settlor is subject to claims of the creditors of the settlor.
+
+     (b)    (1)    Whether or not the terms of a trust contain a spendthrift provision, if a proceeding other than for a small estate under Title 5, Subtitle 6 of this article is commenced to administer the estate of a deceased settlor as provided in Title 5 of this article, property of a trust that was revocable at the death of the settlor is not subject to, and the trustee and beneficiaries of that trust may not be held liable for, claims of the creditors of the settlor that are not properly presented in the estate proceeding within the time periods specified in § 8-103 of this article or that are disallowed and barred as provided in § 8-107 of this article.
+
+        (2)    (i)    If a proceeding as described under paragraph (1) of this subsection has not been commenced, the trustee of the trust of which the decedent was a settlor may publish a notice once a week for 3 successive weeks in a newspaper of general circulation in what would otherwise be the proper venue for an administrative or judicial probate for that decedent under § 5-103 of this article.
+
+            (ii)    The notice shall:
+
+                1.    Announce the death of the decedent;
+
+                2.    Provide the name and address of the trustee;
+
+                3.    Notify creditors of the decedent to present their claims to the trustee; and
+
+                4.    Be substantially in the following form:
+
+Notice to Creditors of a Settlor of a Revocable Trust
+
+To all persons interested in the trust of ___________:
+
+This is to give notice that __________________ died on or about ______________. Before the decedent’s death, the decedent created a revocable trust for which the undersigned, ___________________, whose address is __________________________________, is now a trustee.
+
+To have a claim satisfied from the property of this trust, a person who has a claim against the decedent must present the claim on or before the date that is 6 months after the date of the first publication of this notice to the undersigned trustee at the address stated above. The claim must include the following information:
+A verified written statement of the claim indicating its basis;
+The name and address of the claimant;
+If the claim is not yet due, the date on which it will become due;
+If the claim is contingent, the nature of the contingency;
+If the claim is secured, a description of the security; and
+The specific amount claimed.
+
+Any claim not presented to the trustee on or before that date or any extension provided by law is unenforceable.
+
+______________________________Trustee
+
+Date of first publication: _____________________.
+
+        (3)    The publication of a notice in accordance with paragraph (2) of this subsection shall afford the trust property, the trustee, and the beneficiaries of the trust those protections under § 8-103 of this article afforded to a decedent’s estate, personal representative, and heirs and legatees against claims presented more than 6 months after the date of the first publication of the notice.
+
+        (4)    Claims against a deceased settlor are forever barred as against the trust property, the trustee, and the trust beneficiaries unless, within 6 months after the date of the first publication of a notice in accordance with paragraph (2) of this subsection, the creditor:
+
+            (i)    Files an action against the trustee on the creditor’s claim and serves a copy of the complaint on the trustee within 30 days of the filing; or
+
+            (ii)    Presents to the trustee at the address provided in the notice:
+
+                1.    A verified written statement of the claim indicating its basis;
+
+                2.    The name and address of the claimant;
+
+                3.    If the claim is not yet due, the date on which it will become due;
+
+                4.    If the claim is contingent, the nature of the contingency;
+
+                5.    If the claim is secured, a description of the security; and
+
+                6.    The specific amount claimed.
+
+        (5)    A claim may not be deemed to have been presented to the trustee unless the claimant has provided all the information specified in paragraph (4) of this subsection.
+
+        (6)    (i)    If a claim is presented to the trustee as provided in paragraph (4) of this subsection and the trustee disallows the claim wholly or in a stated amount, the claimant is forever barred to the extent of the disallowance unless the claimant files an action against the trustee or against any person to whom trust property has been distributed.
+
+            (ii)    An action under subparagraph (i) of this paragraph shall be filed within 60 days after the mailing of the notice of disallowance by the trustee to the claimant.
+
+            (iii)    The notice informing the claimant of the disallowance shall contain a warning to the claimant concerning the time limitation under subparagraph (ii) of this paragraph for commencing an action.
+
+     (c)    (1)    During the period the power of withdrawal may be exercised, the holder of a power of withdrawal shall be treated in the same manner as the settlor of a revocable trust to the extent of the property subject to that power.
+
+        (2)    After the lapse, waiver, or release of a power of withdrawal, the former power holder shall no longer be considered a settlor of the trust.
+
+ Previous Next 
+
+ Validation 
+
+ Please fix the following: 
+
+ OK 
+
+ Success
+
+ Okay 
+
+ Helpful Links
+
+ Executive Branch 
+
+ Judicial Branch 
+
+ Department of Legislative Services 
+
+ Office of Legislative Audits 
+
+ Report Fraud & Abuse in State Government 
+
+ Quick Links
+
+ Guided Tours 
+
+ Contact Us 
+
+ Visit 
+
+ About the General Assembly 
+
+ Accessibility 
+
+ Privacy Notice 
+
+ Video Tutorials 
+
+ Helpful Tools
+
+ Download Legislative Data 
+
+ Open Legislative Data Download
+
+ × 
+
+ You are about to download a "comma-separated values" (CSV) file and/or a JSON file.
+
+ The file includes information such as number, sponsor, title, legislative status, synopsis, committee assignments, 
+ legislative history, hearing dates, etc for each piece of legislation introduced during the selected legislative session. 
+
+ A word about the file format: CSV and JSON files are common file formats, widely supported by consumer and business applications and is used to move data between programs. 
+ The file you download can be imported into Excel, a text editor, browser, or any other application that supports the CSV and JSON formats. To save, right-click button and save as desired file format. 
+
+ 2026 Regular Session CSV 
+ JSON 
+  *Updated hourly 
+
+ 2025 Regular Session CSV 
+ JSON 
+
+ 2024 Regular Session CSV 
+ JSON 
+
+ 2023 Regular Session CSV 
+ JSON 
+
+ 2022 Regular Session CSV 
+ JSON 
+
+ 2021 Special Session CSV 
+ JSON 
+
+ 2021 Regular Session CSV 
+ JSON 
+
+ 2020 Regular Session CSV 
+ JSON 
+
+ 2019 Regular Session CSV 
+ JSON 
+
+ 2018 Regular Session CSV 
+ JSON 
+
+ 2017 Regular Session CSV 
+ JSON 
+
+ Open Data Help 
+
+ Click to return on the top page 
+
+ Alert
+
+ Okay

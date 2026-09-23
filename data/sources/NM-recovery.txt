@@ -1,0 +1,16 @@
+Source URL: https://codes.findlaw.com/nm/chapter-27-public-assistance/nm-st-sect-27-2a-3.html
+Retrieved: 2026-09-23
+Note: WebFetch extraction, not verbatim. Official sites (nmonesource.com, nmlegis.gov, hca.nm.gov) and Justia returned HTTP 403 to scripts and WebFetch today.
+
+New Mexico Statutes Sec. 27-2A-3: Definitions
+
+As used in the Medicaid Estate Recovery Act:
+
+A. "department" means the human services [health care authority] department;
+
+B. "estate" means real and personal property and other assets of the individual subject to probate or administration pursuant to the provisions of the Uniform Probate Code; and
+
+C. "medical assistance" means amounts paid by the department as medical assistance pursuant to Title XIX of the Social Security Act.
+
+References: NMSA 1978, Sec. 45-1-101 et seq. (Uniform Probate Code); 42 U.S.C.A. Sec. 1396 et seq.
+Status (per FindLaw): Current as of January 01, 2024

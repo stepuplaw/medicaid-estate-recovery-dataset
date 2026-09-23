@@ -1,0 +1,373 @@
+Source URL: https://codes.findlaw.com/ar/title-18-property/ar-code-sect-18-12-608/
+Retrieved: 2026-09-23
+Note: fetched with curl (browser headers) because the Python fetcher got 403 or a TLS error
+
+Arkansas Code Title 18. Property § 18-12-608 | FindLaw 
+
+ Skip to main content 
+
+ Find a Lawyer 
+
+ Find a Lawyer
+
+ Legal Forms & Services
+
+ Learn About the Law
+
+ Learn About the Law
+
+ Explore Legal Topics 
+
+ Search Laws by State 
+
+ Search Case Law 
+
+ Search U.S. Codes 
+
+ Legal Professionals
+
+ Legal Professionals
+
+ Legal Professional Resources 
+
+ Law Firm Marketing 
+
+ Blogs
+
+ Find a Lawyer
+
+ Search Legal Topics
+
+ Begin typing to search, use arrow keys to navigate, use enter to select
+
+ Legal Issue 
+
+ More Options 
+
+ Name Search
+
+ Browse Legal Issues
+
+ Browse Law Firms
+
+ Support
+
+ City, ZIP Code or County 
+
+ Enter either your legal issue or location to continue
+
+ Find a Lawyer 
+
+ Search by Legal Topic
+
+ Enter legal topic 
+
+ Get the Information 
+
+ CODES / 
+ Arkansas / 
+ Title 18. Property / 
+ § 18-12-608 
+
+ Arkansas Code Title 18. Property § 18-12-608. Beneficiary deeds--Terms--Recording required
+
+ Current as of March 28, 2024 | Updated by Findlaw Staff 
+
+ (a)(1)(A) A beneficiary deed is a deed without current tangible consideration that
+ conveys upon the death of the owner an ownership interest in real property other than
+ a leasehold or lien interest to a grantee designated by the owner and that expressly
+ states that the deed is not to take effect until the death of the owner.
+
+ (B)(i) A beneficiary deed transfers the interest to the designated grantee effective
+ upon the death of the owner, subject to all conveyances, assignments, contracts, leases,
+ mortgages, deeds of trust, liens, security pledges, oil, gas, or mineral leases, and
+ other encumbrances made by the owner or to which the real property was subject at
+ the time of the owner's death, whether or not the conveyance or encumbrance was created
+ before or after the execution of the beneficiary deed.
+
+ (ii) No legal or equitable interest shall vest in the grantee until the death of the
+ owner prior to revocation of the beneficiary deed.
+
+ (2)(A) The owner may designate multiple grantees under a beneficiary deed.
+
+ (B) Multiple grantees may be joint tenants with right of survivorship, tenants in
+ common, holders of a tenancy by the entirety, or any other tenancy that is otherwise
+ valid under the laws of this state.
+
+ (3)(A) The owner may designate one (1) or more successor grantees, including one (1)
+ or more unnamed heirs of the original grantee or grantees, under a beneficiary deed.
+
+ (B) The condition upon which the interest of a successor grantee vests, such as the
+ failure of the original grantee to survive the grantor, shall be included in the beneficiary
+ deed.
+
+ (b)(1) If real property is owned as a tenancy by the entirety or as a joint tenancy
+ with the right of survivorship, a beneficiary deed that conveys an interest in the
+ real property to a grantee designated by all of the then-surviving owners and that
+ expressly states the beneficiary deed is not to take effect until the death of the
+ last surviving owner transfers the interest to the designated grantee effective upon
+ the death of the last surviving owner.
+
+ (2)(A) If a beneficiary deed is executed by fewer than all of the owners of real property
+ owned as a tenancy by the entirety or as joint tenants with right of survivorship,
+ the beneficiary deed is valid if the last surviving owner is a person who executed
+ the beneficiary deed.
+
+ (B) If the last surviving owner did not execute the beneficiary deed, the beneficiary
+ deed is invalid.
+
+ (c)(1) A beneficiary deed is valid only if the beneficiary deed is recorded before
+ the death of the owner or the last surviving owner as provided by law in the office
+ of the county recorder of the county in which the real property is located.
+
+ (2) A beneficiary deed may be used to transfer an interest in real property to a trustee
+ of a trust estate even if the trust is revocable and may include one (1) or more unnamed
+ successor trustees as successor grantees.
+
+ (d)(1) A beneficiary deed may be revoked at any time by the owner or, if there is
+ more than one (1) owner, by any of the owners who executed the beneficiary deed.
+
+ (2) To be effective, the revocation shall be:
+
+ (A) Executed before the death of the owner who executes the revocation; and
+
+ (B) Recorded in the office of the county recorder of the county in which the real
+ property is located before the death of the owner as provided by law.
+
+ (3) If the revocation is not executed by all the owners, the revocation is not effective
+ unless executed by the last surviving owner and recorded before the death of the last
+ surviving owner.
+
+ (4) A beneficiary deed that complies with this section may not be revoked, altered,
+ or amended by the provisions of the owner's will.
+
+ (e) If an owner executes more than one (1) beneficiary deed concerning the same real
+ property, the recorded beneficiary deed that is last signed before the owner's death
+ is the effective beneficiary deed, regardless of the sequence of recording.
+
+ (f)(1) This section does not prohibit other methods of conveying real property that
+ are permitted by law and that have the effect of postponing enjoyment of an interest
+ in real property until the death of the owner.
+
+ (2) This section does not invalidate any deed otherwise effective by law to convey
+ title to the interests and estates provided in the deed that is not recorded until
+ after the death of the owner.
+
+ (g) A beneficiary deed is sufficient if it complies with other applicable laws and
+ if it is in substantially the following form:
+“Beneficiary Deed
+ CAUTION: THIS DEED MUST BE RECORDED PRIOR TO THE DEATH OF THE GRANTOR IN ORDER TO
+ BE EFFECTIVE.
+
+ KNOW ALL PERSONS BY THESE PRESENTS THAT:
+
+ For a non-monetary, intangible consideration, of value to the Grantor, I (we) hereby
+ convey to __________ (grantee) effective on my (our) death the following described real property:
+(Legal description)
+ __________
+
+ (Signature of grantor(s))
+
+ (acknowledgment)”
+
+ (h) The instrument of revocation shall be sufficient if it complies with other applicable
+ laws and is in substantially the following form:
+“Revocation of Beneficiary Deed
+ CAUTION: THIS REVOCATION MUST BE RECORDED PRIOR TO THE DEATH OF THE GRANTOR IN ORDER
+ TO BE EFFECTIVE.
+
+ The undersigned hereby revokes the beneficiary deed recorded on __________ (date), in docket or book __________ at page __________, or instrument number __________, records of __________ County, Arkansas.
+
+ Dated: __________
+
+ __________
+
+ Signature
+
+ (acknowledgment)”
+
+ Previous Part of Code 
+
+ Next Part of Code 
+
+ Back to Chapter List 
+
+ Copy 
+
+ Cite this article: FindLaw.com - Arkansas Code Title 18. Property § 18-12-608. Beneficiary deeds--Terms--Recording required - last updated March 28, 2024  |
+ https://codes.findlaw.com/ar/title-18-property/ar-code-sect-18-12-608/ 
+
+ FindLaw Codes may not reflect the most recent version of the law in your jurisdiction. Please verify the status of the code you are researching with the state legislature before relying on it for your legal needs.
+
+ Was this helpful? 
+
+ Yes 
+
+ No 
+
+ Easy to understand 
+
+ Solved my problem 
+
+ Other 
+
+ Missing the information I need 
+
+ Too complicated / too many steps 
+
+ Out of date 
+
+ Other 
+
+ Submit 
+
+ Cancel 
+
+ Search all Arkansas Codes
+
+ Keyword or Citation (Required)
+
+ View Results 
+
+ Welcome to FindLaw's Cases & Codes
+
+ A free source of state and federal court opinions, state laws, and the United States Code. For more information about the legal concepts addressed by these cases and statutes, visit FindLaw’s Learn About the Law.
+
+ Go to Learn About the Law 
+
+ Did FindLaw Help You Understand This Legal Issue?
+
+ Make It a Preferred Google Search Source
+
+ Add to Google 
+
+ Latest Blog Posts
+
+ SEC Opens Door for Crypto-Style Trading of U.S. Stocks 
+
+ A Third of Americans Can’t Name the Three Branches of Government. Here’s Why That Affects Your Rights. 
+
+ Contract Buzz: Sixth Circuit Reversal Highlights Difficulty in Litigation Involving Cannabis 
+
+ New Study: High Rates of Depression, Burnout Continue Among Attorneys 
+
+ Explore all 
+
+ For Legal Professionals
+
+ Practice Management 
+
+ Corporate Counsel 
+
+ Legal Technology 
+
+ Law Students 
+
+ Learn About The Law
+
+ Get help with your legal needs
+
+ FindLaw’s Learn About the Law features thousands of informational articles to help you understand your options. And if you’re ready to hire an attorney,  find one in your area  who can help.
+
+ Go to Learn About the Law 
+
+ Need to Find an Attorney?
+
+ Search our directory by legal issue
+
+ Enter information in one or both fields (Required)
+
+ Legal Issue
+
+ More Options 
+
+ Name Search 
+
+ Browse Legal Issues 
+
+ Browse Law Firms 
+
+ Support 
+
+ City, ZIP Code or County 
+
+ Enter either your legal issue or location to continue 
+
+ Find a Lawyer 
+
+ Copied to clipboard
+
+ Back to Top 
+
+ Questions?
+
+ At FindLaw.com, we pride ourselves on being the number one source of
+ free legal information and resources on the web. 
+
+ Contact us.
+
+ Stay up-to-date with how the law affects your life. 
+
+ Sign up for our consumer newsletter.
+
+ ENTER YOUR EMAIL ADDRESS (Required)
+
+ Thank you for subscribing!
+
+ follow us: 
+
+ ABOUT US 
+
+ Our Team 
+
+ Accessibility 
+
+ Contact Us 
+
+ FIND A LAWYER 
+
+ By Location 
+
+ By Legal Issue 
+
+ By Lawyer Profiles 
+
+ By Name 
+
+ SELF-HELP RESOURCES 
+
+ Legal Forms & Services 
+
+ LEGAL RESEARCH 
+
+ Learn About the Law 
+
+ State Laws 
+
+ U.S. Caselaw 
+
+ U.S. Codes 
+
+ LEGAL NETWORK 
+
+ FindLaw.com : Free, trusted legal information for consumers and legal professionals 
+
+ SuperLawyers.com : Directory of U.S. attorneys with the exclusive Super Lawyers rating 
+
+ Abogado.com : The #1 Spanish-language legal website for consumers 
+
+ LawInfo.com : Nationwide attorney directory and legal consumer resources 
+
+ Copyright © 2026, FindLaw. All rights reserved.
+
+ Terms 
+
+ Privacy 
+
+ Disclaimer 
+
+ Cookies 
+
+ Manage Preferences 
+
+ Skip to main content

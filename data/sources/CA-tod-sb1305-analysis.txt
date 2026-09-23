@@ -1,0 +1,213 @@
+Source URL: https://sjud.senate.ca.gov/sites/sjud.senate.ca.gov/files/sb_1305_roth_senate_judiciary_committee_analysis.pdf
+Retrieved: 2026-09-23
+
+                         SENATE JUDICIARY COMMITTEE
+                         Senator Hannah-Beth Jackson, Chair
+                             2019-2020 Regular Session
+
+
+SB 1305 (Roth)
+Version: May 13, 2020
+Hearing Date: May 22, 2020
+Fiscal: No
+Urgency: No
+JT
+
+
+                                        SUBJECT
+
+                           Revocable transfer on death deeds
+
+                                        DIGEST
+
+This bill would extend the sunset date for revocable transfer on death deeds (RTODD)
+from January 1, 2021 to January 1, 2022.
+
+                               EXECUTIVE SUMMARY
+
+An RTODD is a deed of real property that designates a beneficiary to receive the
+property when the transferor dies. An RTODD enables a homeowner to deed the
+property directly to a desired beneficiary without the expense of a trust or a probate
+proceeding.
+
+Following the California Law Revision Commission’s (Commission) recommendation
+to adopt legislation providing for RTODDs and a few failed attempts at legislation, the
+Legislature passed AB 139 (Gatto, Ch. 293, Stats. 2015) as a five-year pilot program, set
+to expire January 1, 2021, with a requirement that the Commission study the effect of
+RTODDs and make recommendations for the reform of the law based on its findings.
+The Commission has completed its study and issued tentative recommendations.
+
+However, because legislative efforts have been concentrated on addressing the COVID-
+19 pandemic, there has not been a sufficient opportunity to fully consider these
+recommendations. This bill would extend the sunset date for RTODDs from January 1,
+2021 to January 1, 2022, so that the Legislature may vet these issues next session. The
+bill has no support or opposition.
+SB 1305 (Roth)
+Page 2 of 5
+
+                             PROPOSED CHANGES TO THE LAW
+
+Existing law:
+
+    1) Authorizes, until January 1, 2021, the use of an RTODD to transfer real property
+       with four or fewer residential dwelling units, a condominium unit, or a single
+       tract of agricultural real estate consisting of 40 acres or less with a single-family
+       residence. (Prob. Code §§ 5600(c) & 5610.)1
+
+    2) Defines an RTODD as an instrument that does all of the following:
+          a. makes a donative transfer of real property to a named beneficiary;
+          b. operates on the transferor’s death; and
+          c. remains revocable until the transferor’s death. (§ 5614(a).)
+
+    3) Provides that an owner who has the capacity to contract may make an RTODD,
+       which must identify the beneficiary by name, be signed by the transferor, and
+       duly notarized. (§§ 5620, 5622 & 5624.)
+
+    4) Sets forth requirements for execution, revocation, implementation, and
+       challenging the validity of RTODD. (§§ 5620, 5630, 5650, 5690.)
+
+This bill extends the sunset date for RTODDs from January 1, 2021 to January 1, 2022.
+
+                                              COMMENTS
+
+1. Background
+
+In 2006, the Commission issued a study that recommended the adoption of legislation
+enabling the use of RTODDs in California.2 At the time, nine other states statutorily
+recognized these instruments for conveying real property without using a trust or going
+through a probate proceeding. The Commission found that, while these instruments
+were relatively novel and data on their effectiveness was scant, practitioners generally
+responded positively to these instruments. The Commission concluded that the benefits
+of a low-cost, efficient method of conveying real property outweighed concerns about
+the potential for fraud and abuse.
+
+The Commission concluded as follows:
+
+        The nonprobate revolution has largely bypassed real property. Nearly all other
+        significant assets, including life insurance, securities, bank accounts, and pension
+
+
+1 All further statutory references are to the Probate Code.
+2 CLRC, Recommendation: Revocable Transfer On Death (TOD) Deed (Oct. 2006) 36 Cal. L. Rev. Comm’n
+
+Repts, available at http://clrc.ca.gov/pub/Printed-Reports/Pub241-L3032.1.pdf (as of May 17, 2020).
+SB 1305 (Roth)
+Page 3 of 5
+
+         plans, pass commonly by beneficiary designation outside the probate system.
+         Real property is the last major holdout, although substantial amounts of real
+         property pass by right of survivorship under joint tenancy or community
+         property or under a trust. It has been observed that ownership of real property is
+         the factor most likely to determine whether a death will lead to a probate
+         proceeding.
+
+         California law does not adequately deal with the many types of nonprobate
+         transfer and their consequences. Comprehensive treatment of the area is
+         necessary, much as Missouri has done with its nonprobate transfer law and as
+         the Uniform Probate Code has done with creditor rights issues. But the need for
+         comprehensive treatment of nonprobate transfer law should not be cause for
+         delay in considering the concept of the revocable TOD deed on its merits.
+
+         Having surveyed existing transfer devices and reviewed the experience in other
+         jurisdictions, and having considered the legal incidents of the revocable TOD
+         deed, the Law Revision Commission recommends adoption of the device in
+         California […].3
+
+2. The Commission’s study
+
+AB 139 (Gatto, Stats. 2015, Ch. 293), which authorized the use of RTODDs, directed the
+Commission to conduct a study based on a series of questions. (Id. at § 21.) The
+Commission recently issued the study,4 which drew the following conclusions:
+
+        With minor exceptions, there are no problems with the RTODD statute and it
+         should be continued for another 10 years, with the Commission directed to
+         conduct a second follow-up study before the end of that period.
+        The RTODD does not appear to be subject to misuse or misunderstanding, as it is
+         more straightforward and limited than other property transfer instruments, such
+         as grant deeds.
+        To improve the RTODD statute, the Legislature should make the following
+         changes:
+             1. Require an RTODD to be witnessed under rules similar to those governing
+                wills.5 Specifically, require that:
+                    The deed be signed by two witnesses who were both present when
+                        the RTODD was signed or acknowledged by the transferor.
+                    If a beneficiary of an RTODD also signs as a witness, the RTODD
+                        would be presumed to be the product of fraud or undue influence.
+
+
+3 Id. at pp. 211-212.
+4 Revocable Transfer on Death Deed: Follow-Up Study (Nov. 2019) 46 Cal. L. Rev. Comm’n Repts. 135,
+
+available at http://clrc.ca.gov/pub/Printed-Reports/Pub241-L3032.1.pdf (as of May 17, 2019).
+5 See §§ 6110, 6112; Evid. Code § 870.
+SB 1305 (Roth)
+Page 4 of 5
+
+                    Witnesses be eligible to provide evidence in an action to contest the
+                     validity of the RTODD.
+         2. Require that an RTODD beneficiary give notice to the transferor’s heirs
+             when the transferor dies.
+         3. Clarify that a beneficiary’s personal liability for a deceased transferor’s
+             unsecured debts includes liability for the transferor’s funeral expenses,
+             expenses of last illness, and wage claims.
+         4. Replace existing section 5676, which authorizes the return of transferred
+             property to a deceased transferor’s estate for use in paying unsecured
+             debts with a provision that instead makes the beneficiary personally liable
+             to the estate for a calculated share of those debts, based on the existing
+             rules of abatement.
+         5. Extend the time to record and thereby preserve the effect of third party
+             interests in property transferred by an RTODD.
+         6. Clarify that an error or ambiguity in an RTODD does not invalidate the
+             RTODD, if a court can determine the transferor’s intent by applying the
+             general law on judicial construction of deeds.
+         7. Expressly allow a court to apply cy pres principles to reform a charitable
+             RTODD that would otherwise fail because the named beneficiary
+             disclaims the gift or does not exist at the time the RTODD operates.
+         8. Clarify that an enforceable restriction on the use of property transferred
+             by RTODD does not impair the transfer of title; the beneficiary takes title
+             subject to the restriction.
+         9. Make clear that the beneficiary of a revoked RTODD has standing to
+             contest the validity of the revocation, but only after the transferor’s death.
+         10. Add guidance to the “Common Questions” document to address the
+             effect of an RTODD on a mobilehome.
+         11. Make a variety of technical and minor substantive changes to improve the
+             clarity and operation of the law.
+
+The introduced version of this bill incorporated these recommended changes. However,
+legislative efforts have been redirected towards addressing the COVID-19 pandemic. By
+extending the sunset of the RTODD by one year, this bill would enable Legislature to
+contemplate these recommendations next session. The author writes:
+
+      SB 1305 ensures that the [RTODD] process is not repealed before an adequate
+      exploration of the California Law Revision Commission ‘s recommendations can
+      be discussed in the legislature-a conversation which must be postponed due to
+      the impact of COVID-19. This bill will allow RTODDs, a useful and accessible
+      tool for many Californians, to continue for an additional year and give the
+      legislature more time to discuss how to best improve them.
+SB 1305 (Roth)
+Page 5 of 5
+
+                                      SUPPORT
+
+None
+
+                                    OPPOSITION
+
+None
+
+                              RELATED LEGISLATION
+
+Pending Legislation: None known
+
+Prior Legislation:
+
+AB 1739 (Chau, Ch. 65, Stats. 2018) clarified that the “Common Questions” language in
+the statutory form for an RTODD need not be recorded along with the deed portion of
+the form.
+
+AB 3004 (Kiley, 2018) would have made various changes to the statutory provisions
+governing RTODD. It was held in the Assembly Judiciary Committee.
+
+AB 139 (Gatto, Ch. 293, Stats. 2015) established a five-year pilot program for RTODD.
+                                     **************
+

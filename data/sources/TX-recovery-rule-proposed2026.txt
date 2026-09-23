@@ -1,0 +1,705 @@
+Source URL: https://www.sos.state.tx.us/texreg/archive/March202026/Proposed%20Rules/1.ADMINISTRATION.html
+Retrieved: 2026-09-23
+
+Proposed Rules Title 1
+
+ TITLE
+ 1.
+ ADMINISTRATION
+
+ PART
+ 15.
+
+ TEXAS HEALTH AND HUMAN SERVICES COMMISSION
+
+ CHAPTER
+ 373.
+
+ MEDICAID ESTATE RECOVERY PROGRAM
+
+ The executive commissioner of the Texas Health and Human Services Commission (HHSC), on behalf of the Office of Inspector General (OIG), proposes in the Texas Administrative Code Title 1, Part 15, Chapter 373, Subchapter A, amended §§373.101, 373.103, and 373.105; Subchapter B, amended §§373.201, 373.203, 373.205, 373.207, 373.209, 373.211, 373.213, 373.215, 373.217, and 373.219; and Subchapter C, amended §§373.301, 373.303, 373.305, and 373.307, concerning the Medicaid Estate Recovery Program.
+
+ BACKGROUND AND PURPOSE
+
+ The purpose of this proposal is to clarify provisions in the Medicaid Estate Recovery Program (MERP) rules, consistent with applicable federal law at 42 U.S.C. §1396p(b)(1). HHSC, as the State Medicaid Agency, is required to operate a MERP and recover the costs of Medicaid long-term care benefits received by certain Medicaid recipients. At the same time this rule is proceeding through the rulemaking process, HHSC will be submitting a proposed State Plan Amendment (SPA) to the Centers for Medicare and Medicaid Services (CMS). The SPA will seek approval from CMS to send MERP notices to the last known address of the Medicaid recipient upon their death to ensure the decedent's heirs are aware of a possible MERP claim. This proposal also implements HB 4611, 88th Legislature, Regular Session, 2023, which makes non-substantive amendments to the Texas Government Code that make the statute more accessible, understandable, and usable.
+
+ SECTION-BY-SECTION SUMMARY
+
+ Subchapter A, General
+
+ The proposed amendment to §373.101, Purpose, removes the statutory reference recodified by House Bill (HB) 4611, 88th Legislature, Regular Session, 2023; and removes duplicative information.
+
+ The proposed amendment to §373.103, Applicability, clarifies existing language, corrects formatting, and moves the definition of "Covered Medicaid long-term care services" to §373.105, Definitions.
+
+ The proposed amendment to §373.105, Definitions, clarifies existing language, adds the definition of "Covered Medicaid long-term care services" (moved from §373.103), and updates statutory references due to recodification of the Texas Probate Code as the Texas Estates Code. The terms "Applied for Covered Medicaid Long-Term Care Services," "Claim," "Cost-effective," "Decedent," "Estate," "Federal Poverty Level," "Heirs," "Legatee," "MERP," "Personal Representative," "Recipient," and "Value of real property" are amended. The term "Effective date" is deleted.
+
+ Subchapter B, Recovery Claims
+
+ The proposed amendment to §373.201, Basis for Claims, clarifies existing language and updates statutory references due to recodification of the Texas Probate Code as the Texas Estates Code.
+
+ The proposed amendment to §373.203, Claims Procedures, clarifies existing language and updates statutory references due to recodification of the Texas Probate Code as the Texas Estates Code.
+
+ The proposed amendment to §373.205, Medicaid Estate Recovery Program (MERP) Claim, clarifies existing language, corrects formatting, and expands the time available for contractors to file claims.
+
+ The proposed amendment to §373.207, Exemptions from Claims, clarifies existing language, corrects formatting, and more closely conforms language to 42 U.S.C. §1396a, concerning State Plans for Medical Assistance.
+
+ The proposed amendment to §373.209, Undue Hardship Waivers, clarifies language, corrects formatting, reorganizes subsections for logical consistency, increases the minimum amount of an estate subject to recovery under MERP to match inflation, changes to gender neutral language, and removes the MERP Hardship Waiver Denial Review Request mailing address so the address may be updated in a timely manner as necessary.
+
+ The proposed amendment to §373.211, Right to a Review of an Undue Hardship Waiver Denial, clarifies existing language, adds the requirement to provide supporting documentation for an undue hardship waiver by rule, and removes the MERP Hardship Waiver Denial Review Request mailing address so the address may be updated in a timely manner as necessary.
+
+ The proposed amendment to §373.213, Deduction Allowed for Expenses for Home Maintenance and Costs of Care, clarifies existing language and removes the MERP Hardship Waiver Denial Review Request mailing address so the address may be updated in a timely manner as necessary.
+
+ The proposed amendment to §373.215, Recovery Not Cost Effective, increases the minimum amount of an estate subject to recovery under MERP to match inflation.
+
+ The proposed amendment to §373.217, Claim Amount, clarifies existing language, updates a rule reference citation, and clarifies what is included in MERP claims.
+
+ The proposed amendment to §373.219, Claim Payments, clarifies existing language, conforms language to internal HHSC standards, updates the name of the payee to whom payments must be made, and removes the MERP Hardship Waiver Denial Review Request mailing address so the address may be updated in a timely manner as necessary.
+
+ Subchapter C, Notice
+
+ The proposed amendment to §373.301, Notice Upon Application, clarifies existing language, allows the written notice of MERP provisions to be provided to legal representatives, removes outdated language, and updates language to conform to Texas Health and Safety Code Title 7, Mental Health and Intellectual Disability.
+
+ The proposed amendment to §373.303, Additional Application Notice Provision to Recipients and Others, clarifies existing language, corrects formatting, and updates language to conform to Texas Health and Safety Code Chapter 252, Intermediate Care Facilities for Individuals with an Intellectual Disability.
+
+ The proposed amendment to §373.305, Medicaid Application Estate Recovery Notice Contents, clarifies existing language, corrects formatting, updates statutory references due to recodification of the Texas Probate Code as the Texas Estates Code, and updates a reference to an additional administrative rule.
+
+ The proposed amendment to §373.307, Notice of Intent to File A Claim upon the Death of a Medicaid Recipient, clarifies existing language, corrects formatting, expands the time available for contractors to file a claim, adds locations where notice of a possible MERP claim may be sent, and removes the MERP Hardship Waiver Denial Review Request mailing address so the address may be updated in a timely manner as necessary.
+
+ FISCAL NOTE
+
+ Trey Wood, HHSC Chief Financial Officer, has determined that for each year of the first five years that the rules will be in effect, enforcing or administering the rules does not have foreseeable implications relating to costs or revenues of state or local government.
+
+ GOVERNMENT GROWTH IMPACT STATEMENT
+
+ HHSC has determined that during the first five years that the rules will be in effect:
+
+ (1) the proposed rules will not create or eliminate a government program;
+
+ (2) implementation of the proposed rules will not affect the number of HHSC employee positions;
+
+ (3) implementation of the proposed rules will result in no assumed change in future legislative appropriations;
+
+ (4) the proposed rules will not affect fees paid to HHSC;
+
+ (5) the proposed rules will not create a new regulation;
+
+ (6) the proposed rules will not expand, limit, or repeal existing regulations;
+
+ (7) the proposed rules will not change the number of individuals subject to the rules; and
+
+ (8) the proposed rules will not affect the state's economy.
+
+ SMALL BUSINESS, MICRO-BUSINESS, AND RURAL COMMUNITY IMPACT ANALYSIS
+
+ Trey Wood has also determined that there will be no adverse economic effect on small businesses, micro-businesses, or rural communities.
+
+ The rules do not impose any additional costs on small businesses, micro-businesses, or rural communities that are required to comply with the rules because these rule revisions clarify the existing rules for the Medicaid program and there is no requirement for small businesses or micro-businesses to alter current business practices in order to comply with the amended rules.
+
+ LOCAL EMPLOYMENT IMPACT
+
+ The proposed rules will not affect a local economy.
+
+ COSTS TO REGULATED PERSONS
+
+ Texas Government Code §2001.0045 does not apply to these rules because the rules do not impose a cost on regulated persons and are necessary to implement legislation that does not specifically state that §2001.0045 applies to the rule.
+
+ PUBLIC BENEFIT AND COSTS
+
+ Diane Salisbury, OIG Chief of Data Reviews, has determined that for each year of the first five years the rule is in effect, the public benefit will be to help clarify MERP eligibility and rule requirements to ensure proper recovery of Medicaid Long-Term Care costs.
+
+ Trey Wood has also determined that for the first five years the rules are in effect, there are no anticipated economic costs to persons who are required to comply with the proposed rules because any potential reduction in recoveries as a result of increasing thresholds would be offset by other clarifying language closing loopholes that are barriers to recovery.
+
+ TAKINGS IMPACT ASSESSMENT
+
+ OIG has determined that the proposal does not restrict or limit an owner's right to his or her property that would otherwise exist in the absence of government action and, therefore, does not constitute a taking under Texas Government Code §2007.043.
+
+ PUBLIC COMMENT
+
+ Written comments on the proposal, including information related to the cost, benefit, or effect of the proposed rule, as well as any applicable data, research, or analysis, may be submitted to Rules Coordination Office, P.O. Box 13247, Mail Code 4102, Austin, Texas 78711-3247, or street address 4601 West Guadalupe Street, Austin, Texas 78751; or emailed to HHSRulesCoordinationOffice@hhs.texas.gov.
+
+ To be considered, comments must be submitted no later than 31 days after the date of this issue of the Texas Register . Comments must be (1) postmarked or shipped before the last day of the comment period; (2) hand-delivered before 5:00 p.m. on the last working day of the comment period; or (3) emailed before midnight on the last day of the comment period. If the last day to submit comments falls on a holiday, comments must be postmarked, shipped, or emailed before midnight on the following business day to be accepted. When emailing comments, please indicate "Comments on Proposed Rule 24R031" in the subject line.
+
+ SUBCHAPTER
+ A.
+
+ GENERAL
+
+ 1 TAC §§373.101, 373.103, 373.105
+
+ STATUTORY AUTHORITY
+
+ The amendments are authorized by Texas Government Code §524.0151, which provides the executive commissioner of HHSC shall adopt rules for the operation and provision of services by the health and human services agencies, and Texas Government Code §546.0403, which requires the executive commissioner to ensure Medicaid implements 42 United States Code §1396p(b)(1), Adjustments or recovery of medical assistance correctly paid under a State Plan, which has been done with the Medicaid Estate Recovery Program.
+
+ The amendments affect Texas Government Code §524.0151 and §546.0403.
+
+ §373.101.
+
+ Purpose.
+
+ The purpose of this chapter is to implement the Medicaid Estate Recovery Program (MERP), [ section 531.077, Government Code, ] consistent with [ applicable ] federal law [ at ] 42 U.S.C. §1396p(b)(1), which requires the State Medicaid Agency, the Texas Health and Human Services Commission, [ as the State Medicaid Agency, ] to [ operate a Medicaid Estate Recovery Program (MERP) to ] recover the costs of Medicaid long-term care benefits received by certain Medicaid recipients.
+
+ §373.103.
+
+ Applicability.
+
+ (a)
+ MERP may file a [ A Medicaid Estate Recovery ] claim [ may be filed ] against the estate of a deceased Medicaid recipient for covered Medicaid long-term care services if the recipient:
+
+ (1)
+ was [ Was age ] 55 years old or older when the recipient [ at the time the services were ] received the services ; and
+
+ (2)
+ began receiving [ Initially applied for ] covered Medicaid long-term care services on or after March 1, 2005. [ 2005, the effective date of these rules. ]
+
+ (b)
+ For purposes of this chapter, an individual will be considered to be age 55 as of the first day of the month following the month in which the recipient attains the age of 55.
+
+ [(c)
+ Covered Medicaid long-term care services include the following services provided to a recipient age 55 years or older under the State of Texas Medicaid plan under Title XIX of the Social Security Act (SSA):]
+
+ [(1)
+ Nursing facility services;]
+
+ [(2)
+ Intermediate Care Facilities for the Mentally Retarded (ICF-MR);]
+
+ [(3)
+ Home and Community-Based Services (§1915(c), SSA) and Community Attendant Services (§1929(b), SSA); and]
+
+ [(4)
+ Related costs of hospital and prescription drug services.]
+
+ [(d)
+ For the purposes of this chapter, covered services do not include services provided before the effective date of these rules.]
+
+ §373.105.
+
+ Definitions.
+
+ For the purposes of this chapter, the following words and terms have the following meanings, unless the context clearly indicates otherwise . [ : ]
+
+ (1)
+ Began receiving [ Applied for ] Covered Medicaid Long-Term Care Services-- The first date [ An individual or his or her representative files an application, ] a [ nursing facility submits an admission notice and medical necessity determination, or an individual elects ] Medicaid recipient receives [ waiver services, which results in ] a covered service [ being ] approved and paid for by [ under ] Medicaid.
+
+ (2)
+ Claim--A right to recover the total amount of Medicaid assistance paid for covered Medicaid long-term care services [ the following services: nursing facility; Intermediate Care Facility for the Mentally Retarded (ICF-MR); Home and Community-Based Services (§1915(c), SSA) and Community Attendant Services (§1929(b), SSA); ] and all related hospital and prescription drug services[ , ] provided from the time the decedent was 55 years of age or older.
+
+ (3)
+ Cost-effective-- When [ Economical to the extent that ] the amount of money [ reasonably ] expected to be recovered by MERP is more than [ the Medicaid Estate Recovery Program exceeds ] the cost of recovering that money [ recovery by the program as provided in this chapter ].
+
+ (4)
+ Covered Medicaid long-term care services--Any of the below services provided to a recipient aged 55 years or older under the State of Texas Medicaid plan under Title XIX of the Social Security Act (SSA):
+
+ (A)
+ nursing facility services;
+
+ (B)
+ intermediate care facilities for individuals with an Intellectual Disability or Related Condition (ICF/IID);
+
+ (C)
+ Medicaid long-term care services provided under the following Medicaid programs:
+
+ (i)
+ Home and Community-based Services (HCS);
+
+ (ii)
+ Community Attendant Services (CAS);
+
+ (iii)
+ Community Living Assistance and Support Services (CLASS);
+
+ (iv)
+ Community Based Alternatives (CBA);
+
+ (v)
+ Consolidated Waiver Program (CWP);
+
+ (vi)
+ Deaf-Blind with Multiple Disabilities (DBMD);
+
+ (vii)
+ Integrated Care Management (ICM);
+
+ (viii)
+ STAR+PLUS long-term care services; and
+
+ (ix)
+ Texas Home Living (TxHmL); and
+
+ (D)
+ related costs of hospital and prescription drug services.
+
+ (5) [ (4) ] Decedent--A deceased individual who was 55 years of age or older when they received [ at the time that ] covered Medicaid long-term care services [ assistance was received ].
+
+ [(5)
+ Effective date--March 1, 2005, the date on which these rules take effect under §2001.036, Government Code.]
+
+ (6)
+ Estate--The real and personal property of a decedent, both as such property originally existed and as from time to time changed in form by sale, reinvestment, or otherwise, and as augmented by any accretions , [ and ] additions , and substitutions [ that are ] included in the definition of [ the probate ] estate found in [ §3(l), Definitions and Use of Terms, ] Texas Estates Code §22.012. [ Probate Code. ]
+
+ (7)
+ Federal Poverty Threshold [ Level ]--Income thresholds provided each year [ guidelines established annually ] by the U.S. Census Bureau. [ federal government. ]
+
+ (8)
+ Heir--As defined in Texas Estates Code §22.015. [ Heirs--Those persons, including the surviving spouse, who are entitled under the statutes of descent and distribution to the estate of a decedent who dies intestate, as defined in §3(o), Definitions and Use of Terms, Texas Probate Code. ]
+
+ (9)
+ Intestate--To die without leaving a valid will.
+
+ (10)
+ Legatee-- As [ Any person entitled to a legacy under a will, as ] defined in [ §3(s), Definitions and Use of Terms, ] Texas Estates Code §22.021. [ Probate Code. ]
+
+ (11)
+ MERP--The Medicaid Estate Recovery Program. A program within the Texas Health and Human Services Commission (HHSC) administered by the Office of the Inspector General (OIG). 
+
+ (12)
+ Personal Representative-- As defined in Texas Estates Code §22.031. [ Includes executor, independent executor, administrator, temporary administrator, together with their successors as defined in §3(aa), Definitions and Use of Terms, Texas Probate Code. ]
+
+ (13)
+ Recipient--An individual who received covered Medicaid long-term care services. [ Medicaid services on or after the effective date of these rules. ]
+
+ (14)
+ Value of real property--Property value determined by the [ current year ] tax appraisal district at the time of the filing of the MERP estate claim .
+
+ The agency certifies that legal counsel has reviewed the proposal and found it to be within the state agency's legal authority to adopt.
+
+ Filed with the Office of the Secretary of State on March 4, 2026.
+
+ TRD-202601095
+
+ Karen Ray
+
+ Chief Counsel
+
+ Texas Health and Human Services Commission
+
+ Earliest possible date of adoption: April 19, 2026
+
+ For further information, please call: (512) 221-7320
+
+ SUBCHAPTER
+ B.
+
+ RECOVERY CLAIMS
+
+ 1 TAC §§373.201, 373.203, 373.205, 373.207, 373.209, 373.211, 373.213, 373.215, 373.217, 373.219
+
+ STATUTORY AUTHORITY
+
+ The amendments are authorized by Texas Government Code §524.0151, which provides the executive commissioner of HHSC shall adopt rules for the operation and provision of services by the health and human services agencies, and Texas Government Code §546.0403, which requires the executive commissioner to ensure Medicaid implements 42 United States Code §1396p(b)(1), Adjustments or recovery of medical assistance correctly paid under a State Plan, which has been done with the Medicaid Estate Recovery Program.
+
+ §373.201.
+
+ Basis for Claims.
+
+ The acceptance of Medicaid medical assistance, as defined by Title XIX of the Social Security Act, including mandatory and optional payments under the Social Security Act, provides a basis for a [ for: A ] Class 7 probate claim, as defined in [ §322 of the ] Texas [ Probate Code, Classification of Claims against ] Estates Code §355.102, [ of Decedents, ] in favor of MERP [ the Medicaid Estate Recovery Program ] as an interested party in the estate of the decedent [ deceased Medicaid recipient ].
+
+ §373.203.
+
+ Claims Procedures.
+
+ (a)
+ MERP [ The Medicaid Estate Recovery Program (MERP) ] may present or file [ or present ] a [ a: ] Class 7 probate claim under [ §298, Claims Against Estates of Decedents, ] Texas Estates Code §355.001, [ Probate Code, ] against the estate of a decedent [ deceased Medicaid recipients ] in accordance with Texas Estates Code §355.102. [ the priorities contained in §322, Classification of Claims against Estates of Decedents, Texas Probate Code. ]
+
+ (b)
+ A claim may be filed in accordance with applicable provisions of the Texas Estates [ Probate ] Code, including §355.060, [ §298, Claims Against Estates of Decedents, ] which bars [ allows ] unsecured claims [ to be ] presented more than 120 calendar days after the [ at any time before the estate is closed or within 4 months of receipt of ] notice is received by [ from ] the estate administrator.
+
+ §373.205.
+
+ Medicaid Estate Recovery Program [ (MERP) ] Claim.
+
+ (a)
+ [ Contents of MERP Recovery Claim. ] The MERP claim will be presented to the estate's [ estate personal ] representative [ (executor, administrator, or guardian) ] or filed [ by depositing it ] in the appropriate Probate Court. This claim [ Court and ] will include the amount of the claim, the date or dates [ of ] the covered Medicaid long-term care services were provided, and a statement that , to MERP's [ best ] knowledge , the decedent does not have [ deceased Medicaid recipient had ]:
+
+ (1)
+ a [ No ] surviving spouse;
+
+ (2)
+ a [ No ] surviving child under age 21;
+
+ (3)
+ a [ No ] surviving child of any age who is blind or disabled as defined by 42 U.S.C. §1382c;
+
+ (4)
+ an [ No unmarried ] adult child residing continuously in the decedent's homestead as an unmarried individual for at least twelve consecutive months immediately [ one year ] prior to the decedent's [ time of the Medicaid recipient's ] death; and
+
+ (5)
+ an [ That to the best knowledge of the MERP no ] undue hardship, as outlined [ defined ] by these rules [ , exists and that recovery will be cost-effective ].
+
+ (b)
+ A MERP [ Medicaid Estate Recovery (MERP) ] claim will be filed within 120 calendar [ 70 ] days after MERP has actual notice of the death of a decedent [ Medicaid recipient ] aged 55 years or older who received covered Medicaid long-term care services.
+
+ §373.207.
+
+ Exemptions from Claims.
+
+ (a)
+ A MERP claim [ Medicaid Estate Recovery claims ] will [ be sought ] only be made after the death of the decedent [ Medicaid recipient, ] and if there is no:
+
+ (1)
+ surviving [ Surviving ] spouse;
+
+ (2)
+ surviving [ Surviving ] child or children under age 21 [ years of age ];
+
+ (3)
+ surviving [ Surviving ] child of any age who is blind or disabled as defined by 42 U.S.C. §1382c; or
+
+ (4)
+ adult [ Unmarried adult ] child residing continuously in the decedent's homestead as an unmarried individual for at least twelve consecutive months immediately [ one year ] prior to the decedent's [ time of the Medicaid recipient's ] death.
+
+ (b)
+ The following [ Certain assets and resources of ] American Indians (AI) and Alaska Natives (AN) [ are exempt from estate recovery claims. The following AI/AN ] income, resources, and property are exempt from MERP. [ Medicaid Estate Recovery: ]
+
+ (1)
+ Certain AI/AN income and resources (such as interests in and income derived from Tribal land and other resources currently held in trust status ; and judgment funds from the Indian Claims Commission and the U.S. Claims Court) that are exempt from Medicaid estate recovery by other laws and regulations;
+
+ (2)
+ Ownership interest in trust or non-trust property, including real property and improvements:
+
+ (A)
+ located [ Located ] on a reservation (any federally recognized Indian Tribe's reservation, pueblo, or colony, including former reservations in Oklahoma, Alaska Native regions established by Alaska Native Claims Settlement Act and Indian allotments) or near a reservation as designated and approved by the Bureau of Indian Affairs of the U.S. Department of the Interior; or
+
+ (B)
+ for [ For ] any federally recognized Tribe not described in subparagraph (A) of this paragraph , located within the most recent boundaries of a prior Federal reservation.
+
+ (C)
+ protection [ Protection ] of non-trust property described in subparagraphs (A) and (B) of this paragraph is limited to circumstances when it passes from an Indian (as defined in section 4 of the Indian Health Care Improvement Act) to one or more relatives (by blood, adoption, or marriage), including Indians not enrolled as a member of a Tribe and non-Indians such as spouses and step-children, that their culture would nevertheless protect as family members; to a Tribe or Tribal organization; and/or to one or more Indians;
+
+ (3)
+ Income left as a remainder in an estate derived from property protected in paragraph (2) of this subsection, that was either collected by an Indian, or by a Tribe or Tribal organization and distributed to Indian(s), as long as the individual can clearly trace it as coming from protected property;
+
+ (4)
+ Ownership interests left as a remainder in an estate in rents, leases, royalties, or usage rights related to natural resources (including extraction of natural resources or harvesting of timber, other plants and plant products, animals, fish, and shellfish) resulting from the exercise of Federally-protected rights, and income either collected by an Indian, or by a Tribe or a Tribal organization and distributed to Indian(s) derived from these sources , as long as the individual can clearly trace it as coming from protected sources; and
+
+ (5)
+ Ownership interests or usage rights to items not covered by paragraphs (1) - (4) of this subsection that have unique religious, spiritual, traditional, and/or cultural significance, or rights that support subsistence or a traditional lifestyle [ life style ] according to applicable Tribal law or custom.
+
+ (c)
+ American Indians and Alaska Native income, resources, [ Natives Income, Resources, ] and property not exempt [ Property Not Exempt ] from Medicaid estate [ Estate ] recovery [ Recovery ] include:
+
+ (1)
+ ownership [ Ownership ] interests in assets and property, both real and personal, that are not described in subsection (b) of this section; or
+
+ (2)
+ any [ Any ] income and assets left as a remainder in an estate that do not derive from protected property or sources in subsection (b) of this section.
+
+ (d)
+ Government reparation payments to individuals in special populations are exempt from Medicaid estate recovery claims.
+
+ §373.209.
+
+ Undue Hardship Waivers.
+
+ (a)
+ MERP [ The Medicaid Estate Recovery Program (MERP) ] will not recover from estates if recovery would cause undue hardship. An undue hardship waiver request form will be provided with the MERP Notice of Intent to File a Claim. Undue [ Claim, and undue ] hardship waiver requests must be made within 60 calendar days of the date of the MERP Notice of Intent to File a Claim.
+
+ (b)
+ Grounds for undue hardship waivers include: [ An undue hardship does not exist solely because: ]
+
+ [(1)
+ Recovery would prevent heirs or legatees from receiving an anticipated inheritance; or]
+
+ [(2)
+ The circumstances giving rise to the hardship were created by, or are the result of, estate planning methods under which assets were sheltered or divested contrary to the requirements of Medicaid law in order to avoid estate recovery.]
+
+ [ (c) ]
+ [ Undue hardship waivers include: ]
+
+ (1)
+ the [ The ] estate property subject to recovery has been the site of the operation of a family business, farm, or ranch at that location for at least 12 months prior to the death of the decedent; [ is the primary income producing asset of heirs and legatees, and ] produces 50 percent or more of the heirs' and legatees' [ their ] livelihood; and recovery by the State would affect the property and result in the heirs or legatees losing their primary source of income;
+
+ (2)
+ heirs [ Heirs ] and legatees would become eligible for public assistance, [ and/or ] medical assistance, or both [ assistance ] if a recovery claim were made;
+
+ (3)
+ allowing [ Allowing ] one or more survivors to receive the estate will enable the survivor [ him or her or them ] to discontinue eligibility for public assistance, [ and/or ] medical assistance, or both; [ assistance; ]
+
+ (4)
+ the decedent [ The Medicaid recipient ] received medical assistance as the result of a crime [ crime, as defined by Texas law, ] committed against the recipient; or
+
+ (5)
+ other [ Other ] compelling reasons.
+
+ (c)
+ An undue hardship does not exist solely because:
+
+ (1)
+ recovery would prevent heirs or legatees from receiving an anticipated inheritance; or
+
+ (2)
+ the circumstances giving rise to the hardship were created by, or are the result of, estate planning methods under which assets were sheltered or divested contrary to the requirements of Medicaid law in order to avoid estate recovery.
+
+ (d)
+ [ Undue Hardship Waivers Applicable to Homesteads ] After receiving a Medicaid estate recovery claim, an heir may assert that recovery against a decedent's [ deceased Medicaid recipient's ] homestead would be an undue hardship and [ that ] the homestead should therefore be exempt from recovery for the cost of Medicaid long-term care services. MERP [ The Health and Human Services Commission ] will exempt a decedent's homestead [ home ] from estate recovery based on undue hardship when the following conditions have been established to MERP's satisfaction. [ the Commission's satisfaction: ]
+
+ (1)
+ The tax appraisal district value of the homestead for the most recent tax year at the time of the decedent's death is less than $150,000 [ $100,000 ]. If the tax appraisal district value of the homestead for that year exceeds $150,000, only [ this amount, ] the first $150,000 [ $100,000 of the tax appraisal district value for the most recent tax year at the time of the recipients' death ] shall be exempt from estate recovery. Any equity value [ of the tax appraisal district value for the most recent tax year at the time of the recipients' death ] in excess of $150,000 [ $100,000 ] is subject to estate recovery.
+
+ (2)
+ One or more siblings or direct descendants [ descendents ] of the decedent [ deceased person (lineal heir(s), such as children and grandchildren) ] will inherit the homestead of the decedent, [ deceased Medicaid recipient, ] provided that each sibling or direct descendant [ lineal heir ] inheriting the homestead has a gross family income below 300 percent of the federal poverty threshold as determined by the previous year's tax return. [ Federal Poverty Level. ]
+
+ (3)
+ When there are multiple heirs and not all heirs qualify for the hardship waiver, only that percentage of the homestead that corresponds to the qualifying heir or heirs' share of the homestead will be exempt from Medicaid estate recovery.
+
+ (4)
+ "300 percent of the federal poverty threshold" [ level" ] is a gross income test; no exclusions or deductions are allowed.
+
+ (5)
+ MERP [ "Family" means that the Health and Human Services Commission ] will consider each heir separately. Heirs will not be aggregated into one family unless the heirs are minor children who are siblings. In the case of an [ the ] adult heir, the heir's [ his or her ] family will be limited to the heir, the heir's spouse, and the heir's biological or legally adopted minor children and stepchildren residing in the household. In the case of an [ the ] heir who is a minor, the heir's family will be the heir, his or her parent or parents, [ parent(s) or ] stepparent residing in the household, and the heir's minor siblings residing in the household, including half-, step-, and legally adopted siblings.
+
+ [ Figure: 1 TAC §373.209(d)(5) ]
+
+ (e)
+ MERP [ HHSC ] has sole [ exclusive ] authority to waive its Medicaid estate recovery claim and to grant undue hardship waivers [ as determined by the Medicaid Estate Recovery Program (MERP) program on an individual case-by-case basis ]. An undue hardship waiver determination will be made by MERP within 40 calendar days of MERP receiving the [ receipt of an ] undue hardship waiver request form and all required [ necessary ] supporting documents [ by MERP ].
+
+ [(f)
+ Undue hardship waiver request forms must be submitted to the following address: MERP, Hardship Waiver Request, P.O. Box 13247, Austin, Texas 78711. ]
+
+ §373.211.
+
+ Right to a Review of an Undue Hardship Waiver Denial.
+
+ (a)
+ If MERP denies an [ A Medicaid Estate Recovery Program (MERP) ] undue hardship waiver request, the applicant may request MERP to [ a ] review [ of ] the decision. MERP must receive the request to review the decision [ denial of an undue hardship waiver request ] within 60 calendar days of the applicant receiving notice of the denial [ from MERP ]. A [ The ] review is an informal process and [ is ] not a hearing.
+
+ (b)
+ MERP will review the request within 40 calendar days from the date the request and all supporting documents are [ is ] received by MERP. All requests for a review of the denial of an undue hardship waiver request must be made in writing to the address included in the denial letter [ MERP, Hardship Waiver Denial Review Request, P.O. Box 13247, Austin, Texas 78711 ].
+
+ §373.213.
+
+ Deduction Allowed for Expenses for Home Maintenance and Costs of Care.
+
+ (a)
+ An amount of money equal to the necessary and reasonable maintenance expenses and taxes for maintaining the home of the decedent may be deducted from the MERP claim, [ Medicaid Estate Recovery Program (MERP) claim for maintaining the home of the deceased Medicaid recipient, ] provided [ that ] sufficient supporting documentation of these expenditures, such as receipts, is provided to MERP by estate personal representatives, heirs, or legatees. Necessary and reasonable expenses for maintaining the home include real estate taxes, utility bills, insurance, home repairs, and home maintenance expenses such as lawn care.
+
+ (b)
+ An amount of money equal to the necessary and reasonable [ expenses for the direct payment of the ] costs of care (including [ payment of ] personal attendant care) directly paid for the care of the decedent [ provided for a deceased Medicaid recipient ] that enabled the decedent [ recipient ] to remain in his or her home and thereby delayed the institutionalization of the decedent [ Medicaid recipient ] may be deducted from the MERP claim, provided [ that ] sufficient supporting documentation of these expenditures, such as receipts, is provided to MERP by estate personal representatives, heirs, or legatees.
+
+ (c)
+ To get a deduction from MERP [ Requests for obtaining allowable deductions from MERP ] claims for expenses under subsections (a) or (b) of this section , a request must be made in writing and received by MERP within 60 calendar days after receiving [ receipt of ] the Notice of the Intent to File a Claim from [ by ] MERP. All proof of expenses must be attached to the request. [ supporting documentation must be attached to the request and sent to MERP, Home Maintenance/Costs of Care Request, P.O. Box 13247, Austin, Texas 78711. ]
+
+ §373.215.
+
+ Recovery Not Cost-Effective.
+
+ No Medicaid estate recovery claim will be filed if it is not cost effective. A claim will not be cost-effective if:
+
+ (1)
+ the value of the recoverable estate is $15,000 [ $10,000 ] or less ; [ , ]
+
+ (2)
+ the recoverable amount of Medicaid costs is $5,000 [ $3,000 ] or less ; [ , ] or
+
+ (3)
+ the cost involved in the sale of the property would be equal to or greater than the value of the property.
+
+ §373.217.
+
+ Claim Amount.
+
+ (a)
+ The amount of the MERP [ Medicaid Estate Recovery Program (MERP) ] claim will be [ calculated as ] the amount paid for covered Medicaid long-term care services provided for [ under §373.103(c) of this title for ] the benefit of the decedent [ a Medicaid recipient for covered medical assistance services received ] after the decedent turned [ Medicaid recipient reached ] 55 years old [ of age ].
+
+ [(b)
+ No claim will be filed for services received prior to the effective date of these rules.]
+
+ (b) [ (c) ] The [ claim ] amount of the MERP claim may be amended both before [ prior to ] and after MERP files the recovery claim.
+
+ (c)
+ MERP claims include payments made directly by Medicaid to health care providers and the monthly capitation payments made to a Managed Care Organization (MCO).
+
+ §373.219.
+
+ Claim Payments.
+
+ (a)
+ All payments on estate recovery claims must be made payable to [ the ] "Texas Medicaid Estate Recovery Program" [ Account for Long-Term Care," ] and must be sent to the address provided in MERP's official correspondence. [ MERP, P.O. Box 13247, Austin, Texas 78711. ]
+
+ (b)
+ [ HHSC ] MERP may compromise, settle, or waive any claim that does not qualify for an undue hardship waiver upon good cause shown. Interest on the unpaid portion of any claim shall be [ is ] the rate [ same as the amount ] provided under Texas [ §2251.025(b), ] Government Code §2251.025(b) .
+
+ The agency certifies that legal counsel has reviewed the proposal and found it to be within the state agency's legal authority to adopt.
+
+ Filed with the Office of the Secretary of State on March 4, 2026.
+
+ TRD-202601096
+
+ Karen Ray
+
+ Chief Counsel
+
+ Texas Health and Human Services Commission
+
+ Earliest possible date of adoption: April 19, 2026
+
+ For further information, please call: (512) 221-7320
+
+ SUBCHAPTER
+ C.
+
+ NOTICE
+
+ 1 TAC §§373.301, 373.303, 373.305, 373.307
+
+ STATUTORY AUTHORITY
+
+ The amendments are authorized by Texas Government Code §524.0151, which provides the executive commissioner of HHSC shall adopt rules for the operation and provision of services by the health and human services agencies, and Texas Government Code §546.0403, which requires the executive commissioner to ensure Medicaid implements 42 United States Code §1396p(b)(1), Adjustments or recovery of medical assistance correctly paid under a State Plan, which has been done with the Medicaid Estate Recovery Program.
+
+ §373.301.
+
+ Notice Upon Application.
+
+ (a)
+ Written notice of the MERP provisions will be provided to individuals or their legal representative when applying for covered Medicaid long-term care services. [ to: ]
+
+ (b) 
+ An individual 
+
+ [(1)
+ Individuals for Medicaid-covered nursing facility services:]
+
+ [(A)
+ With an application packet or notice of eligibility for Medicaid nursing facility services;]
+
+ [(B)
+ Within 14 days of the Department of Aging and Disability Services' receipt of a nursing facility admission notice for a Medicaid recipient.]
+
+ [(2)
+ Individuals for Medicaid-covered Home and Community-Based Services (§1915 (c), Social Security Act) and Community Attendant Services (§1929(b), Social Security Act):]
+
+ [(A)
+ Prior to an individual's signing an election statement for Home and Community-Based Services, as an alternative to institutionalization; or]
+
+ [(B)
+ At the initial home visit for Community Attendant Services;]
+
+ [(3)
+ Individuals for Medicaid-covered mental retardation services by the Local Mental Retardation Authority, in conjunction with other notification described in:]
+
+ [(A)
+ 40 TAC §9.244, for Intermediate Care Facilities for the Mentally Retarded;]
+
+ [(B)
+ 40 TAC §9.164, for the Home and Community-Based Services waiver; and]
+
+ [(C)
+ 40 TAC §9.567, for the Texas Home Living waiver.]
+
+ [ (4) ]
+ [ Individuals ] committed by a court order to an Intermediate Care Facility for Individuals with an Intellectual Disability or Related Conditions (ICF/IID) after an [ for ] evaluation of fitness or competency, or that individual's guardian, [ competency to state Intermediate Care Facilities for the Mentally Retarded (ICFMR) ] will be notified of the MERP provisions by facility [ faculty ] staff at the time of their admission to the facility.
+
+ [(b)
+ Medicaid long-term care services provided before the effective dates of these rules are not covered services for the purpose of MERP.]
+
+ §373.303.
+
+ Additional Application Notice Provision to Recipients and Others.
+
+ (1)
+ the [ The ] recipient;
+
+ (2)
+ the [ The ] recipient's guardian of the person, if any , [ ; ] and guardian of the estate, if [ any; or guardian of the person and estate, if ] any, provided [ that ] the name and address of the guardian or guardians are known;
+
+ (3)
+ the [ The ] recipient's agent under a durable power of attorney , if the name and address of the agent are known;
+
+ (4)
+ the [ The ] recipient's agent under a medical power of attorney , if the name and address of the agent are known; or
+
+ (5)
+ if [ If ] none of the above are known, to family members acting on behalf of the recipient, provided [ that ] the name and address of those family members acting on behalf of the recipient are known.
+
+ §373.305.
+
+ Medicaid Application Estate Recovery Notice Contents.
+
+ (1)
+ description [ Description ] of MERP; [ the Medicaid Estate Recovery Program; ]
+
+ (2)
+ information [ Information ] as to covered Medicaid long-term care services subject to estate recovery;
+
+ (3)
+ claim [ Claim ] procedures found in Texas Estates Code §355.102; [ §322, Classification of Claims Against Estates of Decedents, Texas Probate Code; ]
+
+ (4)
+ information about the [ Information as to ] applicable "look-back period" [ "look-back" penalties ] for transfers of property for less than market value ; [ when applying for Medicaid benefits described at 1 TAC §358.430(e); ]
+
+ (5)
+ description [ Description ] of undue hardship waiver requests regarding a recovery claim and the [ and related request ] procedures for requesting that waiver; [ in regard to any recovery claim; ] and
+
+ (6)
+ information about the [ Information concerning the ] MERP Notice of Intent to File a Claim and the Medicaid estate recovery claim [ Estate Recovery Claim ] on the death of a Medicaid recipient.
+
+ §373.307.
+
+ Notice of Intent to File a [ A ] Claim upon the Death of a Medicaid Recipient.
+
+ (a)
+ Within 60 calendar [ The Medicaid Estate Recovery Program (MERP) will, within 30 ] days of being notified of the [ notification of the ] death of a Medicaid recipient, MERP will provide a Notice of Intent to File a Claim[ , ] to one or more of the following:
+
+ (1)
+ estate [ Estate ] representative;
+
+ (2)
+ decedent's [ Recipient's ] guardian of the person and [ person, if any; ] guardian of the estate, [ if any; or guardian of the person and estate, if any, ] provided MERP knows [ that ] the name and address of the guardian or guardians [ are known by MERP ];
+
+ (3)
+ decedent's [ Recipient's ] agent under a durable power of attorney , if MERP knows the name and address of the agent [ are known by MERP ];
+
+ (4)
+ decedent's [ Recipient's ] agent under a medical power of attorney , if MERP knows the name and address of the agent [ are known by MERP ]; [ or ]
+
+ (5)
+ a nursing facility who provided covered Medicaid services;
+
+ (6)
+ last known address connected to the decedent; and
+
+ (7) 
+ if MERP does not know [ (5) If none of the above are known, family members who have acted on behalf of the recipient provided that ] the name and address of any of the people listed above, [ those ] family members who have acted on behalf of the decedent for whom [ recipient are known by ] MERP knows their names and addresses .
+
+ (b)
+ MERP will provide written [ Contents of Notice of Intent to File a Claim. Written ] notice of MERP's intent to file an estate recovery claim against the estate of a decedent [ deceased Medicaid recipient for covered services will be provided ] to individuals identified in subsection (a) of this section. The notice will include [ the following ]:
+
+ (1)
+ a [ A ] program overview;
+
+ (2)
+ a [ A ] questionnaire that seeks to determine whether the decedent [ deceased recipient ] had:
+
+ (A)
+ a [ A ] surviving spouse;
+
+ (B)
+ a [ A ] surviving child under age 21;
+
+ (C)
+ a [ A ] surviving child of any age who is blind or disabled, as defined by 42 U.S.C. §1382c; or
+
+ (D)
+ an [ An unmarried ] adult child residing [ continuously ] in the decedent's homestead as an unmarried individual for at least twelve consecutive months immediately [ one year ] prior to the decedent's [ time of the Medicaid recipient's ] death.
+
+ (c)
+ [ An undue hardship waiver request form. ] Undue hardship request forms and supporting documentation must be submitted to MERP within 60 calendar days of the date of the Notice of Intent to File a Claim. No action will be taken on an undue hardship request [ that is ] submitted without supporting documentation. [ The request form and documentation should be sent to MERP, Hardship Waiver Request, P.O. Box 13247, Austin, Texas 78711. ]
+
+ (d)
+ The Notice of Intent to File a Claim will state the [ date that MERP received notification of the death of a Medicaid recipient and the ] source and the date MERP received the [ of the death ] notification of the death of the decedent [ Medicaid recipient ].
+
+ The agency certifies that legal counsel has reviewed the proposal and found it to be within the state agency's legal authority to adopt.
+
+ Filed with the Office of the Secretary of State on March 4, 2026.
+
+ TRD-202601097
+
+ Karen Ray
+
+ Chief Counsel
+
+ Texas Health and Human Services Commission
+
+ Earliest possible date of adoption: April 19, 2026
+
+ For further information, please call: (512) 221-7320

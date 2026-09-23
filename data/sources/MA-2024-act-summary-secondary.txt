@@ -1,0 +1,106 @@
+Source URL: https://massnaela.com/wp-content/uploads/2024/09/Summary-of-estate-recovery-in-the-LTC-Act-9.10.24.pdf
+Retrieved: 2026-09-23
+
+Sept 10, 2024
+
+On September 6, 2024, the Governor signed Chapter 197 of the Acts of 2024, an Act to improve quality
+and oversight of long-term care. The 66-page Act includes many important provisions affecting nursing
+homes, Assisted Living Residences, Continuing Care Retirement Communities, and related topics
+including significant changes to MassHealth policies regarding estate recovery and pooled trusts.
+
+How did the Long-Term Care (LTC) Act affect MassHealth estate recovery?
+
+Sections 20 and 21 of the LTC Act amend section 31 of chapter 118E of General Laws by adding two new
+subsection (b ½) and (e) that limit the scope of MassHealth estate recovery. Prior to the Act,
+Massachusetts was among only 23 states pursuing reimbursement for more costs than the federally
+required minimum. The relevant federal law is found at 42 U.S.C. § 1396p(b).
+
+Limiting estate recovery to only what is federally mandated
+
+State law clarifies the federal law limitation on recovery while people were under age 55 and
+“permanently institutionalized.”
+
+Section 31(b)(1) of the Act requires estate recovery for MassHealth costs for people of any age who
+were inpatients of a nursing home or other medical facility. The clarification in Section 31 (b ½) (i) cross-
+references to the federal statute which only permits recovery for individuals under age 55 if they were
+inpatients long enough to be subject to an assessment for the costs of their care and are not expected to
+return home. This is a state law clarification of the governing federal law.
+
+For estates of people who died after Aug.1, 2024, state law limits recovery to nursing home services,
+home and community-based services and related services while people were age 55 or older.
+
+Currently, for people who died after April 1, 1995, MassHealth is required by the old Section 31(b)(3) to
+recover the costs of all MassHealth services after a MassHealth beneficiary turns age 55. 1 The new law
+amends 31(b) to apply to individuals who died on or before July 31, 2024. For individuals who died on or
+after August 1, 2024, 31 (b ½) (ii) authorizes recovery for only the costs of nursing home care, home and
+community-based services and related hospital and prescription drug services for people aged 55 or
+older where recovery is mandated by federal law.
+
+The meaning of home and community-based services and related services
+
+In 2001, CMS issued guidance on the meaning of “home and community-based services” (HCBS) and
+“related hospital and prescription drug services” for purposes of estate recovery. Under the 2001 CMS
+guidance, HCBS was largely limited to HCBS waivers. The HCBS waivers all require that someone is
+clinically eligible for nursing home care and apply the nursing home spousal impoverishment financial
+eligibility rules. CMS defined “related services” as hospital and prescription drug costs incurred while
+someone is a nursing home resident or enrolled in a HCBS program. However, since 2001 Congress has
+
+1
+ Federal law prohibits recovery for the costs of the Medicare Savings Program, and this prohibition is in the
+MassHealth Estate Recovery regulations.
+                          40 COURT STREET, SUITE 700, BOSTON, MA 02108
+                PHONE: 617-357-0700 • FAX: 617-357-0777 • INFO@MLRI.ORG
+Page 2
+
+
+enacted some new state plan optional services called Home and Community-Based state plan services
+that we understand CMS also considers to be subject to mandatory recovery as HCBS.
+
+MassHealth operates nine HCBS waiver programs that are subject to mandatory estate recovery for
+adults aged 55 or older on MassHealth Standard. The largest is the so-called Frail Elder Waiver (FEW)
+with enrollment capped at about 19,000. There are also HCBS waivers for people with developmental
+disabilities, brain injuries, and people transitioning from nursing homes. MassHealth has not adopted
+any of the new HCBS state plan services, therefore community-based long-term state plan services in
+Massachusetts should not be subject to mandatory estate recovery. However, because CMS has issued
+no written guidance since 2001, the scope of mandatory recovery for HCBS will not be entirely clear
+until MassHealth amends its state plan and publishes written criteria to implement the new law.
+
+The new law also limits estate recovery for MassHealth payments to managed care plans.
+
+Restricting estate recovery to only what is federally mandated will also prevent recovery of the full
+amount of MassHealth’s fixed monthly payments to managed care plans. According to the 2001 CMS
+guidance, states are only authorized to recover the portion of the fixed managed care payment that
+represents recoverable services. Recoverable services are limited to the federally mandated services of
+nursing home, HCBS and related services to the extent they are covered by the managed care plan.
+
+Exempting CommonHealth and PCA services from estate recovery
+
+Section 21 of the LTC Act creates a new subsection 31(e) in chapter 118E that directs MassHealth to
+exempt the costs of CommonHealth coverage and the costs of PCA services from estate recovery
+provided the state obtains whatever federal approval is needed.
+
+CommonHealth
+
+CommonHealth is a program that began as a state-funded program but has long been included as one of
+the programs eligible for federal Medicaid reimbursement under the MassHealth 1115 demonstration.
+Except for long-term nursing home care, CommonHealth provides comprehensive benefits to individual
+with disabilities who do not financially qualify for MassHealth Standard. It uses a sliding scale premium
+charge rather than an upper income limit.
+
+The changes to CommonHealth will likely require an amendment to the 1115 demonstration and will
+take effect at a future date to be determined by the terms of the federal approval.
+
+Personal Care Attendant (PCA) Services
+
+The PCA benefit is a state plan benefits available in MassHealth Standard and CommonHealth that pays
+for a personal care attendant to assist persons with disabilities who need help with at least two activities
+of daily living. If CMS determines that the PCA benefit is subject to mandatory recovery as a HCBS, then
+it too may require an 1115 amendment to be exempted. However, we know CMS approved California’s
+state plan amendment limiting recovery to only what is federally mandated, and CMS did not require
+California to recover for personal care attendant services. If the same is true in Massachusetts, the costs
+of PCA services will be exempt from recovery by virtue of 31(b½).
+
+
+
+This summary was prepared by Victoria Pulos. She can be reached at vpulos@mlri.org
+

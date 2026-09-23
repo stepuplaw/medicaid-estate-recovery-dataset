@@ -1,0 +1,28 @@
+Source URL: https://codes.findlaw.com/nc/chapter-108a-social-services/nc-gen-st-sect-108a-70-5.html
+Retrieved: 2026-09-23
+Note: WebFetch extraction, requested character for character but not a verbatim save. ncleg.gov returned HTTP 403 to scripts and to WebFetch (HTML and PDF).
+
+N.C. Gen. Stat. Sec. 108A-70.5. Medicaid Estate Recovery Plan
+
+(a) There is established in the Department of Health and Human Services, the Medicaid Estate Recovery Plan, as required by the Omnibus Budget Reconciliation Act of 1993, to recover from the estates of recipients of medical assistance an equitable amount of the State and federal shares of the cost paid for the recipient. The Department shall administer the program in accordance with applicable federal law and regulations, including those under Title XIX of the Social Security Act, 42 U.S.C. Sec. 1396(p).
+
+(b) The following definitions apply in this section:
+(1) Recodified as (b)(4) by S.L. 2021-88, Sec. 9(d), eff. July 22, 2021.
+(2) Estate.--All the real and personal property considered assets of the estate available for the discharge of debt pursuant to G.S. 28A-15-1. The Department has all rights available to estate creditors, including the right to qualify as personal representative or collector of an estate. For individuals who have received benefits under a qualified long-term care partnership policy as described in G.S. 108A-70.4, this term also includes any other real and personal property and other assets in which the individual had any legal title or interest at the time of death (to the extent of the interest), including assets conveyed to a survivor, heir, or assign of the deceased individual through joint tenancy, tenancy in common, survivorship, life estate, living trust, or other arrangement.
+(3) Repealed by S.L. 2007-442, Sec. 1, eff. Aug. 23, 2007.
+(4) Medical assistance.--Medical care services paid for by the North Carolina Medicaid Program on behalf of the recipient as follows:
+a. If the recipient of any age is receiving medical care services as an inpatient in a nursing facility, intermediate care facility for individuals with intellectual disabilities, or other medical institution, and cannot reasonably be expected to be discharged to return home.
+b. If the recipient is 55 years of age or older and is receiving one or more of the following medical care services:
+1. Nursing facility services.
+2. Home and community-based services.
+3. Hospital care.
+4. Prescription drugs.
+5. Personal care services.
+
+(c) The amount the Department recovers from the estate of any recipient shall not exceed the amount of medical assistance made on behalf of the recipient and is recoverable only for medical care services prescribed in subsection (b) of this section. The Department is a sixth-class creditor, as prescribed in G.S. 28A-19-6, for purposes of determining the order of claims against an estate; however, judgments in favor of other sixth-class creditors docketed and in force before the Department seeks recovery for medical assistance shall be paid prior to recovery by the Department.
+
+(d) The Department of Health and Human Services shall adopt rules pursuant to Chapter 150B of the General Statutes to implement the Plan, including rules to waive whole or partial recovery when this recovery would be inequitable because it would work an undue hardship or because it would not be administratively cost-effective and rules to ensure that all recipients are notified that their estates are subject to recovery at the time they become eligible to receive medical assistance.
+
+(e) Repealed by S.L. 2007-442, Sec. 1(a), eff. Aug. 23, 2007.
+
+(f) With regard to any recipient who has received compensation pursuant to Part 30 of Article 9 of Chapter 143B of the General Statutes, the Department shall reduce the amount of any recovery it seeks from the deceased recipient's estate under this section by the amount of the resource disregard provided for in G.S. 143B-426.56(b)(1).

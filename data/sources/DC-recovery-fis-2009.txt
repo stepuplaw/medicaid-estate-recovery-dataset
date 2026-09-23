@@ -1,0 +1,126 @@
+Source URL: https://app.cfo.dc.gov/services/fiscal_impact/pdf/spring09/Medicaid%20Estate%20Recovery.pdf
+Retrieved: 2026-09-23
+
+                          Government of the District of Columbia
+                            Office of the Chief Financial Officer
+
+
+Natwar M. Gandhi
+Chief Financial Officer
+
+
+
+
+MEMORANDUM
+TO:                        The Honorable Kwame R. Brown
+                           Chairman, Council of the District of Columbia
+
+FROM:                      Natwar M. Gandhi
+                           Chief Financial Officer
+
+DATE:                      March 22, 2011
+
+SUBJECT:                   Fiscal Impact Statement - “Medicaid Estate Recovery Amendment
+                           Approval Resolution of 2011”
+
+REFERENCE:                Draft Legislation Shared with the OCFO on March 15, 2011
+______________________________________________________________________________________________________________
+
+Conclusion
+
+Funds are sufficient in the FY 2011 through FY 2014 budget and financial plan to implement the
+provisions of the proposed legislation.
+
+Background
+
+The proposed legislation would amend1 the District of Columbia State Plan for Medical Assistance
+(“State Plan”) to prohibit the recovery of Medicare cost‐sharing benefits2 paid under the Medicare
+Savings Programs (MSPs) from a Medicaid beneficiary’s estate when that beneficiary is dual eligible
+(Medicare/Medicaid). This change is necessary in order to conform to federal law.
+
+MSPs include four Medicaid‐administered programs available to individuals who are eligible for
+both Medicaid and Medicare, and who meet asset and low‐income requirements. While the federal
+government initially sets these requirements, states have the option to lower them. MSPs pay for
+certain Medicare cost‐sharing benefits based on an individual’s monthly income as described in the
+
+
+
+
+1 Pursuant to section 1(a) of An Act to Enable the District of Columbia to receive federal financial assistance
+
+under Title XIX of the Social Security Act for a medical assistance program, and for other purposes, approved
+December 27, 1967 (81 Stat. 744; D.C. Official Code § 1‐307.02).
+2 These include Part A and B premiums, deductibles, coinsurance, and co‐payments.
+
+
+
+              1350 Pennsylvania Avenue, NW, Suite 203, Washington, DC 20004 (202)727‐2476
+                                            www.cfo.dc.gov
+The Honorable Kwame R. Brown
+FIS: “Medicaid Estate Recovery Amendment Approval Resolution of 2011,” Draft Legislation Shared with the
+OCFO on March 15, 2011
+
+table below. The current asset limit established by the federal government for each program is
+$6,680/single and $10,020/married. 3
+
+                            Federal Criteria for Medicare Savings Programs
+         Program Name                           Monthly Income Limit                      Costs Paid by
+                                                 (Amount for 2011)                          Medicaid
+Qualified Medicare Beneficiary         At or below 100 percent of FPL*                 • Part A premiums
+(QMB)                                  ($907.50/single;$1,225.83/married)              • Part B premiums
+                                                                                       • Deductibles,
+                                                                                         coinsurance and
+                                                                                         copayments
+Specified Low Income Medicare          Between 100 and 120 percent of FPL              • Part B premiums
+Beneficiary (SLMB)                     ($1,089/single; $1,471/married)
+Qualifying Individual (QI)             Between 121 and 135 percent of FPL              • Part B premiums
+                                       ($1,225/single; $1,655/married)
+Qualified Disabled and                 No more than 200 percent of the FPL             • Part A premiums
+Working Individuals (QDWI)             ($1,815/ individual; $2,452/married)
+  * Federal Poverty Level
+
+The District has opted to lower these requirements. None of the District’s MSPs has an asset limit.
+Moreover, the monthly income limit for QMBs is at or below 300 percent of the FPL. As a result, the
+SLMB and QI programs are not relevant in the District: everyone eligible for those two programs is
+enrolled in the QMB program, and thus gets the maximum benefits allowed.
+
+The federal Omnibus Budget Reconciliation Act of 19934 required each state to seek estate recovery
+for services provided to a person of any age in a nursing facility, intermediate care facility for the
+mentally retarded, or another medical institution. It allowed, but did not require, states to seek
+estate recovery for Medicare cost‐sharing benefits paid under MSPs.
+
+This changed under the federal Medicare Improvements for Patients and Providers Act of 20085,
+which prohibited states from seeking estate recovery Medicare cost‐sharing benefits paid under
+MSPs as of January 1, 2010. The goal of exempting these benefits was to encourage dual eligible
+beneficiaries to more fully utilize MSPs and allay concerns that Medicaid would, through estate
+recovery, lay claim to recover the value of cost‐sharing benefits from their estates.
+
+The District has never sought estate recovery for Medicare cost‐sharing benefits paid under MSPs
+and thus, this amendment would not change current practices.
+
+Financial Plan Impact
+
+Funds are sufficient in the FY 2011 through FY 2014 budget and financial plan to implement the
+provisions of the proposed legislation. Amending the State Plan to prohibit the recovery of
+
+
+
+3 It is important to note that a house, a car, burial fund, household goods and personal belongings are not
+
+considered as assets under this limit.
+4 Pub.L. 103‐66, August 10, 1993.
+5 Pub.L. 110‐275, July 15, 2008.
+
+                                                                                                     Page 2 of 3
+The Honorable Kwame R. Brown
+FIS: “Medicaid Estate Recovery Amendment Approval Resolution of 2011,” Draft Legislation Shared with the
+OCFO on March 15, 2011
+
+Medicare cost‐sharing benefits paid under MSPs from a beneficiary’s estate would have no fiscal
+impact since the District has never sought estate recovery for such benefits.
+
+
+
+
+                                                                                              Page 3 of 3
+

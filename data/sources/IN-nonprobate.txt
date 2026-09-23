@@ -1,0 +1,11 @@
+Source URL: https://codes.findlaw.com/in/title-32-property/in-code-sect-32-17-13-1.html
+Retrieved: 2026-09-23
+Note: WebFetch extraction, not verbatim (asked for word-for-word copy; the tool returned lightly restructured text). Official iga.in.gov not machine readable from here.
+
+Indiana Code Sec. 32-17-13-1
+
+(a) "nonprobate transfer" means a valid transfer, effective at death, by a transferor whose last domicile was in Indiana and who immediately before death had the power, acting alone, to prevent transfer of the property by revocation or withdrawal and use the property for the benefit of the transferor; or apply the property to discharge claims against the transferor's probate estate.
+(b) The term does not include a transfer at death of: (1) a survivorship interest in a tenancy by the entireties real estate; (2) a life insurance policy or annuity; (3) the death proceeds of a life insurance policy or annuity; (4) an individual retirement account or a similar account or plan; or (5) benefits under an employee benefit plan.
+(c) With respect to a nonprobate transfer involving a multiple party account, a nonprobate transfer occurs if the last domicile of the depositor whose interest is transferred under IC 32-17-11 was in Indiana.
+(d) With respect to a motor vehicle or a watercraft, a nonprobate transfer occurs if the transferee obtains a certificate of title in Indiana under IC 9-17.
+(e) A transfer on death transfer completed under IC 32-17-14 is a nonprobate transfer.

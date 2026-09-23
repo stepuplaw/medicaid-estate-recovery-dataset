@@ -1,0 +1,103 @@
+Source URL: https://www.legis.iowa.gov/docs/code/249A.53.pdf
+Retrieved: 2026-09-23
+
+1                                                               MEDICAL ASSISTANCE, §249A.53
+
+
+
+
+   249A.53 Recovery of payment.
+   1. Medical assistance paid to, or on behalf of, a recipient or paid to a provider of services
+is not recoverable, except as provided in subsection 2, unless the assistance was incorrectly
+paid. Assistance incorrectly paid is recoverable from the provider, or from the recipient, while
+living, as a debt due the state and, upon the recipient’s death, as a claim classified with taxes
+having preference under the laws of this state.
+   2. The provision of medical assistance to an individual who is fifty-five years of age or
+older, or who is a resident of a nursing facility, intermediate care facility for persons with
+an intellectual disability, or mental health institute, who cannot reasonably be expected to
+be discharged and return to the individual’s home, creates a debt due the department from
+the individual’s estate for all medical assistance provided on the individual’s behalf, upon the
+individual’s death.
+   a. The department shall waive the collection of the debt created under this subsection
+from the estate of a recipient of medical assistance to the extent that collection of the debt
+would result in either of the following:
+   (1) Reduction in the amount received from the recipient’s estate by a surviving spouse,
+or by a surviving child who was under age twenty-one, blind, or permanently and totally
+disabled at the time of the individual’s death.
+   (2) Otherwise work an undue hardship as determined on the basis of criteria established
+pursuant to 42 U.S.C. §1396p(b)(3).
+   b. If the collection of all or part of a debt is waived pursuant to subsection 2, paragraph “a”,
+to the extent the medical assistance recipient’s estate was received by the following persons,
+the amount waived shall be a debt due from one of the following, as applicable:
+   (1) The estate of the medical assistance recipient’s surviving spouse or child who is blind
+or has a disability, upon the death of such spouse or child.
+   (2) A surviving child who was under twenty-one years of age at the time of the medical
+assistance recipient’s death, upon the child reaching the age of twenty-one or from the estate
+of the child if the child dies prior to reaching the age of twenty-one.
+   (3) The estate of the recipient of the undue hardship waiver, at the time of death of the
+hardship waiver recipient, or from the hardship waiver recipient when the hardship no longer
+exists.
+   c. For purposes of this section, the estate of a medical assistance recipient, surviving
+spouse, or surviving child includes any real property, personal property, or other asset
+in which the recipient, spouse, or child had any legal title or interest at the time of the
+recipient’s, spouse’s, or child’s death, to the extent of such interests, including but not
+limited to interests in jointly held property, retained life estates, and interests in trusts.
+   d. For purposes of collection of a debt created by this subsection, all assets included in
+the estate of a medical assistance recipient, surviving spouse, or surviving child pursuant to
+paragraph “c” are subject to probate.
+   e. Interest shall accrue on a debt due under this subsection, at the rate provided pursuant
+to section 535.3, beginning six months after the death of a medical assistance recipient,
+surviving spouse, or surviving child.
+   f. (1) If a debt is due under this subsection from the estate of a recipient, the administrator
+of the nursing facility, intermediate care facility for persons with an intellectual disability, or
+mental health institute in which the recipient resided at the time of the recipient’s death,
+and the personal representative of the recipient, if applicable, shall report the death to the
+department within ten days of the death of the recipient.
+   (2) If a personal representative or executor of an estate makes a distribution either in
+whole or in part of the property of an estate to the heirs, next of kin, distributees, legatees, or
+devisees without having executed the obligations pursuant to section 633.425, the personal
+representative or executor may be held personally liable for the amount of medical assistance
+paid on behalf of the recipient, to the full value of any property belonging to the estate which
+may have been in the custody or control of the personal representative or executor.
+   (3) For the purposes of this paragraph, “executor” means executor as defined in section
+
+
+Thu Dec 11 19:14:09 2025                                   Iowa Code 2026, Section 249A.53 (20, 0)
+§249A.53, MEDICAL ASSISTANCE                                                                                          2
+
+
+
+633.3, and “personal representative” means a person who filed a medical assistance
+application on behalf of the recipient or who manages the financial affairs of the recipient.
+  3. a. Following the death of an individual who is a designated beneficiary of an account
+established under a participation agreement pursuant to chapter 12I, all of the following shall
+apply to the extent permitted pursuant to chapter 12I and under federal law including section
+529A of the Internal Revenue Code:
+  (1) The department shall not seek recovery of any account balance remaining in the
+designated beneficiary’s account for medical assistance paid to or on behalf of the designated
+beneficiary on or after the date the participation agreement was entered into and the account
+established for the designated beneficiary.
+  (2) The department shall not file a claim for payment under section 529A(f) of the Internal
+Revenue Code.
+  (3) Any account balance remaining in the designated beneficiary’s account may be
+transferred to an account for another eligible individual specified by the designated
+beneficiary, or if another eligible beneficiary is not so designated, then the account balance
+shall be transferred to the estate of the designated beneficiary or to the successor as defined
+in section 633.356.
+  b. For the purposes of this section, “designated beneficiary”, “Internal Revenue Code”, and
+“participation agreement” mean the same as defined in section 12I.1.
+  c. For the purposes of this section, “eligible individual” means the same as defined in
+section 529A of the Internal Revenue Code.
+  [C62, 66, §249A.13; C71, 73, 75, 77, 79, 81, §249A.5]
+  83 Acts, ch 153, §14; 94 Acts, ch 1120, §10; 95 Acts, ch 68, §2; 96 Acts, ch 1107, §1; 96 Acts,
+ch 1129, §65, 113; 2002 Acts, ch 1086, §2, 21; 2003 Acts, ch 62, §3; 2012 Acts, ch 1019, §97,
+98; 2013 Acts, ch 24, §14
+  C2014, §249A.53
+  2021 Acts, ch 136, §7
+  Referred to in §97B.39, 249A.40, 523A.303, 561.19, 633.231, 633.304A, 633.356, 633.410, 633.425
+
+
+
+
+Thu Dec 11 19:14:09 2025                                                        Iowa Code 2026, Section 249A.53 (20, 0)
+

@@ -1,0 +1,16 @@
+Source URL: https://www.medicaid.gov/medicaid/spa/downloads/IL-22-0028.pdf
+Retrieved: 2026-09-23
+Note: PDF is scanned images; script fetch returned 403. Transcribed from the page images (WebFetch download, read as images). Not verbatim for layout.
+
+Illinois State Plan Amendment (SPA) 22-0028. CMS approval letter dated November 16, 2022, to Theresa Eagleson, Director, HFS: "This amendment proposes to waive any claim against the first $25,000 of an estate as not cost-effective." Approved November 16, 2022, effective date July 1, 2022.
+
+CMS-179: Transmittal 22-0028, IL, Title XIX. Federal citation 42 CFR 433.36. Page: Attachment 4.17-A, Page 3 (supersedes Attachment 4.17-A, Page 3). Subject: Estate recovery claims threshold. Submitted 8/23/22.
+
+Attachment 4.17-A, Page 3, State Plan under Title XIX, State: Illinois, LIENS AND ADJUSTMENTS OR RECOVERIES:
+- (end of lien release list) "Discharge from the medical institution and return home. The attending physician has signed an order for discharge from the nursing home, following which the individual has returned to reside in their home. When a person is discharged and returns home, the State's lien is released."
+4. "The State defines undue hardship as follows: Undue hardship exists when the State's recovery from a decedent's estate would cause an heir or beneficiary of the estate to become or remain eligible for a public benefit program, such as SSI, TANF or Food Stamps."
+5. "The State has determined via HB 4343 (PA 102-1037) that the cost-effectiveness threshold for estate recovery claims is $25,000. The legislature determined that this cost-effectiveness threshold is required to prevent substantial and unreasonable hardship. Therefore, the State shall waive any claim against the first $25,000.00 of an estate as not cost-effective. The State shall consider the gross assets in the estate, including, but not limited to, the net value of real estate less mortgages or liens with priority over the Department's claims."
+   "The State will waive estate recovery based on undue hardship if pursuing recovery from a decedent's estate would cause an heir or beneficiary of the estate to become or remain eligible for a public benefit program, such as SSI, TANF or Food Stamps."
+6. Cost-effective: "The State ... shall waive any claim against the first $25,000.00 of an estate as not cost-effective per state statute (PA 102-1037)."
+7. Collection procedures: "When the State learns of the death of a client, the case is reviewed to determine the value of the estate and whether there are heirs."
+TN # 22-0028, Supersedes TN # 96 02. Approval date 11/16/2022. Effective 07/01/2022.

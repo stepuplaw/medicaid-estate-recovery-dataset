@@ -1,0 +1,192 @@
+Source URL: https://law.lis.virginia.gov/admincode/title12/agency30/chapter20/section141/
+Retrieved: 2026-09-23
+
+12VAC30-20-141. Estate recoveries. 
+
+ Virginia General Assembly /
+
+ LIS Learning Center /
+
+ Privacy Policy /
+
+ LIS home /
+
+ Register Account /
+
+ Login 
+
+ Session Information 
+
+ Bills & Resolutions 
+
+ State Budget 
+
+ Virginia Law 
+
+ Reports to the General Assembly 
+
+ Virginia Law 
+
+ Select Search Type 
+
+ All 
+ Code of Virginia 
+ Administrative Code 
+ Constitution 
+ Charters 
+ Authorities 
+ Compacts 
+ Uncodified Acts 
+
+ Administrative Code
+
+ Table of Contents » Title 12. Health » Agency 30. Department of Medical Assistance Services » Chapter 20. Administration of Medical Assistance Services » Part II. Liens/Estate Recoveries » 12VAC30-20-141. Estate recoveries. 
+
+ Section 
+
+ Print 
+ PDF 
+ email 
+
+ Creating a Report: Check the sections you'd like to appear in the report, then use the "Create Report" button at the bottom of the page to generate your report. Once the report is generated you'll then have the option to download it as a pdf, print or email the report.
+
+ Virginia Administrative Code
+Title 12. Health
+Agency 30. Department of Medical Assistance Services
+Chapter 20. Administration of Medical Assistance Services
+ 9/23/2026
+
+ 12VAC30-20-141. Estate recoveries.
+ A. Definitions. The following words and terms when used in this regulation shall have the following meanings unless the context clearly indicates otherwise:
+
+ "Act" means the Social Security Act (42 USC § 1396) as applicable.
+
+ "Applicable medical assistance payment" means the amount of any medical assistance payments made on behalf of an individual under Title XIX of the Social Security Act.
+
+ "Claim" means, for the purposes of this section, action taken by DMAS to recover from the estate of an individual, who was age 55 or older when that person received medical assistance, the total amount of assistance paid for services consistent with the coverage and reimbursement policies in the State Plan for Medical Assistance.
+
+ "Cost effective" means that both the dollar amount of the medical assistance payments (claim) and the value of the estate at least exceed the administrative costs of recovery.
+
+ "Dual eligibles" mean individuals who are entitled to Medicare hospital insurance under Part A or supplementary medical insurance under Part B, or both, and are eligible for some form of Medicaid benefit.
+
+ "Estate" means, with respect to a deceased individual, (i) all real and personal property and other assets held by the individual at the time of death and (ii) any other real and personal property and other assets in which the individual had any legal title or interest (to the extent of such interest) at the time of his death.
+
+ "Homestead of modest value" means a home that is worth 50% or less of the average or median price, as contained in the most recent U.S. Census data or any other such source of home value information as published in the agency's guidance documents, of homes in the county or city, as appropriate, where the homestead is located as of the date of the individual's death.
+
+ "Undue hardship" means that DMAS has determined that enforcement of a claim to recover Medicaid benefits would result in substantial hardship to the devisees, legatees, and heirs or dependents of the deceased individual against whose estate the Medicaid claim exists.
+
+ B. Under the authority and consistent with the requirements of the Social Security Act § 1917 (the Act), the Commonwealth shall recover applicable medical assistance payments when such payments have been correctly or incorrectly paid on behalf of certain individuals. The Department of Medical Assistance Services (DMAS) shall provide notice of the Commonwealth's Medicaid estate recovery program at the time of application for medical assistance.
+
+ C. Adjustment and recovery. Adjustment or recovery can only be made after the death of the individual's surviving spouse, if any, and only at a time when the individual has no surviving child under age 21, or a blind or disabled child as defined in § 1614 of the Act. The Commonwealth shall seek adjustment or recovery of all medical assistance payments correctly paid on behalf of an individual who is age 55 or older under the State Plan as follows:
+
+ 1. The Commonwealth shall seek adjustment or recovery from the estate of an individual who was age 55 or older when that person received medical assistance. Except as noted in subdivision 2 of this subsection, the Commonwealth shall recover amounts up to the total amount spent on the individual's behalf for medical assistance for items or services provided for the individual under the State Plan.
+
+ 2. Dual eligible protection from recovery.
+
+ a. The Commonwealth shall recover from the estates of the following dual eligible individuals who are 55 years of age or older, who receive full Medicaid benefits in addition to Medicare: (i) qualified Medicare beneficiaries with full Medicaid benefits (QMB Plus), (ii) specified low-income Medicare beneficiaries with full Medicaid benefits (SLMB Plus), and (iii) Medicare beneficiaries eligible for a limited package of Medicaid benefits QMB, SLMB, qualified individuals (QI) or qualified disabled and working individuals (QDWI)). The Commonwealth shall recover from these individuals' estates medical assistance payments made on behalf of these individuals with the exception of Medicare cost-sharing benefits or for benefits described in § 1902(a)(10)(E). This exception shall apply to Medicare cost-sharing benefits (i.e., Part A and B premiums, deductibles, coinsurance, and copayments) with dates of service on or after January 1, 2010. The date of service for deductibles, coinsurance, and copayments shall be the date the request for payment is received by DMAS. The date of service for premiums shall be the date the Medicaid agency paid the premium. 
+
+ b. The protection from estate recovery against Medicare cost-sharing benefits (premiums, deductibles, coinsurance, and copayments) set forth in subdivision 2 a of this section that is made for the applicable categories of protected dual eligible individuals described in that subdivision shall apply to approved mandatory and optional services set out in the State Plan for which Medicare cost sharing applies.
+
+ 3. The Commonwealth shall recover from individuals with long-term care insurance policies. However, the Commonwealth shall not seek adjustment or recovery from the individual's estate for all Medicaid costs for nursing facility and other long-term care services if assets or resources are disregarded to the extent of payments made under a qualified long-term care partnership insurance policy.
+
+ 4. Estate recovery and managed care. When a Medicaid beneficiary is enrolled in a managed care organization and services are provided by the managed care organization that are included under the State Plan, the Commonwealth shall seek adjustment or recovery from the individual's estate for the capitation payments in the Commonwealth's claim against the estate. When the individual enrolls in the managed care organization, the Commonwealth shall provide a separate notice to the individual that explains that the capitation payments made to the managed care organization are included in whole in the claim against the estate. The Commonwealth shall recover from the individual's estate the total capitation rate for the period the individual was enrolled in the managed care organization.
+
+ 5. The following American Indian/Alaska Native (AI/AN) income, resources, and property shall be exempt from Medicaid estate recovery pursuant to § 1917(b)(3) of the Act for hardship applicable to federally recognized tribes:
+
+ a. Certain AI/AN income and resources (such as interests in and income derived from tribal land and other resources currently held in trust status and judgment funds from the Indian Claims Commission and the U.S. Claims Court) that are exempt from Medicaid estate recovery by other laws and regulations; 
+
+ b. Ownership interest in trust or nontrust property, including real property and improvements: 
+
+ (1) Located on a reservation (any federally recognized Indian tribe's reservation or near a reservation) as designated and approved by the Bureau of Indian Affairs of the U.S. Department of the Interior; or 
+
+ (2) For any federally recognized tribe not described in this subdivision, located within the most recent boundaries of a prior federal reservation.
+
+ (3) Protection of nontrust property described in this subdivision is limited to circumstances when it passes from an Indian (as defined in § 4 of the Indian Health Care Improvement Act, 25 USC §§ 1601-1683) to one or more relatives (by blood, adoption, or marriage), including Indians not enrolled as members of a tribe and non-Indians, such as spouses and step-children, that their culture would nevertheless protect as family members; to a tribe or tribal organization or to one or more Indians, or all of these; 
+
+ c. Income left as a remainder in an estate derived from property protected in this subdivision, that was either collected by an Indian, or by a tribe or tribal organization and distributed to an Indian or Indians, as long as the individual can clearly trace such income as coming from the protected property. 
+
+ d. Ownership interests left as a remainder in an estate in rents, leases, royalties, or usage rights related to natural resources (including, but not necessarily limited to, extraction of natural resources or harvesting of timber, other plants and plant products, animals, fish, and shellfish) resulting from the exercise of federally protected rights, and income either collected by an Indian, or by a tribe or tribal organization and distributed to an Indian or Indians derived from these sources as long as the individual can clearly trace the interest as coming from protected sources.
+
+ e. Ownership interests in or usage rights to items not covered by this subdivision that have unique religious, spiritual, traditional, or cultural significance or rights, or all of these, that support subsistence or a traditional lifestyle according to applicable tribal law or custom.
+
+ 6. The Commonwealth shall recover the following income, resources and property from the estates of American Indians and Alaska Natives:
+
+ a. Ownership interests in assets and property, both real and personal, that are not described in this subdivision . 
+
+ b. Any income and assets left as a remainder in an estate that do not derive from protected property or sources in this subdivision.
+
+ 7. Reparation payments to individuals. Government reparation payments to special populations shall be exempt from Medicaid estate recovery.
+
+ 8. Annuities. The Commonwealth considers annuities to be legal devices by which ownership of assets, such as estates, is defined and therefore may seek recovery from individuals' estates that may include such annuities. 
+
+ D. Undue hardship. Whenever estate recovery would work an undue hardship on the deceased individual's heirs, the Commonwealth shall waive adjustment or recovery. Recovery from deceased individuals' estates shall be waived when the heirs are themselves Medicaid eligible. Anyone who may be affected by Medicaid estate recovery may apply for an undue hardship waiver. DMAS shall determine the merit of such applications.
+
+ 1. Special consideration shall be shown in cases in which the estate subject to recovery is: (i) the sole income-producing asset of survivors (where such income is limited), such as a family farm or other family business; (ii) a homestead of modest value; or (iii) one in which other compelling circumstances exist as may be set out in agency guidance documents.
+
+ 2. An undue hardship exists when the Commonwealth determines that it would not be cost effective to recover the assistance paid.
+
+ 3. In cases where recovery is not waived and heirs of the estate from which recovery is sought wish to satisfy the Commonwealth's claim without selling a nonliquid asset that is subject to recovery, alternative methods of recovery may be considered. DMAS may also establish a reasonable payment schedule.
+
+ 4. The Commonwealth may limit the hardship waiver to the time period during which the undue hardship circumstances existed or continue to exist.
+
+ 5. An undue hardship shall not exist if the beneficiary created the hardship by resorting to estate planning methods under which the beneficiary divested assets in order to avoid estate recovery.
+
+ E. DMAS shall establish collection procedures to include identification of the estate administrator or executor, determination of the medical assistance claim amount, notification procedures, and such other procedures as are appropriate to pursue the recovery of medical assistance expenditures. Such procedures will be set out in an agency guidance document.
+
+ F. Recovery or adjustment not cost effective. DMAS shall establish a cost effectiveness threshold below which estate recovery will not be pursued.
+
+ 1. The Commonwealth may waive adjustment or recovery in cases in which it is determined that it would not be cost effective for the Commonwealth to recover from a deceased individual's estate. The estate administrator, executor, survivor, or heir does not need to assert undue hardship in such situations.
+
+ 2. In determining whether recovery would be cost effective, the department may consider, but is not limited to consideration of, the following costs: staff time, litigation costs, expert witness fees, deposition expenses, travel expenses, office supplies, postage, advertising, and publishing costs. DMAS shall adjust the cost effective threshold as the agency's administrative costs change.
+
+ G. Appeals. The DMAS Appeals Division will administer appeals related to the recovery of funds pursuant to 12VAC30-110 .
+ Statutory Authority
+ §§ 32.1-324 and 32.1-325 of the Code of Virginia; 42 USC § 1396 et seq.
+ Historical Notes
+ Derived from Virginia Register Volume 25, Issue 21 , eff. July 23, 2009; amended, Volume 29, Issue 7 , eff. January 2, 2013.
+
+ Website addresses provided in the Virginia Administrative Code to documents incorporated by reference are for the reader's convenience only, may not necessarily be active or current, and should not be relied upon. To ensure the information incorporated by reference is accurate, the reader is encouraged to use the source document described in the regulation.
+
+ As a service to the public, the Virginia Administrative Code is provided online by the Virginia General Assembly. We are unable to answer legal questions or respond to requests for legal advice, including application of law to specific fact. To understand and protect your legal rights, you should consult an attorney.
+
+ Section 
+
+ Code of Virginia 
+
+ Administrative Code 
+
+ View by Agency 
+
+ Emergency Regulations 
+
+ VAC# Look Up 
+
+ Go 
+
+ Constitution of Virginia 
+
+ Charters 
+
+ Authorities 
+
+ Compacts 
+
+ Uncodified Acts 
+
+ Sign In
+
+ Username:  
+
+ Password:  
+
+ Cancel 
+
+ LIS Home 
+
+ Lobbyist-in-a-Box 
+
+ Privacy Policy 
+
+ © Copyright Commonwealth of Virginia, 
+ . All rights reserved. Site developed by the Division of Legislative Automated Systems (DLAS) . 
+ Sign In

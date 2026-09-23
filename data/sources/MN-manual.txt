@@ -1,0 +1,837 @@
+Source URL: https://hcopub.dhs.state.mn.us/hcpmstd/19_50.htm
+Retrieved: 2026-09-23
+
+19.50 Liens and Estate Recovery 
+
+ *** 
+ The Health Care Programs Manual (HCPM) has been replaced by the Minnesota 
+ Health Care Programs Eligibility Policy Manual (EPM) as of June 1, 
+ 2016. Please refer to the EPM for current 
+ health care program policy information. *** 
+
+ Chapter 
+ 19 - Assets
+
+ Effective: 
+  May 1, 2013
+
+ 19.50 
+ - Liens and Estate Recovery
+
+ Archived:  June 1, 2016 ( Previous 
+ Versions )
+
+ Liens and Estate Recovery
+
+ Liens and estate claims are a means for the State of Minnesota to recover 
+ the cost of Medical Assistance, Medicare Savings Programs (QMB, SLMB, 
+ QI, and QWD),  Alternative Care (AC) payments or General Assistance 
+ Medical Care (GAMC). They are filed when a client meets specific criteria 
+ governed by state and federal law.
+
+ Programs 
+ Not Subject to Estate Recovery. 
+
+ MA, 
+ QMB, SLMB, and QI. 
+
+ Estate Recovery. 
+
+ Pre-Death 
+ or TEFRA Liens. 
+
+ GAMC. 
+
+ Estate 
+ Recovery. 
+
+ Probate 
+ Estate. 
+
+ Decree 
+ of Descent. 
+
+ Affidavit 
+ of Collection of Personal Property. 
+
+ Transfer 
+ on Death Deed (TODD). 
+
+ Pre-Death 
+ or TEFRA Liens. 
+
+ Long-Term 
+ Care Partnership (LTCP). 
+
+ Estate 
+ Recovery and MA Liens When an Enrollee Dies. 
+
+ Unprotected 
+ Assets. 
+
+ Estate 
+ Recovery and MA Liens When an Enrollee Dies. 
+
+ Cause of Action. 
+
+ Top 
+ of Page 
+
+ Programs 
+ Not Subject to Estate Recovery
+
+ Do not file estate claims or pre-death liens against 
+ the property of clients receiving benefits through the following programs:
+
+ l 
+  MinnesotaCare.
+
+ l 
+  Consolidated Chemical Dependency Treatment Fund (CCDTF).
+
+ l 
+  Alternative Care (AC) for services received prior to July 1, 2003.
+
+ l 
+  QMB, SLMB, QI and QWD for services received on or after January 
+ 1, 2010.
+
+ Example:
+
+ Myrtle received MinnesotaCare 
+ for two years followed by two years of MA payment of Long-Term Care services 
+ (MA-LTC) until her death.
+
+ Action:
+
+ File an estate claim or 
+ lien for expenses paid under MA-LTC, but not for expenses paid by MinnesotaCare.
+
+ Top 
+ of Page 
+
+ MA, QMB, SLMB 
+ and QI
+
+ Estate On or after August 1, 2003: Estate is defined as the probate estate under Minnesota Statutes, Chapter 524, along with all of the person's interest established on or after August 1, 2003; or proceeds from those interests in real property owned by the person as a life tenant or joint tenant with the right of survivorship at the time of death, and to the extent the following interests become part of the probate estate, all interests or proceeds of those interests in securities owned by the person in beneficiary form and all interests in joint accounts, multiple party accounts, and pay on death accounts or proceeds of those accounts are subject to estate recovery. Prior to August 1, 2003: Estate is defined as described and used in Minnesota Statutes Chapter 524, Uniform Probate Code. 
+ recovery and pre-death liens may be used to recover the cost of services 
+ or benefits received by enrollees of MA, QMB, SLMB, QI, QWD and AC programs.
+
+ Estate Recovery of benefits received under Medicare Savings Programs 
+ (QMB, SLMB, QI and QWD) is limited to services provided before January 
+ 1, 2010.
+
+ Note:  The exclusion 
+ of recovery for QMB, SLMB, QWD and QI benefits does not apply to estate 
+ recovery for deaths that occur before January 1, 2010.  
+
+ The date of service for Medicare Savings Program deductibles, coinsurance, 
+ and co-payments is the Billed Date. The date of service for premium payments 
+ is the Warrant Date.  
+
+ Recovery of benefits received under AC is limited to services provided 
+ on or after July 1, 2003.  
+
+ The rules for estate recovery differ from the rules for pre-death or 
+ TEFRA liens. Refer to the appropriate subsection for detailed policy to 
+ determine if an estate claim, a lien, or both should be filed.
+
+ Estate Recovery
+
+ Estate recovery is the 
+ term for the general process by which the county or the state seeks reimbursement 
+ after the client’s death for MA, QMB, QWD, SLMB, QI and AC benefits received. 
+ There are four methods of estate recovery: probate 
+ estate , Decree 
+ of Descent , Affidavit 
+ of Collection of Personal Property and Transfer 
+ on Death Deed .
+
+ l 
+  Estates that are subject to recovery are limited in the following 
+ situations:
+
+ n 
+  The deceased spouse (client) received benefits under MA, QMB, SLMB, 
+ QI, QWD or AC, and surviving spouse did not.
+
+ Limit the estate claim to the value of the 
+ assets of the estate that were marital property or jointly owned property 
+ at any time during the marriage, up to the maximum amount of the estate 
+ claim.
+
+ n 
+  Prior to the client’s admission to a long-term care facility (LTCF), 
+ an adult child resided in the homestead, provided care that permitted 
+ the client to live at home for at least two years immediately before being 
+ admitted to the LTCF, and the adult child has lived in the homestead continuously 
+ since the date the deceased client moved to the LTCF.
+
+ Limit the estate claim to the value of non-homestead 
+ property up to the maximum estate claim. The personal representative of 
+ the client should file a lien against the homestead property in the estate 
+ for any unpaid balance of the claim to DHS.
+
+ Property held in life estate or joint tenancy 
+ established on or after August 1, 2003, continues after the death of the 
+ client. Recovery on a life estate is limited to the value of the client's 
+ interest on the date of death as determined by the Life 
+ Estate Mortality Table .
+
+ n 
+  The client was institutionalized and a sibling with an equity interest 
+ in the property resided in the homestead for at least one year before 
+ the client’s institutionalization and continuously since the date of the 
+ deceased client’s institutionalization.
+
+ Limit the estate claim to the value of non-homestead 
+ property up to the maximum estate claim. The personal representative of 
+ the client should file a lien against the homestead property in the estate 
+ for any unpaid balance of the claim to DHS.
+
+ Property held in life estate or joint tenancy 
+ established on or after August 1, 2003, continues after the death of the 
+ recipient. Recovery is limited on life estates to the recipient’s interest 
+ on the date of death as determined by the Life Estate Mortality Table.
+
+ l 
+  Collection Procedures.
+
+ When recovery is not waived because of undue 
+ hardship and heirs wish to satisfy the recovery claim with a non-liquid 
+ asset subject to recovery, the county may establish a reasonable payment 
+ schedule subject to reasonable interest.  
+
+ The county agency may recover when a client 
+ received MA, QMB, SLMB, QI, QWD and AC benefits under one of the following 
+ circumstances:
+
+ n 
+  The client was age 55 or older and received MA, QMB, SLMB, QI or 
+ QWD (recovery of benefits received under QMB, SLMB, QI and QWD is limited 
+ to services provided before January 1, 2010) or Alternative Care (services 
+ provided on or after July 1, 2003).
+
+ n 
+  Without regard to age, the client received MA while residing in 
+ a medical institution for six months or longer without reasonable expectation 
+ of discharge home. The maximum estate claim is the total amount of MA, 
+ QMB, SLMB and QI paid, without interest.
+
+ Note:  Discharge 
+ home does not include medical leave days or visitation to a home per plan 
+ of treatment. Recovery of benefits received under QMB, SLMB, and QI is 
+ limited to services provided before January 1, 2010.
+
+ The following policy indicates the maximum 
+ amount of the claim in different situations:
+
+ n 
+  For a client who received MA, QMB, SLMB, QI, QWD and AC after turning 
+ age 55, the maximum estate claim is the total amount of MA, QMB, SLMB, 
+ QI, QWD and AC paid, without interest.
+
+ Note:  This amount 
+ includes costs for the client’s receipt of hospital or long-term care 
+ services. The claim for benefits received under QMB, SLMB, QI and QWD 
+ is limited to services provided before January 1, 2010.
+
+ Note:  The recovery 
+ of AC is limited to services provided on or after July 1, 2003.  
+
+ n 
+  The age for estate recovery was lowered from age 65 to 55 on July 
+ 1, 1995. For people who were between ages 55 and 64 on July 1, 1995, the 
+ estate claim recovery is limited to MA, QMB, SLMB and QI services received 
+ on or after July 1, 1995.
+
+ A claim may be filed but not collected when 
+ one or more of the following estate claim exemptions exist. The approved 
+ claim would not be collected until after the individual dies or the exemption 
+ no longer exists. A lien may be filed on property for later collection 
+ when the exemption no longer exists. The exemptions are:
+
+ n 
+  A surviving spouse.
+
+ n 
+  A surviving child under age 21.
+
+ n 
+  A surviving child, of any age, who is blind or totally disabled 
+ using MA disability determination criteria.
+
+ n 
+  The estate is opened in tribal court for an enrolled band member. 
+ Consult your county attorney to determine whether a claim can be filed 
+ on the estate.
+
+ l 
+  Notice Requirements.
+
+ The county must provide notice of their 
+ claim for recovery of MA to all heirs and survivors of the decedent that 
+ you can determine through reasonable diligence. The notice must include 
+ all of the following:
+
+ n 
+  Procedures and instructions for making an application for a hardship 
+ waiver.
+
+ n 
+  Timeframes for submitting an application (30 days from date of notice) 
+ and determination (30 days from receipt of application).
+
+ n 
+  Information about appeal rights and procedures (include with Determination).
+
+ n 
+  Forms include:
+
+ m 
+ Notice of Claim for Medical Assistance in Decedent’s Death ( DHS-4934 ).
+
+ m 
+ Application for a Waiver of Claim ( DHS-4933 ).
+
+ m 
+ Determination of Waiver Request (Requestor) ( DHS-4935A ).
+
+ m 
+ Determination of Waiver Request (Attorney) ( DHS-4935B ).
+
+ l 
+  Undue Hardship.
+
+ Any person entitled to a notice of the claim 
+ has a right to apply for waiver of the claim based on undue hardship.
+
+ n 
+  A claim may be fully or partially waived if undue hardship is determined.
+
+ n 
+  Recovery may be deferred when undue hardship is determined.
+
+ n 
+  The personal representative of the client may file a lien against 
+ the property in the estate up to the amount of MA expenses to be satisfied 
+ when the property is sold or criteria for undue hardship is no longer 
+ met.
+
+ n 
+  Approval of a waiver of a claim must result in a personal benefit 
+ to the individual claiming undue hardship.
+
+ n 
+  Undue hardship does not apply when an illegal action is taken by 
+ the decedent to divest or divert assets in order to avoid estate recovery.
+
+ n 
+  Forms include:
+
+ m 
+ Determination of Waiver Request (Requestor) ( DHS-4935A ).
+
+ m 
+ Determination of Waiver Request (Attorney) ( DHS-4935B ).
+
+ n 
+  Review and consider the following factors when determining undue 
+ hardship:
+
+ m 
+ The estate claim could not be paid except by the sale of assets (real 
+ or personal property), subject to probate proceedings, for which all of 
+  the following statements are true for a period of at least 180 days 
+ prior to the date the decedent died and continue as true:
+
+ q 
+ The assets are used by the waiver applicant to produce income in his or 
+ her trade, profession, or occupation (including a working farm that the 
+ waiver applicant actually operates, but not a farm that is not worked 
+ by the applicant, or a farm that is rented);
+
+ q 
+ The assets are a necessary part of the waiver applicant’s trade, profession 
+ or occupation;
+
+ q 
+ The trade, profession or occupation in which the assets are used is the 
+ waiver applicant’s sole source of income; and
+
+ q 
+ The waiver applicant has worked continuously and exclusively in the trade, 
+ profession or occupation in which the assets are used.  
+
+ m 
+ The estate claim could not be paid except by the sale of the decedent’s 
+ real estate subject to probate proceedings and the following are true:
+
+ q 
+ The waiver applicant actually and continuously occupies the real estate 
+ as his or her only dwelling place for at least 180 days prior to the date 
+ the decedent died and continues to occupy the dwelling; and
+
+ q 
+ The real estate for which the hardship waiver is requested was classified 
+ as homestead property for property tax purposes under Minnesota Statutes 
+ § 273.124 
+ throughout the entire 180 days prior to the date the decedent died.
+
+ m 
+ Other compelling circumstances.
+
+ l 
+  American Indians:  Income, Resources and Property Exempt from 
+ Estate Recovery.
+
+ The federal agency has established standards 
+ for hardship that exempt certain assets and resources of American Indians 
+ from estate recovery. The assets and resources exempt from estate recovery 
+ include:
+
+ n 
+  Certain American Indian income and resources (such as interests 
+ in and income derived from Tribal land and other resources currently held 
+ in trust status, and judgment funds from the Indian Claims Commission 
+ and the U.S. Claims Court) that are exempt from Medicaid estate recovery 
+ by other laws and regulations;
+
+ n 
+  Ownership interest in trust or non-trust property, including real 
+ property and improvements for any of the following:
+
+ m 
+ Property located on a reservation (any federally recognized Indian Tribe’s 
+ reservation, Pueblo, or Colony, including former reservations in Oklahoma, 
+ Alaska Native regions established by Alaska Native Claims Settlement Act 
+ and Indian allotments) or near a reservation as designated by the Bureau 
+ of Indian Affairs See the MinnesotaCare Health Care Reform Waiver Annual 
+ 2003 Report, Attachment D3 (Reservation Map/Contract Health Service Delivery 
+ Areas).
+
+ m 
+ Property located within the most recent boundaries of a prior Federal 
+ reservation for any federally recognized Tribe not described in the paragraph 
+ above.
+
+ m 
+ Protection of non-trust property described as on or near a reservation 
+ is limited to circumstances when it passes from an Indian to one or more 
+ relatives (by blood, adoption, or marriage), including Indians not enrolled 
+ as members of a Tribe and non-Indians, such as spouses and step-children, 
+ that their culture would protect as family members; to a Tribe or Tribal 
+ organization and/or to one or more Indians.
+
+ n 
+  Income left as a remainder in an estate derived from property protected 
+ in trust or non-trust located on a Federal reservation or within most 
+ recent boundaries, that was either collected by an Indian, or by a Tribe 
+ or Tribal organization and distributed to Indians, as long as the person 
+ can clearly trace it as coming from the protected property;
+
+ n 
+  Ownership interests left as a remainder in an estate in rents, leases, 
+ royalties, or usage rights related to natural resources (including extraction 
+ of natural resources or harvesting of timber, other plants and plant products, 
+ animals, fish, and shellfish) resulting from the exercise of federally 
+ protected rights, and income either collected by an Indian, or by a Tribe 
+ or Tribal organization and distributed to Indians derived from these sources 
+ as long as the person can clearly trace it as coming from protected sources; 
+ and
+
+ n 
+  Ownership interests in or usage rights to items not covered above 
+ that have unique religious, spiritual, traditional, or cultural significance 
+ or rights that support subsistence or a traditional life style according 
+ to applicable Tribal law or custom.
+
+ Counties may recover the following income, 
+ resources and property from the estates of American Indians:
+
+ n 
+  Ownership interests in assets and property, both real and personal, 
+ that are not described as exclusions above.
+
+ n 
+  Any income and assets left as a remainder in an estate that do not 
+ derive from protected property or sources described as exclusions above.
+
+ Top 
+ of Page 
+
+ Pre-Death or TEFRA 
+ Liens
+
+ The pre-death or TEFRA 
+ lien process is separate from estate recovery.
+
+ Pre-death or TEFRA liens are filed by the 
+ DHS Special Recovery Unit against the homestead or other real property Land, all buildings, structures, improvements, or other fixtures on it belonging or pertaining to the land, including mobile or manufactured homes attached to a permanent foundation on land owned by the client, all mines, minerals, fossils, and trees on or under it, and life estate and remainder interests. . 
+ Send the Medical Assistance Lien Worksheet ( DHS-3203 ) 
+ to DHS when the client meets the following criteria:
+
+ l 
+  The client, of any age, receives MA while residing in a:
+
+ n 
+  LTCF.
+
+ n 
+  ICF/DD.
+
+ n 
+  Hospital (inpatient).
+
+ l 
+  The client is expected to remain permanently in an institution.
+
+ l 
+  The client owns real property that does not meet a lien exemption.
+
+ DHS 
+ cannot file a pre-death or TEFRA 
+ lien against real property under any of the following exemptions:
+
+ l 
+  It is a homestead of the person’s spouse.
+
+ l 
+  It was the client’s homestead at the time the client entered the 
+ facility and any of the following people now live in the property:
+
+ n 
+  The client’s child who is age 20 or younger.
+
+ n 
+  The client’s child, of any age, who is blind or disabled using the 
+ MA disability determination criteria.
+
+ n 
+  The client’s child, of any age, who meet all of the following conditions:
+
+ m 
+ Lived in the home for at least two years before the client began receiving 
+ institutional care.
+
+ m 
+ Provided care that allowed the client to remain in the community.
+
+ m 
+ Has lived in the home continuously since the client entered the institution.
+
+ n 
+  The client’s sibling who meets all of the following conditions:
+
+ m 
+ Has an equity interest in the homestead.
+
+ m 
+ Resided in the home for at least one year before the client began receiving 
+ institutional care.
+
+ m 
+ Has lived in the home continuously since the person entered the institution.
+
+ l 
+  The income, resources and/or property meet an exemption for American 
+ Indians.
+
+ Continue to send the Medical Assistance 
+ Lien Worksheet ( DHS-3203 ) to DHS for life estates 
+ and jointly owned interest in land, regardless of the date created.
+
+ l 
+  Liens filed on life estates and jointly owned interest in land, 
+ created prior to August 1, 2003, are unenforceable. DHS will not file 
+ individual releases of these liens after the client’s death as the 2005 
+ legislation did this for all liens meeting the criteria.
+
+ l 
+  DHS will continue to file liens and make recoveries on life estates 
+ and jointly owned interest in land, created prior to August 1, 2003, during 
+ the lifetime of the recipient.
+
+ l 
+  QMB, SLMB, QI or QWD expenses are included in the claim filed under 
+ a TEFRA lien and continue to be recoverable under a lien that existed 
+ at time of the client’s death.
+
+ Liens filed on or after August 1, 2000, 
+ expire 10 years from the date of filing. DHS can renew the lien for an 
+ additional 10-year period from the date it would otherwise expire.
+
+ Note:  Liens established 
+ prior to August 1, 2000, expire 18 months after DHS is notified of the 
+ client’s death. The lien expires three years from the client’s date of 
+ death if DHS is not notified of the client’s death.
+
+ Top of Page 
+
+ GAMC
+
+ Rules for estate recovery and liens differ from one another for the 
+ GAMC program. Refer to the appropriate subsection for detailed policy 
+ to determine if an estate claim and/or a lien should be filed.
+
+ Estate 
+ Recovery
+
+ The county agency may 
+ recover benefits paid through GAMC by initiating estate recovery. The 
+ county agency may perform a method of estate recovery when an exemption 
+ is not met and:
+
+ l 
+  a GAMC client dies.
+
+ l 
+  a GAMC client dies and then the surviving spouse, who also received 
+ GAMC, dies.
+
+ l 
+  a GAMC client dies and then the surviving spouse, who did not receive 
+ GAMC, dies.
+
+ Note:  The amount 
+ of the claim in this situation is limited to the value of the assets of 
+ the estate that were marital property or jointly owned property at any 
+ time during the marriage.
+
+ Estate recovery may not be performed by 
+ the county when there is one or more of the following exemptions:
+
+ l 
+  A surviving spouse.
+
+ l 
+  A surviving child under age 21.
+
+ l 
+  A surviving child, of any age, who is blind or totally disabled 
+ using MA disability determination criteria.
+
+ The county also has options for estate 
+ recovery for GAMC, as it does for MA.
+
+ l 
+  An estate  claim in a probate or decree of descent proceeding.
+
+ l 
+  An Affidavit of Collection of Personal Property.
+
+ l 
+  Assert a claim against real property that conveys interest by execution 
+ of a TODD.
+
+ Probate 
+ Estate
+
+ The county agency may 
+ file an estate claim with a court of appropriate jurisdiction. The amount 
+ of the claim is the total amount of GAMC paid without interest.
+
+ Note:  Follow 
+ directions in Methods of Estate 
+ Recovery .
+
+ Decree 
+ of Descent
+
+ After 
+ a petitioner or their attorney files a petition for a decree of descent, 
+ they must apply to the county agency for the county in which the petition 
+ is pending for a Clearance of Medical Assistance Claims against the decedent 
+ or a predeceased spouse who received MA benefits, which include GAMC.
+
+ Note:  Follow 
+ directions Methods of Estate 
+ Recovery .
+
+ Affidavit 
+ of Collection of Personal Property
+
+ The county may use an 
+ Affidavit of Collection of Personal Property instead of filing an estate 
+ claim under the same conditions as for MA.
+
+ Note:  Follow 
+ directions in Methods of Estate 
+ Recovery .
+
+ Transfer 
+ on Death Deed (TODD)
+
+ At the time of the death 
+ of the grantor owner of a TODD, the grantee or their attorney or agent 
+ must apply to the county agency for an Application for Certificate of 
+ Clearance for Medical Assistance Claim-Transfer on Death Deed ( DHS-5893 ) 
+ to request clearance of MA claims against the grantor owner or their predeceased 
+ spouse.   
+
+ Note:  Follow 
+ directions as stated in Methods 
+ of Estate Recovery .
+
+ Pre-Death 
+ or TEFRA Liens
+
+ There are no pre-death 
+ or TEFRA lien provisions for GAMC.
+
+ Top of Page 
+
+ Long-Term 
+ Care Partnership (LTCP)
+
+ Estate 
+ Recovery and MA Liens When an Enrollee Dies
+
+ An amount equal to the 
+ total amount paid by a Partnership policy Long-term 
+ care insurance that qualifies for asset protection under the Long-Term 
+ Care Partnership. may be protected as an asset during 
+ the person’s lifetime and from estate recovery after his or her death. 
+ See Long-Term Care Partnership Insurance 
+ to determine if the applicant or enrollee has a Partnership policy.
+
+ Do not pursue recovery 
+ of MA-LTC and AC payments from any protected asset up to the Protected Asset Limit (PAL) The total 
+ dollar amount of assets a person is allowed to protect through the Long-Term 
+ Care Partnership. This amount is equal to the dollar amount of insurance 
+ benefits that a Partnership policy has paid on behalf of that person. . 
+ If a deceased client did not protect assets up to the PAL during his or 
+ her lifetime, the client’s representative may designate assets up to the 
+ PAL to protect from estate recovery.
+
+ Unprotected Assets
+
+ The person’s representative may designate 
+ assets to protect from estate recovery in certain situations, such as:
+
+ l 
+  When the person did not protect assets up to the PAL during his 
+ or her lifetime.
+
+ l 
+  When the Partnership policy paid additional payments after MA-LTC 
+ was opened and an equal amount of assets was not protected.
+
+ Pursue recovery of MA-LTC and AC payments 
+ against unprotected assets.  If the estate allows claims for both 
+ MA-LTC and AC, but cannot pay both from the unprotected asset amount, 
+ the estate must pay the claim for AC before paying MA costs.
+
+ For real property Land, 
+ all buildings, structures, improvements, or other fixtures on it belonging 
+ or pertaining to the land, including mobile or manufactured homes attached 
+ to a permanent foundation on land owned by the client, all mines, minerals, 
+ fossils, and trees on or under it, and life estate and remainder interests. , 
+ submit the Medical Assistance Lien Worksheet ( DHS-3203 ) 
+ to the DHS Special Recovery Unit (SRU) if an estate is not opened and 
+ an MA lien was not placed against the unprotected interest of real property 
+ prior to the client’s death.  Enter the amount of the property that 
+ is protected from estate recovery. When the fair market value of protected 
+ real property exceeds the amount of protection on the property, the amount 
+ that can be recovered is the difference between the fair market value 
+ and the protected portion of the property value.
+
+ Estate 
+ Recovery and MA Liens When a Surviving Spouse Dies
+
+ Apply the following rules with the death 
+ of an MA-LTC client’s spouse when the deceased MA-LTC client protected 
+ the full amount of assets allowed by LTCP and the protected asset was 
+ transferred to the surviving spouse outside of probate.
+
+ l 
+  The surviving spouse did not receive MA, AC or MA-LTC:
+
+ n 
+  From the estate of the surviving spouse, do not pursue recovery 
+ for MA-LTC and AC payments received by the predeceased spouse.
+
+ n 
+  Do not submit DHS-3203 to DHS Special Recovery Unit.
+
+ l 
+  The surviving spouse did receive MA, AC or MA-LTC:
+
+ n 
+  Pursue recovery for MA-LTC and AC payments received by the predeceased 
+ spouse.
+
+ n 
+  Make a claim for MA, AC, or MA-LTC and AC payments received by the 
+ surviving spouse against an asset protected by the predeceased spouse.
+
+ n 
+ Send DHS-3203 to SRU for benefits received by the surviving spouse.
+
+ Top 
+ of Page 
+
+ Cause 
+ of Action
+
+ A cause of action may be filed against a person who receives assets 
+ from an MA LTC client for less than fair market value and either:
+
+ l 
+  The transfer was known by the county agency but a penalty period 
+ could not be implemented because the MA client died before the effective 
+ date of the transfer penalty; or
+
+ l 
+  An uncompensated transfer was made and not reported to the county 
+ agency prior to the death of the client and the transfer was made to avoid 
+ estate recovery.
+
+ No cause of action exists unless the person who received the transferred 
+ assets:
+
+ l 
+  Knew or should have known the transfer was being made by an MA enrollee; 
+ and
+
+ l 
+  The person who received the transferred assets did not provide adequate 
+ compensation to the MA enrollee.  
+
+ Example:
+
+ Mr. Smith Lives in a LTCF 
+ and was approved an as MA enrollee on June 1. Prior to entering the LTCF 
+ Mr. Smith transferred his home worth $150,000 without compensation to 
+ his son and failed to report the transfer to the county agency. Mr. Smith 
+ died in September after receiving over $10,000 of MA LTC services.  
+
+ Action:
+
+ The worker or county staff 
+ should refer the case to their county attorney. The county attorney may 
+ give consideration to the following factors, among others, when determining 
+ the intention to avoid estate recovery:
+
+ m 
+ Was the transfer made to a family member?
+
+ m 
+ Did the person who made the transfer retain possession or control of the 
+ property after the transfer?
+
+ m 
+ Was the transfer concealed?
+
+ m 
+ Did the transfer include the majority of the assets of the person who 
+ made the transfer?
+
+ m 
+ Was the compensation received reasonably equivalent to the fair market 
+ value of the property?
+
+ m 
+ Did the transfer occur shortly before the death of the enrollee?
+
+ Top of Page

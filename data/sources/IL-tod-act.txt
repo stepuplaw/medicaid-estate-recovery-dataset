@@ -1,0 +1,582 @@
+Source URL: https://www.isba.org/ibj/2011/12/thetransferondeathinstrumentcomesto
+Retrieved: 2026-09-23
+
+The Transfer on Death Instrument Comes to Illinois | Illinois State Bar Association 
+
+ Skip to main content 
+
+ About ISBA Contact Us 
+
+ For the Public 
+
+ Member Login 
+
+ Join Now 
+
+ Main menu
+
+ News & Publications News Illinois Lawyer Now 
+
+ The Bar News 
+
+ Daily Legal News 
+
+ E-Clips 
+
+ Periodicals Illinois Bar Journal 
+
+ Section Newsletters 
+
+ Illinois Courts Bulletin 
+
+ Store Books 
+
+ Client Brochures 
+
+ Merchandise 
+
+ Order History 
+
+ Shopping Cart 
+
+ ISBA Advertising ISBA Advertising 
+
+ Expert Services Directory 
+
+ Classified Ads 
+
+ CLE & Events CLE Programs Upcoming CLE 
+
+ On-Demand CLE 
+
+ Solo & Small Firm Conference 
+
+ Fred Lane's Trial Technique Institute 
+
+ CLE Information Free On-Demand CLE 
+
+ FAQs 
+
+ New Lawyers 
+
+ CLE Coordinators 
+
+ Faculty Development 
+
+ Online CLE Account Free CLE Credits 
+
+ My Programs 
+
+ ISBA MCLE Earned 
+
+ My Certificates 
+
+ Technical Support 
+
+ Events Upcoming ISBA Events 
+
+ Annual Meeting 
+
+ Joint Midyear Meeting 
+
+ Statewide Bar Calendar 
+
+ Practice & Career Practice Practice HQ 
+
+ Free Trust & Billing Software 
+
+ Legal Forms 
+
+ Ethics 
+
+ Expert Services Directory 
+
+ Research vLex Fastcase 
+
+ Legislation 
+
+ Legal Links 
+
+ Marketing Illinois Lawyer Finder 
+
+ ISBA Advertising 
+
+ Member Mark 
+
+ Let's Get Legal Radio Program 
+
+ Career Career Center 
+
+ Find a Job 
+
+ Post a Job 
+
+ Post a Resume 
+
+ Law Practices for Sale 
+
+ Groups & Participation Groups Sections 
+
+ Committees 
+
+ Leadership 
+
+ Law Students 
+
+ Diversity, Equity, & Inclusion 
+
+ Affiliated Bars 
+
+ New Lawyers New Lawyers Home 
+
+ CLE for New Lawyers 
+
+ MCLE Requirements for New Lawyers 
+
+ Mentoring for New Lawyers 
+
+ Young Lawyers Division 
+
+ Lincoln Writing Contest 
+
+ Get Involved ISBA Central Communities 
+
+ Become a Leader 
+
+ Authors & Speakers 
+
+ Elections 
+
+ Awards 
+
+ Judicial Evaluations & Advisory Polls 
+
+ Give Back Rural Practice Fellowship Program 
+
+ Mentoring Program 
+
+ Pro Bono 
+
+ Volunteer 
+
+ Donate 
+
+ Illinois Bar Foundation 
+
+ Membership & Benefits Top Member Benefits Free On-Demand CLE 
+
+ vLex Fastcase Free Legal Research 
+
+ Solo & Individual Health Insurance 
+
+ Member-to-Member Directory 
+
+ ISBA Mutual Insurance 
+
+ Member Benefits Advocacy for the Profession 
+
+ Member Discounts 
+
+ For New Lawyers 
+
+ For Law Students 
+
+ All Member Benefits 
+
+ Join or Renew Join 
+
+ Renew 
+
+ AutoPay - Automatic Dues Plan 
+
+ Advertisements
+
+ Site Search 
+
+ December 2011 • Volume 99 • Number 12 • Page 618 
+
+ Thank you for viewing this Illinois Bar Journal article. Please join the ISBA to access all of our IBJ articles and archives.
+
+ Estate Planning/Real Estate
+
+ The Transfer on Death Instrument Comes to Illinois
+
+ By Charles G. Brown 
+
+ Effective January 1, Illinois law gives your clients a convenient way to transfer residential real estate outside of probate. Here's a tour of the Residential Real Property Transfer on Death Instrument Act by one of its drafters.
+
+ On January 1, 2012, Illinois estate planners will have a new tool to help clients transfer assets at death. The Illinois Residential Real Property Transfer on Death Instrument Act ("act") 1 authorizes owners to transfer their Illinois residential real estate outside of probate using a prerecorded instrument. To avoid confusion with the term "deed," the act refers to the legal document used to transfer real estate on death as a "Transfer on Death Instrument" ("TODI"). 2 
+
+ Illinois joins Wisconsin, 3 Indiana, 4 Missouri 5 and 13 other states 6 that have adopted some form of TODI statute. The act was drafted by the ISBA Trusts and Estates Section Council in cooperation with the ISBA Real Estate Section Council and Elder Law Section Council and under the leadership of former ISBA President John O'Brien.
+
+ It was largely modeled after the recently adopted Uniform Real Property Transfer on Death Act ("uniform act"), which was drafted by the National Conference of Commissioners on Uniform State Laws and approved by the American Bar Association in 2009. 7 However, the Illinois act differs in several important respects. This article will describe key sections of the new law, discussing among other things where and how it differs from the uniform act.
+
+ TODI fundamentals
+
+ "Residential real estate" defined. The act applies only to "residential real estate." The act mirrors the definition that appears in the Illinois Real Property Disclosure Act 8 and the Illinois Code of Civil Procedure 9 :
+
+ [R]eal property improved with not less than one nor more than four residential dwelling units, units in residential cooperatives; or, condominium units, including the limited common elements allocated to the exclusive use thereof that form an integral part of the condominium unit; or a single tract of agriculture real estate consisting of 40 acres or less which is improved with a single family residence. 10 
+
+ While the uniform act and other state statutes do not limit the type of real estate that can be transferred, the ISBA drafters believed the greatest demand for this type of instrument was where the client's only real estate is a principal or vacation residence. Although the scope of the act may be expanded, the limitation to residential real estate allows the title industry, recording officials, and the practicing bar to become familiar with the act and its application.
+
+ No irrevocable TODIs. A TODI instrument is revocable at any time prior to the owner's death, even if the TODI itself or another instrument contains a contrary provision. 11 The act prohibits an irrevocable TODI. For more, see the "revocation" section below.
+
+ Beneficiaries can be corporations, etc. The transfer under the TODI is triggered by the owner's death. Therefore, only a natural person can create a TODI. 12 However, a "beneficiary" is any "person" who receives residential real estate under a TODI. 13 A "designated beneficiary" is a person who is designated to receive the residential real estate under the TODI. 14 The term "person" is broader than the term "owner" and includes not only natural persons, but also any legal entity capable of owning residential real estate, including, but not limited to, a trust, corporation, limited liability company or governmental entity. 15 
+
+ Beneficiaries become owners of the property upon the death of the predecessor owner. The beneficiaries can be designated concurrently or successively. The designation can be contingent upon conditions existing at the owner's death, such as the beneficiary's survival. 16 
+
+ In essence, the owner has the same flexibility in designating the beneficiary under a TODI as he or she has when designating a beneficiary under a will or trust. Something an estate planner must consider before using a TODI is whether title complications might arise if the designation is too complex or requires information beyond the four corners of the document. Conditional designations, or those describing beneficiaries other than by name, can make it hard for the title company to determine whether beneficiaries are properly identified.
+
+ TODIs are "nontestamentary." The act contains a statement that a TODI is "nontestamentary" and subject to the laws governing nontestamentary instruments. 17 The term "nontestamentary" is not defined in the uniform act. However, the Uniform Probate Code and the Uniform Nonprobate Transfers on Death Act, which is a free-standing version of Article VI of the Uniform Probate Code (herein, collectively, "UPC"), define "nontestamentary" as a provision for a nonprobate transfer on death in an insurance policy, contract of employment, bond, mortgage, promissory note, or "other written instrument of a similar nature." 18 
+
+ The UPC combines transfers by testamentary and nontestamentary instruments for purposes such as creditor claims and statutory allowances to the spouse or children 19 and the elective share of a surviving spouse. 20 The UPC also has provisions that govern dispositions by both testamentary and nontestamentary means, such as rules governing survival and simultaneous death, 21 revocation by divorce, 22 homicide, 23 and anti-lapse provisions. 24 
+
+ Illinois has not adopted the UPC, but the Illinois Probate Act (probate act) also has provisions that govern transfers by both "testamentary" and "nontestamentary" means. 25 Since the TODI is defined as a "nontestamentary" instrument, it, too, will be governed by these provisions of the probate act.
+
+ Owner's capacity, agent's lack of authority. To execute or revoke a TODI, an owner must have the same mental capacity as is required to make or revoke a will. 26 Unless expressly authorized by a power of attorney or similar instrument, an owner's agent cannot create or revoke a TODI on behalf of the owner. 27 
+
+ This limitation is consistent with the Illinois Power of Attorney Act. The POA act does not give an agent the authority, for example, to revoke or amend a revocable trust on behalf of a principal without specific authority. 28 However, an agent granted the general authority to sell may sell the owner's residential real estate during the owner's lifetime, even though the owner has executed and recorded a TODI, so long as the agent acts in good faith. 29 
+
+ Creating a TODI
+
+ Recording, other requirements. The act sets out the three minimum requirements for creating and executing a TODI.
+
+ First, it must contain the essential ele­ments of a properly recordable inter vivos deed and be executed, witnessed, and acknowledged as set forth in section 45 of the act. 30 Second, it must state that the transfer to the designated beneficiary will occur at the owner's death. 31 Third, it must be recorded before the owner's death in the public records of the county recorder of the county or counties in which any part of the residential real estate is located. 32 Failure to observe any requirement will render the TODI ineffective to transfer the property. 33 
+
+ The act does not provide sample TODI forms. This was an intentional omission. A TODI is a legal document and must be prepared by a lawyer. A TODI must contain all of the essential information required for a recordable inter vivos deed. In general, this includes an accurate legal description of the property; 34 the typed or printed name and address of the owners, designated beneficiaries, 35 and preparer; 36 the typed or printed name of the witnesses and person taking the acknowledgement; 37 the name and address of the owner or owners to whom subsequent tax bills are to be sent; 38 and any other essential information required by the recorder of deeds. 39 
+
+ As noted above, the TODI must be recorded before the owner's death in each county where any part of the residential real estate is located or it will be void and ineffective. 40 The requirement of recordation before death helps to prevent fraud and enables parties to rely on the recording system to establish the beneficiaries' identity and interest. It also prevents a battle of documents if one or more TODIs have been executed but not recorded.
+
+ Signing, attestation, and acknowledgement. The TODI must be signed by the owner(s) and acknowledged by someone authorized to take acknowledgements of deeds or instruments of writing. 41 In addition, the act requires that the execution be witnessed by at least two disinterested individuals in the owner's presence - i.e., the same procedure required for execution of a will. The two witnesses must attest in writing that the owner executed the TODI in their presence as a free and voluntary act and that at the time of execution they believed the owner to be of sound mind and memory. 42 
+
+ This requirement for witnesses distinguishes the Illinois act from the uniform act and most state versions. 43 It was added both to underscore for the owner the significance of executing a TODI for residential real estate and to help protect against elder abuse.
+
+ Notice, delivery, and consideration. A TODI is not a deed. Therefore, notice and delivery, normal requirements for an inter vivos deed, are not required for a TODI transfer. 44 The act, however, does make acceptance by the beneficiary a precondition to transfer of title at the owner's death. 45 
+
+ Revoking a TODI
+
+ Just as a TODI must be recorded to be effective, the act requires any revocation of a TODI to be recorded. 46 A prior recorded TODI may be revoked in only two ways: (i) by a subsequent TODI that either expressly or by inconsistency revokes the prior TODI, or (ii) by a instrument of revocation that expressly revokes the prior TODI in whole or in part. 47 
+
+ Attempted revocation by (i) a revocatory act, such as tearing, burning or destroying the TODI, (ii) an unrecorded instrument, or (iii) a provision in the owner's will is not effective. 48 The revocation is not effective until it is executed, witnessed, and acknowledged in the same way it was created, and it must be recorded prior to the owner's death where the TODI was recorded. 49 
+
+ The date of the revocation and not the date it is recorded controls which TODI is revoked. 50 This helps avoid the battle of documents. Consider the following examples from the commentary to section 11 of the uniform act (not exact quotes). 51 
+
+ Example 1: T executed, acknowledged and recorded a TODI for Blackacre. Later, T executed, acknowledged and recorded a second TODI for Blackacre, containing an express revocation clause revoking "all my prior TODIs for Blackacre." The second TODI revoked the first TODI. The revocation occurred when the second TODI was recorded. (For the result if the second TODI had not contained an express revocation clause, see Example 5 below.)
+
+ Example 2: T executed, acknowledged and recorded two TODIs for Blackacre. Both TODIs expressly revoked "all my prior TODIs for Blackacre." The dates of acknowledgment determine which TODI revoked the other. The first TODI was acknowledged November 1; the second TODI was acknowledged December 15. The second TODI is the later acknowledged, so it revoked the first TODI. The revocation occurred when the second TODI was recorded.
+
+ Example 3: T executed and acknowledged a TODI for Blackacre. T later executed and acknowledged a revocation form. Both instruments were recorded. Because the revocation form was acknowledged later than the TODI, the form revoked the TODI. The revocation occurred when the form was recorded.
+
+ A revocation by inconsistency is illustrated in the following examples contained in the commentary to the uniform act.
+
+ Example 5: T executed, acknowledged and recorded a TODI for Blackacre naming X as the designated beneficiary. Later, T executed, acknowledged and recorded a TODI for the same property, Blackacre, containing no express revocation of the earlier TODI but naming Y as the designated beneficiary. Later, T died. The recording of the TODI in favor of Y revoked the TODI in favor of X by inconsistency. At T's death, Y is the owner of Blackacre.
+
+ Example 6: T, the owner of Blackacre in fee simple absolute, executed, acknowledged and recorded a TODI for Blackacre naming X as the designated beneficiary. Later, T executed, acknowledged and recorded a TODI containing no express revocation of the earlier deed but naming Y as the designated beneficiary of a life estate in Blackacre. Later, T died. The recording of the TODI in favor of Y partially revoked the TODI in favor of X by inconsistency. At T's death, Y is the owner of a life estate in Blackacre, and X is the owner of the remainder.
+
+ The uniform act permits the revocation of a TODI by an inter vivos deed that contains language expressly revoking the TODI in whole or in part. The Illinois act, however, does not, because an inter vivos deed does not require witnesses and its grantor need only possess a mental capacity sufficient to make a contract, not to execute a will.
+
+ While a TODI cannot be revoked by an inter vivos deed, an inter vivos deed could actually prevent the TODI from being operative. The law of ademption by extinction, which is recognized in Illinois, means a specific bequest of property cannot occur because the property is not owned by the transferor at death. 52 An inter vivos deed properly executed, delivered and accepted during the owner's lifetime could result in an ademption by extinction even if the deed was not recorded prior to the owner's death. 53 
+
+ Any limits on TODI real estate before the owner dies?
+
+ As with other forms of statutory nontestamentary dispositions, such as the Illinois Trust and Payable on Death Accounts Act 54 and the Uniform TOD Security Registration Act, 55 the fundamental feature of the act is that the TODI does not operate until the owner's death. The beneficiary acquires no rights or interest in the property before that happens. Section 60 of the act specifically preserves the right of the owner to deal with his or her residential real estate during life without restriction. 56 
+
+ Section 60 is designed to protect all parties who may have dealings with the owner and the property from having any concern about the rights of the beneficiary. Paragraph (a) of section 60 provides a list of typical interests that are not affected by the fact that a TODI has been recorded. 57 
+
+ For example, a recorded TODI does not affect the right of an owner or agent to sell the residential real estate during the owner's lifetime. 58 A TODI does not affect the rights of the owner's creditors and lien holders. 59 The designated bene­ficiary will not thereby become ineligible for public assistance or vulnerable to creditors, 60 nor does a recorded TODI create a legal interest the beneficiary can assign prior to the owner's death. 61 
+
+ Like a specific legatee of real estate under a will, the beneficiary of the TODI takes subject to all conveyances, encumbrances, assignments, contracts, options, mortgages, liens and other interests to which the residential real estate is subject at the owner's death. 62 The act protects a TODI beneficiary if the owner sells the residential real estate on contract during his lifetime and the contract remains executory at the time of his death. 63 
+
+ As mentioned above, Illinois law recognizes ademption by extinction. The probate act, however, alters the legal consequence of an ademption with respect to specific bequests under a will. 64 The probate act provides that if the testator contracts to sell real property specifically bequeathed under the will and the contract is executory when he dies, the specific devise is not adeemed. Instead, the property and the right to the proceeds under the contract pass to the specific devisee, subject to the contract. 65 Section 60(b) of the act accords a beneficiary under a TODI the same advantage. 66 
+
+ What if named beneficiaries are missing when the owner dies?
+
+ As mentioned above, subject to only a few limitations, the owner's interest is transferred to the beneficiary upon the owner's death. If a designated beneficiary fails to survive the owner or was not legally in existence at the owner's death, the transfer lapses and passes to the estate of the owner unless the TODI provides otherwise or the anti-lapse provision applies (see below). 67 A TODI carries no covenants or warranties of title even if the instrument contains a contrary provision. 68 
+
+ Because the UPC's anti-lapse and simultaneous death provisions and the Illinois anti-lapse and simultaneous death statutes do not apply to TODIs, 69 the drafters of the act added specific provisions dealing with anti-lapse and simultaneous deaths. Under section 65(a)(3), the descendants of a predeceased designated beneficiary take the residential real estate on a per stirpital basis, assuming the owner does not provide otherwise and the predeceased beneficiary is his or her descendant. 70 
+
+ Similarly, if the designated beneficiary is one of a class and any class member dies before the owner, the living class members take the share the deceased members would have taken. The exception is when a deceased class member is a descendant of the owner, in which case the deceased class member's own living descendants will take the share he would have taken. 71 
+
+ If the owner and designated beneficiary die simultaneously, the act incorporates the probate act provision governing simultaneous deaths involving life insurance. 72 If there is insufficient evidence to establish the order of the owner and designated beneficiary's death, the designated beneficiary is presumed to have predeceased the owner, thereby triggering the alternative or contingent beneficiary designation, if any, or the anti-lapse provision, if applicable, or if none then to the owner's estate under section 65(a)(2). 73 
+
+ Other than the anti-lapse and simultaneous death provisions, the act contains no default rules for interpreting a beneficiary designation under the TODI. Drafting and preparing a TODI requires a trained attorney, who must design the beneficiary designation with the same care he or she uses when drafting a will or trust.
+
+ Transfers by joint owners
+
+ Special rules apply to TODIs executed by joint owners. A "joint owner" is defined as "an individual who owns residential real estate concurrently with one or more other individuals with a right of survivorship." 74 This includes joint tenants with right of survivorship and tenants by the entirety. 75 It does not, however, include individuals who own residential real estate as tenants in common. 76 
+
+ Joint owners may execute a TODI jointly or severally. 77 The execution by a single joint owner does not sever the joint tenancy or tenancy by the entirety. 78 If all of the joint owners execute the TODI, it can be revoked only by all then-living joint owners. 79 
+
+ A TODI is revocable by the last surviving joint owner despite any agreement among joint owners not to revoke it. 80 If fewer than all joint owners execute a TODI, its fate will be governed by the joint owner who is last to die. 81 If the last-to-die joint owner did not execute a TODI, the designation of any prior deceased joint owner is ineffective. 82 
+
+ Notice of death affidavit, acceptance, and effective date of transfer
+
+ The transfer of title is effective as of the owner's death upon the filing of a notice of death affidavit and acceptance by the beneficiaries in the offices of the county recorder for any counties where the residential real estate is located. 83 This acceptance requirement is missing from the uniform act and most state statutes.
+
+ A sample Notice of Death Affidavit and Acceptance of Transfer on Death Instrument is part of the statute. 84 The notice of death affidavit and acceptance must contain the name and address of each designated beneficiary taking under the TODI, a legal description of the property, the street address and parcel identification number, the name of the deceased owner, and the date of the owner's death. 85 The notice must be signed by each beneficiary or his or her authorized representative. 86 
+
+ The act allows a "disclaimer" of the TODI in the same manner as any nontestamentary instrument. 87 The non-acceptance of a TODI, however, is not the same as a disclaimer. A beneficiary who disclaims the transfer is treated as having predeceased the owner, and the property will pass to the alternate beneficiary, if any. The disclaimer relates back to the date of the owner's death, and the designated beneficiary will be treated as never having had an interest in the property.
+
+ If the designated beneficiary fails to accept a transfer, on the other hand, the TODI is void and ineffective if not accepted within two years of the owner's death. 88 The acceptance requirement was included to let the beneficiary decide whether he or she wants to take title to the property, particularly if it has environmental problems or building code violations.
+
+ The two-year acceptance limit came at the urging of the title insurance industry, to provide certainty if the beneficiary does not step forward. Since the act is limited to residential real estate and a TODI must be recorded to be effective, most beneficiaries are likely to accept within a reasonable period.
+
+ But charities or non-resident beneficiaries, for example, might be unaware of their designation. Therefore, the act provides that if a beneficiary has not filed an acceptance within 30 days of the owner's death, the personal representative of the owner's estate may take possession of the residential real estate. He or she is entitled to a lien for reasonable expenses incurred in caring for the property until the TODI is accepted 89 after making a reasonable attempt to locate and notify the designated beneficiary. 90 
+
+ In addition, a beneficiary may disclaim a TODI in whole or in part, the same as any other nontestamentary bequest, as provided under the Disclaimer Under Nontestamentary Instrument Act. 91 
+
+ Finally, the act contains its own statute of limitations for actions to set aside or contest the validity of a TODI. The limitation period is the earlier of two years after the owner's date of death or six months from the date letters of office, if any, are issued. 92 This limitation period is modeled after the one for challenging an inter vivos trust. 93 
+
+ Conclusion
+
+ The proliferation of instruments to transfer assets at death outside of probate has been a central development in estate administration in recent decades. Like it or not, almost any property can be transferred at death by means other than a will.
+
+ These "will substitutes" range from revocable trusts to pay on death accounts to transfer on death security registrations. All share a key feature: until the owner's death, neither the designated beneficiary nor his creditors have any right, title, or interest in the property, and the owner can revoke the bene­ficiary designation at any time prior to death.
+
+ While the revocable trust is the primary estate planning tool, there are costs to set it up and maintain it over the owner's life. Prior to the TODI act, estate planners had no way other than a will or trust to transfer an owner's residential real estate at death. The act gives estate planners the same tools for transferring real estate that are available for bank accounts and securities, enabling us to better serve our clients.
+
+ Charles G. Brown < cbrown@brownlawdekalb.com > of DeKalb is vice chair of the ISBA Trusts and Estates Section Council.
+
+He concentrates his practice in estate and business succession planning, trust and probate administration, and real estate law.
+
+ 1. PA 097-555 (755 ILCS 27/1 et seq, eff 1-1-12). The act will apply to all TODIs executed before January 1, 2012, the effective date of the act, but only if the owner dies on or after January 1, 2012. 755 ILCS 27/10 (eff 1-1-12).
+
+ 2. 755 ILCS 27/5 (eff 1-1-12).
+
+ 3. Wis Stat § 705.15 . 
+
+ 4. Ind Code § 32-17-14 . 
+
+ 5. Mo Rev Stat § 461.025 et seq.
+
+ 6. Arizona, Arkansas, Colorado, Hawaii, Kansas, Minnesota, Montana, Nevada, New Mexico, North Dakota, Ohio, Oklahoma, and Oregon.
+
+ 7. Uniform Real Property Transfer on Death Act (2009), available at http://www.law.upenn.edu/bll/archives/ulc/tod/2009_final.pdf .
+
+ 8. 765 ILCS 77/5.
+
+ 9. 735 ILCS 5/15-1219.
+
+ 10. 755 ILCS 27/5 (eff 1-1-12).
+
+ 11. 755 ILCS 27/25 (eff 1-1-12).
+
+ 12. I755 ILCS 27/5 (eff 1-1-12).
+
+ 13. Id.
+
+ 14. Id.
+
+ 15. Id.
+
+ 16. 755 ILCS 27/20 (eff 1-1-12).
+
+ 17. 755 ILCS 27/30 (eff 1-1-12).
+
+ 18. Uniform Probate Code (UPC) § 6-101(a), available at http://www.law.upenn.edu/bll/archives/ulc/upc/final2005.htm ; Uniform Nonprobate Transfers on Death Act §101(a), available at http://www.law.upenn.edu/bll/archives/ulc/nonprobate/UNTDAwith98amend.pdf ; collectively referred to as "UPC."
+
+ 19. UPC § 6-102.
+
+ 20. UPC §§ 2-203(a), 2-205.
+
+ 21. UPC § 2-702. Instead of using the term "nontestamentary," the UPC uses the term "governing instrument" which by definition includes instruments with beneficiary designations. UPC § 1-201(18).
+
+ 22. UPC § 2-804.
+
+ 23. UPC § 2-803.
+
+ 24. UPC §§ 2-603, 2-706, 2-707.
+
+ 25. The following Illinois probate and trust laws are applicable to "nontestmentary" instruments: 755 ILCS 5/2-6 ("Person causing death"); 755 ILCS 5/2-6.2 ("Financial exploitation, abuse, or neglect of an elderly person or a person with a disability"); 755 ILCS 5/2-6.5 ("Parent neglecting child"); 755 ILCS 5/2-6.6 ("Person convicted of certain offenses against the elderly or disabled"); 755 ILCS 5/20-19 ("No exoneration of encumbered interests in real estate"); and 760 ILCS 30/0.01 ("Instruments regarding adopted children").
+
+ 26. 755 ILCS 27/35 (eff 1-1-12).
+
+ 27. Id.
+
+ 28. 755 ILCS 45/2-9.
+
+ 29. Id. Under the Illinois Power of Attorney Act, an agent is only required to take into consideration the principal's estate plan and attempt to preserve it in determining which assets are to be sold or liquidated for the benefit of the principal, but is not liable to the intended beneficiary unless the agent has acted in bad faith.
+
+ 30. 755 ILCS 27/40(a)(1) (eff 1-1-12).
+
+ 31. 755 ILCS 27/40(a)(2) (eff 1-1-12).
+
+ 32. 755 ILCS 27/40(a)(3) (eff 1-1-12).
+
+ 33. 755 ILCS 27/40(b) (eff 1-1-12).
+
+ 34. 765 ILCS 5/35c.
+
+ 35. 765 ILCS 5/9, 5/10.
+
+ 36. 55 ILCS 5/3-5022.
+
+ 37. 765 ILCS 5/35c.
+
+ 38. Id.
+
+ 39. Since a TODI is not a deed or "trust document," the Real Estate Transfer Tax Act should be inapplicable. See 35 ILCS 200/31-10. Nonetheless, the preparer may want to affix an exempt stamp on the TODI as a transfer without consideration. See 35 ILCS 200/31-45(e).
+
+ 40. 755 ILCS 27/40(a)(3) (eff 1-1-12).
+
+ 41. 755 ILCS 27/45 (eff 1-1-12).
+
+ 42. Id.
+
+ 43. Oklahoma requires execution before and attestation by two witnesses. Okla Stat tit 58 § 1253.
+
+ 44. 755 ILCS 27/50 (eff 1-1-12).
+
+ 45. See discussion of § 75 below.
+
+ 46. 755 ILCS 27/55(a)(2)(B) (eff 1-1-12) .
+
+ 47. 755 ILCS 27/55(a)(1)(A), (B) (eff 1-1-12).
+
+ 48. 755 ILCS 27/55(b) (eff 1-1-12) (eff 1-1-12).
+
+ 49. 755 ILCS 27/55(a)(2)(A), (B) (eff 1-1-12).
+
+ 50. 755 ILCS 27/55(a)(2)(A) (eff 1-1-12).
+
+ 51. Uniform Real Property Transfer on Death Act § 11 (cited in note 7).
+
+ 52. Brady v Paine , 391 Ill 596, 63 NE2d 721 (1945). For a general discussion of the law of ademption see Horner Probate Practice & Estates § 2210 (4th ed West Group); Robert S. Hunter, Estate Planning and Administration in Illinois , Illinois Practice Series § 132.2 (West Group 1999).
+
+ 53. An unrecorded deed properly executed, delivered and accepted is invalid only as to creditors and subsequent purchasers, without notice. See 765 ILCS 5/30; Lucas v Westray , 408 Ill 243, 96 NE2d 623 (1951). But see discussion of § 60 below with respect to residential real estate sold on contract.
+
+ 54. 205 ILCS 625/1.
+
+ 55. 815 ILCS 10/0.01.
+
+ 56. 755 ILCS 27/60(a) (eff 1-1-12).
+
+ 57. 755 ILCS 27/60(a)(1)-(6) (eff 1-1-12).
+
+ 58. 755 ILCS 27/60(a)(1) (eff 1-1-12).
+
+ 59. 755 ILCS 27/60(a)(2)-(3) (eff 1-1-12).
+
+ 60. 755 ILCS 27/60(a)(4), (6) (eff 1-1-12).
+
+ 61. 755 ILCS 27/60(a)(5) (eff 1-1-12).
+
+ 62. 755 ILCS 27/65(b) (eff 1-1-12).
+
+ 63. 755 ILCS 27/60(b) (eff 1-1-12).
+
+ 64. 755 ILCS 5/4-8.
+
+ 65. Id.
+
+ 66. 755 ILCS 27/65(b) (eff 1-1-12).
+
+ 67. 755 ILCS 27/65(a)(2) (eff 1-1-12) .
+
+ 68. 755 ILCS 27/65(c) (eff 1-1-12).
+
+ 69. 755 ILCS 5/4-11; 760 ILCS 5/5.5 (anti-lapse); 755 ILCS 5/3-1 (simultaneous deaths).
+
+ 70. 755 ILCS 27/65(a)(3) (eff 1-1-12).
+
+ 71. Id.
+
+ 72. 755 ILCS 5/3-1(d).
+
+ 73. 755 ILCS 27/65(d), (a)(2) (eff 1-1-12).
+
+ 74. 755 ILCS 27/5 (eff 1-1-12).
+
+ 75. Id.
+
+ 76. Id.
+
+ 77. 755 ILCS 27/70(a) (eff 1-1-12).
+
+ 78. 755 ILCS 27/70(d) (eff 1-1-12).
+
+ 79. 755 ILCS 27/70(b) (eff 1-1-12).
+
+ 80. Id.
+
+ 81. 755 ILCS 27/70(c) (eff 1-1-12).
+
+ 82. Id.
+
+ 83. 755 ILCS 27/75 (eff 1-1-12).
+
+ 84. 755 ILCS 27/100 (eff 1-1-12).
+
+ 85. 755 ILCS 27/75 (eff 1-1-12).
+
+ 86. Id.
+
+ 87. 755 ILCS 27/80 (eff 1-1-12).
+
+ 88. 755 ILCS 27/75 (eff 1-1-12).
+
+ 89. 755 ILCS 27/75 (eff 1-1-12).
+
+ 90. Id.
+
+ 91. 760 ILCS 25/0.01.
+
+ 92. 755 ILCS 27/90 (eff 1-1-12).
+
+ 93. 735 ILCS 5/13-223.
+
+ Member Comments  (2) 
+
+ From Steven M. Mack on November 23, 2011 
+
+ "The two-year acceptance limit came at the urging of the title insurance industry, to provide certainty if the beneficiary does not step forward. Since the act is limited to residential real estate and a TODI must be recorded to be effective, most beneficiaries are likely to accept within a reasonable period.
+
+ But charities or non-resident beneficiaries, for example, might be unaware of their designation. Therefore, the act provides that if a beneficiary has not filed an acceptance within 30 days of the owner's death, the personal representative of the owner's estate may take possession of the residential real estate. He or she is entitled to a lien for reasonable expenses incurred in caring for the property until the TODI is accepted89 after making a reasonable attempt to locate and notify the designated beneficiary."
+
+ What I don't quite understand is the 2 year period for acceptance by the beneficiary. Does the probate estate need to remain open for 2 years to determine if the beneficiary will accept? Do the heirs in an intestate proceeding need to wait 2 years to determine if they own the real estate? Doesn't it lead to great uncertainty?
+
+Steven M Mack
+
+Glen Ellyn
+
+ From Charles G. Brown on December 2, 2011 
+
+ Steve: As the author of this article, I would like to answer your questions and concerns. First, if the designated beneficiary is deceased and not a descendant of the owner, a title company should accept a certified death certificate to clear title. If the designated beneficiary was a descendant of the owner, then it would require proof that the beneficiary died without any descendants surviving him or her which may be admitedly more difficult to establish, but would be required to be shown in any probate proceedings by way of proof of heirship. As to non-descendant designated beneficiaries, sections 20-1 (a) and 20-6(a) of the Probate Act gives the court the power to quiet title to any real estate held in the name of the decedent. Therefore, if the heirs of the owner do not believe the designated beneficiary is alive or in existence, they can bring an action within a probate proceeding to quiet title. If they do not have sufficient evidence to meet the burden of proof, then the 2 year period will clear title without court proceedings required. Therefore, the heirs do not need to wait 2 years. The title companies are currently reviewing the act and will be developing guidelines and protcols to assist in facilitating the transfer of titles under the act.
+
+ Login to post comments 
+
+ What do you want to do?
+
+ Illinois Bar Journal Search 
+
+ Illinois Bar Journal 
+
+ December 2011 Issue 
+
+ Archive of Past Issues 
+
+ Subject Index 
+
+ Title Index 
+
+ Author Index 
+
+ IBJ Article Submission Guidelines 
+
+ Legal Writing Contest 
+
+ © Illinois State Bar Association
+
+ Terms & Conditions 
+
+ Privacy Policy 
+
+ Accessibility 
+
+ Site Map 
+
+ Contact & Directions 
+
+ Connect with the ISBA
+
+ © Illinois State Bar Association

@@ -1,0 +1,341 @@
+Source URL: https://www.medicaid.gov/medicaid/spa/downloads/NC-25-0011.pdf
+Retrieved: 2026-09-23
+Note: PDF downloaded via WebFetch (script got 403), converted with pdftotext.
+
+                   Table of Contents
+State/Territory Name: North Carolina
+State Plan Amendment (SPA)#: 25-0011
+This file contains the following documents in the order listed:
+  1) Approval Letter
+  2) Form CMS 179
+  3) Approved SPA Pages
+DEPARTMENT OF HEALTH & HUMAN SERVICES
+
+
+                                                                          MS
+Centers for Medicare & Medicaid Services
+601 E. 12th St., Room 355
+Kansas City, Missouri 64106
+                                                              CENTERS fOR MEOICARE & MEOICAIU SERVICES
+                                                            CENTER FOR MEDICAID & CHIP SERVICE5
+
+Medicaid and CHIP Operations Group
+
+
+April 3, 2025
+
+Jay Ludlam
+Deputy Secretary
+Division of Medical Assistance
+2001 Mail Service Center
+1985 Umstead Drive
+Raleigh, NC 27699-20014
+
+Re: No1ih Carolina State Plan Amendment (SPA) 25-0011
+
+Dear Mr. Ludlam:
+
+The Centers for Medicare & Medicaid Services (CMS) reviewed your Medicaid State Plan
+Amendment (SPA) submitted under transmittal number (1N) 25-0011. This amendment proposes
+to change the Estate Value Thresholds every five years based on the Consumer Price Index.
+
+We conducted our review of your submittal according to statutory requirements in Title XIX of
+the Social Security Act. This letter informs you that North Carolina's Medicaid SPA TN 25-0011
+was approved on April 3, 2025, effective January 1, 2025.
+
+Enclosed are copies of Form CMS-179 and the approved SPA pages to be incorporated into the
+North Carolina State Plan.
+
+If you have any questions, please contact Morlan Lannaman at (470) 890-4232 or via email at
+Morlan.Lannaman@cms.hhs.gov.
+
+
+
+
+                                           Ruth A. Hughes
+                                           On Behalf of Courtney Miller, MCOG Director
+
+Enclosures
+
+cc: Kathryn Horneffer, NC DHHS
+    Ashley Blango, NC DHHS
+Docusign Envelope ID: A33O6B 1 E 0F3B-42EB-
+                                 -        8937-E7C2C4O4C6A9
+DEPAR™ENT OF HEALTH ANDHUMAN SERVICES                                                                                   FORMAPPROVEO
+CENTERS FOR MEDICARE & MEDICAID SERVICES                                                                                0MB No. 0938-0193
+
+                                                                       1. TRANSMITTAL NUMBER               2.STATE
+     TRANSMITTAL AND NOTICE OF APPROVAL OF                              2 5 _Q 0 1 1                          NC
+             STA TE PLAN MATERIAL                                       --   ----                             --
+    FOR: CENTERS FOR MEDICARE & MEDICAID SERVICES                      3. PROGRAM IDENTIFICATION: TITLE OF THE SOCIAL
+                                                                         SECURITY ACT �
+                                                                                            YIY          Avv1
+ TO: CENTER DIRECTOR                                                   4. PROPOSED EFFECTIVE DATE
+      CENTERS FOR MEDICAID & CHIP SERVICES
+     DEPARTMENT OF HEALTH AND HUMAN SERVICES                                     January 01, 2025
+  5. FEDERAL STATUTE/REGULATION CITATION                               6. FEDERAL BUDGET IMPACT (Amounts in WHOLE dollars)
+                                                                          a FFY    25               $ 0
+            42 U.S.C § 1396(p)                                            b . FFY  26               $ 0
+ 7. PAGE NUMBER OF THE PLAN SECTION OR ATTACHMENT                      8. PAGE NUMBER OF THE SUPERSEDED PLAN SECTION
+Attachment 4.17-A, Pages 3-4                                              OR ATTACHMENT (If Applicable)
+Attachment 4.17-A, Pages 6-7                                           Attachment 4.17-A, Pages 3-4
+                                                                       Attachment 4.17-A, Pages 6-7
+
+
+
+
+9. SUBJECT OF AMENDMENT
+
+Estate Recovery
+
+ 10. GOVERNOR'S REVIEW (Check One)
+     0 GOVERNOR'S OFFICE REPORTED NO COMMENT
+     0 COMMENTS OF GOVERNOR'S OFFICE ENCLOSED
+                                                                         0 OTHER, AS SPECIFIED: Secretary
+     0 NO REPLY RECEIVED 1/VlTHIN 45 DAYS OF SUBMITTAL
+ 11. SIGNATURE OF STATE AGENC
+                                                        ------,...----------------------
+                                                    15. RETURN TO
+                                                    Office of the Deputy Secretary
+                                            ------1 Department of Health and Human Services
+ 12_ TYPED NAME
+                                                    2001 Mail Service Center
+_J_ ay_ L _ _ lam
+        _ ud   _ _________________---t Raleigh, NC 27699-20014
+ 13. TITLE
+ Deputy Secretary
+ 14. DATE SUBMITTED 03/11/25 I 3: 48 PM EDT
+
+                                                          FOR CMS USE ONLY
+ 16. DATE RECEIVED                                                  17. DATE APPROVED
+ 03/24/2025                                                         04/03/2025
+                                               PLAN APPROVED- ONE COPY ATTACHED
+ 18. EFFECTIVE DATE OF APPROVED MATERIAL                           19. SIGNATURE
+ 01/01/2025
+ 20. TYPED NAME OF APPROVING OFFICIAL                               21. TITLE OF APPROVING OFFICIAL
+ Ruth A Hughes                                                      On Behalf of Courtney Miller, MCOG Director
+ 22. REMARKS
+
+
+
+
+FORM CMS-179 (09/24)                                     Instructions on Back
+Revision:            HCFA-PM-95-3 (MB)                                                        ATTACHMENT4.17-A
+                     May 1995                                                                 Page 3
+
+                          ST ATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+
+                                              State/Territory: North Carolina
+
+4.      The State defines undue hardship as follows:
+
+        A. Only a qualified undue hardship applicant may be granted a claim of undue hardship. In order for a
+           claim of undue hardship to be granted, the qualified undue hardship applicant must meet all of the
+           requirements for at least one of the three following undue hardship definitions:
+
+        1. Real or personal property included in the estate of the deceased Medicaid beneficiary pursuant to N.C.
+           Gen. Stat. § 28A-l 5-1 meets the following conditions:
+
+                     a. The property is the sole source of income for a qualified undue hardship applicant and his or
+                        her spouse and related family members in his or her household, and
+                     b. The gross income available to the qualified tu1due hardship applicant and his or her spouse
+                        and related family members in his or her household is below 200 percent of the federal
+                        poverty level.
+
+                          OR
+
+            2. Recovery would result in the sale of real property included in the estate of the deceased Medicaid
+               beneficiary pursuant to N.C. Gen. Stat.§ 28A-l5-l and the following conditions are met:
+
+                          a. The qualified undue hardship applicant is residing on and has continuously resided on the
+                             real property since the decedent's death; and
+                          b. The qualified undue hardship applicant resided on the property for at least 12 months
+                             immediately prior to and continuously until the date of the decedent's death; and
+                          c. The gross income available lo the qualified undue hardship applicant and his or her
+                             spouse and related family members in his or her household is below 200 percent of the
+                             federal poverty level; and
+                          d. Effective for dates of death on or after January I, 2023 the assets of the qualified
+                             undue hardship applicant and his or her spouse and related family members in his or
+                             her household are valued below twenty-five thousand dollars ($25,000). Effective
+                             January l, 2025, the foregoing asset value eligibility ceiling shall be increased every
+                             five years by a percentage equal to the percentage increase in the consumer Price
+                             Index for All Urban Consumers (CPI-U) as published by the Bureau of Labor
+                             Statistics.
+
+                               OR
+
+            3.   Recovery would result in the sale of real property included in the estate of the deceased Medicaid
+                 beneficiary pursuant to N.C. Gen. Stat. § 28A-15-l and the following conditions are met:
+
+                     a.   The qualified undue hardship applicant owns a tenancy in common interest of at least 25% in
+                          the real property, as evidenced by a valid and properly recorded deed; and
+
+
+
+
+TN No.: 25-0011
+Supersedes                              Approval Date: 04/03/2025                    Effective Date: 01/01/2025
+TN No.: 23-0001
+ Revision:          HCFA-PM-95-3 (MB)                                                                 ATIACHMENT4.l7-A
+                   May 1995                                                                          Page4
+
+                             STATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+
+                                               Statefferrito1y: North Carolina
+
+                        b.   The qualified undue hardship applicant's ownership interest in the real property was acquired a t
+                             least 24 months prior to the Medicaid beneficiaty' s death, a s evidenced by a valid at1d properly
+                             recorded deed; and
+                        c.   The real property has a value of less than $100,000 detennined as follows:
+                                (1) By the most cutTent County tax assessment value of the property; or
+                                     By an appraisal of the prope1ty, obtained at the expense of the qualified tmdue hardship
+                                     applicant, by an appraiser licensed by and in good standing with the North Carolina
+                                     Appraisal Board; Effective Januai·y I, 2025, the foregoing real property value
+                                     eligibility ceiling shall be increased eve1y five years by a percentage equal to the
+                                     percentage increase in the Federal Housing Finance Agency House Price Index for
+                                     North Carolina.
+
+                        d.    The qualified undue hardship applicant is residing on and has continuously resided on the real
+                              property since the decedent's death; and
+                        e. The qualified undue hardship applicant resided on the real property for at least 12 months
+                              immediately prior to and continuously until the date of the decedent's death; and
+                        f. The gross income available to the qualified undue hardship applicant and his or her spouse and
+                              related family members in his or her household is below 200 percent of the federal pove1ty
+                             level; and
+                   g.   Effective for dates of death on or after January 1, 2023 the assets of the qualified undue hardship
+                        applicant and his or her spouse and related family members in his or her household, excluding the
+                        qualified undue hardship applicant's tenancy in common interest in the real prope1ty, are valued
+                        below twenty-five thousand dollars ($25,000). Effective January l , 2025, the foregoing asset value
+                        eligibility ceiling shall be increased every five years by a percentage equal to the percentage increase
+                        in the Consumer Price Index for All Urban Consumers (CPJ-U) as published by the Bureau of Labor
+                        Statistics.
+
+
+         B. An undue hardship waiver or deferral applies only during the lifetime of the qualified undue hardship applicant
+            and only as long as the qualified undue hardship applicat1t continues to meet the criteria for one of the undue
+            hardship definitions. A waiver or defenal of Medicaid estate recovery based on undue hardship only applies as
+            a waiver or deferral of estate recovery for the following property:
+
+              l.   For a qualified tmdue hardship applicant who meets the c1iteria for the fust tmdue hardship
+                   definition, the property of the decedent's estate that serves as the sole source of income; or
+              2.   For a qualified tmdue hardship applicant who meets the criteria for the second or third undue hardship
+                   definitions, the real prope1iy on which the qualified undue hardship applicant resides.
+
+         The State Medicaid agency may continue to pursue its estate claim against any property of the Medicaid
+         beneficiary's estate that is not subject to the undue hat·dship waiver or defe1rnl.
+
+5.       The following standards and procedures are used by the State for waiving or deferring estate recoveries when
+         recovery would cause an undue hardship, and when recove1y is not cost-effective:
+
+         A. A claim of undue hardship must be made by or on behalf of a qualified undue hardship applicatlt by submitting
+              a complete undue hardship application to the State Medicaid agency together with all documentation
+              necessary for the agency to evaluate the claim.
+
+         B. In the event that an estate is opened within six months of the Medicaid beneficiary's death, a claim of undue
+              hardship must be made within 60 days of the dme that the agency presents its estate claim according to one of
+              the methods provided in N.C. Gen. Stat.§ 28A-19-J(a).
+
+
+TN No.: 25-001 I
+Supersedes                           Approval Date: 04/03/2025                            Effective Date: 01/0L/2025
+TN No.: 23-000 I
+Revision:          HCFA-PM-95-3 (tvlB)                                                              ATTACHMENT4.17-A
+                   May 1995                                                                         Page 6
+
+                      STATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+
+                                              State/Territory: North Carolina
+
+        F.   Each claim of undue hardship will be evaluated within 90 calendar days from the date of receipt by the State
+             Medicaid agency of a complete application and all necessruy documentation. In U1e event of an incomplete
+             application or incomplete documentation, the State Medicaid agency may extend the time for the qualified undue
+             hardship applicant to provide a complete application and complete documentation for au additional 30 clays. If a
+             complete application and all necessary documentation are not received by the State Medicaid agency within this
+             time frame, the undue hardship claim will be denied.
+
+        G. A written notice of decision will be mailed to the undue hardship applicant within l 0 calendar days after the State
+           Medicaid agency has completed its review. The State Medicaid agency will either grant or deny the claim of
+           1mdue hardship. If the undue hardship claim is granted, the State Medicaid agency will not pursue its estate
+           recovery claim against the propeity related to the undue hardship as long as the qualified undue hardship
+           applicant continues to meet the undue hardship criteria.
+
+        H. If the qualified undue hardship applicant dies or the State Medicaid agency deteimines that the applicant no
+           longer meets the undue hardship criteria, the State Medicaid agency may resume pursuit of the Medicaid estate
+           claim against the property subject to an undue hardship waiver or deferral. The State Medicaid agency may
+           require the qualified undue hardship applicant to submit additional documentation at any time to demonstrate that
+           the applicant continues to meet the undue hardship criteria. If the State Medicaid agency determines that the
+           qualified undue hardship applicant no longer meets the undue hardship criteria, a written notice of decision will
+           be mailed to the qualified undue hardship applicant within IO calendar days of the determination.
+
+        I.   If the undue hardship applicant disagrees with the State Medicaid agency decision, he or she may appeal to the
+             Office of Administrative Hearings (OAH) within 60 calendar days from the date that tl1e written decision is
+             mailed to t11e w1due lmdship applicant.
+
+6.      The State defines cost-effective as follows (include methodology/thresholds used to dete1mine cost­
+        effectiveness) :
+
+        Effective for dates of death on or after January 1, 2023 cost-effective refers to circumstances in which all the following
+        conditions are met: ( l) the gross estate assets prior to any disbursements, distributions, or any other payments are at
+        least $50,000 (2) the Medicaid claim is at least $10,000 (3) the actual recovexy from the estate on the Medicaid claim
+        (regardless of the actual claim amount) is expected to be at least $5,000. Effective .January I, 2025, the foregoing values
+        for, respectively, minimum gross estate asset value, minimum Medicaid claim value, and expected actual Medicaid
+        claim recove1y amount shall be increased every five years by a percentage equal to the percentage increase in the
+        Consumer Price /index for All Urban Consumers (CPI-U) as published by the Bureau of Labor Statistics. A waiver
+        based on cost-effectiveness may be a conditional waiver and may specify that the waiver will cease if additional assets
+        are subsequently discovered that may be propei1)' of the estate. TI1e State has 3 years from the date of discove1y to
+        pursue any assets subsequently discovered. TI1e foregoing definition of cost-effectiveness does not restrict or diminish
+        the Department's discretion to negotiate settlements in litigation related to Medicaid estate recovery, and any such
+        settlements shall be deemed to be case-specific ruid have no effect on said definition.
+
+
+7.      The State uses the following collection procedures (include specific elements contained in the
+        advance notice requirement, the method for applying for a waiver, hearing and appeals procedures, and time frames
+        involved):
+
+
+
+TN No.: 25-001 I
+Supersedes                             Approval Date: 04/03/2025                          Effective Date: 0 l/01/2025
+TNNo.: 23-0001
+Revision:        HCFA-PM-95-3 (MB)                                                       ATTACHMENT 4. 17-A
+                 May 1995                                                                Page 7
+
+                      STATE PLAN UNDER TITLE XIX OF THE SOCIAL SECURITY ACT
+
+                                           State/Terri torv: North Carolina
+
+        A. At the time an individual applies for Medicaid, the State Medicaid agency or County Department of Social
+           Services will give written notice to the applicant, or the applicant's representative, that a claim may be
+           filed against the applicant's estate to recover Medicaid payments made on the applicant's behalf. This
+           written notice may be included as part of the application for Medicaid or may be included on other
+           documentation provided to the applicant or to the applicant's representative.
+
+        B. Within 90 days of date that the Notice to Creditors is personally served upon the State Medicaid agency,
+           as required by N.C. Gen. Stat. § 28A-l4-I (b), the State Medicaid agency shall present its estate claim
+           according to one of the methods provided in N.C. Gen. Stat. § 28A-19-l(a).
+
+        C. The State Medicaid agency will defer estate recovery in the following circumstances:
+
+            1. when the spouse of the Medicaid beneficiary is still living; or
+            2. when the beneficiary has a surviving child, who is under age 2l ; or
+            3. when the beneficiary has a surviving child of any age who is blind or disabled as provided in 42
+               U.S.C. § l 396p(b)(2)(A); or
+            4. when a qualified undue hardship applicant continues to meet the undue hardship criteria.
+
+            Estate recovery will be deferred only as long as at least one of these four circumstances is present. When
+            none of the four circumstances are present, the State Medicaid agency will resume estate recovery. If the
+            State Medicaid agency defers pursuing recovery based on one of these four circumstances, the State
+            Medicaid agency may take legal measures to secure its claim against property of the Medicaid
+            beneficiary's estate when the applicant no longer meets the deferral criteria.
+
+            In the event the beneficiary meets the definition of Indian as defined in at 25 USC 1603(13), 1603(28),
+            or l679(a), or who has been detennined eligible as an Indian, under 4 2 CFR 136. 1 2, the estate recovery
+            exceptions and procedures will adhere to SEC. 5006. Protections for Indians under CHIP and Medicaid.
+
+
+
+
+TNNo.: 25-0011
+Supersedes                       Approval Date: 04/03/2025                      Effective Date: 01/01/2025
+TN No.: 17-005
+

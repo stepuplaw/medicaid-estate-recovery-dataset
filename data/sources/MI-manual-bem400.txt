@@ -1,0 +1,4229 @@
+Source URL: https://mdhhs-pres-prod.michigan.gov/olmweb/EXF/BP/Public/BEM/400.pdf
+Retrieved: 2026-09-23
+
+                                                                                BPB 2026-007
+     BEM 400          1 of 77                     ASSETS
+                                                                                     4-1-2026
+
+
+OVERVIEW
+
+                       Family Independence Program (FIP), State Disability Assis-
+                       tance (SDA), Refugee Cash Assistance (RCA), Group 2
+                       Persons Under Age 21 (G2U), Group 2 Caretaker Relative
+                       (G2C), Refugee Medical Assistance (RMA), SSI-Related MA,
+                       Child Development and Care (CDC) and Food Assistance
+                       Program (FAP)
+
+                       Consider assets in determining eligibility for FIP, SDA, RCA, G2U,
+                       G2C, RMA, SSI-related MA categories, CDC and non-categorically
+                       eligible FAP groups.
+
+                       FIP, SDA, RCA, G2U, G2C, CDC and RMA consider only the
+                       following types of assets:
+
+                       •     Cash (which includes savings and checking accounts).
+                       •     Investments (which include 401(k), Roth IRA etc.).
+                       •     Retirement plans.
+                       •     Trusts.
+
+                       FIP, SDA, RCA, and CDC only
+
+                       Homes and Real Property in this item.
+
+                       G2U, G2C, RMA and SSI-Related Medicaid
+
+                       The department will utilize an asset verification program to
+                       electronically detect unreported assets belonging to applicants and
+                       beneficiaries.
+
+                       Asset detection may include the following sources at financial
+                       institutions: checking, savings, and investment accounts, IRAs,
+                       treasury notes, certificates of deposit (CDs), annuities and any
+                       other asset that may be held or managed by a financial institution.
+
+                       Asset detection will be requested by sending the required fields,
+                       name, Social Security number, and address, to the asset detection
+                       program. This request may occur at any day and time during the
+                       month.
+
+ Assets Defined
+
+                       Assets
+
+                       •     Cash; see Cash in this item.
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                               STATE OF MICHIGAN
+
+                                                DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 400          2 of 77                      ASSETS
+                                                                                        4-1-2026
+
+
+                       •     Personal property. Personal property is any item subject to
+                             ownership that is not real property (examples: currency,
+                             savings accounts, and vehicles).
+
+                       •     Real property. Real property is land and objects affixed to the
+                             land such as buildings, trees, and fences. Condominiums are
+                             real property.
+
+ Overview of Asset
+ Policy
+
+                       Countable assets cannot exceed the applicable asset limit. Not all
+                       assets are counted. Some assets are counted for one program, but
+                       not for another program. Some programs do not count assets; see
+                       Programs with No Asset Test in this item.
+
+                       Consider both of the following to determine if an asset is countable,
+                       and how much to count:
+
+                       •     Availability:
+
+                                  See Available in this item.
+                                  See Jointly Owned Assets in this item.
+                                  See Non-Salable Assets in this item.
+
+                       •     See Exclusions in this item.
+
+                       An asset is countable if it meets the availability tests and is not
+                       excluded.
+
+                       Note: Only certain types of assets are considered by FIP, RCA,
+                       SDA, G2U, G2C, RMA, CDC and FAP. See the list in this section.
+                       FIP asset rules apply to RCA.
+
+                       Consider the assets of each person in the asset group; see the
+                       Program's Asset Group policy in this item.
+
+                       An asset converted from one form to another (example: an item
+                       sold for cash) is still an asset.
+
+                       Exception: See Bridges Eligibility Manual (BEM) 503, Income
+                       Unearned, Sale of Property in Installments.
+
+                       FIP, SDA, RCA, G2U, G2C, RMA and CDC Only
+
+                       The following types of assets are the only types considered for FIP,
+                       SDA, RCA, G2U, G2C, CDC and RMA:
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                 BPB 2026-007
+      BEM 400         3 of 77                     ASSETS
+                                                                                       4-1-2026
+
+
+                       •     Cash (which includes savings and checking accounts).
+                       •     Investments (which include 401(k), Roth IRA etc.).
+                       •     Retirement plans.
+                       •     Trusts.
+
+                       FIP, SDA, RCA, and CDC only
+
+                       Homes and Real Property in this item.
+
+                       SSI-Related MA Only
+
+                       All types of assets are considered for SSI-related MA categories.
+
+PROGRAMS WITH
+NO ASSET TEST
+
+                       MAGI-Related MA
+
+                       There is no asset test for MAGI- related Medicaid categories.
+
+                       Do not deny or terminate those benefits because of a refusal to
+                       provide asset information or asset verification requested for
+                       purposes of determining eligibility for a category or program that
+                       has an asset test, such as FIP.
+
+                       FAP Only
+
+                       There is no asset test for categorically eligible FAP groups.
+
+                       Note: Non-categorically eligible FAP groups do have an asset test.
+
+FIP, RCA, SDA, CDC
+AND FAP ASSET
+ELIGIBILITY
+
+                       FIP, RCA, SDA and FAP
+
+ Policy Overview
+
+                       Determine asset eligibility prospectively using the asset group's
+                       assets from the benefit month. Asset eligibility exists when the
+                       group’s countable assets are less than, or equal to, the applicable
+                       asset limit at least one day during the month being tested.
+
+                       Note: For FAP, Bridges budgets all countable assets for ineligible
+                       and/or disqualified individuals. All assets of non-group members
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 400          4 of 77                      ASSETS
+                                                                                          4-1-2026
+
+
+                       such as ineligible students, furloughed prisoners, etc., will be
+                       excluded by Bridges.
+
+                       CDC Only
+
+                       For asset eligibility a program group's assets may not exceed the
+                       asset limit, as confirmed through self-certification.
+
+ Application
+
+                       At application, do not authorize FIP, RCA, SDA, or CDC for future
+                       months if the person has excess assets on the processing date.
+
+ Pending
+ Application
+ Months
+
+                       For pending FIP, RCA, SDA, CDC and FAP applications, use asset
+                       policy that is in effect for the month for which eligibility is being
+                       determined.
+
+ Ongoing
+
+                       If an ongoing FIP, RCA, SDA or CDC recipient has excess assets,
+                       initiate closure. However, reinstate the program if it is verified that
+                       the excess assets are under the limit on or before the timely
+                       hearing request date.
+
+                       FIP, RCA, SDA, CDC and FAP Only
+
+                       Bridges produces an overpayment referral for benefits issued after
+                       the last month of eligibility only if a closure delay was caused by the
+                       group's failure to report the asset change timely. Bridges
+                       Administrative Manual (BAM) 700, Benefit Overpayment, and BAM
+                       705, Agency Overpayments, explain overpayment policies and
+                       procedures.
+
+                       RCA Only
+
+                       Do not consider the assets of a refugee's sponsor in determining
+                       the refugee's eligibility.
+
+                       Exclude as an asset any cash assistance given to a refugee from a
+                       resettlement agency.
+
+                       Evaluate and treat other assets as they are evaluated and treated
+                       for FIP.
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                 BPB 2026-007
+     BEM 400          5 of 77                     ASSETS
+                                                                                     4-1-2026
+
+
+ FIP, RCA, SDA,
+ CDC Asset Group
+
+                       FIP, RCA, SDA Only
+
+                       The asset group includes individual's with an EDG participation sta-
+                       tus of eligible or disqualified; see BEM 210, FIP Group
+                       Composition, 214, SDA Group Composition, and 215, RCA Group
+                       Composition.
+
+                       CDC ONLY
+
+                       The CDC asset group includes those individual's that would be
+                       included in the CDC program group; see BEM 205, CDC Group
+                       Composition.
+
+ FIP, RCA and SDA
+ Asset Limit
+
+                       FIP, RCA and SDA Only
+
+                       $15,000 or less for cash, investments and retirement plans.
+
+                       $200,000 for real property assets.
+
+ CDC Asset Limit
+
+                       The total countable assets for the CDC program group cannot
+                       exceed $1 million.
+
+ FAP Asset Limits
+
+                       Non-Categorically Eligible Groups:
+
+                       $3,000 or less for non-SDV groups.
+
+                       $4,500 or less for SDV groups.
+
+                       See, BEM 213, Categorical Eligibility.
+
+                       Lottery/Gambling Winnings:
+
+                       All FAP Groups
+
+                       A single lottery or gambling winning of $4,500 or more.
+
+                       See BEM 403, FAP Lottery/Gambling Winnings.
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                              STATE OF MICHIGAN
+
+                                                DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400          6 of 77                      ASSETS
+                                                                                       4-1-2026
+
+
+                       FAP Asset Group
+
+                       The asset group is:
+
+                             •   FAP eligible members; see BEM 212, Food Assistance
+                                 Program Group Composition.
+
+                             •   All disqualified members; see BEM 550, FAP Income
+                                 Budgeting.
+
+                             •   Alien sponsors; see BEM 226, Sponsored Aliens.
+
+                       FAP Divestment
+
+                       Divestment occurs when a non-categorical eligible FAP group
+                       transfers assets for less than the fair market value for any of the
+                       following reasons:
+
+                       •     To qualify for program benefits.
+                       •     To remain eligible for program benefits.
+
+                       See BEM 406, FAP Divestment.
+
+ MA ASSET
+ ELIGIBILITY
+
+                       G2U, G2C, RMA, and SSI-Related MA Only
+
+                       Asset eligibility is required for G2U, G2C, RMA, and SSI-related MA
+                       categories.
+
+                       Note: Do not deny or terminate Group 2 Pregnant Women
+                       because of a refusal to provide asset information or asset
+                       verification requested for purposes of determining G2U, G2C, RMA
+                       or SSI-related MA eligibility.
+
+                       Use the special asset rules in BEM 402, Special MA Asset Rules,
+                       for certain married L/H and waiver patients. See BPG Glossary, for
+                       the definition of L/H patient and BEM 106, MA Waiver For Elderly
+                       And Disabled, for the definition of waiver patient.
+
+                       Asset eligibility exists when the asset group's countable assets are
+                       less than, or equal to, the applicable asset limit at least one day
+                       during the month being tested.
+
+                       At application, do not authorize MA for future months if the person
+                       has excess assets on the processing date.
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400          7 of 77                     ASSETS
+                                                                                       4-1-2026
+
+
+                       If an ongoing MA recipient or active deductible individual has
+                       excess assets, initiate closure. However, delete the pending
+                       negative action if it is verified that the excess assets were disposed
+                       of. Payment of medical expenses, living costs and other debts are
+                       examples of ways to dispose of excess assets without divestment.
+                       LTC and waiver patients will be penalized for divestment; see BEM
+                       405, MA Divestment.
+
+ G2U, G2C and
+ RMA Asset Group
+
+                       G2U, G2C and RMA
+
+                       See BEM 211, MA Group Composition.
+
+ RMA Asset Limit
+
+                       RMA
+
+                       $3,000.
+
+ SSI-Related MA
+ Asset Group
+
+                       SSI-Related MA Only
+
+                       See BEM 211, MA Group Composition.
+
+ Freedom to Work
+ Asset Limit
+
+                       Freedom to Work Asset Limits
+
+                       For Freedom to Work (FTW) the asset limit for the initial eligibility
+                       determination is set to the current asset limit for a group of one in
+                       the Medicare Savings Program (listed below). Once eligibility for
+                       FTW has been established the countable asset limit increases to
+                       $75,000 for ongoing Medicaid. IRS recognized retirement accounts
+                       (including IRAs and 401(k)s) accrued while on FTW may be of
+                       unlimited value. These retirement accounts may continue to be
+                       excluded as assets from future MA eligibility determinations; see
+                       BEM 174, Freedom To Work (FTW).
+
+                       Note: Retirement accounts excluded under this policy for FTW
+                       participants are also excluded for MSP eligibility determinations for
+                       FTW participants or former FTW participants.
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                BPB 2026-007
+     BEM 400          8 of 77                     ASSETS
+                                                                                    4-1-2026
+
+
+ Asset Limits for
+ Medicare Savings
+ Program and
+ Certain Other SSI-
+ Related MA
+ Categories
+
+                       For FTW and MSP the new asset limit is effective January 1,
+                       2025.
+
+                       For individuals eligible for MA under BEM 106, 132, 135, 155,
+                       157, 158, 163, 164, 165, 166, 167, 170, 171, 172, the new
+                       increased asset limit is effective February 1, 2025. For these
+                       groups asset eligibility in any month prior to February 2025 is
+                       limited to the $2000-$3000.
+
+                       For an asset group of one:
+
+                                     $9,950 effective January 1, 2026.
+                                     $9,660 effective January 1, 2025.
+                                     $9,430 effective January 1, 2024.
+                                     $9,090 effective January 1, 2023.
+                                     $8,400 effective January 1, 2022.
+                                     $7,970 effective January 1, 2021.
+                                     $7,860 effective January 1, 2020.
+
+                       For an asset group of two:
+
+                                     $14,910 effective January 1, 2026.
+                                     $14,470 effective January 1, 2025.
+                                     $14,130 effective January 1, 2024.
+                                     $13,630 effective January 1, 2023.
+                                     $12,600 effective January 1, 2022.
+                                     $11,960 effective January 1, 2021.
+                                     $11,800 effective January 1, 2020.
+ QDWI Asset limits
+
+                       For Qualified Disabled Working Individuals (QDWI) (BEM 169) the
+                       asset limit is:
+
+                       •     $4000 for an asset group of one.
+                       •     $6000 for an asset group of two.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 400          9 of 77                       ASSETS
+                                                                                        4-1-2026
+
+
+ Other SSI-Related
+ MA Category Asset
+ Limits
+
+                       For other SSI-related MA categories not already listed above, the
+                       asset limit continues to be:
+
+                       •     $2,000 for an asset group of one.
+                       •     $3,000 for an asset group of two.
+DEEMING OF
+PARENTAL ASSETS
+
+                       SSI-Related MA Only
+
+                       Deeming means counting a portion of parents' assets as their
+                       child's assets. Do not deem when:
+
+                       •     Any parent living with the child is an SSI or FIP recipient; see
+                             BEM 211, MA Group Composition.
+
+                       •     When determining a child's eligibility under BEM 170, Home
+                             Care Children.
+
+                       •     When determining a child's eligibility under BEM 171,
+                             Children's Waiver.
+
+                       •     When determining a child's eligibility under BEM 172, Children
+                             with Serious Emotional Disturbance (SED) Waiver.
+
+ Deeming
+ Calculation
+
+                       SSI-Related MA Only
+
+                       Use the following to calculate the deemed amount.
+
+                       1.    Determine the total value of the parents’ countable assets, as if
+                             they were an asset group, even if they are not married.
+
+                             Note: The child is not eligible for SSI-related MA if the parents
+                             refuse to provide asset information or a required verification.
+
+                       2.    Subtract $2,000 for one parent ($3,000 for two parents) from
+                             the amount of the parents' countable assets (step 1). The
+                             result is the deemable asset amount.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                  STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                 BPB 2026-007
+     BEM 400          10 of 77                    ASSETS
+                                                                                      4-1-2026
+
+
+                       3.    Divide the deemable asset amount (step 2) by the number of
+                             the parents' unmarried children under age 18 in the parents'
+                             home who are:
+
+                             •   SSI recipients.
+                             •   Applicants for, or recipients of, MA based on blindness or
+                                 disability, who also meet both:
+
+                                     The nonfinancial eligibility factors in BEM 155, 503
+                                     Individuals or BEM 166, Group 2 Aged, Blind And
+                                     Disabled.
+
+                                     Are not Home Care Children (BEM 170), Children’s
+                                     Waiver (BEM 171), or SED Waiver (BEM 172).
+
+                       The result is the amount of assets deemed to the child whose eligi-
+                       bility is being determined.
+
+ALIEN SPONSOR
+ASSET DEEMING
+
+                       FAP
+
+                       A non-categorically eligible non-citizen's assets might include
+                       asset's deemed from the non-citizen's sponsor; see BEM 226.
+
+AVAILABLE
+
+                       FIP, RCA, SDA, G2U, G2C, RMA, SSI-Related MA Only, CDC
+                       and FAP
+
+                       An asset must be available to be countable. Available means that
+                       someone in the asset group has the legal right to use or dispose of
+                       the asset.
+
+                       Exception: This does not apply to trusts. There are special rules
+                       about trusts. See Trusts in this item for FIP, RCA, SDA, CDC and
+                       FAP. See BEM 401, Trusts-MA.
+
+                       Assume an asset is available unless evidence shows it is not avail-
+                       able.
+
+                       An asset remains available during periods in which a guardian or
+                       conservator is being sought. This includes situations such as:
+
+                       •     A person's guardian dies, and a new guardian has not been
+                             appointed yet.
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400          11 of 77                     ASSETS
+                                                                                       4-1-2026
+
+
+                       •     A court decides a person needs a guardian but has not
+                             appointed one yet.
+
+                       •     A person is unconscious, and their family asks the court to
+                             appoint a guardian.
+
+                       Availability might also be affected by joint ownership and efforts to
+                       sell or the possibility of domestic violence. See Jointly Owned
+                       Assets, Non-Salable Assets and Victims of Domestic Violence in
+                       this item.
+
+                       SSI-Related MA Only
+
+                       A person's death and probating the estate does not make the
+                       assets unavailable for purposes of determining eligibility. Determine
+                       asset eligibility for the days of the month the person was alive.
+
+ESTATE RECOVERY
+
+                       MA Only
+
+                       The federal government requires Medicaid to recover money that it
+                       paid for services from the estates of Medicaid beneficiaries who
+                       have died. Medicaid will only recover the amount Medicaid paid for
+                       a beneficiary. This is estate recovery. The state will not seek
+                       recovery of certain Medicare cost-sharing benefits; see BAM 120,
+                       MSA/MDHHS Coordination.
+
+ Victims of
+ Domestic Violence
+
+                       FIP, RCA, SDA, G2U, G2C, RMA, SSI-Related MA, CDC and
+                       FAP
+
+                       Assets owned by victims of domestic violence may be unavailable
+                       due to domestic violence. These assets do not have to be jointly
+                       owned but accessing them could put the individual in danger.
+                       Exempt these assets for a maximum of three months. With FIM
+                       approval one three-month extension is permitted. Document in the
+                       case record the reasons for the temporary exclusion, and, if any
+                       extension is requested, document what steps have been taken to
+                       secure the asset. Individuals should be advised at the time of the
+                       exemption that they are required to report any changes in the
+                       status of the asset within 10 days.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400          12 of 77                     ASSETS
+                                                                                        4-1-2026
+
+
+                       Exception: For FAP, there is no time limit for the length of the
+                       exemption.
+
+FLINT WATER
+SETTLEMENT
+AWARDS
+
+                       FIP, SDA, CDC, and FAP and Medicaid
+
+                       The payment individuals receive from the Flint Water Settlement
+                       Awards is excluded.
+
+                       Do not enter the payments in Bridges but the payment should be
+                       documented in the case.
+
+                       This payment is excluded as income; see BEM 503 Income,
+                       Unearned, Flint Water Settlement Awards.
+
+JOINTLY OWNED
+ASSETS
+
+                       FIP, RCA, SDA, G2U, G2C, RMA, SSI-Related MA Only, CDC
+                       and FAP
+
+                       Jointly owned assets are assets that have more than one owner.
+
+                       Note: For Freedom to Work determinations, jointly owned assets
+                       are considered to belong to the initial person.
+
+                       An asset is unavailable if all the following are true, and an owner
+                       cannot sell or spend their share of an asset:
+
+                       •     Without another owner's consent.
+                       •     The other owner is not in the asset group.
+                       •     The other owner refuses consent.
+
+                       Exception 1: In SSI-related MA, when ownership is shared by an
+                       SSI-related child and their parent(s) and parental asset deeming
+                       applies, refusal to sell by either the child or the parent(s) does not
+                       make an asset unavailable; see Deeming of Parental Assets in this
+                       item, see definition of SSI-related child in BEM 211.
+
+                       FIP, RCA, SDA, G2U, G2C, RMA, SSI-Related MA Only and CDC
+
+                       Jointly owned real property is only excludable if it creates a
+                       hardship for the other owners.
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                BPB 2026-007
+     BEM 400          13 of 77                    ASSETS
+                                                                                     4-1-2026
+
+
+                       Note: In SSI-related MA a divestment has occurred if joint owners
+                       are added during the five year look back period. See BEM 405 for
+                       determination of a divestment penalty.
+
+                       Ownership documents for jointly owned real property commonly
+                       use one of four phrases:
+
+                       •     Joint Tenancy: no owner can sell unless all owners agree.
+
+                       •     Joint Tenancy with Right of Survivorship: no owner can sell
+                             unless all owners agree.
+
+                       •     Tenancy by the Entirety: same as joint tenancy except the
+                             owners are husband and wife. Neither owner can sell unless
+                             both owners agree.
+
+                       •     Tenancy-in-Common: each owner can sell their share without
+                             the other owner's agreement.
+
+                       Note: For jointly owned real property count the individual’s share
+                       unless sale of the property would cause undue hardship. Undue
+                       hardship for this item is defined as a co-owner uses the property as
+                       their principal place of residence and they would have to move if
+                       the property were sold and there is no other readily available
+                       housing.
+
+ Joint Cash and
+ Retirement Plans
+
+                       FIP, RCA, SDA, G2U, G2C, RMA, SSI-Related MA Only, CDC
+                       and FAP
+
+                       This section applies to asset types listed under Cash and
+                       Retirement Plans in this item.
+
+                       Count the entire amount unless the person claims and verifies a
+                       different ownership. Then, each owner's share is the amount they
+                       own.
+
+                       SSI-Related MA Only
+
+                       Exception: Apply the following when an L/H or waiver patient (see
+                       BPG, Glossary, and BEM 106, MA Waiver For Elderly And
+                       Disabled) and their spouse jointly own the asset:
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                               STATE OF MICHIGAN
+
+                                                DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                 BPB 2026-007
+     BEM 400          14 of 77                     ASSETS
+                                                                                        4-1-2026
+
+
+                       •     Consider the individual the sole owner in determining the
+                             community spouse resource allowance (CSRA). BEM 402,
+                             Special MA Asset Rules, describes the CSRA.
+
+                       •     Proceed as follows for all other purposes:
+
+                                 If the spouse is an MA-only individual or receives FIP or
+                                 SSI, each spouse owns an equal share unless otherwise
+                                 claimed and verified.
+
+                                 If the spouse is not an MA-only individual and does not
+                                 receive FIP or SSI, consider the asset totally available
+                                 unless otherwise claimed and verified.
+
+                       Exception: Count equal shares of an asset owned by more than
+                       one SSI-related MA child unless the person claims and verifies a
+                       different ownership.
+
+                       Exception: If the owners are an SSI-related MA child and their
+                       parent(s) and asset deeming applies, count the total amount as the
+                       child's unless the person claims and verifies a different ownership.
+
+ Other Joint Assets
+
+                       FIP, RCA, SDA, G2U, G2C, RMA, SSI-Related MA, CDC and
+                       FAP
+
+                       This applies to all assets that are not included under Cash or
+                       Retirement Plans.
+
+                       Count an equal share for each owner.
+
+                       Note: If specified otherwise by the ownership document, each
+                       owner's share is the amount specified.
+
+ Residents of
+ Domestic Violence
+ Shelters
+
+                       FAP
+
+                       Assets owned by residents of domestic violence shelters are
+                       unavailable when the assets cannot be accessed without
+                       agreement of a joint owner residing in the former group.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                    BPB 2026-007
+     BEM 400          15 of 77                      ASSETS
+                                                                                         4-1-2026
+
+
+NON-SALABLE
+ASSETS
+
+ SSI-Related MA
+ Non-Salable
+ Assets
+
+                       SSI-Related MA Only
+
+                       Give the asset a $0 countable value when it has no current market
+                       value as shown by one of the following:
+
+                       •     Two knowledgeable appropriate sources (example: realtor,
+                             banker, stockbroker) in the owner's geographic area state that
+                             the asset is not salable due to a specific condition (for
+                             example, the property is contaminated with heavy metals). This
+                             applies to any assets listed under:
+
+                                 Investments.
+                                 Vehicles.
+                                 Livestock.
+                                 Burial Space Defined.
+                                 Employment and Training Assets.
+                                 Homes and Real Property (see below).
+
+                       •     In addition, for homes, life leases, land contracts, mortgages,
+                             and any other real property, an actual sale attempt at or below
+                             fair market value in the owner's geographic area results in no
+                             reasonable offer to purchase. Count an asset that no longer
+                             meets these conditions. The asset becomes countable when a
+                             reasonable offer is received. For most assets non-salable is a
+                             temporary condition.
+
+                             For applicants, an actual sale attempt to sell must have started
+                             at least 90 days prior to application and must continue until the
+                             property is sold. (That is, the property does not become non-
+                             salable until the 91st day.) For recipients, the asset must have
+                             been up for sale at least 30 days prior to redetermination and
+                             must continue until the property is sold. An actual sale attempt
+                             to sell means the seller has a set price for fair market value, is
+                             actively advertising the sale in publications such as local
+                             newspaper and is currently listed with a licensed realtor. If after
+                             a reasonable length of time has passed without a sale, the sale
+                             price may need to be evaluated against the definition of fair
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                  STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+       BEM 400        16 of 77                     ASSETS
+                                                                                        4-1-2026
+
+
+                             market value. The definition of fair market value can be found
+                             in the glossary.
+
+                       Note: The non-salable asset policy does not apply to the Initial
+                       Asset Assessment.
+
+ FAP Non-Salable
+ Assets
+
+                       FAP
+
+                       Do not count real property that the FAP group is making a good-
+                       faith effort to sell. All the following must be met for the real
+                       property to be excluded:
+
+                       •     No reasonable purchase offer has been made.
+
+                       •     For active cases, the property is continuously up for sale by a
+                             real estate company, by owner, etc.
+
+                       •     An actual attempt has been made to sell it at a price not higher
+                             than the fair market value.
+
+CASH
+
+                       FIP, RCA, SDA, G2U, G2C, RMA, SSI-Related MA Only, CDC
+                       and FAP
+
+                       This section is about the following types of assets:
+
+                       •     Money/currency.
+
+                       •     Uncashed checks, drafts and warrants.
+
+                       •     Checking and draft accounts.
+
+                       •     Savings and share accounts.
+
+                       •     Money market accounts.
+
+                       •     LTC patient trust fund and all other money held by the facility
+                             for the patient. Example: Patient has prepaid in advance for
+                             the nursing home stay.
+
+                       •     Money held by others. Example: Sally does not have a bank
+                             account. Sally puts money in their mother's checking account,
+                             but it is not a joint account.
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 400          17 of 77                      ASSETS
+                                                                                        4-1-2026
+
+
+                       •     Time deposits. A time deposit is a contract between a person
+                             and a financial institution whereby the person agrees to leave
+                             funds on deposit for a specified period in return for a specified
+                             interest rate. Common time deposits are certificates of deposit
+                             (CDs) and savings certificates.
+
+                       Note: For FAP, use the lowest checking, savings or money market
+                       balance in the month when determining asset eligibility.
+
+                       Note: Determining the cash value of investment instruments, such
+                       as stocks, bonds and mutual funds, is found in the Investment
+                       section of this item.
+
+ Crowdfunding
+ Account
+
+                       FIP, RCA, SDA, CDC and FAP
+
+                       Funds that are available to the group in a crowdfunding account
+                       (such as, but not limited to, GoFundMe, Kickstarter) are considered
+                       a cash asset.
+
+ Cryptocurrency
+
+                       All Programs
+
+                       The value of cryptocurrency (Bitcoin, Ethereum, Litecoin and
+                       Monero, etc.,) available at the time of the interview, is a cash asset.
+
+                       Determine the value by using the exchange rate the currency is
+                       stored in and then converting the currency into U.S. dollars.
+
+ Lump Sums and
+ Accumulated
+ Benefits
+
+                       Lump sums and accumulated benefits are defined in the BPG,
+                       Glossary.
+
+                       FIP, RCA, SDA, CDC and FAP
+
+                       Lump sums and accumulated benefits are assets starting the
+                       month received.
+
+                       A person might receive a single payment that includes both
+                       accumulated benefits and benefits intended as a payment for the
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                  STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                BPB 2026-007
+     BEM 400          18 of 77                    ASSETS
+                                                                                    4-1-2026
+
+
+                       current month. Treat the portion intended for the current month as
+                       income.
+
+                       G2U, G2C, RMA, SSI-Related MA Only
+
+                       Lump sums and accumulated benefits are income in the month
+                       received. See BEM 500, Income Overview, about countable income
+                       policy.
+
+                       Exception: The following are assets:
+
+                       •     Income tax refunds; see Tax Refund & Tax Credit Exclusions
+                             in this item.
+
+                       •     Nonrecurring proceeds from the sale of assets.
+
+                       •     Payments that are excluded assets.
+
+                       •     Medical Loss Ratio Rebate.
+
+ Retroactive SSI
+ Benefits
+
+                       FIP, SDA, G2U, G2C, RMA, SSI-Related MA Only, CDC and FAP
+
+                       Retroactive SSI benefits may be paid as a one-time payment or in
+                       installments over several months. The Social Security Administra-
+                       tion determines how payment will be made.
+
+                       Retroactive SSI benefits are treated as accumulated benefits (see
+                       above) even when paid in installments. See Retroactive RSDI and
+                       SSI Exclusion in this item for SSI-related MA determinations.
+
+                       Note: For FAP groups where all members receive FIP and/or SDA
+                       and/or SSI, retroactive SSI benefits are excluded in Bridges.
+
+ Value of Cash
+
+                       FIP, RCA, SDA, G2U, G2C, RMA, SSI-Related MA Only, CDC
+                       and FAP
+
+                       The value of the types of assets described above is the amount of
+                       the:
+
+                       •     Money/currency.
+                       •     Uncashed check, draft or warrant.
+                       •     Money in the account or on deposit.
+
+
+BRIDGES ELIGIBILITY MANUAL                                               STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                BPB 2026-007
+     BEM 400          19 of 77                    ASSETS
+                                                                                     4-1-2026
+
+
+                       •     Money held by others.
+                       •     Money held by nursing facilities for residents.
+                       •     Money in a vendor pre-paid debit card (for example, Direct
+                             Express, ReliaCard, etc.).
+
+                       Exception: Reduce the value of a time deposit by the amount of
+                       any early withdrawal penalty, but not the amount of any taxes due.
+
+CASH EXCLUSIONS
+
+ Homestead-Loss
+ Funds Exclusion
+
+                       FIP, RCA, SDA, G2U, G2C, RMA, SSI-Related MA Only and CDC
+
+                       Use this exclusion only if the funds are not commingled with count-
+                       able assets and not in time deposits.
+
+                       Exclude funds an owner received for repairs or replacement of a
+                       damaged or destroyed homestead (example: insurance settlement)
+                       if both of the following are true:
+
+                             •   The owner intends to reoccupy the home.
+                             •   There is a written repair/replacement agreement.
+
+                       The individual must declare an estimated completion date. The
+                       exclusion lasts until that date. The local office may grant
+                       extensions.
+
+                       Exclude funds for temporary housing while the homestead is being
+                       repaired or replaced.
+
+                       Also see Homestead-Loss Land Exclusion in this item regarding the
+                       land the home was on.
+
+                       FAP
+
+                       Exclude any governmental payments which are designated for the
+                       restoration of a home damaged in a disaster if the group is subject
+                       to a legal sanction if the funds are not used as intended. Examples
+                       include, but are not limited to, payments made by the Department
+                       of Housing and Urban Development through the individual and
+                       family grant program or disaster loans, or grants made by the Small
+                       Business Administration.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                               STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400          20 of 77                     ASSETS
+                                                                                       4-1-2026
+
+
+ Homestead Sale
+ Exclusion
+
+                       FIP, RCA, SDA, G2U, G2C, RMA, CDC and FAP
+
+                       Use this exclusion only if the funds are not commingled with count-
+                       able assets and are not in time deposits.
+
+                       Exclude funds received from the sale of a homestead, or the land
+                       the home was on, for 12 months if there is a written agreement to
+                       purchase another homestead. The 12-month period starts the
+                       month the funds are received.
+
+                       Note: See Homestead Land Retained Exclusion in this item if
+                       ownership of the land was retained.
+
+                       SSI-Related MA Only
+
+                       Use this exclusion only if the funds are not commingled with count-
+                       able assets and are not in time deposits.
+
+                       When an individual sells an excluded home, the proceeds (the net
+                       amount the seller receives at settlement) of the sale are excluded
+                       resources if the individual:
+
+                       •     Plans to use them to buy another excluded home and,
+                       •     Does so within three full calendar months of receiving the
+                             proceeds.
+
+                       If the individual received the proceeds under an installment
+                       contract, the contract is an excluded resource for as long as the
+                       individual:
+
+                                      Plans to use the entire down payment and the entire
+                                      principal portion of a given installment payment to buy
+                                      another excluded home and,
+
+                                      Does so within three calendar months of receiving
+                                      such down payment or installment payment.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                BPB 2026-007
+     BEM 400          21 of 77                   ASSETS
+                                                                                    4-1-2026
+
+
+ Health
+ Reimbursement
+ Accounts
+
+                       SSI-Related MA only
+
+                       Health Reimbursement Account Plans (HRAs) are group health
+                       plans and need to be reported to Third Party Liability.
+
+ Health Savings
+ Accounts and
+ Medical Savings
+ Accounts
+
+                       MA programs, excluding MAGI-Related
+
+                       Health savings accounts are countable resources. The value is the
+                       amount available for withdrawal minus any penalties but not taxes.
+                       Count amounts withdrawn as an asset in the month received.
+
+ Medicare Set-
+ Aside Account
+
+                       All Programs
+
+                       Medicare Set-Aside Accounts are limited to payment of qualified
+                       medical expenses as determined by the Social Security Administra-
+                       tion. They are created when a Medicare recipient has a workers’
+                       compensation settlement. They are excluded as income and as an
+                       asset.
+
+ Medicare
+ Advantage Plan
+
+                       FIP, SDA, Medicaid, CDC, and FAP
+
+                       The Medicare Advantage Plan, i.e., United HealthCare, Humana,
+                       etc., beneficiaries/individuals may receive prepaid debit cards
+                       These cards can be used to purchase groceries, utilities, etc.
+
+                       Document receipt of the prepaid debit card in the case record, but
+                       do not enter this in Bridges.
+
+                       These are excluded as assets and income. See BEM 503 Income,
+                       Unearned, Medicare Advantage Plan.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                              STATE OF MICHIGAN
+
+                                                DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 400          22 of 77                     ASSETS
+                                                                                         4-1-2026
+
+
+ Non-Homestead
+ Loss Exclusion
+
+                       FIP, RCA, SDA, G2U, G2C, RMA, SSI-Related MA Only, CDC
+                       and FAP
+
+                       Use this exclusion only if the funds are not commingled with count-
+                       able assets and are not in time deposits.
+
+                       Exclude funds received for the planned repair or replacement of a
+                       non-homestead exempt item (example: furniture, clothing, vehicle)
+                       that was lost, stolen, or destroyed. Exclude the funds until the item
+                       is repaired or replaced.
+
+ Loan Exclusion
+
+                       FIP, RCA and CDC
+
+                       Use this exclusion only if the funds are not commingled with count-
+                       able assets and are not in time deposits.
+
+                       Exclude funds a person has borrowed provided it is a bona fide
+                       loan. This includes a loan by oral agreement if it is made a bona
+                       fide loan.
+
+                       Bona fide loan means all the following are present:
+
+                       •     A loan contract or the lender's written statement clearly
+                             indicating the borrower's indebtedness.
+
+                       •     An acknowledgment from the borrower of the loan obligation.
+
+                       •     The borrower's expressed intent to repay the loan by pledging
+                             real or personal property or anticipated income.
+
+                       This exclusion does not apply to:
+
+                       •     Interest earned on borrowed money.
+                       •     Purchases made with borrowed money.
+
+                       Note: When an individual has loaned money to another person,
+                       please refer to the policy in Promissory Notes/Land
+                       Contracts/Mortgages/Loans.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                 BPB 2026-007
+      BEM 400         23 of 77                    ASSETS
+                                                                                       4-1-2026
+
+
+ Reverse Mortgage
+ Exclusion
+
+                       FIP, RCA, SDA, CDC and FAP
+
+                       Use this exclusion only if the funds are not commingled with count-
+                       able assets and not in time deposits.
+
+                       A reverse mortgage allows a homeowner to borrow some percent-
+                       age of the value of their home via a mortgage. The homeowner
+                       receives periodic payments (or a line of credit) that does not have
+                       to be repaid while the homeowner lives in the home. Exclude these
+                       payments. They are loans.
+
+                       SSI Related MA Only
+
+                       Payments that a homeowner receives from a reverse mortgage are
+                       loan proceeds. The loan proceeds are an excluded resource in the
+                       month received but are a countable resource if retained in the
+                       month following the month of receipt. A transfer of reverse
+                       mortgage proceeds is subject to review for a divestment
+                       determination when the individual is in a penalty situation; see BEM
+                       405, MA Divestment.
+
+Tax Refund and Tax
+Credit Exclusion
+
+                       FIP, RCA, CDC and FAP
+
+                       All state and local earned income tax credits and refunds are
+                       excluded, including home heating credits.
+
+                       Note: Federal income tax refunds are excluded for 12 months from
+                       the month of receipt. The refund amount is subtracted from the
+                       group's total assets to determine if they meet the asset limit.
+
+                       Note: This exclusion continues even if the individual has already
+                       spent the refund.
+
+                       Example: Clara applies for FAP in November and has total
+                       countable assets of $6,000. During the interview ask if anyone in
+                       the group received a federal income tax refund in the past 12
+                       months. A tax refund of $2,000 was received in January and was
+                       used it to pay bills. The $2,000 is still subtracted from the $6,000
+                       resulting in countable assets of $4,000.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                               BPB 2026-007
+     BEM 400          24 of 77                   ASSETS
+                                                                                    4-1-2026
+
+
+                       SDA
+
+                       Exclude tax refunds and credits.
+
+                       Use this exclusion only if the funds are not commingled with count-
+                       able assets and are not in time deposits.
+
+                       G2U, G2C, RMA, SSI-Related MA Only
+
+                       Exclude tax credits for nine months after the month of receipt. Tax
+                       credits include credits such as Earned Income Tax Credit and Child
+                       Tax Credit.
+
+                       Exclude federal income tax refunds for 12 months from the month
+                       of receipt. The refund amount is subtracted from the household's
+                       total assets to determine if they meet the asset limit.
+
+                       Note: This exclusion continues even if the individual has already
+                       spent the refund.
+
+ Federal Stimulus
+ Payments
+
+                       SSI- Related MA only
+
+                       The 3 federal stimulus payments received for the COVID 19 federal
+                       Health emergency are permanently excluded. The payment
+                       amount is subtracted from the household's total cash assets to
+                       determine if they meet the asset limit.
+
+ Excluded Income
+ Under BEM 500
+ Series
+
+                       FIP, RCA, SDA, G2U, G2C, RMA, SSI-Related MA Only, CDC
+                       and FAP
+
+                       Use this exclusion only if the funds are not commingled with count-
+                       able assets and are not in time deposits.
+
+                       BEM 500, Income Overview, 501, Income From Employment, 502,
+                       Income From Self-Employment, 503, Income Unearned and 504,
+                       Income From Rental/Room And Board, identify certain sources of
+                       funds that are excluded as both income and assets. Time limits and
+                       other conditions applicable to the income exclusion also apply to
+                       the asset exclusion.
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                              STATE OF MICHIGAN
+
+                                               DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                BPB 2026-007
+     BEM 400          25 of 77                    ASSETS
+                                                                                     4-1-2026
+
+
+                       Note: For FAP, see Excluded Assets in this item.
+
+ Current Income
+ Exclusion
+
+                       FIP, RCA, SDA, G2U, G2C, RMA, SSI-Related MA Only, CDC
+                       and FAP
+
+                       Do not count funds treated as income by a program as an asset for
+                       the same month for the same program.
+
+                       When income must be prorated or averaged (example: self-employ-
+                       ment), exclude the resulting assets for the months of proration.
+
+ Business Account
+ Exclusion
+
+                       FIP, RCA, SDA, G2U, G2C, RMA, SSI-Related MA Only, CDC
+                       and FAP
+
+                       Use this exclusion only if the funds are not commingled with count-
+                       able assets and not in time deposits.
+
+                       Exclude a savings, share, checking, or draft account used solely
+                       for the expenses of a business. Continue the exclusion while the
+                       business is not operating, provided the person intends to return to
+                       the business.
+
+ SSI Dedicated
+ Account
+
+                       FAP
+
+                       Exclude an SSI Dedicated Account. These accounts are mandated
+                       if a child under 18 is approved for SSI and receives a lump-sum
+                       payment.
+
+ Retroactive RSDI
+ and SSI Exclusion
+
+                       SSI-Related MA Only
+
+                       Exclude retroactive RSDI and SSA-issued SSI benefits for nine cal-
+                       endar months beginning the month after payment is received. Do
+                       not exclude purchases made with such funds including CDs and
+                       other time deposits.
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                               STATE OF MICHIGAN
+
+                                                DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400           26 of 77                    ASSETS
+                                                                                       4-1-2026
+
+
+                        This exclusion applies only to any unspent portion of the retroactive
+                        payment from RSDI or SSI. Once the money from the retroactive
+                        payment has been spent, this exclusion does not apply to the items
+                        purchased with the money, even if the nine-month period has not
+                        expired.
+
+                        The money may be commingled with other funds but, if this is done
+                        in such a fashion that the retroactive amount can no longer be
+                        separately identified, that amount will count toward the resource
+                        limit.
+
+                        Use the following to separate countable and excluded funds that
+                        are commingled:
+
+                        •    Assume that countable funds are withdrawn first, leaving as
+                             much of the excluded funds as possible.
+
+                        •    Excluded funds withdrawn are not excluded if redeposited.
+                             The excluded amount can be increased only by deposits of
+                             subsequently received excluded payments.
+
+                        •    Count any interest paid to the account.
+
+                        Example: A person received a $1,000 retroactive RSDI payment
+                        on December 3 via direct deposit. The account already contained
+                        $1,800.
+
+    DATE        DEPOSIT           WITHDRAW      BALANCE          EXCLUDE        COUNTABLE
+    12/3        $1,000            $0            $2,800           $1,000         $1,800
+    12/4        $0                $500          $2,300           $1,000         $1,300
+    12/31       $5                $0            $2,305           $1,000         $1,305
+    1/3         $400              $250          $2,455           $1,000         $1,455
+    1/4         $0                $1,500        $955             $955           $0
+    2/10        $50               $0            $1,005           $955           $50
+    2/12        $0                $400          $605             $605           $0
+    3/8         $100              $0            $705             $605           $100
+    3/15        $0                $50           $655             $605           $50
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                 BPB 2026-007
+     BEM 400          27 of 77                      ASSETS
+                                                                                     4-1-2026
+
+
+ Funds for Burial
+ Arrangements
+
+                       SSI-Related MA Only
+
+                       Money set aside for burial expenses might be excludable. See
+                       Burial Fund Exclusion in this item.
+
+ Retroactive Tax
+ and Utility Cost
+ Subsidy Payments
+
+                       FAP
+
+                       Use this exclusion only if the funds are not commingled with count-
+                       able assets and are not in time deposits.
+
+                       Exclude retroactive tax and utility cost subsidy payments in the
+                       month received and the following month.
+
+ Student Savings
+ Exclusion
+
+                       FIP, RCA, G2U, G2C, CDC and RMA
+
+                       Use this exclusion only if the funds are not commingled with count-
+                       able assets and are not in time deposits.
+
+                       Exclude funds in a separate account under a student's name and
+                       accrued solely from a student's earnings; see BEM 501, Income
+                       From Employment, Student Earnings Disregard.
+
+INVESTMENTS
+
+                       FIP, RCA, SDA, G2U, G2C, RMA, SSI-Related MA Only, CDC
+                       and FAP
+
+                       This section is about the following types of assets:
+
+                       •     U.S. Savings bonds.
+                       •     Securities such as:
+                                 Stocks.
+                                 Bonds.
+                                 Mutual funds.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                   DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400          28 of 77                     ASSETS
+                                                                                       4-1-2026
+
+
+ Value of
+ Investments
+
+                       FIP, RCA, SDA, G2U, G2C, RMA, SSI-Related MA Only, CDC
+                       and FAP
+
+                       The value of a U.S. Savings bond is the amount the owner could
+                       get if the bond were cashed in.
+
+                       G2U, G2C, RMA, SSI-Related MA Only
+
+                       U.S. Savings bonds cannot be cashed in until 12 months after the
+                       date of issuance. However, if bonds are in this waiting period and
+                       the value of the bond(s) and other assets is over the individual’s
+                       asset limit, the individual must seek a waiver of the waiting period.
+
+                       The waiver is a written request from the bond holder or representa-
+                       tive to the United States Department of Treasury outlining why a
+                       waiver of the waiting period is necessary. If the waiver is granted
+                       the value of the U.S. Savings bond is considered available. If the
+                       waiver is denied the bond becomes available at the expiration of
+                       the waiting period.
+
+                       G2U, G2C, RMA, SSI-Related MA Only, and FAP
+
+                       The value of other investments is the amount the asset is selling
+                       for:
+
+                       •     Use the closing price for publicly traded stocks.
+                       •     Use the bid price or net asset value (NAV) for mutual funds.
+                       •     Use the bid price for bonds.
+
+                       If a security was not paid for in full at the time of purchase (bought
+                       on margin), the securities firm has made a loan to the buyer.
+                       Deduct the balance owed from the price if there is written proof that
+                       the balance owed must be repaid when the security is sold.
+
+INVESTMENT
+EXCLUSION
+
+                       SSI-Related MA Only
+
+                       Investments set aside for burial expenses might be excludable; see
+                       Burial Fund Exclusion in this item.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                    BPB 2026-007
+     BEM 400          29 of 77                      ASSETS
+                                                                                         4-1-2026
+
+
+RETIREMENT PLANS
+
+                       FIP, RCA, SDA, G2U, G2C, RMA, SSI-Related MA Only, CDC
+                       and FAP
+
+                       This section is about the following types of assets:
+
+                       •     Individual retirement accounts (IRAs).
+                       •     Keogh plans (also called H.R. 10 plans).
+                       •     401k plans.
+                       •     Deferred compensation.
+                       •     Pension plans.
+                       •     Annuities-- An annuity is a written contract establishing a right
+                             to receive specified, periodic payments for life or for a term of
+                             years.
+
+                       FAP
+
+                       The following retirement accounts are excluded:
+
+                       •     Traditional Defined-Benefit Plan.
+                       •     Cash Balance Plan Employee Stock Ownership Plan.
+                       •     Keogh Plan.
+                       •     Money Purchase Pension Plan.
+                       •     Profit-sharing Plan.
+                       •     Simple 401(k).
+                       •     401(k).
+                       •     403(a) and (b).
+                       •     IRA.
+                       •     Simple Retirement Account IRA.
+                       •     Simplified Employee Pension Plan (SEP).
+                       •     Roth IRA.
+                       •     myRA.
+                       •     Eligible 457(b) Plan.
+                       •     501(c)18 Plan.
+                       •     Federal Thrift Savings Plan.
+                       •     Employer-Sponsored Annuities.
+
+                       Exception: For annuities which are not employer-sponsored; see
+                       Annuity in this item.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                  STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400          30 of 77                    ASSETS
+                                                                                        4-1-2026
+
+
+ Retirement Plan
+ Value
+
+                       FIP, RCA, SDA, G2U, G2C, RMA, SSI-Related MA Only and CDC
+
+                       The value of these plans is the amount of money the person can
+                       currently withdraw from the plan. Deduct any early withdrawal pen-
+                       alty, but not the amount of any taxes due.
+
+                       Funds in a plan are not available if the person must quit their job to
+                       withdraw any money.
+
+                       Freedom to Work (FTW) Only
+
+                       The value of funds in retirement accounts and individual retirement
+                       accounts may be excluded, see BEM 174.
+
+ Annuity
+
+                       G2U, G2C, RMA, SSI-Related MA Only and FAP
+
+                       Annuities are similar legal devices to trusts. Annuities are a written
+                       contract with a commercial insurance company, establishing a right
+                       to receive specified, periodic payments for life or for a term of
+                       years. They are usually designed to be a source of retirement
+                       income; see BEM 503, Annuity Income policy. Policy in BEM 401
+                       applies, including referring annuities to the Trust and Annuities Unit;
+                       see FAP Trusts below.
+
+TRUSTS
+
+                       FIP, RCA, SDA and CDC
+
+                       A trust is a right of property created by one person for the benefit
+                       of them self or another.
+
+ Trust Definitions
+
+                       FIP, RCA, SDA and CDC
+
+                       Beneficiary - the person for whose benefit a trust is created.
+
+                       Grantor or settlor - the person who established the trust. It
+                       includes anyone who furnishes real or personal property for the
+                       creation of the trust.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 400          31 of 77                      ASSETS
+                                                                                           4-1-2026
+
+
+                       Principal (or corpus) - the assets in the trust. The assets may be
+                       real property (example: house, land) or personal property (example:
+                       stocks, bonds, life insurance policies, saving accounts).
+
+                       Trustee - the person who has legal title to the assets and income of
+                       a trust and the duty to manage the trust for the benefit of the benefi-
+                       ciary.
+
+ FIP, SDA, CDC
+ Trust Policy
+
+                       FIP, RCA, SDA and CDC
+
+                       The Probate Court decides availability of the trusts it administers. A
+                       grantor must petition the Probate Court to make the principal avail-
+                       able.
+
+                       For other trusts, the principal is an available asset of the person
+                       who is legally able to:
+
+                       •     Direct use of the principal for their needs.
+                       •     Direct that ownership of the principal reverts to themself.
+ MA Trust Policy
+
+                       G2U, G2C, RMA, and SSI-Related MA Only
+
+                       See BEM 401, Trusts-MA.
+
+ FAP Trust Policy
+
+                       FAP
+
+                       The trust principal and any income retained by the trust are consid-
+                       ered unavailable if all the following conditions apply:
+
+                       •     The trust arrangement is not likely to end during the benefit
+                             period.
+
+                       •     No asset group member has the power to revoke the trust or
+                             change the name of the beneficiary during the benefit period.
+
+                       •     The trustee administering the trust is one of the following:
+
+                                      A court or an institution, corporation, or organization
+                                      not under the direction of ownership of any asset
+                                      group member.
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                  STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 400          32 of 77                      ASSETS
+                                                                                        4-1-2026
+
+
+                                      An individual appointed by the court who is restricted
+                                      by the court to use the funds solely for the benefit of
+                                      the beneficiary.
+
+                       •     Investments made on behalf of the trust do not directly involve
+                             or benefit any business or corporation under the control or
+                             direction of an asset group member.
+
+                       •     The funds in the irrevocable trust are one of the following:
+
+                                      Established from the asset group’s own funds and the
+                                      trustee uses the funds solely to make investments on
+                                      behalf of the trust or to pay the educational or medical
+                                      expenses of the beneficiary.
+
+                                      Established from funds of a person who is not a
+                                      member of the asset group.
+
+                       A homestead which continues to be the primary residence of the
+                       FAP group is excluded, even if the title is placed in a
+                       revocable/irrevocable trust.
+
+ Referrals to Trust
+ and Annuities Unit
+
+                       All trusts and annuities must be evaluated by the Trust and
+                       Annuities Unit. Send a completed DHS-1517, Request for
+                       Trust/Annuity Evaluation, to the following email box:
+
+                       Email address boxes for requests or inquiries to Legal Affairs
+                       Administration can be found on the MDHHS-Net at: MDHHS-MA-
+                       FAP-Trusts_Annuities@michigan.gov.
+
+                       Please see the EDM business process on Trust & Annuity Review
+                       for information on how to complete the referral process.
+
+                       Advice is only available to local offices and only for purposes of
+                       determining eligibility when a trust exists. Advice is not available for
+                       purposes of estate planning, including advice on proposed trusts or
+                       proposed trust amendments.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400          33 of 77                    ASSETS
+                                                                                       4-1-2026
+
+
+HOME CARETAKER
+AND PERSONAL
+CARE CONTRACTS
+
+                       SSI-Related MA Only
+
+                       A contract that prospectively pays for expenses such as repairs,
+                       maintenance, property taxes, homeowner’s insurance, heat and
+                       utilities for real property/homestead, or that provide for monitoring
+                       health care, securing hospitalization, medical treatment, visitation,
+                       entertainment, travel and/or transportation, financial management
+                       or shopping, etc., would be considered a divestment. Consider all
+                       payments for care and services which the individual made during
+                       the look-back period as divestment; see BEM 405.
+
+                       Note: The preceding examples should not be considered an all-
+                       inclusive or exhaustive list.
+
+                       Assets transferred in exchange for a contract/agreement for a per-
+                       sonal services/assistance or expenses of real property/homestead
+                       provided by another person after the date of application are consid-
+                       ered an available and countable asset even if the contract is irrevo-
+                       cable.
+
+INDIVIDUAL
+DEVELOPMENT
+ACCOUNTS
+
+                       FIP, RCA, SDA, G2U, G2C, RMA, SSI-Related MA Only, CDC
+                       and FAP
+
+                       Individual Development Accounts (IDA) are established pursuant to
+                       Michigan Public Act 361 of 1998 and section 404(h) of the Social
+                       Security Act or Public Law 105-285. IDAs allow low-income families
+                       to promote their economic independence by saving for:
+
+                       •     Post-secondary educational expenses.
+                       •     First home purchase.
+                       •     Business capitalization.
+
+                       IDAs are funded by periodic contributions from the family’s earnings
+                       and matching contributions by or through a nonprofit organization.
+                       The IDA must be a trust or a joint account that requires the signa-
+                       tures of both the nonprofit organization and a family member to
+                       authorize withdrawals.
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                BPB 2026-007
+     BEM 400          34 of 77                      ASSETS
+                                                                                     4-1-2026
+
+
+                       An IDA is excluded as an asset.
+
+                       A 529 college savings plan is similar to an IDA. See Education and
+                       Training Exclusion in this item for FIP, RCA, SDA, G2U, G2C and
+                       RMA.
+
+MIABLE/ ABLE
+(529A) ACCOUNTS
+
+                       FIP, SDA, RCA, G2U, G2C, RMA, SSI Related MA Only, CDC
+                       and FAP
+
+                       The Internal Revenue Code section 529A establishes ABLE
+                       (Achieving a Better Life Experience) accounts. These accounts are
+                       called MiABLE in Michigan. The account beneficiary must be an
+                       individual who lives with a disability; see BEM 260,
+                       MA/Disability/Blindness. Disregard funds on deposit in an MiABLE
+                       account, interest earned on the account, and any matching funds
+                       deposited in an MiABLE account. Disregard distributions from the
+                       account for qualified expenses.
+
+                       The Michigan Department of Treasury administers MiABLE
+                       accounts in Michigan.
+
+HOMES AND REAL
+PROPERTY
+
+                       FIP, SDA, RCA, SSI-Related MA Only, CDC and FAP
+
+                       This section is about the following types of assets:
+
+                       •     Real property.
+                       •     Mobile homes.
+                       •     Life estates and life leases.
+ Real Property
+ Definition
+
+                       FIP, SDA, RCA, SSI-Related MA Only, CDC and FAP
+
+                       Real property is land and objects affixed to the land such as build-
+                       ings, trees and fences. Condominiums are real property.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                     BPB 2026-007
+     BEM 400          35 of 77                      ASSETS
+                                                                                          4-1-2026
+
+
+ Real Property and
+ Mobile Home Value
+
+                       FIP, SDA, RCA, SSI-Related MA Only, CDC and FAP
+
+                       To determine the fair market value of real property and mobile
+                       homes use:
+
+                       •     Deed, mortgage, purchase agreement or contract.
+
+                       •     State Equalized Value (SEV) on current property tax records
+                             multiplied by two.
+
+                       •     Statement of real estate agent or financial institution.
+
+                       •     Attorney or court records.
+
+                       •     County records.
+
+                       FIP, SDA, RCA
+
+                       Use the fair market value.
+
+                       SSI-Related MA Only, CDC and FAP
+
+                       The value is the equity value. Equity value is the fair market value
+                       minus the amount legally owed in a written lien provision.
+
+                       Deeds are considered legal if they are signed and notarized. It does
+                       not have to be registered with the registrar of deeds to be a legal
+                       document.
+
+                       Note: In Michigan, a lien on a mobile home is on record with the
+                       Secretary of State. If the mobile home is on land the person owns,
+                       the lien may also be recorded with the land deed.
+
+ Life Estate/Life
+ Lease Definition
+
+                       FIP, RCA, SDA, SSI-Related MA Only, CDC and FAP
+
+                       A life estate or life lease gives the individual who holds it certain
+                       rights to property during the individual's lifetime. Usually, the right is
+                       the right to live on the property. The person holding the life estate
+                       or life lease can sell it but does not own the actual property and
+                       normally cannot sell the actual property.
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                   STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+      BEM 400         36 of 77                     ASSETS
+                                                                                        4-1-2026
+
+
+ Life Estate/Life
+ Lease Value
+
+                       FIP, SDA, RCA, SSI-Related MA Only, CDC and FAP
+
+                       Use the life estate factors in Exhibit II to compute the value of a life
+                       estate or life lease. Choose the life estate factor that corresponds to
+                       the person's age. Multiply the fair market value of the actual
+                       property by the appropriate life estate factor. The result is the value
+                       of the life estate or life lease.
+
+                       SSI-Related MA Only
+
+                       Use the value of the life estate to determine if the purchase price
+                       was for fair market value when a person purchases a life estate in
+                       another individual's home.
+
+                       When a person purchases a life estate in another individual’s
+                       home, they must actually reside there for at least one year after the
+                       date of purchase to qualify for the homestead exclusion. If the
+                       person resides in the home for less than one year, treat the
+                       transaction as a transfer of assets. The amount of the transfer is
+                       the entire amount used to purchase the life estate. See BEM 405,
+                       to determine the penalty period.
+
+                       FAP Only
+
+                       Exception: Use a lower amount if verified. Verified means
+                       statements from two financial institutions or real estate firms with a
+                       lower value and the reason for it (example: terminal illness). Use
+                       the lowest amount if the statements have different values.
+
+HOMES AND REAL
+PROPERTY
+EXCLUSIONS
+
+ Homestead
+ Definition and
+ Exclusion
+
+                       FAP
+
+                       A homestead is where an individual lives (unless absent; see
+                       absent from homestead, in this item) that they own, is buying or
+                       holds through a life estate or life lease. It includes the home, all
+                       adjoining land and any other buildings on the land. Adjoining land
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 400          37 of 77                     ASSETS
+                                                                                        4-1-2026
+
+
+                       means land which is not completely separated from the home by
+                       land owned by someone else. Adjoining land may be separated by
+                       rivers, easements and public rights-of-way (example: utility lines
+                       and roads).
+
+                       Exclude only one homestead for an asset group. If a migrant
+                       claims two homesteads, exclude the homestead of the migrant's
+                       choice.
+
+                       SSI-Related MA Only
+
+                       A homestead is where a person lives that they own, is buying or
+                       holds through a life estate. It includes the home in which they live,
+                       the land on which the home is located, and any other related
+                       buildings on the adjoining land. Adjoining land means land which is
+                       not completely separated from the home by land owned by
+                       someone else. Adjoining land may be separated by rivers,
+                       easements, and public rights-of-way (example: utility lines and
+                       roads). A homestead does not include income producing property
+                       located on the homestead property.
+
+                       Exclude only one homestead for an asset group. If the individual
+                       owns more than one home exclude the principal place of residence.
+                       See glossary for definition of homestead and principal place of
+                       residence.
+
+                       BEM 402, Special MA Asset Rules, describes when both an
+                       individual's and community spouse's assets are counted. If an
+                       individual and community spouse own two homes, or they are
+                       separated, and each owns a homestead, exclude the homestead
+                       with:
+
+                       •     The lower equity value for purposes of the initial asset
+                             assessment, and
+
+                       •     The higher equity value for purposes of determining initial
+                             eligibility.
+
+                       See policy in this item about exempting a homestead when the
+                       owner is absent from homestead.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                    BPB 2026-007
+     BEM 400          38 of 77                      ASSETS
+                                                                                         4-1-2026
+
+
+ Home Equity Limit
+ for Long Term
+ Care Costs
+
+                       SSI-Related MA Only
+
+                       Determine the equity value of the homestead; see real property and
+                       mobile home value in this item.
+
+                       MA will not pay the individual’s cost for:
+
+                       •     Home health services.
+
+                       •     Home and community-based services (MIChoice
+                             Waiver/PACE).
+
+                       •     LTC services.
+
+                       •     Home Help.
+
+                       When the equity in the individual’s homestead exceeds:
+
+                                 $752,000 effective January 1, 2026.
+                                 $730,000 effective January 1, 2025.
+                                 $713,000 effective January 1, 2024.
+                                 $688.000 effective January 1, 2023.
+                                 $636,000 effective January 1, 2022.
+                                 $603,000 effective January 1, 2021.
+                                 $595,000 effective January 1, 2020.
+
+                       Do not apply the home equity limit to the individual if the spouse,
+                       child under 21, or the individual's blind or disabled child is residing
+                       in the homestead.
+
+ Absent from
+ Homestead
+
+                       SSI-Related MA Only
+
+                       Exclude the homestead (see definition in this item) that an owner
+                       lived in immediately prior to the time the individual left the property
+                       if any of the following are true:
+
+                       •     The owner intends to return to the homestead.
+
+                       •     The owner is in an LTC facility, a hospital, an adult foster care
+                             (AFC) home or a home for the aged.
+
+
+BRIDGES ELIGIBILITY MANUAL                                                  STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                      BPB 2026-007
+     BEM 400          39 of 77                       ASSETS
+                                                                                           4-1-2026
+
+
+                       •     A co-owner of the homestead uses the property as their home.
+
+                       Relative Occupied. Exclude a homestead provided both of the
+                       following are true:
+
+                       •     The owner is in an institution; see BPG Glossary.
+                       •     The owner's spouse or relative (see below) lives there.
+
+                       Relative for this purpose means a person dependent in any way
+                       (financial, medical, etc.,) on the owner and related to the owner as
+                       any of the following:
+
+                       •     Child, stepchild, or grandchild.
+                       •     Parent, stepparent, or grandparent.
+                       •     Aunt, uncle, niece, or nephew.
+                       •     Cousin.
+                       •     In-law.
+                       •     Brother, sister, stepbrother, stepsister, half- brother, or half-
+                             sister.
+
+                       FAP
+
+                       Exclude the homestead the owner formerly lived in if the owner
+                       intends to return and is absent for one of the following reasons:
+
+                       •     Vocational rehabilitation training.
+                       •     Inability to live at home due to a verified health condition.
+                       •     Migratory farm work.
+                       •     Care in a hospital.
+                       •     Temporary absence due to employment, training for future
+                             employment, illness, or a casualty (example: fire) or natural
+                             disaster.
+ Homestead Land
+ Retained
+ Exclusion
+
+                       SSI-Related MA Only
+
+                       If an owner sells a homestead (example: mobile home), but retains
+                       ownership of the land it was on, exclude the land for three months.
+                       The first month is the month the owner receives any payment from
+                       the sale. Also, exclude the land for the time between the sale and
+                       the receipt of such payment.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                    STATE OF MICHIGAN
+
+                                                   DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 400          40 of 77                     ASSETS
+                                                                                        4-1-2026
+
+
+ Homestead-Loss
+ Land Exclusion
+
+                       SSI-Related MA Only
+
+                       Exclude the land of a damaged, destroyed, or condemned home-
+                       stead if both of the following are true:
+
+                       •     The owner intends to reoccupy it.
+                       •     There is a written repair or replacement agreement.
+
+                       The individual must declare an estimated completion date. The
+                       exclusion lasts until that date. The local office may grant
+                       extensions.
+
+ Real Property and
+ Employment
+ Assets
+
+                       SSI-Related MA Only and FAP
+
+                       Employment-related assets such as farmland and the building
+                       where a business is located might be excluded; see Employment
+                       Asset Exclusions in this item.
+
+ Future Home
+ Exclusion
+
+                       FAP
+
+                       Exclude a lot (including a partially built home) if the owner intends it
+                       to become the FAP group’s homestead and has no other home-
+                       stead.
+
+ Real Property and
+ Burial
+ Arrangements
+
+                       SSI-Related MA Only
+
+                       Property intended as burial space might be excludable; see Burial
+                       Space Exclusion in this item.
+
+                       FAP
+
+                       Exclude burial plots and any burial and funeral arrangements pur-
+                       chased by members of the FAP group.
+
+
+BRIDGES ELIGIBILITY MANUAL                                                  STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400          41 of 77                     ASSETS
+                                                                                       4-1-2026
+
+
+ Income-Producing
+ Real Property
+
+                       SSI-Related MA Only
+
+                       Exclude up to $6,000 of equity in income-producing real property if
+                       it produces annual countable income equal to at least 6 percent of
+                       the asset group's equity in the asset. Countable income is total pro-
+                       ceeds minus actual operating expenses.
+
+                       Exception: Use the Employment Asset Exclusions in this item for
+                       property used in a business or trade.
+
+                       FAP Only
+
+                       Exclude rental and vacation properties owned by the group if they
+                       are renting it to produce income.
+
+                       Note: Time-share properties are excluded.
+
+HOUSEHOLD AND
+PERSONAL GOODS
+DEFINED
+
+                       FAP
+
+                       Household Goods - those items customarily found in the home
+                       and used in connection with the maintenance, use and occupancy
+                       of the premises. This includes items necessary for an adequate
+                       standard of sustenance, accommodation, comfort, information and
+                       entertainment of occupants and guests. Examples are appliances,
+                       furniture, television sets, carpets, cooking utensils, eating utensils
+                       and dishes.
+
+                       Personal Goods - items of personal property that are worn or car-
+                       ried by a person or that have intimate relationship to them.
+                       Examples are personal clothing and jewelry, personal care items,
+                       and educational or recreational items such as books, musical
+                       instruments, or hobby material.
+
+                       SSI-Related MA Only
+
+                       Household Goods - those items of personal property found in or
+                       near the home. Household goods are needed for maintenance,
+                       use, and occupancy of the premises as a home. Items are
+                       considered a person's household goods when they are currently
+                       used, or in the case of an institutionalized person, were previously
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                    BPB 2026-007
+     BEM 400          42 of 77                     ASSETS
+                                                                                         4-1-2026
+
+
+                       used by the person in their own residence. Examples include
+                       furniture, carpets, and dishes.
+
+                       Personal Effects - those items of personal property which are ordi-
+                       narily worn or carried by the individual, or items which have an inti-
+                       mate relation to the individual. Examples include wedding and
+                       engagement rings, pets, books.
+
+HOUSEHOLD AND
+PERSONAL GOODS
+EXCLUSION
+
+                       SSI-Related MA Only and FAP
+
+                       Exclude household and personal goods.
+
+VEHICLES
+
+                       SSI-Related MA Only
+
+                       A vehicle is any registered or unregistered vehicle used for
+                       transportation. Vehicles used for transportation include, but are not
+                       limited to, passenger cars, trucks, motorcycles, boats, snow
+                       mobiles, animal-drawn vehicles, and even animals.
+
+                       Note: See Homes and Real Property about mobile homes.
+
+                       FAP
+
+                       Vehicles are excluded as an asset.
+
+ Vehicle Value
+
+                       SSI-Related MA Only
+
+                       The value of a vehicle is its equity value. Equity value is the fair
+                       market value minus the amount legally owed in a written lien
+                       provision.
+
+                       Liens must be on record with the Secretary of State or other appro-
+                       priate agency.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                  STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                 BPB 2026-007
+     BEM 400          43 of 77                    ASSETS
+                                                                                      4-1-2026
+
+
+VEHICLE
+EXCLUSIONS
+
+ SSI-Related MA
+ Vehicle Exclusion
+
+                       SSI-Related MA Only
+
+                       Exclude one motorized vehicle owned by the asset group. If the
+                       asset group owns multiple motorized vehicles:
+
+                       •     Use the Employment Asset Exclusions first, then
+                             From any remaining motorized vehicles, exclude the one with
+                             the highest equity value.
+
+
+
+PROMISSORY
+NOTES/LOAN
+S/LAND
+CONTRACTS/
+MORTGAGES
+
+ Land Contracts
+
+                       SSI-Related MA Only
+
+                       A land contract is a form of seller financing. It is similar to a
+                       mortgage, but the buyer makes payments to the real estate owner
+                       (seller) until the purchase price is paid in full. A homeowner might
+                       also sell their home via a sale-leaseback agreement; see definition
+                       in this item. A land contract does not have to be recorded in
+                       Michigan.
+
+                       The person who sold the property is the holder of the note. The
+                       note is the holder's asset.
+
+                       Example: John sells land to Irma on a land contract. John is the
+                       land contract holder. The land contract is John's asset. The land is
+                       Irma's asset.
+
+                       The value of a land contract is the amount it can be sold for in the
+                       holder's geographic area on short notice (usually at a commercial
+                       discount rate) minus any lien on the property the holder must repay.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                               STATE OF MICHIGAN
+
+                                                DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400          44 of 77                     ASSETS
+                                                                                       4-1-2026
+
+
+                       A land contract may be treated as a transfer of assets unless all the
+                       following are true:
+
+                       •     The repayment schedule is actuarially sound; and
+
+                       •     The payments are made in equal monthly amounts during the
+                             term of the agreement with no deferral of payments and no
+                             balloon payments; and
+
+                       •     The contract must prohibit the cancellation of the balance upon
+                             the death of the lender.
+
+                       See BEM 405, Uncompensated Value, to determine the value of
+                       any land contract which does not meet all of the bullets listed in this
+                       policy.
+
+                       Note: The payments from a land contract are countable unearned
+                       income.
+
+ Mortgages
+
+                       A mortgage is a loan that a bank or mortgage lender gives to a
+                       buyer to finance the purchase of a house. Mortgages are usually
+                       recorded to notify the public that the lender has a lien against the
+                       property.
+
+                       The value of a mortgage is the amount it can be sold for in the
+                       holder's geographic area on short notice (usually at a commercial
+                       discount rate) minus any lien on the property.
+
+                       A mortgage may be treated as a transfer of assets unless all the
+                       following are true:
+
+                       •     The payment schedule is actuarially sound; and
+
+                       •     The payments are made in equal monthly amounts during the
+                             term of the agreement with no deferral of payments and no
+                             balloon payments; and
+
+                       •     The mortgage contract must prohibit the cancellation of the
+                             balance upon the death of the lender.
+
+                       See BEM 405, Uncompensated Value to determine the value of
+                       any mortgage which does not meet all of the bullets in this policy.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 400          45 of 77                     ASSETS
+                                                                                         4-1-2026
+
+
+ Promissory
+ Notes/Loans
+
+                       A promissory note is a written promise to pay a certain sum of
+                       money to another person at a specified time. Promissory notes are
+                       loans. The promissory note may call for installment payments over
+                       a period of time (installment note). The note is an asset to the
+                       lender. For eligibility, the value of the note is the outstanding
+                       balance due as of the date of application for long term care, home
+                       help, waiver services, or home health services.
+
+                       The purchase of a promissory note or loan is a transfer of assets.
+                       The purchaser has transferred cash in exchange for a written
+                       promise to be paid back by the borrower. This transfer must be
+                       reviewed to determine if the purchaser has received fair market
+                       value. A note that cannot be sold or transferred to another party
+                       does not meet the definition of fair market value and must be
+                       reviewed as a divestment. See the Glossary for definitions of fair
+                       market value and arm length transaction. In addition to the fair
+                       market value requirement the purchase of a promissory note is a
+                       transfer of assets for less than fair market value unless all the
+                       following is also true:
+
+                       •     The repayment schedule is actuarially sound; and
+
+                       •     The payments are made in equal monthly amounts during the
+                             term of the agreement with no deferral of payments and no
+                             balloon payments; and
+
+                       •     The note must prohibit the cancellation of the balance upon the
+                             death of the lender.
+
+                       See BEM 405, Uncompensated Value, to determine the value of
+                       any promissory note or loan as a transfer for less than fair market
+                       value.
+
+                       Note: Life expectancy tables used to determine actuarial
+                       soundness are in BEM 405.
+
+ Bona Fide Loans
+
+                       A loan is bona fide if it meets all the following requirements:
+
+                       •     It is enforceable under state law.
+                       •     The loan agreement is in effect at the time of the transaction.
+                       •     The borrower acknowledges an obligation to repay.
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                BPB 2026-007
+     BEM 400          46 of 77                    ASSETS
+                                                                                    4-1-2026
+
+
+                       •     The loan document includes a plan for repayment.
+                       •     The repayment plan is feasible.
+
+                       Note: Count principal payments from a bona fide loan or
+                       promissory note are the return of the principal as an asset in the
+                       month received. Payment of interest on a bona fide loan and all
+                       payments from a loan or promissory note which is not bona fide is
+                       countable unearned income.
+
+                       The estate recovery program needs to know about a promissory
+                       note for the state to recover Medicaid expenses. Please send a
+                       copy of the promissory note to the estate recovery unit at: MDHHS-
+                       EstateRecovery@michigan.gov.
+
+ Sale-Leaseback
+ Agreement Defined
+
+                       SSI-Related MA Only
+
+                       In a sale-leaseback agreement, a homeowner sells their home on
+                       an installment note and receives monthly payments from the buyer.
+                       The buyer allows the former homeowner to live in the home in
+                       exchange for rent. The difference between the buyer's payment and
+                       the rent is money the former homeowner can use for current
+                       expenses. Sometimes the arrangement involves purchase of an
+                       annuity that pays money to the former homeowner.
+
+ Sale-Leaseback
+ Asset Value
+
+                       SSI-Related MA Only
+
+                       The note held by the former homeowner is an asset. The value is
+                       the amount the note can be sold for in the holder's geographic area
+                       on short notice (usually at a commercial discount rate) minus any
+                       liens on the property the former homeowner must repay.
+
+                       The sale might also create income for the note holder; see BEM
+                       503, Sale-Leaseback Income.
+
+LIFE INSURANCE
+
+                       SSI-Related MA Only
+
+                       A life insurance policy is a contract between the policy owner and
+                       the company that provides the insurance. The company agrees to
+                       pay money to a designated beneficiary upon the death of the
+
+BRIDGES ELIGIBILITY MANUAL                                              STATE OF MICHIGAN
+
+                                                DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400          47 of 77                     ASSETS
+                                                                                       4-1-2026
+
+
+                       insured. Pure Endowment Life Insurance Contracts pay out on a
+                       specific date in the future, not just when the beneficiary dies, and
+                       does not meet the definition of life insurance for Medicaid.
+
+ Life Insurance
+ Definitions
+
+                       SSI-Related MA Only
+
+                       Cash surrender value (CSV) - the amount of money the policy
+                       owner can get by canceling the policy before it matures or before
+                       the insured dies. It may be titled the cash surrender value or the
+                       cash value.
+
+                       Face value (FV) - the amount of the basic death benefit contracted
+                       for at the time the policy is purchased. It might be titled the face
+                       value, face amount, amount of insurance, amount of policy or sum
+                       insured. It does not include dividends or additional amounts
+                       payable because of accidental death or other special circumstance.
+
+                       Insured - the person whose life the policy insures.
+
+                       Insurer - the company that contracts with the policy owner.
+
+                       Policy owner - the person who has the right to change the policy.
+                       This is usually the person who pays the premiums. The policy
+                       owner and the insured can be different people.
+
+ Life Insurance
+ Value
+
+                       SSI-Related MA Only
+
+                       A life insurance policy is an asset if it can generate a CSV. A policy
+                       is the policy owner's asset.
+
+                       •     A policy's value is its CSV. A policy can generate a CSV but
+                             have a CSV of zero. Such a policy is an asset with zero value.
+
+                       •     Generally, term insurance does not have a CSV. Whole or
+                             straight life policies generate a CSV. Policies called graded
+                             term or level term may have a CSV and must be verified and
+                             counted as an asset.
+
+                       •     The CSV usually increases over time. A loan against a policy
+                             reduces its CSV. Pre-death payment of the death benefit might
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400          48 of 77                     ASSETS
+                                                                                      4-1-2026
+
+
+                             reduce the CSV. See Accelerated Life Insurance Payments
+                             in BEM 500 about the payments received.
+
+                       •     CSV and FV are not the same thing.
+
+                       •     Tables included with a life insurance policy are not considered
+                             accurate. Verification of the CSV should be either a current
+                             notice (within the year) from the company or by contacting the
+                             company for the current value.
+
+LIFE INSURANCE
+EXCLUSIONS
+
+ Life Insurance for
+ Funeral
+
+                       SSI-Related MA Only
+
+                       In addition to the general exclusion below, some or all of the value
+                       of insurance might be excluded to pay for funeral expenses; see
+                       Funeral Plans in this item.
+
+ General SSI-
+ Related MA Life
+ Insurance
+ Exclusion
+
+                       SSI-Related MA Only
+
+                       Look at each policy owner's life insurance separately.
+
+                       Exclude the entire cash surrender value when the total face values
+                       of all policies a policy owner has for the same insured are $1,500
+                       or less.
+
+                       See the example and exceptions below.
+
+                       Example:
+
+                       Mr. and Mrs. Smith own the following policies:
+
+                       Policy      Owner         FV       Insured       CSV
+                       1          Mr.         $1,000      Mrs.       $500
+                       2          Mr.         $800        Mrs.       $300
+                       3          Mr.         $1,500      Mr.        $1,000       Exclude
+                       4          Mr.         $2,000      Son        $1,000
+                       5          Mrs.        $1,500      Mr.        $500         Exclude
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400          49 of 77                     ASSETS
+                                                                                       4-1-2026
+
+
+                       6          Mrs.        $2,000      Mrs.       $1,000
+
+                       CSVs for policies 1 and 2 are not excludable under this policy for
+                       Mr. Smith. He owns both policies. They insure the same person.
+                       The combined FVs exceed $1,500.
+
+                       CSV for policy 4 is not excludable under this policy for Mr. Smith.
+                       The FV exceeds $1,500.
+
+                       CSV for policy 6 is not excludable under this policy for Mrs. Smith.
+                       The FV exceeds $1,500.
+
+                       Exceptions: Do not count the face value of:
+
+                       •     Term insurance that does not generate a CSV.
+
+                       •     Burial insurance. Burial insurance is an insurance policy whose
+                             terms prevent the use of its proceeds for anything other than
+                             payment of the insured's burial expenses. A policy is not burial
+                             insurance if the policy has a CSV the owner can access. A pol-
+                             icy used for a Life Insurance Funded Funeral below is not
+                             burial insurance. Michigan does not have burial insurance, but
+                             a person from another state could have such insurance.
+
+                       •     Endowment policies. An endowment policy is a policy which
+                             enables the insured to accumulate a sum of money payable to
+                             them at a date named in the policy (the maturity date). The
+                             policy states whether the money is paid overtime or all at once.
+                             The policy matures on the maturity date. An endowment policy
+                             is not life insurance. Because the applicant gives up the rights
+                             to control the money until the maturity date, a non-matured
+                             endowment policy must be considered a divestment; see BEM
+                             405.
+
+LONG TERM CARE
+INSURANCE
+PARTNERSHIP
+POLICIES
+
+                       SSI-Related MA Only
+
+                       Long term care insurance partnership policies are health insurance
+                       and are not countable as assets. However, there are special asset
+                       rules for individuals who use long term care insurance partnership
+                       policies to pay for long term care.
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400          50 of 77                    ASSETS
+                                                                                       4-1-2026
+
+
+                       At the initial eligibility determination there is an asset disregard
+                       (starting with countable assets first) equal to the amount that the
+                       long-term care policy has paid to, or on the behalf of, the applicant.
+                       The asset disregard can increase at redetermination or case
+                       closure. The countable asset limit for Extended Care category
+                       remains the same. Assets of any type can receive the disregard.
+                       These disregarded assets are also disregarded (protected from)
+                       estate recovery.
+
+LONG TERM CARE
+INSURANCE
+POLICIES
+
+                       SSI-Related MA Only
+
+                       Long Term Care (LTC) insurance is a potential third-party payer for
+                       some medical expenses. Usually, the LTC insurance can pay all or
+                       some of the LTC expenses before the MA program pays. LTC
+                       insurance policies need to be reported to TPL. TPL will process the
+                       information and update the MA payment of LTC medical claims
+                       accordingly. LTC insurance is not considered an asset or income
+                       for the individual. Individuals need to make arrangements with the
+                       nursing facility to forward any LTC insurance payments the
+                       individual receives to the nursing facility; the payments should not
+                       accumulate.
+
+FUNERAL PLANS
+
+                       SSI-Related MA Only
+
+                       Funeral plan refers to the prearrangement for cemetery and/or
+                       funeral goods and services. Normally, the plan is established using
+                       one or more of the following:
+
+                       •     Burial fund.
+                       •     Purchase of burial space.
+                       •     Prepaid funeral contract.
+                       •     Life insurance funding.
+ Burial Fund
+ Exclusion
+
+                       SSI-Related MA Only
+
+                       A limited amount of certain types of assets a person has clearly
+                       designated to pay for burial expenses is excluded as a burial fund.
+                       See below for information about:
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                    BPB 2026-007
+     BEM 400          51 of 77                      ASSETS
+                                                                                        4-1-2026
+
+
+                       •     Types of assets.
+                       •     Burial expenses.
+                       •     Clearly designated.
+                       •     Not commingled.
+                       •     Amount excluded.
+                       •     Misuse of funds.
+
+                       See Exhibit I of this item for examples of this exclusion.
+
+                       Types of Assets
+
+                       Assets under the following headings in this item can be a burial
+                       fund:
+
+                       •     Cash.
+                       •     Investments.
+                       •     Life insurance.
+                       •     Prepaid funeral contract.
+
+                       Other types of assets (example: real property, vehicles, livestock)
+                       may not be a burial fund.
+
+                       Burial Expenses
+
+                       Expenses that qualify for the burial fund exclusion are generally
+                       those related to preparing a body for burial and any services prior
+                       to burial. Examples are:
+
+                       •     Services of funeral director and staff.
+                       •     Transportation of the body.
+                       •     Embalming.
+                       •     Cremation.
+                       •     Clothing.
+                       •     Cost of guest registry book.
+                       •     Cost of obituary.
+                       •     Flowers not displayed at gravesite.
+                       •     Cleric's honorarium if no services at gravesite.
+                       •     Burial space items that do not meet the held for test described
+                             in SSI-Related MA Burial Space Exclusion in this item.
+
+                       Note: A Luncheon or similar service does not meet the definition of
+                       a burial expense as it is not related to the preparation of the body
+                       for burial. Do not certify a DHS-8A with such an expense and do
+                       not consider it as an allowable burial expense item.
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                   DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                     BPB 2026-007
+     BEM 400          52 of 77                      ASSETS
+                                                                                             4-1-2026
+
+
+                       Clearly Designated
+
+                       The asset must be clearly designated. The designation can be on
+                       the asset (example: title on a bank account, prepaid funeral con-
+                       tract) or on a signed statement from the individual. The designation
+                       must include the following information:
+
+                       •     Value and owner of the asset.
+                       •     Whose burial the fund is for.
+                       •     Date the funds were set aside for the person's burial.
+                       •     Form in which the asset is held (example: bank account, life
+                             insurance).
+
+                       Not Commingled
+
+                       Burial funds may not be commingled with any assets except
+                       excluded burial space assets; see SSI-Related MA Burial Space
+                       Exclusion in this item.
+
+                       Amount Excluded
+
+                       Exclude up to $1,500 for each qualified fiscal group member and/or
+                       spouse. In addition, exclude accumulated interest and dividends.
+
+                       Reduce the $1,500 per person maximum by the following:
+
+                       •     The face value of excluded life insurance policies (including
+                             term insurance) when the person is the insured and:
+
+                                 If an adult, the policy is owned by the person or the
+                                 person's spouse.
+
+                                 If a child, the policy is owned by the child, the child's
+                                 parent or the parent's spouse.
+
+                       •     The principal amount (not accumulated interest or dividends)
+                             held in an irrevocable prepaid funeral contract for the person's
+                             burial expenses (see above). Do not count the identifiable cost
+                             of burial space assets; see Burial Space Defined in this item.
+
+                       •     The cost of burial expenses (see above) identifiable in a life
+                             insurance funded funeral plan that was irrevocably transferred
+                             (see Life Insurance Funded Funeral and Life Insurance
+                             Irrevocably Transferred in this item.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                   STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                    BPB 2026-007
+     BEM 400          53 of 77                         ASSETS
+                                                                                         4-1-2026
+
+
+                       •     The face value of burial insurance on the person. See Life
+                             Insurance in this item for the definition of burial insurance.
+
+                       Count only the original principal amount and any additions to the
+                       principal to determine if the maximum limit has been reached. Do
+                       not count accumulated interest and dividends.
+
+                       Note: The principal amount of a life insurance policy is the cash
+                       surrender value (CSV) of the policy, not the face value. Increases
+                       in the CSV count against the limit. Increases in the CSV above the
+                       person's burial fund limit are countable as the policy owner's
+                       assets.
+
+                       Misuse of Fund
+
+                       Count the amount of an excluded burial fund used for another pur-
+                       pose while the person was an MA recipient as unearned income
+                       for one month. The month must be far enough in the future so that
+                       any negative action pend period would end before the month
+                       begins.
+
+                       Exception: Do not do this if the value of countable assets plus the
+                       misused funds were within the asset limit for the month the misuse
+                       occurred.
+
+ Burial Space
+ Defined
+
+                       SSI-Related MA Only
+
+                       A burial space is a(n):
+
+                       •     Burial plot, gravesite.
+
+                       •     Crypt, mausoleum.
+
+                       •     Casket, urn, niche.
+
+                       •     Some other type of repository customarily and traditionally
+                             used for the deceased's bodily remains.
+
+                       •     Necessary and reasonable improvements or additions to or
+                             upon such spaces including:
+
+                                 Vaults.
+                                 Headstones, markers, or plaques.
+                                 Burial containers.
+
+
+BRIDGES ELIGIBILITY MANUAL                                                   STATE OF MICHIGAN
+
+                                                   DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 400          54 of 77                     ASSETS
+                                                                                       4-1-2026
+
+
+                                 Opening and closing of the gravesite.
+                                 Contracts for care and maintenance of the gravesite.
+
+                       Note: Reasonable and necessary are those items required by the
+                       cemetery.
+
+                       •     Flowers if displayed at gravesite.
+                       •     Cleric’s honorarium for service at gravesite.
+
+                       Note: Of the items that serve the same purpose, exclude only one
+                       item per person.
+
+                       Example: Exclude a cemetery lot and casket for the same person,
+                       but not a casket and an urn.
+
+ Value of Burial
+ Space
+
+                       SSI-Related MA Only
+
+                       The value of a burial space item is its equity value. Equity value is
+                       fair market value minus the amount legally owed in a written lien
+                       provision.
+
+ SSI-Related MA
+ Burial Space
+ Exclusion
+
+                       SSI-Related MA Only
+
+                       An applicant can own and exclude burial space items for
+                       themselves. Burial space items in a prepaid funeral contract must
+                       be identified and valued separately from non-burial space times to
+                       be excluded Burial space items on a revocable prepaid contract are
+                       excluded. Burial space items on an irrevocable contact are not a
+                       resource.
+
+                       In addition to their own burial space items an applicant can own
+                       and exclude burial space items for each of the following individuals:
+
+                       •     Each qualified fiscal group member; see BEM 211.
+                       •     Whether by blood, adoption or marriage, the member's:
+                                 Parents.
+                                 Minor and adult children.
+                                 Siblings.
+                       •     The spouse of each person listed above.
+
+
+BRIDGES ELIGIBILITY MANUAL                                                   STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                     BPB 2026-007
+     BEM 400          55 of 77                      ASSETS
+                                                                                          4-1-2026
+
+
+                       The applicant must retain ownership and control of the burial space
+                       item to receive the exclusion; see held for policy in this item. The
+                       exclusion ends if the applicant's relationship to a relative only by
+                       marriage has ended by death or divorce.
+
+                       The burial space must continue to meet the held for criteria to be
+                       excluded, see held for in this item. If a burial space is transferred to
+                       another individual (even if listed above) it no longer meets the held
+                       for criteria and must be reviewed for divestment; see BEM 405.
+
+                       If the burial space items serve the same purpose, exclude only one
+                       item per person.
+
+                       Note: An applicant may transfer a burial space item to a disabled
+                       child of any age or the applicant's spouse without incurring a
+                       divestment.
+
+                       Held For. A burial space is held for an individual when the
+                       applicant currently has:
+
+                       •     Title to and/or possesses a burial space intended for the listed
+                             individual's use (for example has title to a burial plot, has paid
+                             for a burial urn).
+
+                       •     A contract with a funeral service company for specified burial
+                             spaces for the listed individual's burial (that is, an agreement
+                             that represents the listed individual's current right to the use of
+                             the items).
+
+                       A burial space does not meet the definition of held for any applicant
+                       or listed individual under an installment sales contract or similar
+                       device if the purchase price is not paid in full and any of the
+                       following are true:
+
+                       •     The individual does not currently own the space.
+
+                       •     The individual does not currently have the right to use the
+                             space.
+
+                       •     The seller is not currently obligated to provide the space.
+
+                       Until all payments are made on the contract, the amounts paid
+                       might be considered burial funds; see Burial Fund Exclusion in this
+                       item.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                   STATE OF MICHIGAN
+
+                                                   DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400          56 of 77                     ASSETS
+                                                                                       4-1-2026
+
+
+                       Note: In Michigan only a provider licensed by the Michigan
+                       Department of Licensing and Regulatory Affairs can sell burial
+                       space items.
+
+ Prepaid Funeral
+ Contract
+
+                       SSI-Related MA Only
+
+                       A prepaid funeral contract means a contract requiring payment in
+                       advance for funeral goods or services. Contracts may be revocable
+                       or irrevocable.
+
+                       •     See Revocable Prepaid Funeral Contract Exclusions and
+                             Value in this item if the contract is revocable.
+
+                       •     See Irrevocable Prepaid Funeral Contracts in this item if the
+                             contract is irrevocable.
+
+                       •     See BAM 805, Prepaid Funeral Contracts, about making
+                             Michigan contracts irrevocable.
+
+ Revocable Prepaid
+ Funeral Contract
+ Exclusions and
+ Value
+
+                       SSI-Related MA Only
+
+                       Funds in a revocable prepaid funeral contract might be excludable
+                       using the Burial Fund Exclusion and/or the SSI-Related MA Burial
+                       Space Exclusion in this item.
+
+                       The countable amount of the contract is the amount remaining on
+                       deposit after deducting those exclusions and any commissions or
+                       fees that would be charged upon withdrawal. There is no burial
+                       funds exclusion.
+
+ Irrevocable
+ Prepaid Funeral
+ Contracts
+
+                       G2U, G2C, RMA, SSI-Related MA Only
+
+                       Funds in an irrevocable prepaid funeral contract are unavailable
+                       and thus are not counted.
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400          57 of 77                     ASSETS
+                                                                                       4-1-2026
+
+
+                       Funds in a Michigan contract (DHS-8A, Irrevocable Funeral Con-
+                       tract Certification) certified irrevocable are excluded.
+
+                       Note: Prior to 1986 Michigan law allowed a pre-paid funeral
+                       contract to be funded with a Certificate of Deposit (CD). These
+                       contracts may be certified as irrevocable.
+
+ Life Insurance
+ Funded Funeral
+
+                       SSI-Related MA Only
+
+                       A funeral plan can be funded using life insurance. A person pur-
+                       chases a life insurance policy and directs the proceeds to be used
+                       to pay for their funeral. In addition, the person might
+                       irrevocably/permanently transfer ownership of the policy to either:
+
+                       •     A trust.
+                       •     A funeral director who then transfers ownership to a trust.
+
+                       Note: An annuity can be used in the same way to fund a funeral
+                       plan.
+
+                       Proceeds of a life insurance policy means the face value of the pol-
+                       icy plus any additions payable at maturity or death. Proceeds are
+                       reduced by the amount of outstanding loans against the policy and
+                       Accelerated Life Insurance Payments; see BEM 500.
+
+                       A funeral plan funded with life insurance is not a prepaid funeral
+                       contract per BAM 805.
+
+ Life Insurance
+ Funded Funeral
+ Trusts
+
+                       SSI-Related MA Only
+
+                       Life insurance funded trusts, regardless of including specific goods
+                       or services, or naming a funeral provider, are countable if revocable
+                       and a divestment if irrevocable. Send a life insurance funded trust
+                       to the Trust and Annuity Evaluation Unit.
+
+ Other Funded
+ Funeral Trusts
+
+                       Other funded funeral trusts, regardless of including specific goods
+                       or services, or naming a funeral provider, are countable assets if
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                 BPB 2026-007
+     BEM 400          58 of 77                     ASSETS
+                                                                                      4-1-2026
+
+
+                       revocable and divestment if irrevocable. These trusts are not
+                       prepaid funeral agreements and do not qualify for any funeral
+                       exemptions. A DHS-8A cannot be used to certify a revocable trust
+                       as irrevocable for purposes of exclusion.
+
+ Life Insurance NOT
+ Irrevocably
+ Transferred
+
+                       SSI-Related MA Only
+
+                       If a person has directed the proceeds of a life insurance policy be
+                       used to pay for their funeral, but has not irrevocably transferred
+                       ownership, the policy is treated as life insurance. See Life
+                       Insurance and Burial Fund Exclusion in this item.
+
+ Life Insurance
+ Irrevocably
+ Transferred
+
+                       SSI-Related MA Only
+
+                       Use the following when a person directs that the proceeds of a life
+                       insurance policy be used for their funeral and has irrevocably
+                       transferred ownership of the policy. Do this even if the person
+                       retains the right to change funeral providers, items, or services.
+
+                       •     Do not count the cash surrender value of the policy as an
+                             asset effective the month of transfer.
+
+                       •     Do not count the funeral contract as an asset.
+
+                       •     Do not apply policy in BEM 401.
+
+                       •     Do not consider the ownership transfer as divestment when all
+                             of the following are true:
+
+                                 The proceeds are still to be used to pay the insured’s
+                                 funeral expenses.
+
+                                 The value of the goods and contracted services at least
+                                 equals the cash surrender value of the insurance.
+
+                                 The new owner cannot use the cash surrender value of
+                                 the insurance policy for themselves.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+      BEM 400         59 of 77                      ASSETS
+                                                                                        4-1-2026
+
+
+                       Note: If the value of the goods and services contracted for is less
+                       than cash surrender value of the insurance, the difference is
+                       transferred for less than fair market value.
+
+ Limited Liability
+ Companies
+
+                       SSI-Related MA Only
+
+                       Count any assets in a Limited Liability Company (LLC).
+
+LIVESTOCK
+
+                       SSI-Related MA Only and FAP
+
+                       Exclude farm animals used for personal consumption. Exclude fam-
+                       ily pets.
+
+                       Other livestock might be excluded as an employment asset; see
+                       Employment Asset Exclusions in this item.
+
+EMPLOYMENT AND
+TRAINING ASSETS
+
+                       SSI-Related MA Only and FAP
+
+                       Employment assets are those assets commonly used in a
+                       business, a trade or other employment. Examples:
+
+                       •     Farmland.
+                       •     Tools, equipment and machinery.
+                       •     Inventory, livestock.
+                       •     Savings or checking account used solely for a business.
+                       •     The building a business is located in.
+                       •     Vehicles used in business such as a farm tractor or delivery
+                             truck. It does not include vehicles used solely for transportation
+                             to and from work.
+
+                       Such assets might also be used in education or job training.
+
+ Employment or
+ Training Asset
+ Value
+
+                       See the appropriate sections above regarding the value of vehicles,
+                       real property and savings or checking accounts. The value of other
+                       employment or training assets is their equity value. Equity value is
+
+
+BRIDGES ELIGIBILITY MANUAL                                                  STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400          60 of 77                     ASSETS
+                                                                                       4-1-2026
+
+
+                       fair market value minus the amount legally owed in a written lien
+                       provision.
+
+ Payment-In-Kind
+ (PIK) Program
+
+                       A PIK commodity or commodity certificate may be an asset; see
+                       BEM 502 and 503 (for MA), Payment-in-Kind (PIK) Program.
+
+EMPLOYMENT
+ASSET EXCLUSIONS
+
+
+
+ General
+ Employment
+ Exclusion
+
+                       SSI-Related MA Only and FAP
+
+                       Exclude employment assets (see above) that:
+
+                       •     Are required by a person's employer.
+                       •     Produce income directly through their use.
+
+                       Such assets remain excluded when a person is unemployed only if
+                       the person intends to return to that type of work.
+
+                       Exception: For FAP, exclude assets essential to self-employment
+                       farming for one year after the person quits the farming activity, even
+                       if they have no intent to resume.
+
+ Lien Exclusion
+
+                       FAP Only
+
+                       Exclude a non-liquid asset against which a lien has been placed
+                       because of taking out a business loan and the group is prohibited
+                       by the security or lien agreement with the creditor from selling the
+                       asset(s). This asset is considered not accessible.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                BPB 2026-007
+     BEM 400          61 of 77                   ASSETS
+                                                                                       4-1-2026
+
+
+ Education and
+ Training Exclusion
+
+                       FIP, RCA, SDA, G2U, G2C, RMA and CDC
+
+                       529 college savings plans are designed to allow individuals to make
+                       after-tax deposits for their children’s future higher education
+                       expenses. In Michigan, these plans are administered by the Depart-
+                       ment of Treasury and are known as Michigan Education Savings
+                       Plans. Funds deposited into these accounts may qualify for match-
+                       ing funds. After a child reaches age 18, the funds may be used for
+                       post-secondary education or a certified training program.
+
+                       Disregard funds on deposit in a 529 college savings plan, interest
+                       earned on a 529 plan, and any matching funds deposited in a 529
+                       plan.
+
+                       SSI-Related MA Only
+
+                       Exclude assets directly related to a person's current education or
+                       job training program. Directly related means the asset is necessary
+                       for the major program of study or related occupation. Current
+                       means ongoing participation except for school breaks.
+
+                       Example: Exclude tools the person needs for their ongoing auto
+                       mechanics program.
+
+                       Continue this exclusion for six calendar months following the month
+                       the program is completed if the person intends to seek employment
+                       in that occupation.
+
+                       Note: This exclusion does not apply to real property and life
+                       estates.
+
+ Health Profession
+ Opportunity Grant
+
+                       All Programs
+
+                       These payments are issued to provide education and training in the
+                       health care field to Temporary Assistance to Needy Families recipi-
+                       ents and other low-income individuals.
+
+                       Bridges excludes as income and assets.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                              STATE OF MICHIGAN
+
+                                                DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                BPB 2026-007
+     BEM 400          62 of 77                    ASSETS
+                                                                                     4-1-2026
+
+
+EXCLUDED ASSETS
+
+                       FAP
+
+                       Exclude Native American lands held jointly with the Tribe, or land
+                       that can be sold only with the approval of the Department of the
+                       Interior’s Bureau of Indian Affairs.
+
+                       Public Law 79-396, Section 12(e) of the National School Lunch
+                       Act, as amended by Section 9(d) of Public Law 94-105,
+
+                       Exclude assistance provided to children related to children related
+                       to the:
+
+                       •     School Lunch Program.
+                       •     Summer Food Service Program.
+                       •     Child and Adult Care Food Program.
+                       •     Commodity Distribution Program.
+
+                       Public Law 89-642, the Child Nutrition Act of 1966, Section
+                       11(b). The programs include but are not limited to:
+
+                       •     Special Milk Program.
+                       •     School Breakfast Program.
+                       •     Special Supplemental Food Program for Women Infants and
+                             Children (WIC).
+
+                       Public Law 93-531, Section 22, 10/17/75 - Relocation assistance
+                       payments to members of the Navajo and Hopi tribes.
+
+                       Public Law 97-403, Section 22, 10/17/75 - Exclude judgment fund
+                       payments to members of the Turtle Mountain Band of Chippewa
+                       Indians of North Dakota, Chippewa Cree Tribe of the Rocky Boy's
+                       Reservation (Montana), Minnesota Chippewa Tribe, and Little Shell
+                       Tribe of Chippewa Indians of Montana.
+
+                       Public Law 97-408, 1/3/83 - Exclude judgment fund distributions to
+                       members of the Blackfeet Tribe, Gros Ventre, Assiniboine Tribes of
+                       Montana, Papago Tribe of Arizona (now the Tonono O'odham
+                       Nation.
+
+                       Public Law 97-458, 1/12/83 - Amends the Act of October
+                       19,1973 to require approved plans for distributing tribal judgement
+                       funds. It exempts from countable income and assets any per capita
+                       distributions or trust fund payments made under approved plans,
+                       including interest earned, when not exceeding $2,000 per individual
+
+
+BRIDGES ELIGIBILITY MANUAL                                               STATE OF MICHIGAN
+
+                                                DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400          63 of 77                    ASSETS
+                                                                                       4-1-2026
+
+
+                       annually. Also excludes assets held in trust or restricted lands. This
+                       broad exclusion applies across federal and federally assisted
+                       programs.
+
+                       Public Law 98-500, Section 8, 10/17/84, Old Age Assistance
+                       Claims Settlement Act, provides that funds made to heirs of
+                       deceased Native Americans under this Act should not be
+                       considered as assets nor otherwise used to reduce or deny food
+                       stamp benefits except for per capita shares more than $2,000.
+
+                       Public Law 99-146, Section 6(b), 11/11/85 - Exclude payments
+                       distributed to the Chippewas of the Mississippi or held in trust under
+                       this act. The judgments were awarded in Docket Number 18-S.
+
+                       Public Law 99-377, Section 4(b), 8/8/86, - Funds distributed per
+                       capita to the Chippewas of the Mississippi or held in trust under this
+                       Act are excluded. The judgments were awarded in Docket Number
+                       18-S.
+
+                       Public Law 101-277, 4/30/90, Exclude all payments awarded to the
+                       Seminole Indians in Dockets 73, 151, and and 73-A of the Indian
+                       Claims Commission.
+
+                       Public Law 103-436, Section 7(b),11/02/94, Exclude all payments
+                       related Confederated Tribes of the Colville Reservation Grand
+                       Coulee Dam Settlement Act.
+
+                       Public Law 111-291, Section 107(f)(2), 12/8/2010 Exclude
+                       payments related to the Claims Resolution Act of 2010 (Cobell vs.
+                       Salazar).
+
+VERIFICATION
+REQUIREMENTS
+
+                       FIP, SDA, RCA, G2U, G2C, RMA, SSI-Related MA Only, CDC
+                       and FAP
+
+                       Do not require verification when countable assets exceed the limit
+                       based on a person's own statement of value.
+
+                        G2U, G2C, RMA and SSI-Related MA Only
+
+                       Verify the value of countable assets at application, redetermination
+                       and when a change is reported.
+
+                       Exception: For RMA, verify the value of countable assets at
+                       application only.
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                  BPB 2026-007
+     BEM 400          64 of 77                     ASSETS
+                                                                                         4-1-2026
+
+
+                       Verify joint ownership and that the countable amount is less than
+                       that presumed by policy at application and when a change is
+                       reported.
+
+                       Verify the following factors affecting exclusion of an asset at
+                       application, redetermination, and when a change is reported:
+
+                       •     An asset is not available.
+
+                       •     Joint ownership prevents sale (other owner refuses to sell).
+                             Note: this does not apply to MA policy; see Jointly Owned
+                             Assets in this item.
+
+                       •     There is a written agreement to repair/replace a damaged or
+                             destroyed homestead (cash exclusion for G2U, G2C, RMA,
+                             SSI-Related MA Only; land exclusion for SSI-Related MA).
+
+                       •     There is a written agreement to purchase another homestead.
+
+                       •     The asset is a bona fide loan.
+
+                       FIP, SDA, RCA and FAP
+
+                       If questionable, verify countable assets at application, semi-annual,
+                       mid-certification, redetermination and when a change is reported.
+                       Examples include, but are not limited to, recent program closure or
+                       denial due to excess assets and a new application is received with
+                       an asset balance now under the asset limit, or the individual is
+                       reporting they are close to the asset limit.
+
+                       Example: Aaron applies for cash and FAP. The FAP group is non-
+                       categorically eligible. Aaron's total liquid assets are close to the
+                       asset limit. The specialist determines during a conversation with the
+                       individual that the amount reported is questionable. Verification of
+                       the assets is requested.
+
+                       Exception 1: Client statement is not an acceptable verification for
+                       trusts and annuities.
+
+                       Exception 2: Client statement is not an acceptable verification for
+                       asset detection unless previously reported.
+
+                       Exception 3: For FAP, client statement is not an acceptable
+                       verification for asset transfers/divestment.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 400          65 of 77                      ASSETS
+                                                                                        4-1-2026
+
+
+                       If questionable, verify the following factors affecting exclusion of an
+                       asset at application, redetermination, and when a change is
+                       reported:
+
+                       •     An asset is not available.
+
+                       •     Joint ownership prevents sale (other owner refuses to sell).
+                             See Jointly Owned Assets in this item.
+
+                       •     There is a written agreement to repair/replace a damaged or
+                             destroyed homestead.
+
+                       •     There is a written agreement to purchase another homestead.
+
+                       •     The asset is a bona fide loan.
+
+                       CDC Only
+
+                       Do not verify countable assets.
+
+                       SSI-Related MA Only
+
+                       •     An asset is non-salable.
+                       •     The equity value in income-producing real property.
+                       •     Any transfer of ownership of life insurance to fund a funeral.
+VERIFICATION
+SOURCES
+
+                       FIP, SDA, RCA, G2U, G2C, RMA, SSI-Related MA Only, and
+                       FAP
+
+                       The following prove ownership and/or value of assets. Use the
+                       DHS-20, Verification of Assets, the DHS-27, Release of
+                       Information, or other specified form as appropriate, when helping a
+                       person verify assets.
+
+                       Document information verified by telephone contact in the case or
+                       on a DHS-223, Documentation Record.
+
+                       Other sources of verification are listed by asset type.
+
+                       Note: For FAP the following are examples of acceptable
+                       verification sources and not an all-inclusive list.
+
+ Checking or Draft
+ Account
+                       •     Telephone contact with financial institution.
+
+
+BRIDGES ELIGIBILITY MANUAL                                                   STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                 BPB 2026-007
+     BEM 400          66 of 77                       ASSETS
+                                                                                       4-1-2026
+
+
+                       •     Written statement from financial institution.
+                       •     Monthly statement (Examination of checkbook is not sufficient.)
+ Crowdfunding
+ Account
+
+                       •     Copy of Account site.
+
+                       •     Bank statement showing deposits from a crowdfunding
+                             account.
+
+ Cryptocurrency
+
+                       •     URL chosen by the individual, exact exchange rate, amount of
+                             currency the group owns and a screenshot of the exchange
+                             site the individual is using.
+
+                       •     Choose a URL such as Coinbase if a individual does not
+                             choose to provide a URL. Document the URL used, exact
+                             exchange rate, amount of currency the group owns, and a
+                             screenshot of the exchange site used.
+
+ Federal Tax
+ Refund
+
+                       Proof of tax refund amount and date received.
+
+ Individual
+ Development
+ Account
+                       •     Copy of documents establishing the IDA.
+                       •     Statement from the trustee or custodian of the account.
+
+                       Note: Documentation must specify the purpose for which the trust
+                       or account is established, that the trust or account will receive
+                       matching funds, and that withdrawals must be authorized by the
+                       trustee or custodian.
+
+ Irrevocable
+ Funeral Contract
+
+                       Copy of DHS-8A, Irrevocable Funeral Contract Certification, certify-
+                       ing contract irrevocable.
+
+ Loan
+
+                       •     Lien Exclusion.
+
+
+BRIDGES ELIGIBILITY MANUAL                                               STATE OF MICHIGAN
+
+                                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                   BPB 2026-007
+     BEM 400          67 of 77                        ASSETS
+                                                                                        4-1-2026
+
+
+                       •     Letter from creditor.
+
+                       •     Telephone contact with creditor. Copy of financial institution
+                             loan contract.
+
+                       •     Lender's financial statement showing withdrawal of borrowed
+                             amount.
+
+ Life Insurance
+
+                       •     DHS-4786, Life Insurance Verification, completed by agent or
+                             company.
+
+                       •     Statement from insurance.
+
+ LLCs
+
+                       •     Operating agreement for the company.
+
+ LTC Patient Trust
+ Fund
+
+                       Written statement from LTC facility.
+
+ Money Held by
+ Other
+
+                       Written statement from person holding the money.
+
+ Native American
+ Land
+                       •     Letter from the tribe.
+                       •     Telephone contact with the tribe.
+ Prepaid Funeral
+ Contract
+                       •     Statement of funeral home or contract seller.
+                       •     Copy of contract.
+ Real Property
+
+                       •     Deed, mortgage, purchase agreement or contract.
+
+                       •     State Equalized Value (SEV) on current property tax records
+                             multiplied by two.
+
+                       •     Attorney or court records.
+
+                       •     County records.
+
+BRIDGES ELIGIBILITY MANUAL                                                   STATE OF MICHIGAN
+
+                                                     DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                    BPB 2026-007
+     BEM 400           68 of 77                     ASSETS
+                                                                                         4-1-2026
+
+
+                        •    Statement of real estate agent or financial institution.
+
+ Retirement Plan
+                        •    Written statement from plan administrator.
+                        •    Current plan statement.
+ Savings or Share
+ Account
+                        •    Monthly statement.
+                        •    Written statement from financial institution.
+                        •    Telephone contact with financial institution.
+ Savings Certificate
+                        •    Written statement from financial institution.
+                        •    Certificate itself.
+ SSI Dedicated
+ Account
+                        •    Letter from Social Security Administration.
+                        •    Telephone contact with Social Security Administration.
+ Stocks and Bonds
+                        •    Written statement from broker or company.
+                        •    Listing in current newspaper.
+ Trust
+
+                        •    Copy of trust document.
+
+                        •    Copy of documents transferring ownership of assets to the
+                             trust.
+
+                        •    Appropriate source for the asset types owned by the trust.
+
+ U.S. Savings Bond
+                        •    Statement from financial institution.
+                        •    Bond itself.
+ Vehicles
+                        •    Title, registration, or proof of insurance.
+                        •    Loan statement or payment book.
+                        •    Secretary of State (SOS) inquiry. This needs to be done only if
+                             no other verification source is available or if the individual
+                             requests assistance.
+
+                        Exception: This is the only acceptable verification source for
+                        unlicensed vehicles driven by tribal members on Native American
+                        reservations. The SOS clearance must be completed by a local
+                        office.
+
+                        To determine value of the vehicle, do the following:
+
+BRIDGES ELIGIBILITY MANUAL                                                   STATE OF MICHIGAN
+
+                                                  DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                 BPB 2026-007
+     BEM 400          69 of 77                      ASSETS
+                                                                                       4-1-2026
+
+
+                       •     Use Kelley Blue Book fair condition option at (www.kbb.com)
+                             or NADA Book at (www.nadaguides.com) wholesale (rough
+                             trade-in) value. When comparing the value between the two
+                             sources, use the lowest value.
+
+                       •     Do not add the value of optional equipment, special equipment
+                             or low mileage when determining value.
+
+                       •     Enter the greater of actual mileage or 12,000 per year.
+
+                       •     Enter the Individual's ZIP code.
+
+                       •     Do not change the preset typical equipment.
+
+                       •     Enter “fair” as the condition.
+
+                       •     Use the lowest trade-in value.
+
+                       Statement of vehicle dealer or junk dealer, as appropriate.
+
+                       Allow the person to verify a claim that the vehicle is worth less
+                       (example: due to damage) than wholesale book value. If the vehicle
+                       is no longer listed, accept the person's statement of value.
+
+                       Exception: Verify the value of antique, classic, or custom vehicles.
+                       For the definition of antique and classic vehicles; see BPG
+                       Glossary.
+
+ Vendor Pre-Paid
+ Debit Cards
+
+                       •     Statement from the vendor or online printout which reflects the
+                             current account balance, (for example, Direct Express,
+                             ReliaCard, etc.).
+
+                             Note: The individual may have to pay for the statement.
+
+                       •     ATM balance inquiry with sufficient information to support a
+                             match to the account. For example, the card number matches
+                             the printed digits on the ATM slip.
+
+                       Note: For MA an ATM slip sets the day of the month to determine
+                       countable assets. If the slip balance causes the individual to
+                       exceed the asset limit the individual must be given the opportunity
+                       to supply sufficient information to determine a calendar day in the
+                       month when they may be asset eligible.
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                 STATE OF MICHIGAN
+
+                                                   DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                           BPB 2026-007
+     BEM 400          70 of 77    ASSETS
+                                                               4-1-2026
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                           STATE OF MICHIGAN
+
+                                 DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                     BPB 2026-007
+          BEM 400         71 of 77                      ASSETS
+                                                                                            4-1-2026
+
+
+EXHIBIT I - BURIAL FUNDS EXAMPLES: SSI-RELATED MA CATEGORIES ONLY
+EXAMPLE 1:                                   EXAMPLE 2:
+
+Individual has:                              Individual has:
+$2,500 Savings Account                       $2,500          Savings Account
+                                             $2,000          Irrevocable Funeral Contract - No
+                                                             Burial Space Items
+BURIAL FUNDS MAXIMUM:                        BURIAL FUNDS MAXIMUM:
+$1,500 - MAXIMUM                                  $1,500
+                                                  -2,000     Principal Sum of Irrevocable
+                                                             Funeral Contract
+                                                     0
+                                                             MAXIMUM
+Individual    Designate up to $1,500 for self Individual may not designate any assets as
+may:          as excludable burial funds.     excludable burial funds. However, the client could
+                                              use savings to purchase burial space items.
+Individual Establish a separate account
+must:      for the amount designated.
+EXAMPLE 3:                                   EXAMPLE 4
+
+Individual                                   Individual has:
+has:          Savings Account                $2,500          Savings Account
+$2,500        Irrevocable Funeral Contract   $1,000          Face Value of Excludable Life
+$2,000        as follows:                                    Insurance
+              - $1,000 Casket
+              - $600 Headstone
+              - $400 Assorted Professional
+              Services
+$1,500                                       $1,500
+ - $400       Principal Amount of             -1,000         Face Value of Excludable Life
+              Irrevocable Funeral Contract                   Insurance
+              for Non-Burial Space Items       $500          MAXIMUM
+$1,100        MAXIMUM
+Individual    Designate up to $1100          Individual may: Designate up to $500 as
+may:          excludable burial funds or buy                 excludable burial funds or buy
+              more burial space.                             burial space items.
+Individual    Establish a separate account   Individual      Establish a separate account for
+must:         for the amount designated.     must:           the amount designated.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                                   STATE OF MICHIGAN
+
+                                                       DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                     BPB 2026-007
+          BEM 400         72 of 77                       ASSETS
+                                                                                           4-1-2026
+
+
+EXAMPLE 5                                      EXAMPLE 6
+Individual                                     Couple has:
+has:
+$2,500         Savings Account               $2,800          Savings Account (Joint)
+$400           Irrevocable Funeral Contract $1,300           Common Stock Account
+               for Professional Services     $1,600          (Husband)
+$500           Face Value of Excludable Life                 Face Value Life Insurance -
+               Insurance.                                    CSV=$300 (Wife)
+BURIAL FUNDS MAXIMUM:                          BURIAL FUNDS MAXIMUM:
+$1,500
+ - $400        Principal Amount of             $1,500 - MAXIMUM PER PERSON
+               Irrevocable Funeral Contract
+$1,100
+ - $500        Face Value of Excludable Life
+               Insurance
+$600           MAXIMUM
+Individual     Designate up to $600 as        Individual may: Designate up to $1,500 per
+may:           excludable burial funds or buy                 person as excludable burial funds.
+               burial space items.                            One way to do this is:
+                                               HUSBAND                       WIFE
+                                               $200          Savings Account $1,200
+                                               $1,300        Common Stock 0
+                                               $0            Life Insurance $300
+                                               $1,500                        $1,500
+Individual must: Establish a separate      Individual must: Establish a separate savings
+savings account for the amount designated. account for any amounts designated from
+                                           savings.
+
+
+EXHIBIT II - LIFE ESTATE AND LIFE LEASE FACTOR TABLE
+Age          Factor                  Age        Factor                   Age       Factor
+0            .97188                  40         .91571                   80        .43659
+1            .98988                  41         .91030                   81        .41967
+2            .99017                  42         .90457                   82        .40295
+3            .99008                  43         .89855                   83        .38642
+4            .98981                  44         .89221                   84        .36998
+5            .98938                  45         .88558                   85        .35359
+
+
+BRIDGES ELIGIBILITY MANUAL                                                     STATE OF MICHIGAN
+
+                                                      DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                       BPB 2026-007
+      BEM 400         73 of 77                  ASSETS
+                                                                           4-1-2026
+
+
+Age      Factor                  Age   Factor              Age       Factor
+6        .98884                  46    .87863              86        .33764
+7        .98822                  47    .87137              87        .32262
+8        .98748                  48    .86374              88        .30859
+9        .98663                  49    .85578              89        .29526
+10       .98565                  50    .84743              90        .28221
+11       .98453                  51    .83674              91        .26955
+12       .98329                  52    .82969              92        .25771
+13       .98198                  53    .82028              93        .24692
+14       .98066                  54    .81054              94        .23728
+15       .97937                  55    .80046              95        .22887
+16       .97815                  56    .79006              96        .22181
+17       .97700                  57    .77931              97        .21550
+18       .97590                  58    .76822              98        .21000
+19       .97480                  59    .75675              99        .20486
+20       .97365                  60    .74491              100       .19975
+21       .97245                  61    .73267              101       .19532
+22       .97120                  62    .72002              102       .19054
+23       .96986                  63    .70696              103       .18437
+24       .96841                  64    .69352              104       .17856
+25       .96678                  65    .67970              105       .16962
+26       .96495                  66    .66551              106       .15488
+27       .96290                  67    .65098              107       .13409
+28       .96062                  68    .63610              108       .10068
+29       .95813                  69    .62086              109       .04545
+30       .95543                  70    .60522
+31       .95254                  71    .58914
+32       .94942                  72    .57261
+33       .94608                  73    .55571
+34       .94250                  74    .53862
+35       .93868                  75    .52149
+36       .93460                  76    .50441
+37       .93026                  77    .48742
+38       .92567                  78    .47049
+39       .92083                  79    .45357
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                       STATE OF MICHIGAN
+
+                                           DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                              BPB 2026-007
+     BEM 400          74 of 77                     ASSETS
+                                                                                  4-1-2026
+
+
+LEGAL BASE
+
+                       FIP
+
+                       MCL 400.57a(3)
+
+                       MCL 400.10d
+
+                       Annual Appropriations Act
+
+                       26 USC 6409
+
+                       MA
+
+                       Social Security Act title XX
+                       Social Security Act, Sections 1902(a)(10); (r)(2)
+                       Deficit Reduction Act of 2005
+                       26 USC 6409
+                       42 CFR 435.840 -.845
+                       MCL 400.106,112g
+                       The Patient Protection and Affordable Care Act (Pub. L. 111-148
+                       and the Health Care and Education Reconciliation Act (Pub. L.111-
+                       152).
+
+                       RMA
+
+                       26 USC 6409
+
+                       45 CFR 400.101-102
+
+                       Annual Appropriations Act
+
+                       RCA
+
+                       26 USC 6409
+
+                       45 CFR 400.66
+
+                       SDA
+
+                       Annual Appropriations Act
+                       Mich Admin Code, R 400.3151 - 400.3180
+
+                       FAP
+
+                       Food and Nutrition Act of 2008, as amended, Sec. 5. 7 U.S.C. 2014
+
+                       7 CFR 273.8
+
+
+BRIDGES ELIGIBILITY MANUAL                                             STATE OF MICHIGAN
+
+                                               DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                                BPB 2026-007
+     BEM 400          75 of 77                   ASSETS
+                                                                                     4-1-2026
+
+
+                       7 CFR273.8(c)(1)
+                       7 CFR 273.8(h)
+                       7 CFR 273.9
+
+                       25 USCS 640d-22 (P.L. 93-531, Section 22, dated 12/22/74).
+
+                       HR-1
+
+                       25 USCS 1407 Judgment Funds (as amended by P.L. 93-134 and
+                       P.L. 97-458).
+
+                       25 USCS 1408 (as amended by P.L. 93-134 and P.L. 97-458, P.L.
+                       103-66).
+
+                       26 USC 6409
+
+                       Public Law 79-396, Section 12(e) of the National School Lunch Act,
+                       as amended by Section 9(d) of Public Law 94-105.
+
+                       Public Law 89-642, the Child Nutrition Act of 1966, Section 11(b)
+
+                       Public Law 91-646, Section 216 Uniform Relocation Assistance and
+                       Real Property Acquisition Policy Act of 1970.
+
+                       Public Law 92-203, Section 29, dated 1/2/76, the Alaska Native
+                       Claims Settlement Act and Section 15 of Public Law 100-241,
+                       2/3/88 the Alaska Native Claims Settlement Act Amendments of
+                       1987.
+
+                       Public Law 93-113, the Domestic Volunteer Services Act of 1972,
+                       Title I and II Payments
+
+                       Public Law 93-288. Section 312(d), the Disaster Relief Act of 1974,
+                       as amended by P. L. 100-707, Section 105(i) the Disaster Relief
+                       and Emergency Assistance Amendments of 1988.
+
+                       Public Law 93-531, Section 22,10/17/75.
+
+                       Public Law 94-114, Section 6,10/17/75.
+
+                       Public Law 94-540.
+
+                       Public Law 95-433, Section 2.
+
+                       Public Law 96-420, Section 9(c),10/10/80.
+
+                       Public Law 97-300.
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                              STATE OF MICHIGAN
+
+                                                DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                              BPB 2026-007
+     BEM 400          76 of 77                   ASSETS
+                                                                                    4-1-2026
+
+
+                       Public Law 97-403.
+
+                       Public Law 97-408.
+
+                       Public Law 98-123.
+
+                       Public Law 98-124 Section 5.
+
+                       Public Law 98-500, Section 8, 10/17/84.
+
+                       Public Law 98-500, Section 8, 10/17/84, Old Age Assistance
+                       Claims Settlement Act.
+
+                       Public Law 98-524, the Carl D. Perkins Vocational Education Act,
+                       Section 507 as amended by P.L. 101-392, 09/25/90, Sections 501
+                       and 701 of the Carl D. Perkins Vocational and Applied Technology
+                       Education Act of 1990.
+
+                       Public Law 99-146, Section 6(b), 11/11/1985.
+
+                       Public Law 99-346, Section 6(b)(2).
+
+                       Public Law 99-377, Section 4(b), 8/8/86.
+
+                       Public Law 99-425.
+
+                       Public Law 99-498.
+
+                       Public Law 100-175.
+
+                       Public Law 100-383, Section 105(f)(2).
+
+                       Public Law 100-435, Section 501.
+
+                       Public Law 101-201.
+
+                       Public Law 101-277, 4/30/90, funds appropriated in satisfaction of
+                       judgments awarded to the Seminole Indians in Dockets 73,151 and
+                       73-A of the Indian Claims Commission.
+
+                       Public Law 101-426.
+
+                       Public Law 101-508.
+
+                       Public Law 101-610.
+
+                       Public Law 102-325.
+
+                       Public Law 103-286.
+
+BRIDGES ELIGIBILITY MANUAL                                             STATE OF MICHIGAN
+
+                                               DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                                               BPB 2026-007
+     BEM 400          77 of 77                   ASSETS
+                                                                                   4-1-2026
+
+
+                       Public Law 103-322.
+
+                       Public Law 103-436, 11/02/94, Confederated Tribes of the Colville
+                       Reservation Grand Coulee Dam Settlement Act, Section 7(b).
+
+                       Public Law 104-193.
+
+                       Public Law 104-204.
+
+                       Public Law 105-143, 12/15/97, Michigan Indian Land Claims Settle-
+                       ment Act, Section 111.
+
+                       MCL 400.10d
+
+                       CDC
+
+                       The Child Care and Development Block Grant (CCDBG) Act (42
+                       USC § 9858 et seq.), as amended by the CCDBG Act of 2014
+                       (Pub. L. 113-186).
+                       45 CFR Parts 98 and 99
+                       Social Security Act, as amended 2016
+
+                       All Programs
+
+                       Public Law 111-291, Section 107(f)(2) of the Claims Resolution Act
+                       of 2010 - Payments received from the Cobell vs. Salazar Settle-
+                       ment.
+
+                       Affordable Care Act, Public Law 111-148.
+
+
+
+
+BRIDGES ELIGIBILITY MANUAL                                             STATE OF MICHIGAN
+
+                                               DEPARTMENT OF HEALTH & HUMAN SERVICES
+

@@ -1,0 +1,18 @@
+Source URL: https://www.medicaid.gov/State-resource-center/Medicaid-State-Plan-Amendments/Downloads/SD/09-21-09-SD-09-001-179.pdf
+Retrieved: 2026-09-23
+Note: fetch.py got HTTP 403; PDF obtained through WebFetch and read as scanned page images. Excerpts below are a manual transcription of the relevant passages, not a verbatim machine copy.
+
+South Dakota SPA 09-001 (TN 09-1, supersedes TN 96-09), approved 8/27/09, effective 7/01/09. Attachment 4.17-A, Liens and Adjustments or Recoveries.
+
+1. Lien process: persons in a long-term care facility who are not likely to be discharged within three months (or not discharged after seven continuous months) get notice of intent to place a lien against home property and other real property. The State will not impose a lien if any of the following lawfully reside in the home: (i) spouse; (ii) child under 21 or blind or disabled; (iii) sibling with equity interest who resided in the home one continuous year immediately before admission; (iv) adult child who resided in the home at least two continuous years immediately before admission and provided care that permitted the person to remain at home.
+
+3(a) Estate: "All real and personal property or interest therein of the testator, intestate, grantor, bargainor, vendor, or donor passing to individual legatees, devisees, heirs, next of kin, grantees, donees, vendees, or successors and includes all personal property within or out of state. It also includes any funds remaining in an person's prepaid burial trust after the person's burial expenses were paid;"
+3(b) Individual's Home: a shelter which the Medicaid person owns and uses as his or her principal place of residence, including the buildings and contiguous property.
+
+4. "Undue hardship is severe financial distress or a significant compromise to a person's health care or shelter needs."
+
+5. The State may consider a compromise or waiver of its estate recovery claim under South Dakota law if recovery would cause undue hardship or is dependent upon a determination of liability of a third party ... The State may compromise or waive its estate recovery claim up to a maximum of $15,000 as of July 1, 2009, adjusted annually thereafter on July 1 by the medical care component of the Federal consumer price index or a fixed percentage increase of not less than 2 percent or more than 5 percent.
+
+6. Cost-effectiveness: a recovery of less than $100 is waived as not cost effective; estates valued at $3,000 or less evaluated individually.
+
+7. The State pursues recovery from resource accounts ... and affidavit process in Uniform Probate Code for estates less than $50,000.

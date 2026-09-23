@@ -1,0 +1,30 @@
+Source URL: https://portal.ct.gov/-/media/departments-and-agencies/dss/upms/upm7---benefit-error-recovery/7525_10.doc
+Retrieved: 2026-09-23
+Note: WebFetch extraction, not verbatim (Word .doc file summarized by the fetch tool)
+
+# Connecticut DSS Uniform Policy Manual 7525.10, Recovery of Medicaid from Estates
+- Policy Number: 7525.10
+- Effective Date: December 1, 2003
+- Transmittal: UP-03-33
+
+## Scope of Recovery
+Non-institutionalized individuals: benefits received before 10/1/93, recovery from estates of those age 65+; benefits received after 10/1/93, recovery from those age 55+.
+Institutionalized individuals: recovery applies regardless of age; includes those receiving home and community-based waiver services.
+
+## Protection for Survivors
+Recovery is restricted when a surviving spouse exists (recovery only after spouse's death), or surviving children under 21, blind, or disabled remain.
+
+## Assets Subject to Recovery
+The policy addresses "real or personal property comprising the estate" but does not explicitly define estate as limited to probate assets. It references restrictions on recovery from assets disregarded due to long-term care insurance payouts, and payments received under the "Ricky Ray Act".
+
+## Recovery Priorities
+State's claim ranks below last sickness expenses (statutory limits), funeral and burial expenses (up to statutory limits, reduced by burial funds), administrative costs and fiduciary fees.
+
+## Hardship Waiver Provisions
+Applicants may seek waiver or deferral based on:
+1. Impoverishment: income/assets below specified thresholds ($2,000 individual/$3,000 married assets; two times medically needy income limit)
+2. Home Retention: continuous 12+ month residency in decedent's former primary residence, with demonstrated inability to afford alternatives
+Applicants must show they didn't benefit from estate planning schemes and received no substantial gifts from the decedent during life or at death.
+
+## Deferrals and Conditions
+Deferrals secure eventual recovery through "personal undertaking," including mortgage notes and deed when requested, allowing continued beneficial use of the home pending eventual payment.

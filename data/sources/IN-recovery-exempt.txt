@@ -1,0 +1,14 @@
+Source URLs: https://codes.findlaw.com/in/title-12-human-services/in-code-sect-12-15-9-2.html ; https://codes.findlaw.com/in/title-12-human-services/in-code-sect-12-15-9-5.html
+Retrieved: 2026-09-23
+Note: WebFetch extraction, not verbatim (asked for exact text). FindLaw currency for both: "Current as of January 01, 2026". FindLaw pages for 12-15-9-3 and 12-15-9-4 returned 404.
+
+Indiana Code Sec. 12-15-9-2
+Sec. 2. A claim may not be enforced against the following:
+(1) Real estate of a recipient while it is necessary for the support, maintenance, or comfort of the surviving spouse, a dependent child less than twenty-one (21) years of age, or a dependent who is nonsupporting because of blindness or other disability.
+(2) Personal property necessary for the support, maintenance, or comfort of the surviving spouse, a dependent child less than twenty-one (21) years of age, or a dependent who is nonsupporting because of blindness or other disability.
+(3) Personal effects, ornaments, or keepsakes of the deceased.
+
+Indiana Code Sec. 12-15-9-5
+"The office may not file a claim against the estate of a recipient's surviving spouse."
+
+(A web search summary of an older version described Sec. 12-15-9-5 as limiting a claim against the surviving spouse's estate to the value of assets in the predeceased spouse's probate estate. The FindLaw text current as of Jan. 1, 2026 is the flat bar above. IHCP Policy Manual 4710.00.00 says recovery is made after the surviving spouse's death, limited to assets in the recipient's probate estate.)

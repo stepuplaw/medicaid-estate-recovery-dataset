@@ -1,0 +1,1256 @@
+Source URL: https://humanservices.vermont.gov/sites/ahsnew/files/documents/HBEE-Part-4-Special-Rules-for-Medicaid-LTC.pdf
+Retrieved: 2026-09-23
+
+                                                                      Table of Contents
+
+Part Four Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post-Eligibility 1
+
+          Patient share payment for Medicaid coverage of long-term care services and supports ....................................... 1
+
+  24.01      In general ............................................................................................................................................................ 1
+
+  24.02      Long-term care residence period ........................................................................................................................ 2
+
+  24.03      Determining maximum patient share .................................................................................................................. 4
+
+  24.04      Allowable deductions from patient-share ............................................................................................................ 4
+
+  24.05      Transfer between settings ................................................................................................................................... 8
+
+          Income or resource transfers and eligibility for Medicaid coverage of long-term care services and supports ....... 9
+
+  25.01      In general ............................................................................................................................................................ 9
+
+  25.02      Definitions .......................................................................................................................................................... 10
+
+  25.03      Allowable transfers ............................................................................................................................................ 11
+
+  25.04      Penalty period for disallowed transfers ............................................................................................................. 17
+
+  25.05      Undue Hardship ................................................................................................................................................ 19
+
+          [Reserved] ............................................................................................................................................................. 22
+
+          [Reserved] ............................................................................................................................................................. 22
+
+
+
+
+                                                                            Part 4 - Page i
+Agency of Human Services                                                       Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+
+                               Part Four
+Special Rules for Medicaid Coverage of Long-Term Care Services and
+               Supports - Eligibility and Post-Eligibility
+          Patient share payment for Medicaid coverage of long-term care services and
+          supports (01/01/2026, GCR 25-053)
+
+   24.01 In general (01/15/2017, GCR 16-097)
+
+         Definition: patient share. 1 Once AHS determines that an individual is eligible for Medicaid coverage of long-term
+         care services and supports, it computes how much of their income must be paid to the long-term care provider
+         each month for the cost of their care (this is called the “patient share”).
+
+         A patient share is computed for an individual who qualifies for Medicaid coverage of long-term care services
+         and supports under MABD in a medical institution or in a home and community-based setting under a special
+         income coverage group (see § 8.05(k)) or as medically needy (see § 8.06). An individual’s patient share is
+         determined at initial eligibility, eligibility redeterminations, and when changes in circumstances occur.
+
+         Computation of patient share
+
+               An individual’s patient share is determined by computing a maximum patient share and deducting
+               allowable expenses. § 24.03 describes how the maximum patient share is determined. § 24.04 describes
+               allowable deductions from the patient share. The actual patient share payable by the individual is the
+               lesser of:
+
+                (i) The balance of the individual’s income remaining after computing the patient share; and
+
+               (ii) The cost of care remaining after third-party payment.
+
+               In cases in which allowable deductions exceed the individual’s income, the patient-share payment is
+               reduced by the deductions, sometimes resulting in no patient-share obligation, for as many months
+               needed to exhaust the deductions against the individual’s available income. The month when the
+               remaining deductions no longer exceed the individual’s income, the balance is the patient share payment
+               for that month. When monthly income and allowable deductions are stable, the patient-share amount
+               remains constant. When income or allowable deductions fluctuate, the patient-share payment is likely to
+               vary.
+
+         Patient share payment. An individual owes their patient share by the last day of the month in which they receive
+         the income. Payment is made either to the facility in which the individual resided or to the highest-paid provider
+         of long-term care services and supports. Patient-share amounts and payments to long-term care providers may
+         be adjusted when a patient transitions from one setting to another, as specified in § 24.05.
+
+
+
+1 42 CFR §§ 435.725, 435.726 and 435.735
+
+
+
+
+                                        Part 4 - Page 1 (Sec.24.00, Sub.24.01)
+Agency of Human Services                                                         Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+
+   24.02 Long-term care residence period (01/01/2024, GCR 23-085)
+
+         In general. A patient share obligation is assessed in the month of admission to long-term care as long as the
+         individual is expected to need long-term care services and supports for at least 30 consecutive days. If long-
+         term care services and supports are expected to be needed for fewer than 30 consecutive days, no patient
+         share is assessed. Instead, the individual’s services are covered through Medicaid, other than Medicaid
+         coverage of long-term care services and supports, if the individual meets medical necessity criteria (see HCAR
+         4.101) and relevant financial, nonfinancial and categorical eligibility criteria.
+
+         Duration of the long-term care residence period
+
+               Beginning of long-term care residence
+
+                (i) In a general hospital setting. A long-term care residence period in a general hospital setting begins
+                    with the first day that the utilization review committee finds acute hospital care is no longer medically
+                    necessary and skilled nursing care is medically necessary.
+
+               (ii) In other long-term care settings. A long-term care residence period in a long-term care setting, other
+                    than a general hospital, begins with the first day that the utilization review committee finds medical
+                    need for long-term care or the date of admission, whichever is later.
+
+               Ending of long-term care residence period. A long-term care residence period ends with the earliest of:
+
+                (i) The individual’s date of death;
+
+               (ii) The date of the individual’s discharge from a long-term care living arrangement (as defined in §
+                    30.01); or
+
+               (iii) The last day medical need for long-term care is established by the utilization review committee.
+
+               Leave of absence or transfer. A long-term care residence period is not ended by a leave of absence from
+               the current setting (see DVHA Rule 7604.1). A long-term care residence period also continues despite
+               transfer from either:
+
+                (i) One long-term care setting to another long-term care setting;
+
+               (ii) A general hospital setting (where skilled nursing care has been continuously authorized while
+                    awaiting transfer) to another long-term care setting; or
+
+               (iii) A long-term care setting to a general hospital setting followed by return to the long-term care setting
+                     without an intervening residence period in a community living arrangement (as defined in § 30.01).
+
+               Percentage of month in long-term care. The percentage of the month an individual is in long-term care is
+               determined using the appropriate table below.
+
+
+
+
+                                         Part 4 - Page 2 (Sec.24.00, Sub.24.02)
+Agency of Human Services                                                    Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+                      Percentage of Month in Long-Term Care: All months except February
+
+     Day of the month Percentage of the Day of the month Percentage of the Day of the month Percentage of the
+   admitted to long-term month in long- admitted to long- month in long- admitted to long- month in long-
+           care           term care        term care         term care        term care         term care
+
+
+            1                 100%               11               67%                21               33%
+            2                 97%                12               63%                22               30%
+            3                 93%                13               60%                23               27%
+            4                 90%                14               57%                24               23%
+            5                 87%                15               53%                25               20%
+            6                 83%                16               50%                26               17%
+            7                 80%                17               47%                27               13%
+            8                 77%                18               43%                28               10%
+            9                 73%                19               40%                29                7%
+            10                70%                20               37%               30-31              3%
+
+
+
+                                Percentage of Month in Long-Term Care: February
+
+     Day of the month Percentage of the Day of the month Percentage of the Day of the month Percentage of the
+   admitted to long-term month in long- admitted to long- month in long- admitted to long- month in long-
+           care           term care        term care         term care        term care         term care
+
+
+            1                 100%               11               64%                21               29%
+            2                 96%                12               61%                22               25%
+            3                 93%                13               57%                23               21%
+            4                 89%                14               54%                24               18%
+            5                 86%                15               50%                25               14%
+            6                 82%                16               46%                26               11%
+            7                 79%                17               43%                27                7%
+            8                 75%                18               39%                28                4%
+            9                 71%                19               36%                29                0%
+            10                68%                20               32%
+
+
+
+
+                                       Part 4 - Page 3 (Sec.24.00, Sub.24.02)
+Agency of Human Services                                                       Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+
+   24.03 Determining maximum patient share (01/15/2017, GCR 16-097)
+
+    To determine the maximum patient share, the individual’s gross income less allowable deductions as specified in §
+    24.04 is considered. This is the most that an individual receiving Medicaid coverage of long-term care services and
+    supports is obliged to pay toward the cost of their long-term care services and supports. If an individual was in long-
+    term care for less than a full month, the maximum patient share is multiplied by the applicable percentage in the table
+    set forth in § 24.02.
+
+   24.04 Allowable deductions from patient-share (01/01/2026, GCR 25-053)
+
+         Income deductions. When determining the actual patient share payable by an individual, the following are
+         deducted from the individual’s gross income:
+
+               SSI/AABD, AABD only and Reach Up benefit payments still being received when the person first enters
+               long-term care;
+
+               SSI/AABD payments intended to be used to maintain the community residence of an individual
+               temporarily (not to exceed 3 months) in an institution;
+
+               Austrian Reparation Payments;
+
+               German Reparation Payments;
+
+               Japanese and Aleutian Restitution Payments;
+
+               Payments from the Agent Orange Settlement Fund;
+
+               Radiation Exposure Compensation; and
+
+               VA payments for aid and attendance paid to a veteran residing in a nursing facility or to the veteran’s
+               surviving spouse residing in a nursing facility.
+
+         Other deductions. The following items are then deducted from the individual’s patient share in the following
+         order:
+
+               A personal-needs allowance (PNA) or community-maintenance allowance (CMA) (see paragraph (c) of
+               this subsection);
+
+               Home-upkeep expenses, if applicable (see paragraph (d) of this subsection);
+
+               Allocations to a community spouse or maintenance needs of family members living in the community, if
+               applicable (see paragraph (e) of this subsection); and
+
+               Reasonable medical expenses incurred, if applicable (see §§ 30.05 and 30.06). For the purposes of this
+               paragraph (b)(4), “reasonable medical expenses” do not include expenses for long-term care services
+               and supports received during penalty periods for Medicaid coverage of long-term care services and
+               supports.
+
+
+                                        Part 4 - Page 4 (Sec.24.00, Sub.24.03)
+Agency of Human Services                                                          Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+                  NOTE: Unpaid patient-share obligations may not be used to reduce a current patient share obligation.
+
+         Personal-needs allowance and community-maintenance allowance. A reasonable amount for clothing and other
+         personal needs of an individual is deducted from their monthly income, as follows:
+
+                  For an individual receiving Medicaid coverage of long-term care services and supports in an institutional
+                  setting, a standard personal needs deduction (PNA) 2 is applied.
+
+                  For an individual receiving Medicaid coverage of long-term care services and supports in a home and
+                  community-based setting, a standard community maintenance deduction (CMA) 3 is applied. (NOTE:
+                  Unlike the individual in the institutional setting whose room and board is covered by Medicaid, an
+                  individual receiving long-term care services and supports in a home and community-based setting has a
+                  higher deduction to provide a reasonable amount for food, shelter, and clothing to meet their personal
+                  needs.)
+
+         Home-upkeep deduction
+
+                  Expenses from the monthly income of an individual receiving Medicaid coverage of long-term care
+                  services and supports in an institution or receiving enhanced residential care (ERC) services in a
+                  residential care home are deducted to help maintain their owned or rented home in the community. This
+                  deduction is allowed for six months. It is available for each separate admission to long-term care, as long
+                  as the criteria listed below are met. The home-upkeep standard deduction is three-fourths of the
+                  SSI/AABD payment level for a single individual living in the community.
+
+                  The home-upkeep deduction is granted when the individual has income equal to or greater than the
+                  standard home-upkeep deduction and greater than their PNA. An individual who has less income than the
+                  standard home-upkeep deduction may deduct an amount for home upkeep equal to the difference
+                  between the individual’s income and the PNA.
+
+                   (i) The home-upkeep deduction may be applied at any point during the individual’s institutionalization or
+                       receipt of ERC services, as the case may be, as long as both of the following criteria for the
+                       deduction are met:
+
+                           No one resides in the individual’s home and receives an allocation as a community spouse or
+                           other eligible family member; and
+
+                           The individual submits a doctor’s statement before the six-month deduction period, stating that
+                           the individual is expected to be discharged from the institution or ERC setting within six months
+                           and to return home immediately after discharge.
+
+                  (ii) If the situation changes during the period the individual is receiving the home-upkeep deduction, the
+
+2 For the current PNA, see Vermont’s Eligibility Standards for Healthcare Programs on the Department of Vermont Health
+
+Access website.
+
+3 For the current CMA, see Vermont’s Eligibility Standards for Healthcare Programs on the Department of Vermont Health
+
+Access website.
+
+
+                                           Part 4 - Page 5 (Sec.24.00, Sub.24.04)
+Agency of Human Services                                                             Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+                       individual’s eligibility for the deduction is redetermined. The deduction is denied or ended when:
+
+                           The individual’s home is sold or rented;
+
+                           The rented quarters of the individual are given up; or
+
+                           The individual’s health requires the long-term care admission period to last longer than six
+                           months.
+
+         Allocations to family members
+
+         An individual is allowed to allocate their income to certain family members as described in this paragraph.
+
+               Allocation to community spouse
+
+                (i)      If an individual receiving Medicaid coverage of long-term care services and supports (the
+                         institutionalized spouse) has a spouse living in the community (the community spouse), an
+                         allocation may be deducted from the institutionalized spouse’s income for the needs of the
+                         community spouse. The term “community spouse” applies to the spouse of the institutionalized
+                         spouse even if the community spouse is also receiving Medicaid coverage of long-term care
+                         services and supports in a home and community-based setting. When one spouse is receiving
+                         Medicaid coverage of long-term care services and supports in an institutional setting and the other
+                         is receiving Medicaid coverage of long-term care services and supports in a home and community-
+                         based setting, the spouse receiving home and community-based services and supports may
+                         receive an allocation. When both spouses are receiving home and community-based services and
+                         supports, either may allocate to the other.
+
+               (ii)      “Assisted living” is considered a community setting and not an institutional setting provided that
+                         assisted living does not include 24-hour care, has privacy, a lockable door, and is a homelike
+                         setting. If the spouse of an institutionalized spouse is living in an assisted living setting, they are
+                         considered a community spouse for purposes of the community spouse income allocation.
+
+               (iii)     An institutionalized spouse may allocate less than the full amount of the allocation to their
+                         community spouse or may allocate nothing. The allocation is reduced by the gross income, if any,
+                         of the community spouse. A community spouse, as well as an institutionalized spouse, has a right
+                         to request a fair hearing on the amount of the allocation.
+
+               (iv)      The standard community spouse income allocation equals 150 percent of the FPL for two. The
+                         actual community spouse income allocation equals the standard allocation plus any amount by
+                         which actual shelter expenses of the community spouse exceed the standard allocation, up to a
+                         maximum amount. The maximum community spouse income allocation equals a maximum
+                         provided by the federal government each year by November 1st.
+
+               (v)       The presumptions set forth below are applied to the ownership interests in income when
+                         determining a community spouse’s community spouse income allocation unless the
+                         institutionalized spouse establishes by a preponderance of the evidence that the ownership
+                         interests are other than as presumed.
+
+                           Income paid in the name of one spouse is presumed available only to the named spouse.
+
+                                            Part 4 - Page 6 (Sec.24.00, Sub.24.04)
+Agency of Human Services                                                          Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+                         Income paid in the name of both spouses is presumed available in equal shares to each spouse.
+
+                         Income paid in the name of either spouse and any other person is presumed available to that
+                         spouse in proportion to their ownership interest.
+
+                         Income paid in the name of both spouses and any other person is presumed available to each
+                         spouse in an amount of one-half of the joint interest.
+
+               Allocation to other family members
+
+                  (i)   A deduction from the individual’s income is allowed for the maintenance needs of certain other
+                        family members. If the individual has no community spouse living in the home, the countable
+                        resources of any such family member cannot exceed the community spouse resource allocation
+                        (CSRA) minimum. 4 If the individual has a community spouse living in the home, there is no limit
+                        on the amount of countable resources of any such family member.
+
+                        For purposes of this deduction, a family member must be:
+
+                          A child of either the individual or the individual’s spouse under age 18; or
+
+                         A child age 18 or older, parent, or sibling of either the individual or the individual’s spouse who is
+                         dependent on the individual or spouse. For the purposes of this subparagraph, a family member
+                         is considered dependent if they meet each of the following three criteria:
+
+                            (I)   They have been or will be a member of the household of the individual or their spouse
+                                  for at least one year;
+
+                           (II)   More than one half of their total support is provided by the individual or the individual’s
+                                  spouse; and
+
+                          (III)   They have gross annual income below $2,500 or are a child of the individual (or spouse)
+                                  under age 19 or under age 24 and a full-time student during any five months of the tax
+                                  year.
+
+                (ii)    Deduction for family members living with the community spouse. When family members live with
+                        the community spouse of the individual receiving Medicaid coverage of long-term care services
+                        and supports, the deduction equals the maintenance income standard reduced by the gross
+                        income of each family member and divided by three. The resulting amount is the maximum
+                        allocation that may be made to each family member.
+
+               (iii)    Deduction for family members not living with the community spouse. When family members do not
+                        live with the community spouse of the individual receiving Medicaid coverage of long-term care
+                        services and supports, the deduction equals the applicable PIL for the number of family members
+                        living in the same household, reduced by the gross income, if any, of the family members in the
+                        household.
+
+               (iv)     The family members described above may be required to apply for SSI, AABD or Reach Up, as
+
+4 For the current CSRA minimum, see Vermont’s Eligibility Standards for Healthcare Programs on the Department of
+
+Vermont Health Access website.
+
+
+                                          Part 4 - Page 7 (Sec.24.00, Sub.24.04)
+Agency of Human Services                                                         Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+                      long as this would not disadvantage them financially.
+
+   24.05 Transfer between settings (01/15/2017, GCR 16-097)
+
+         In general. An individual receiving long-term care sometimes moves from one setting to another, such as from
+         one nursing facility to another or from a nursing facility to a hospital and back to the same or another nursing
+         facility. The patient share must be paid toward the cost of the individual’s care from income received by the
+         individual during each month of a continuous period of receiving Medicaid coverage of long-term care services
+         and supports. As a general rule, the provider giving long-term care services and supports to the individual on
+         the last day of the preceding month sends the individual a bill for the individual’s share of the cost for that
+         month. Payment is made to an institution if the individual was receiving Medicaid coverage of long-term care
+         services and supports in the institution on the last day of the preceding month. Payment is made to the highest-
+         paid provider of long-term care services and supports if the individual was receiving Medicaid coverage of long-
+         term care services and supports in a home and community-based setting on the last day of the preceding
+         month. If payment of a patient share results in a credit to the provider, then the provider sends the excess to
+         AHS. Exceptions to this rule are specified in the paragraphs below.
+
+         Hospital admission from nursing facility. An individual receiving Medicaid coverage of long-term care services
+         and supports who is hospitalized continues to receive Medicaid coverage of long-term care services and
+         supports, and their patient share amount is not redetermined. Payment of the patient share is allocated to the
+         providers as follows:
+
+               Acute care. The patient share is paid directly to AHS when the individual is hospitalized and receiving
+               acute hospital care on the last day of the month preceding the month in which income is received. Failure
+               to pay the patient share may result in closure of the individual’s eligibility for Medicaid coverage of long-
+               term care services and supports.
+
+               Long-term care. The patient share is paid to the hospital when the individual is hospitalized and receiving
+               Medicaid coverage of long-term care services and supports in the hospital on the last day of the month
+               preceding the month in which income is received.
+
+         Transfer from home and community-based setting to nursing facility
+
+               Respite services. The patient share amount is not adjusted when an individual receiving Medicaid
+               coverage of long-term care services and supports in a home and community-based setting enters an
+               institution for respite services. The patient share is paid to the highest-paid provider of the long-term care
+               services and supports, even if the individual is in an institution on the last day of the month.
+
+               Other services. AHS adjusts the patient share amount when an individual receiving Medicaid coverage of
+               long-term care services and supports in a home and community-based setting enters an institution for
+               services other than respite services and has been in the institution for a full calendar month. The patient
+               share is paid to the institution since the individual was receiving Medicaid coverage of long-term care
+               services and supports in an institution on the last day of the month.
+
+         Discharge from nursing facility to home and community-based setting. The patient share amount is adjusted
+         when an individual is in an institution for more than one full calendar month and discharged to a home and
+         community-based setting. After the patient-share amount is redetermined using the community maintenance
+
+                                         Part 4 - Page 8 (Sec.24.00, Sub.24.05)
+Agency of Human Services                                                          Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+         allowance (see § 24.04(c)), the first month’s patient share is paid to the institution because the individual
+         resided in the institution on the last day of the previous month. Thereafter, the patient share it is paid to the
+         highest paid provider.
+
+         Discharge from long-term care. All income an individual receiving Medicaid coverage of long-term care services
+         and supports receives during the month they are discharged from long-term care and any month after discharge
+         when the individual leaves a long-term care living arrangement (see § 30.01) is excluded. A long-term care
+         provider must refund any patient-share payment made by an individual when the individual pays their patient
+         share from income received in the month of their discharge.
+
+         Termination of eligibility for long-term care. An individual receiving Medicaid coverage of long-term care
+         services and supports becomes fully responsible for the total cost of any care they receive when they remain
+         institutionalized after a medical-review team decision that they no longer need skilled nursing or intermediate
+         care, or they become ineligible for other reasons. The individual’s responsibility begins after the effective date of
+         the review team’s decision. An individual usually must pay in advance for such care as a privately-paying
+         patient. They incur no patient share obligation for the calendar month that the review team’s decision takes
+         effect. A long-term care provider must credit payment toward the cost of private care furnished after the
+         effective date of the review team’s decision to end Medicaid coverage of long-term care services and supports
+         when an individual receiving Medicaid coverage of long-term care services and supports has already paid their
+         patient share to the provider during the calendar month the review team’s decision takes effect.
+
+         Patient share in the month of death. Income received during the calendar month of the death of an individual
+         receiving Medicaid coverage of long-term care services and supports is counted and applied to the cost of the
+         care the individual received during the prior month. For example, if the individual dies on June 26th, the patient-
+         share payment from income they received during June is due for care provided in May. If the individual dies on
+         July 1st, the patient-share payment from income they received during July is due for care provided in June.
+
+          Income or resource transfers and eligibility for Medicaid coverage of long-term care
+          services and supports (01/01/2024, GCR 23-085)
+
+   25.01 In general (01/15/2017, GCR 16-097)
+
+         AHS determines whether transfers of income or resources made by an individual requesting Medicaid coverage
+         of long-term care services and supports are allowable transfers under the rules set forth in this section.
+
+               This section applies to an individual:
+
+                (i) Who is requesting Medicaid coverage of long-term care services and supports in a medical
+                    institution under MABD or MCA.
+
+                (ii) Who is requesting Medicaid coverage of long-term care services and supports in a home and
+                     community-based setting under MCA.
+
+               (iii) Who is requesting Medicaid coverage of long-term care services and supports in a home and
+                     community-based setting under MABD and is in a special income coverage group under § 8.05(k))
+                     or is medically needy (§ 8.06).
+
+
+                                         Part 4 - Page 9 (Sec.25.00, Sub.25.01)
+Agency of Human Services                                                            Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+               This section also applies to the spouse of an individual described in (1) above.
+
+               If AHS determines that a transfer is not allowable, the individual requesting Medicaid coverage of long-
+               term care services and supports will not be eligible for such coverage until a penalty period has expired.
+               The start date of the penalty period is based on when the individual would, but for the disallowed transfer,
+               be otherwise eligible for Medicaid coverage of long-term care services and supports, as explained in
+               more detail in this section. The duration of the penalty period is based on the value of the disallowed
+               transfer.
+
+         AHS makes determinations concerning transfers occurring before the individual requests Medicaid coverage of
+         long-term care services and supports as part of its determination of the individual’s initial eligibility. Once AHS
+         has determined that a transfer is disallowed and has established a penalty period that transfer is not
+         reconsidered unless AHS obtains new information about the transfer. If, after the initial determination, AHS
+         discovers that the individual made an additional transfer (or transfers), AHS also determines whether the
+         additional transfer (or transfers) is allowable, whether the date of the additional transfer (or transfers) is before
+         or after the initial determination, and establishes a penalty period (or periods) as required. If the individual
+         requesting Medicaid coverage of long-term care services and supports has a spouse (community spouse), after
+         the month in which the individual is determined eligible for Medicaid coverage of long-term care services and
+         supports, no resources of the community spouse shall be determined available to the individual (the
+         institutionalized spouse). Accordingly, no transfers by the community spouse after the initial month of the
+         institutionalized spouse’s eligibility are considered for purposes of the institutionalized spouse’s ongoing
+         eligibility.
+
+         § 25.03 specifies the criteria for allowable transfers, to which no penalty period applies, effective for all initial
+         determinations of eligibility for Medicaid coverage of long-term care services and supports and all
+         redeterminations. No other transfers are allowable.
+
+   25.02 Definitions (01/15/2017, GCR 16-097)
+
+         Transfer of income or resources. For the purposes of this section, a transfer of income or resources is any
+         action taken by the individual requesting Medicaid coverage of long-term care services and supports, by the
+         spouse of such individual, or by any other person with lawful access to the income or resources of the individual
+         or such individual’s spouse that disposes of the income or resources. The date of the transfer is the date the
+         action was taken. It also applies to certain income and resources to which the individual or such individual’s
+         spouse is entitled but does not have access because of an action taken by:
+
+               The individual or such individual’s spouse;
+
+               A person, including a court or administrative body, with legal authority to act in place of or on behalf of the
+               individual or such individual’s spouse; or
+
+               A person, including a court or administrative body, acting at the direction or upon the request of the
+               individual or such individual’s spouse.
+
+         Fair market value. Unless otherwise specified, fair market value is an amount equal to the price of an item on
+         the open market in the individual’s locality at the time of a transfer, or contract for sale, if earlier.
+
+
+                                          Part 4 - Page 10 (Sec.25.00, Sub.25.02)
+Agency of Human Services                                                           Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+
+   25.03 Allowable transfers (01/01/2024, GCR 23-085)
+
+        Transfers for fair-market value - in general. No penalty period is applied to income or resources transferred for
+        fair market value.
+
+        AHS determines whether the individual requesting Medicaid coverage of long-term care services and supports,
+        or the spouse of such individual, as the case may be, received fair market value for a transfer of income or
+        resources by determining the difference, if any, between the fair market value of the income or resource reduced
+        by any applicable deductions at the time of the transfer and the amount received for the income or resource. Any
+        of the following deductions may be used to reduce fair market value:
+
+               The amount of any legally enforceable liens or debts against the transferred income or resource at the
+               time of transfer that reduced the transferor’s equity in the income or resource;
+
+               The reasonable and necessary costs of making the sale or transfer;
+
+               The value of income or resources received by the transferor in exchange for the transferred income or
+               resources;
+
+               The value of income or resources returned to the transferor; and
+
+               The following verified payments or in-kind support given to or on behalf of the transferor as compensation
+               for receipt of the income or resources by the person who received the income or resources:
+
+                (i) Personal services;
+
+                (ii) Payments for medical care;
+
+               (iii) Funeral expenses of the individual’s deceased spouse;
+
+               (iv) Taxes, mortgage payments, property insurance, or normal repairs, maintenance and upkeep on the
+                    transferred property; or
+
+                (v) Support and maintenance (e.g., food, clothing, incidentals, fuel and utilities) provided in the
+                    transferor’s own home or in the home of the person who received the income or resources from the
+                    transferor.
+
+         Receipt of fair market value after the date of the transfer. If the value of a transferred resource is scheduled for
+         receipt after the date of transfer, it is considered a transfer for fair market value only if the transferor can expect
+         to receive the full fair-market value of the resource within their expected lifetime. Expected lifetime is
+         determined as follows:
+
+               When institutionalized individual is transferor. Expected lifetime of the institutionalized individual is
+               measured at the time of the transfer as determined in accordance with actuarial publications of the Office
+               of the Chief Actuary of the SSA (http://socialsecurity.gov/OACT/STATS/table4c6.html).
+
+               When spouse of institutionalized individual is transferor. Expected lifetime of the spouse of the
+               institutionalized individual is measured at the time of the transfer as determined in accordance with
+
+                                         Part 4 - Page 11 (Sec.25.00, Sub.25.03)
+Agency of Human Services                                                         Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+               actuarial publications of the Office of the Chief Actuary of the SSA)
+               (http://socialsecurity.gov/OACT/STATS/table4c6.html).
+
+               Pursuant to the authority granted in Vermont Act 71 § 303(7)(2005), AHS may develop alternate actuarial
+               tables that will be consistent with federal law and adopted by rule.
+
+         Transfers for less than fair-market value - in general. A penalty period is not imposed for a transfer for less than
+         fair market value that meets one or more of the following criteria:
+
+               Time of transfer - beyond look-back period. The date of the transfer was more than 60 calendar months
+               prior to the first month in which the individual both requests eligibility for Medicaid coverage of long-term
+               care services and supports and meets all other requirements for eligibility.
+
+               Transferred income or resources are returned. The transferred income or resources have been returned
+               or otherwise remain available to the individual or the individual’s spouse.
+
+               Property transferred of a person other than the individual or their spouse. The action that constituted the
+               transfer was the removal of the individual’s (or spouse’s) name from a joint account in a financial
+               institution, and the individual (or spouse) has demonstrated, to AHS’s satisfaction, that the funds in the
+               account accumulated from the income and resources of another owner who is not the individual (or their
+               spouse).
+
+               Transfer of resource for a purpose other than creation or maintenance of eligibility for Medicaid coverage
+               of long-term care services and supports. The transferor has documented to AHS’s satisfaction convincing
+               evidence that the resources were transferred exclusively for a purpose other than for the individual to
+               become or remain eligible for Medicaid coverage of long-term care services and supports. A signed
+               statement by the transferor is not, by itself, convincing evidence. Examples of convincing evidence are
+               documents showing that:
+
+                (i) The transfer was not within the transferor’s control (e.g., was ordered by a court);
+
+               (ii) The transferor could not have anticipated the individual’s eligibility for Medicaid coverage of long-
+                    term care services and supports on the date of the transfer (e.g., the individual became disabled due
+                    to a traumatic accident after the date of transfer); or
+
+               (iii) A diagnosis of a previously undetected disabling condition leading to the individual’s eligibility for
+                     Medicaid coverage of long-term care services and supports was made after the date of the transfer.
+
+               Transfers of specified property for the benefit of certain family members. The transfer meets the criteria
+               specified below for transfers involving trusts (see paragraph (d)), transfers of homes (see paragraph (e)),
+               and transfers for the benefit of certain family members (see paragraph (g)).
+
+               Intent to transfer for fair market value. The transferor has demonstrated to AHS’s satisfaction that they
+               intended to dispose of the income or resources either at fair market value, or for other valuable
+               consideration.
+
+               Transfer of excluded income or resources
+
+                                        Part 4 - Page 12 (Sec.25.00, Sub.25.03)
+Agency of Human Services                                                        Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+                (i) The transferor transferred excluded income or resources.
+
+               (ii) Penalties are imposed for the transfer for less than fair market value of any asset considered by the
+                    SSA’s SSI program to be countable or excluded. For example, transfer of a home or of the proceeds
+                    of a loan are both subject to penalty.
+
+         Allowable transfers involving trusts. A penalty period is not imposed for transfers involving trusts that meet one
+         or more of the following criteria:
+
+               The action that constituted the transfer was the establishment of an irrevocable trust that does not under
+               any circumstances allow disbursements to or for the benefit of the individual, and the date of the transfer
+               was more than 60 calendar months prior to the first month in which the individual requests Medicaid
+               coverage of long-term care services and supports.
+
+               The action that constituted the transfer was the establishment of a trust solely for the benefit of the
+               individual if the individual was under age 65 when the trust was established and the trust meets all of the
+               criteria at § 29.08(e)(1)(ii)(F).
+
+               The action that constituted the transfer was the establishment of a pooled trust, as specified at §
+               29.08(e)(1)(ii)(G), unless the individual was age 65 or older when they established the trust. If so, the
+               transfer is not exempted from the imposition of a transfer penalty period.
+
+               The action that constituted the transfer was the establishment of a revocable trust. However, AHS
+               considers any payment from the revocable trust to anyone other than the individual a transfer for less
+               than fair-market value subject to penalty unless the payment is for their benefit.
+
+         Allowable transfers of homes to family members. A penalty period is not imposed for the transfer of a home that
+         meets the definition at § 29.08(a)(1) provided that title was transferred to one or more of the following persons:
+
+               The spouse of the individual requesting Medicaid coverage of long-term care services and supports;
+
+               The individual’s child who was under age 21 on the date of the transfer;
+
+               The individual’s son or daughter who is blind or permanently and totally disabled, regardless of age;
+
+               The brother or sister of the individual when:
+
+                (i) The brother or sister had an equity interest in the home on the date of the transfer; and
+
+               (ii) Was residing in the home continuously for at least one year immediately prior to the date the
+                    individual began to receive Medicaid coverage of long-term care services and supports, including
+                    services in a home and community-based setting; or
+
+               The son or daughter of the individual provided that the son or daughter:
+
+                (i) Was residing in the home continuously for at least two years immediately prior to the date the
+                    individual (parent) began receiving Medicaid coverage of long-term care services and supports,
+                    including services in a home and community-based setting; and
+
+                                        Part 4 - Page 13 (Sec.25.00, Sub.25.03)
+Agency of Human Services                                                         Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+               (ii) Provided care to the individual during part or all of this period that allowed the individual to postpone
+                    receipt of Medicaid coverage of long-term care services and supports.
+
+         Allowable transfers involving life-estate interests in another individual’s home. A penalty period is not imposed
+         for the purchase of a life-estate interest in another person’s home when:
+
+               It is the purchaser’s residence; and
+
+               The purchaser resides in the home for a period of at least one year after the purchase.
+
+         Other allowable transfers. A penalty period is not imposed for transfers that meet any of the following criteria:
+
+               The transfer was for the sole benefit of the individual requesting Medicaid coverage of long-term care
+               services and supports.
+
+               The income or resource was transferred by the institutionalized spouse to their community spouse before
+               the initial determination of the institutionalized spouse’s eligibility for Medicaid coverage of long-term care
+               services and supports. This also applies to a transfer made to a third party for the sole benefit of the
+               community spouse.
+
+               The income or resource was transferred to the individual’s son or daughter who is blind or permanently
+               and totally disabled or to a trust for the sole benefit of such son or daughter regardless of their age.
+
+               The income or resource was transferred to a trust, including a trust described in § 29.08(e)(1)(F) or §
+               29.08(e)(1)(G), established solely for the benefit of an individual under the age of 65 years who is
+               disabled.
+
+         Transfers involving annuities
+
+               In general
+
+                (i) Purchases. Any annuity purchased by an individual requesting Medicaid coverage of long-term care
+                    services and supports, or, if married, their community spouse on or after February 8, 2006, must
+                    name Vermont Medicaid as the first remainder beneficiary of the annuity up to the amount of
+                    Medicaid payments, including payments for Medicaid coverage of long-term-care services and
+                    supports, made by the state on behalf of the individual. If there is a community spouse or a minor or
+                    disabled child, they may be named as a remainder beneficiary ahead of the state. Vermont Medicaid
+                    must then be named as the secondary remainder beneficiary. If Vermont Medicaid is not named as a
+                    remainder beneficiary in the correct position, the purchase of the annuity is considered a transfer for
+                    less than fair market value. When Vermont Medicaid is a remainder beneficiary of an annuity, the
+                    issuer of the annuity is required to notify Vermont Medicaid of any changes in the disbursement of
+                    income or principal from the annuity as well as any changes to the state’s position as remainder
+                    beneficiary.
+
+               (ii) Annuity-related transactions other than purchases. In addition to the purchase of an annuity, certain
+                    transactions with respect to an annuity that occur on or after February 8, 2006, make an annuity,
+                    including one purchased before that date, subject to the provisions of this paragraph. Such
+
+                                         Part 4 - Page 14 (Sec.25.00, Sub.25.03)
+Agency of Human Services                                                        Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+                    transactions include any action taken by the individual requesting Medicaid coverage of long-term
+                    care services and supports or, if married, their community spouse that changes the course of
+                    payments to be made by the annuity or the treatment of the income or principal of the annuity.
+                    Routine changes and automatic events that do not require any action or decision are not considered
+                    transactions that would subject the annuity to this treatment.
+
+               Additional requirements
+
+                (i) In addition to the requirement under paragraph (h)(1) that Vermont Medicaid be named as a
+                    remainder beneficiary in the correct position in order for the purchase of an annuity by an individual
+                    requesting Medicaid coverage of long-term care services and supports or, if married, their
+                    community spouse to not be considered a transfer for less than fair market value, if the purchase of
+                    the annuity is by the individual requesting Medicaid coverage of long-term care services and
+                    supports, the purchase must also meet one or more of the four alternatives described below in order
+                    for it to not be subject to a transfer penalty. To determine that an annuity is established under any of
+                    the various provisions of the Code that are referenced in (C) and (D) below, AHS relies on
+                    verification from the financial institution, employer or employer association that issued the annuity.
+                    The burden of proof is on the individual to produce this documentation. Absent such documentation,
+                    AHS considers the purchase of the annuity a transfer for less than fair-market value and, as such,
+                    subject to a penalty.
+
+               (ii) The four alternatives are as follows:
+
+                           The annuity meets the provisions of §§ 29.08(d)(1) or 29.09(d)(1).
+
+                           The annuity is:
+
+                          (I)    Irrevocable and nonassignable;
+
+                         (II)    Provides for payments to the individual in equal intervals and equal amounts with no
+                                 deferral and no balloon payments made;
+
+                         (III)   Is actuarially sound because it does not exceed the life expectancy of the individual, as
+                                 determined using the actuarial publications of the Office of the Chief Actuary of the SSA
+                                 (http://socialsecurity.gov/OACT/STATS/table4c6.html); and
+
+                        (IV)     Returns to the individual at least the amount used to establish the contract and any
+                                 additional payments plus earnings, as specified in the contract.
+
+                        The annuity is considered either:
+
+                          (I)    An individual retirement annuity (according to § 408(b) of the Code), or
+
+                         (II)    A deemed Individual Retirement Account (IRA) under a qualified employer plan
+                                 (according to § 408(q) of the Code).
+
+                        The annuity is purchased with proceeds from one of the following:
+
+                          (I)    A traditional IRA (§ 408(a) of the Code);
+
+
+                                         Part 4 - Page 15 (Sec.25.00, Sub.25.03)
+Agency of Human Services                                                        Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+                         (II)    Certain accounts or trusts which are treated as traditional IRAs (§ 408(c) of the Code);
+
+                         (III)   A simplified retirement account (§ 408 (p) of the Code);
+
+                        (IV)     A simplified employee pension (§ 408 (k) of the Code); or
+
+                         (V)     A Roth IRA (§ 408A of the Code).
+
+               Impermissible transfers. An annuity that does not meet the above criteria is assessed a transfer penalty
+               based on its fair market value. The fair market value of an annuity equals the amount of money used to
+               establish the annuity and any additional amounts used to fund the annuity, plus any earnings and minus
+               any early withdrawals and surrender fees.
+
+         Allowable transfers involving promissory notes and other income-producing resources
+
+               Promissory notes or similar income-producing resources (contracts) are assessed a transfer penalty
+               based on their fair market value unless they:
+
+                (i) Have a repayment term that is actuarially-sound as determined in accordance with actuarial
+                    publications of the Office of the Chief Actuary of the SSA
+                    (http://socialsecurity.gov/OACT/STATS/table4c6.html);
+
+               (ii) Provide for payments to be made in equal amounts during the term of the loan, with no deferral and
+                    no balloon payments made; and
+
+               (iii) Prohibit the cancellation of the balance upon the death of the lender.
+
+               Fair market value equals the amount of money used to establish the contract and any additional
+               payments used to fund it, plus any earnings and minus any payments already received as of the date of
+               the application for Medicaid coverage of long-term care services and supports.
+
+         Transfers involving jointly-owned income or resources
+
+               Joint-ownership established on or after January 1, 1994. For any joint-ownership established on or after
+               January 1, 1994, the portion of the jointly-owned asset subject to the imposition of a penalty period is
+               evaluated based on the specific circumstances of the situation. An individual is presumed to own a jointly-
+               owned resource using the rules in § 29.09. In the case of a jointly-owned account in a financial institution,
+               for example, since the account is presumed to be owned entirely by the individual (see § 29.09(c)(5)(ii)), a
+               transfer penalty is imposed against the individual for any amount withdrawn from the account by another
+               joint owner on the account. The individual may rebut the presumption of ownership by establishing to
+               AHS’s satisfaction that the amount withdrawn was, in fact, the sole property of and contributed to the
+               account by the other joint owner (or owners), and thus did not belong to the individual.
+
+               Joint-ownership established before January 1, 1994. For a joint ownership established before January 1,
+               1994, the date of the transfer is the date the other person (or persons) became a joint owner. The value
+               of the transfer equals the amount that the resource available to the individual or, if married, the
+               individual’s spouse was reduced in value when the other person (or persons) became a joint owner.
+
+
+                                        Part 4 - Page 16 (Sec.25.00, Sub.25.03)
+Agency of Human Services                                                              Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+
+   25.04 Penalty period for disallowed transfers (01/15/2017, GCR 16-097)
+
+         Definition: Otherwise eligible
+
+               For purposes of determining the start date of the penalty period because of disallowed transfers, an
+               individual is considered “otherwise eligible” for Medicaid coverage of long-term care services and
+               supports as of the earliest date they pass all eligibility criteria in the sequence listed below. They must
+               also meet each of these criteria in any month for which they request retroactive eligibility:
+
+                (i) Clinical criteria (see definition of long-term care in § 3.00).
+
+               (ii) Citizenship and identity criteria (§ 17.00).
+
+               (iii) Category (§ 7.03 (MCA), §§ 8.05 and 8.06 (MABD)).
+
+               (iv) Residency (§ 21.00).
+
+               (v) Living arrangements (§ 20.00).
+
+               (vi) Resources (§ 29.07), if applicable.
+
+              (vii) Income (§§ 28.03 and 28.04 (MCA), § 29.11 (MABD) - for anyone with excess income, see
+                    explanation in (2) below).
+
+               When an individual’s income exceeds the income requirement for their applicable coverage group, the
+               individual must spend down to the applicable PIL in the month of application or the next month. An
+               individual with a penalty is subject to the penalty period start date beginning on the date the spenddown is
+               met. If the spenddown is not met in the month of application or the next month, the individual is denied
+               Medicaid coverage of long-term care services and supports. AHS then determines whether the person is
+               eligible for Medicaid (other than Medicaid coverage of long-term care services and supports). If so, it
+               assesses a 6-month spend down.
+
+               Examples:
+
+                (i) The individual applies in June for Medicaid coverage of long-term care services and supports under
+                    MABD and requests retroactive coverage as of April. The individual meets all eligibility criteria but
+                    their gross countable income exceeds the IIS and they have transfers that will result in a 38 day
+                    penalty period. The spenddown period is April - September. The individual meets their spenddown
+                    on April 23rd. April 23rd is the date the individual is considered to be “otherwise eligible.” Their
+                    penalty period would be April 23rd - May 30th.
+
+               (ii) Same case as in (i), but no retroactive coverage is requested. The spenddown period is June-
+                    November. The spenddown is met June 23rd. June 23rd is the date the individual is considered to
+                    be “otherwise eligible.” The penalty period is June 23rd - July 30th.
+
+         Penalty period - in general. If a transfer is disallowed, a penalty period of restricted Medicaid coverage to an
+         otherwise eligible individual is imposed. During this period, no Medicaid payments are made for the individual’s
+         long-term care services and supports. Payments are made for all other covered Medicaid services provided to
+         the individual during the period of restricted coverage.
+
+                                          Part 4 - Page 17 (Sec.25.00, Sub.25.04)
+Agency of Human Services                                                          Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+         Penalty date
+
+               Transfers made in a single month. The penalty date is the beginning date of each penalty period imposed
+               for a disallowed transfer. The penalty date starts on the first day in which the individual would have been
+               otherwise eligible for Medicaid coverage of long-term care services and supports (see paragraph (a) of
+               this subsection for explanation of “otherwise eligible”).
+
+               Transfers occurring in different months. Penalty periods run consecutively rather than concurrently, in the
+               order in which the transfers occurred. If, after establishing a penalty period for disallowed transfers, it is
+               determined that additional disallowed transfers were made in a subsequent month but before the end of
+               the first penalty period, the first day following the end of the first penalty period will be designated as the
+               penalty date for the subsequent penalty period.
+
+         Penalty period
+
+               Calculation of penalty. The number of days in a penalty period are equal to the total value of all
+               disallowed transfers made during a given calendar month divided by the average daily cost to a privately-
+               paying patient of nursing facility services in the state as of the date of application or the date of discovery,
+               if additional disallowed transfers are discovered after the initial determination of eligibility for Medicaid
+               coverage of long-term care services and supports.
+
+               Transfers in different calendar months. Penalty periods for transfers in different calendar months are
+               consecutive and established in the order in which the disallowed transfers occurred.
+
+               Continuous nature of penalty period. A penalty period runs continuously from the first date of the penalty
+               period, even if the individual stops receiving long-term care services and supports.
+
+         Penalty when both spouses request Medicaid coverage of long-term care services and supports
+
+               In general. The following rules are applied to the assignment of penalty periods when both members of a
+               couple are requesting or receiving Medicaid coverage of long-term care services and supports.
+
+               Spouses eligible at same time. For spouses determined otherwise eligible for Medicaid coverage of long-
+               term care services and supports at the same time, the value of the disallowed transfer is divided by two to
+               determine the number of days of restricted coverage for each member of the couple.
+
+               Penalty period for one spouse is running at the time the other requests Medicaid coverage of long-term
+               care services and supports. If the penalty period established for one member of the couple has not yet
+               expired when the other member of the couple requests and is determined otherwise eligible for Medicaid
+               coverage of long-term care services and supports, the number of days remaining in the penalty period is
+               divided by two to determine the number of days of restricted coverage for each member of the couple.
+
+               Death of a spouse during penalty period. When the member of the couple for whom a penalty period has
+               been established dies, the days remaining in that member’s penalty period are not reassigned to their
+               spouse if the spouse requests and is determined otherwise eligible for Medicaid coverage of long-term
+               care services and supports.
+
+
+                                        Part 4 - Page 18 (Sec.25.00, Sub.25.04)
+Agency of Human Services                                                        Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+               Penalty periods for transfer by second spouse to request Medicaid coverage of long-term care services
+               and supports. When a penalty period is established for a disallowed transfer by the second member of
+               the couple to request and be determined otherwise eligible for Medicaid coverage of long-term care
+               services and supports, that penalty period is assigned to the spouse who made the transfer provided that
+               it was made after the determination of disallowed transfers for the first spouse.
+
+   25.05 Undue Hardship (01/15/2017, GCR 16-097)
+
+         In general. AHS does not establish a penalty period resulting from a disallowed transfer when it determines that
+         restricted coverage will result in an undue hardship. Undue hardship is considered only in cases where AHS
+         has first determined that a transfer has been made for less than fair market value and that no transfer exception
+         applies (see § 25.03).
+
+         Definition: Undue hardship
+
+               For purposes of this subsection, undue hardship means depriving the individual of:
+
+                (i) Medical care, such that the individual’s health or life would be endangered; or
+
+               (ii) Food, clothing, shelter, or other necessities of life.
+
+               Undue hardship does not exist when the application of a transfer penalty merely causes an individual or
+               the individual’s family member(s) inconvenience or restricts their lifestyle. Undue hardship does not exist
+               when the individual transferred the assets to their community spouse and the community spouse has
+               countable or excluded resources in excess of the community spouse resource allocation (CSRA)
+               standard (§ 29.10(e)).
+
+         Undue hardship reasons. In determining the existence of undue hardship, all circumstances involving the
+         transfer and the situation of the individual are considered. Undue hardship is established when one or more of
+         the following circumstances, or any other comparable reasons, exist:
+
+               Whether imposition of the transfer penalty would result in the individual’s immediate family qualifying for
+               SSI; Reach Up; AABD; General Assistance; 3SquaresVTs; or another public assistance program
+               requiring a comparable showing of financial need.
+
+               Whether funds can be made available for the cost of the individual’s long-term care services and supports
+               only if assets such as a family farm or other family business are sold, and the assets are the primary
+               source of income for the individual’s spouse, parents, children or siblings.
+
+               Whether an agent under a power of attorney (POA) or a guardian of the individual transferred the asset,
+               and the POA or guardian was not acting in the best interest of the individual when the transfer was made
+               as determined by AHS or a court, or the transfer forms the basis for a report to AHS for investigation of
+               abuse, neglect or exploitation.
+
+               Whether the individual was deprived of an asset by exploitation, fraud or misrepresentation. Such claims
+               must be documented by official police reports or civil or criminal action against the alleged perpetrator or
+               substantiated by AHS or by a sworn statement to AHS attesting to the fact that the claim was reported to
+
+                                        Part 4 - Page 19 (Sec.25.00, Sub.25.05)
+Agency of Human Services                                                         Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+               the police or to the AHS department responsible for substantiating such claims.
+
+               Whether the individual cannot recover the assets due to loss, destruction, theft, or other similar
+               circumstances.
+
+               Presumption of care and rebuttal of presumption.
+
+                (i) Presumption. When the transfer is to a person, AHS presumes the recipient of the transferred asset
+                    could make arrangements for the individual’s care and the care of dependent family members up to
+                    the value of the transfer unless the evidence submitted indicates that there is no reasonable way
+                    that the person can make any of these arrangements. The facts and verification required to
+                    determine if the recipient of the transferred asset can make other arrangements to pay or provide the
+                    care of the individual, or to provide for the needs of financially-dependent family members, may
+                    include the following, if applicable:
+
+                         A copy of the tax return for the preceding calendar year;
+
+                         All earnings pay stubs for the past 12 months;
+
+                         All bank books, stocks, bonds, certificates, life insurance policies (e.g. bank books must include
+                         those before and after receipt of the transferred asset); and
+
+                         All documents associated with the proceeds of the transferred asset which will show the value of
+                         any purchase of new assets from the sale proceeds of the transferred asset.
+
+                         When the transfer is made to a relative who is a minor, a family member with financial
+                         responsibility for the minor must be asked to provide the required facts and verification.
+
+               (ii) Rebuttal. If the individual rebuts the presumption and shows there is no reasonable way that the
+                    recipient of the transferred asset can make arrangements for the individual’s care and the care of
+                    dependent family members up to the value of the transfer, AHS will consider whether the individual
+                    has exhausted all reasonable efforts to meet their needs from other available sources. This includes
+                    whether the individual has exhausted all reasonable efforts to obtain return of the asset transferred,
+                    and demonstrated that efforts to obtain return of the asset or adequate compensation would
+                    probably not succeed. AHS will take into consideration all excluded and countable assets above the
+                    protected resource standard and income above the monthly maintenance needs allowance. Burial
+                    funds (§ 29.08(c)) and the individual’s principal place of residence (§ 29.08(a)(1)) will continue to be
+                    excluded.
+
+         Authority of provider to file request for individual. For the purposes of this subsection, a long-term care provider
+         may, with the consent of the individual or the personal representative of the individual, file a request for undue
+         hardship on behalf of the individual.
+
+         Process for reviewing undue hardship requests
+
+               Notice of imposition of penalty period
+
+                (i) The individual will be informed of the right to request an undue hardship exception through written
+                    notice of a penalty period of ineligibility for Medicaid coverage of long-term care services and
+
+                                        Part 4 - Page 20 (Sec.25.00, Sub.25.05)
+Agency of Human Services                                                         Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+                    supports because of an impermissible asset transfer.
+
+               (ii) The notice will:
+
+                        Specify the factual and legal basis for the imposition of the penalty, and
+
+                        Explain how the individual may request an undue hardship exception.
+
+               Timing of exception request. An individual may request an undue hardship exception within 20 days of
+               receiving notification of the transfer penalty.
+
+               Application requirements. To request an undue hardship exception, the individual must submit
+               documentation supporting their claim of undue hardship.
+
+               Standard of proof. Undue hardship is established when the individual demonstrates by a preponderance
+               of the evidence that denial of Medicaid coverage of long-term care services and supports will cause
+               actual and not merely possible undue hardship.
+
+               Nature of available relief. If the individual establishes undue hardship, AHS may waive all or a portion of
+               the penalty period.
+
+               Notice of decision on request. A notice of decision on the undue hardship exception request will be issued
+               within 10 business days of receipt of all information determined by AHS as needed to evaluate the
+               request. The notice will be in writing and will inform the individual of the right to request a fair hearing to
+               appeal the decision.
+
+               Notice of decision on eligibility for Medicaid coverage of long-term care services and supports. If no
+               request for an undue hardship exception is received within 20 days after notification of the transfer
+               penalty, or if the request is denied, an eligibility determination will be issued specifying the applicable
+               penalty period. If the individual is receiving Medicaid coverage of long-term care services and supports,
+               the notice will include the date the Medicaid coverage terminates and the right to request a fair hearing
+               and continuing benefits.
+
+               Exception: Request made within request for fair hearing. When an individual makes a request for an
+               undue hardship exception for the first time at the same time they are requesting a fair hearing, the
+               individual must raise all claims and submit all evidence permitting consideration of the undue hardship
+               exception at least 10 business days in advance of the fair hearing. The undue hardship request must then
+               be referred to AHS for consideration. AHS will then inform the fair hearings entity of its decision on the
+               request within 10 business days of receiving it.
+
+               Exception: Request made during penalty period on the basis of changed circumstances. A request for an
+               undue hardship exception may be filed at any time during a penalty period if new circumstances leading
+               to undue hardship arise during the duration of the penalty period. If granted, the request will be
+               prospective from the date of the request.
+
+               Limitation on obligation to pay for long-term care services and supports during penalty period. The state
+               has no obligation to pay for cost of an individual’s long-term care services and supports during the
+               individual’s penalty period unless an undue hardship exception has been granted or the individual
+
+                                        Part 4 - Page 21 (Sec.25.00, Sub.25.05)
+Agency of Human Services                                                           Health Benefits Eligibility and Enrollment
+
+
+    Special Rules for Medicaid Coverage of Long-Term Care Services and Supports - Eligibility and Post Eligibility
+
+
+
+               prevails at a fair hearing.
+
+               Extension of time period. The time periods specified in this paragraph (e) may be extended if AHS
+               determines that extenuating circumstances require additional time.
+
+          [Reserved]
+
+          [Reserved]
+
+
+
+
+                                             Part 4 - Page 22 (Sec.26.00, Sub.0)
+
