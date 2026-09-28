@@ -13,7 +13,7 @@ Compiled by [Kevin D. Klagge, Esq.](https://stepuplaw.com/about), a Florida esta
 
 ## What the data shows
 
-Twenty seven jurisdictions limit recovery to the probate estate, 21 states reach property outside probate, and 3 states reach some non-probate property but not all. Probate-only does not mean safe. In 13 probate-only jurisdictions a house in a revocable living trust is still reachable, because the state's trust code makes the trust liable for the settlor's debts when the probate estate is short. In 7 probate-only jurisdictions a transfer on death deed is reachable for the same kind of reason, while a plain life estate is not.
+Twenty seven jurisdictions limit recovery to the probate estate, 21 states reach property outside probate, and 3 states reach some non-probate property but not all. Probate-only does not mean safe. In 14 probate-only jurisdictions a house in a revocable living trust is still reachable, because the state's trust code makes the trust liable for the settlor's debts when the probate estate is short. In 7 probate-only jurisdictions a transfer on death deed is reachable for the same kind of reason, while a plain life estate is not.
 
 | Method | Reachable | Not reachable | Unclear | Not recognized |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ Twenty seven jurisdictions limit recovery to the probate estate, 21 states reach
 | Lady bird deed | 17 | 10 | 24 | 0 |
 | Transfer on death deed | 25 | 4 | 6 | 16 |
 | Joint tenancy | 22 | 26 | 1 | 2 |
-| Revocable trust | 35 | 7 | 9 | 0 |
+| Revocable trust | 36 | 6 | 9 | 0 |
 
-A house passing by any of the five methods is reachable in 12 states (Kansas, Minnesota, Montana, Nebraska, Nevada, New Hampshire, Ohio, Oregon, Utah, Washington, Wisconsin and Wyoming). In 4 states no method is reachable (Florida, Michigan, Rhode Island and Texas). Florida's answer holds for a homestead, and a non-homestead house held in a revocable trust in Florida is reachable when the probate estate cannot pay the claim.
+A house passing by any of the five methods is reachable in 12 states (Kansas, Minnesota, Montana, Nebraska, Nevada, New Hampshire, Ohio, Oregon, Utah, Washington, Wisconsin and Wyoming). In 3 states no method is reachable (Michigan, Rhode Island and Texas). In Florida every method except a revocable trust is out of reach; a house in a revocable trust is reachable when the probate estate cannot pay the claim, and a protected homestead is shielded by the homestead exemption rather than by the trust.
 
 Thirty four states and the District of Columbia have a transfer on death deed statute. Maryland's takes effect on October 1, 2026, so 33 states and DC have one in force on the verification date. Seven states recognize the lady bird deed on a primary authority, which is a statute in Rhode Island and Vermont, case law in Florida, Maryland and Michigan, and a Medicaid agency rule in Texas and North Carolina. West Virginia appears on the popular list of five lady bird states, and no statute, reported case or Medicaid rule recognizing the deed was found there. Virginia and West Virginia each have a general statute (Va. Code 55.1-106 and W. Va. Code 36-1-16) that protects a remainder after a life estate given to another person with a power to dispose. Neither statute addresses a grantor who keeps the power, so neither state is counted.
 
@@ -86,6 +86,10 @@ Each jurisdiction was researched from the statute that creates the Medicaid clai
 Lady bird recognition requires a primary authority, and practitioner usage alone does not count. Secondary sources such as law firm pages and planning websites were used only to find primary sources, never to fill a cell. Where a legislature's site blocked scripted access, the official page was read through an Internet Archive capture or a Justia, FindLaw or LII copy, and the `flags` column says which. A row graded `high` rests on text read on an official government site, and a row graded `medium` rests on a mirror, an agency manual or a State Plan. No row rests on secondary sources alone.
 
 The Florida row was checked a second time before publication against the Florida statute text and against the published StepUp Law guides on Florida estate recovery and the lady bird deed.
+
+## Corrections
+
+- **2026.09.28.** Florida, revocable trust: changed from `not_reachable` to `reachable`. After the settlor's death a Florida revocable trust is liable for the estate's obligations, including the Medicaid claim, when the probate estate is insufficient (Fla. Stat. Secs. 733.707(3), 736.05053). A protected homestead is shielded by the homestead exemption (Sec. 409.9101(7); Fla. Const. Art. X, Sec. 4), not by the trust. Counts updated: revocable trust reachable in 36 jurisdictions (14 of the 27 probate-only), and no method reachable in 3 states (Michigan, Rhode Island, Texas).
 
 ## Not legal advice
 

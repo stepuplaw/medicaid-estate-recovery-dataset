@@ -24,11 +24,11 @@ Probate-only is not the same as safe. Seven probate-only jurisdictions reach a T
 | Lady bird deed | 17 | 10 | 24 | 0 |
 | TOD deed | 25 | 4 | 6 | 16 |
 | Joint tenancy | 22 | 26 | 1 | 2 |
-| Revocable trust | 35 | 7 | 9 | 0 |
+| Revocable trust | 36 | 6 | 9 | 0 |
 
 - **All five methods reachable (12):** KS, MN, MT, NE, NV, NH, OH, OR, UT, WA, WI, WY.
-- **No method reachable (4):** FL, MI, RI, TX.
-  - **Florida:** only for a homestead. A non-homestead house in a revocable trust is reachable under Fla. Stat. Sec. 733.707(3).
+- **No method reachable (3):** MI, RI, TX.
+  - **Florida** (corrected 2026-09-28): every method except the revocable trust is out of reach. A house in a revocable trust is reachable under Fla. Stat. Sec. 733.707(3) and 736.05053; a protected homestead is shielded by the homestead exemption, not by the trust.
 
 ### TOD deed states: 34 states plus DC
 Maryland takes effect 2026-10-01, so 33 states plus DC are in force as of today.
@@ -144,7 +144,7 @@ Source: ElderLawAnswers (Jul 2023) and Nolo, saved as `US-popular-ela-ladybird.t
 ## 4. Ten findings most likely to surprise a reader
 
 1. **In seven probate-only jurisdictions a TOD deed is reachable but a plain life estate is not.** AK, DC, HI, IL, MO, NM and NY all limit recovery to the probate estate. But their TOD acts (or Missouri's nonprobate transfer law, Sec. 461.300) make the beneficiary liable for estate claims when the probate estate is short. In all seven the traditional life estate is `not_reachable`, and the lady bird deed is `unclear` because no primary authority recognizes it there. No state has a TOD deed that is reachable alongside a lady bird deed confirmed not reachable. In the 10 states where the lady bird deed is `not_reachable`, the TOD deed is not reachable (TX, WV), unclear (CA, OK) or does not exist (FL, LA, MI, NC, RI, VT).
-2. **A revocable living trust is reachable in 13 of the 27 probate-only jurisdictions:** AL, AK, AZ, DC, HI, IL, MA, MO, NC, SC, TN, VT and WV. The route is the trust code rule (UTC Sec. 505(a)(3) and equivalents) that makes a revocable trust liable for the settlor's debts when the probate estate is insufficient. Florida does the same for a non-homestead house (Sec. 733.707(3)); a protected homestead is excluded. A living trust is generally a worse shield than a lady bird deed.
+2. **A revocable living trust is reachable in 14 of the 27 probate-only jurisdictions:** AL, AK, AZ, DC, FL, HI, IL, MA, MO, NC, SC, TN, VT and WV. The route is the trust code rule (UTC Sec. 505(a)(3) and equivalents) that makes a revocable trust liable for the settlor's debts when the probate estate is insufficient. Florida does the same (Secs. 733.707(3) and 736.05053); a protected homestead is shielded by the homestead exemption, not by the trust. A living trust is generally a worse shield than a lady bird deed.
 3. **Some TOD deed acts shield the house expressly, while others single out Medicaid.**
    - **Shield the house:**
      - Texas: Estates Code 114.106(b) excludes TOD property from MERP.
