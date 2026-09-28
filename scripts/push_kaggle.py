@@ -36,7 +36,7 @@ def main():
         for f in FILES:
             shutil.copy2(f, os.path.join(stage, f.name))
         if a.update:
-            api.dataset_create_version(stage, version_notes="Refreshed from the GitHub repository", dir_mode="skip")
+            api.dataset_create_version(stage, version_notes="v2026.09.28: Florida revocable trust corrected to reachable (Fla. Stat. 733.707(3), 736.05053)", dir_mode="skip")
         else:
             api.dataset_create_new(stage, dir_mode="skip", public=True, quiet=False)
     print("https://www.kaggle.com/datasets/stepuplaw/medicaid-estate-recovery-2026")
